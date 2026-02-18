@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+  </head>
+  <body>
+    <pre id="output"></pre>
+
+    <script>
+      const db = supabase.createClient(
+        "https://blgoamaptspfvthzvavh.supabase.co",
+        "sb_publishable_erZbUMdhBvTL7hNl9dcgNw_-Rtajd95",
+      );
+
+      async function load() {
+        const { data } = await db.from("spotify_data").select("*");
+        document.getElementById("output").textContent = JSON.stringify(
+          data,
+          null,
+          2,
+        );
+      }
+      load();
+    </script>
+  </body>
+</html>
