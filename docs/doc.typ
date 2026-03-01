@@ -117,28 +117,81 @@ dataset info
 - time span: 2015-2026 (full overlap from 2020-2026) 
 - no missing values
 
-EDA
+Exploratory Data Analysis
 
-Structural overview.
+Structural overview
 
 Summary stats:
 
+```
+Summary Statistics
 
+Group Statistics
 
-Univariate analysis.
+Total number of listening events: 844165
+Number of unique tracks: 30717
+Number of unique artists: 5929
+Number of unique albums: 13533
+Number of unique platforms: 275
+Number of unique countries: 19
 
-Bivariate analysis.
+Individual Statistics
 
-Multivariate analysis.
+Total Listening Events per User:
+Anthony: 72483 total listening events
+Alexandra: 139541 total listening events
+Koren: 181858 total listening events
+Alan: 450283 total listening events
 
-Temporal analysis.
+Unique Tracks per User:
+Anthony: 9066 unique tracks
+Alexandra: 5249 unique tracks
+Koren: 15188 unique tracks
+Alan: 10569 unique tracks
 
-Behavioral pattern exploration.
+Unique Artists per User:
+Anthony: 1296 unique artists
+Alexandra: 1064 unique artists
+Koren: 4039 unique artists
+Alan: 1695 unique artists
 
-Group-level comparison analysis.
+Unique Albums per User:
+Anthony: 4252 unique albums
+Alexandra: 2349 unique albums
+Koren: 7954 unique albums
+Alan: 3769 unique albums
 
-Dimensional reduction and early unsupervised structure.
+Unique Platforms per User:
+Anthony: 24 unique platforms
+Alexandra: 75 unique platforms
+Koren: 143 unique platforms
+Alan: 48 unique platforms
 
-Preliminary predictive framing.
+Unique Countries per User:
+Anthony: 2 unique countries
+Alexandra: 4 unique countries
+Koren: 5 unique countries
+Alan: 16 unique countries
+```
 
-Story construction.
+- summary_statistics.jl
+- simple sql queries
+- count rows
+  
+Univariate analysis
+
+Bivariate analysis
+
+Multivariate analysis
+
+Temporal analysis
+
+Behavioral pattern exploration
+
+Group-level comparison analysis
+
+Dimensional reduction and early unsupervised structure
+
+Preliminary predictive framing
+
+Story construction

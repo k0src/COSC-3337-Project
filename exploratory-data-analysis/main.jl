@@ -30,7 +30,7 @@ function main()
     end
 
     label, fn = MENU[choice]
-    println("$label")
+    println("\n$label\n")
     fn()
   end
 end
