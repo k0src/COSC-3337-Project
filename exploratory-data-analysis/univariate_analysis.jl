@@ -548,13 +548,13 @@ end
 
 function univariate_analysis(names)
   println("ALL-TIME STATISITCS")
-
   # run_univariate_analysis(names)
 
   println("\nPER-YEAR STATISITCS")
-
   for year in 2015:2026
     println("\nYear: $year")
     run_univariate_analysis(names, year=year)
   end
+
+  println("Saving JSON...")
 end

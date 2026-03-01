@@ -1,0 +1,20 @@
+{
+  "individual": {
+    "Alexandra": {
+      "unique_tracks": 363,
+      "unique_countries": 1,
+      "total_events": 3113,
+      "unique_artists": 111,
+      "unique_platforms": 7,
+      "unique_albums": 173
+    }
+  },
+  "group": {
+    "unique_tracks": 363,
+    "unique_countries": 1,
+    "total_events": 3113,
+    "unique_artists": 111,
+    "unique_platforms": 7,
+    "unique_albums": 173
+  }
+}

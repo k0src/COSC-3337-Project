@@ -1,0 +1,44 @@
+{
+  "individual": {
+    "Anthony": {
+      "unique_tracks": 4617,
+      "unique_countries": 1,
+      "total_events": 24082,
+      "unique_artists": 787,
+      "unique_platforms": 9,
+      "unique_albums": 2333
+    },
+    "Alexandra": {
+      "unique_tracks": 1678,
+      "unique_countries": 1,
+      "total_events": 21640,
+      "unique_artists": 334,
+      "unique_platforms": 10,
+      "unique_albums": 733
+    },
+    "Koren": {
+      "unique_tracks": 3256,
+      "unique_countries": 2,
+      "total_events": 19291,
+      "unique_artists": 1130,
+      "unique_platforms": 21,
+      "unique_albums": 1866
+    },
+    "Alan": {
+      "unique_tracks": 2369,
+      "unique_countries": 2,
+      "total_events": 62937,
+      "unique_artists": 257,
+      "unique_platforms": 10,
+      "unique_albums": 550
+    }
+  },
+  "group": {
+    "unique_tracks": 10238,
+    "unique_countries": 3,
+    "total_events": 127950,
+    "unique_artists": 1949,
+    "unique_platforms": 49,
+    "unique_albums": 4525
+  }
+}

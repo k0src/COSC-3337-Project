@@ -114,17 +114,15 @@ Exploratory Data Analysis
 + patterns
 + anomalies
 
+Exploratory Data Analysis
+
+Summary stats - done
+
 dataset info
 - approx 872k listening events
 - 4 people
 - time span: 2015-2026 (full overlap from 2020-2026) 
 - no missing values
-
-Exploratory Data Analysis
-
-Structural overview
-
-Summary stats:
 
 ```
 Summary Statistics
@@ -334,8 +332,33 @@ Univariate analysis - Per year
 
 - insights...
 
-
 - explain all the functions & methodology
+
+OUTLIERS
+
+- for each user and each day (all time + yearly to compare):
+  - daily play count
+- mean & sd of daily play count for a user
+- First apply log transformation
+  - log_play_count = log(1 + track_play_count)
+- z = (val - mean) / sd
+- outlier -> |z| > 3
+- if symmetric - both high and low outliers
+- 1.5iqr - prob better
+- iqr = q3 - q1 of DPC
+- q1 - 1.5 x iqr and q3 + 1.5 x iqr = bounds
+- outside = outlier
+- can use boxplot to show this too
+- Rank-frequency plot - Zipf style
+- Pareto chart
+- lorenz curve
+- histogram of log counts
+- same thing for
+  - plays per track
+  - plays per artist
+  - session length
+
+DISTRIBUTIONS
 
 Bivariate analysis
 

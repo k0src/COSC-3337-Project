@@ -4,8 +4,9 @@ using StatsBase
 
 # Data
 
-function get_group_summary()
+function get_group_summary(; year=nothing)
   conn = get_connection()
+  year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
 
   query = """
     SELECT 
@@ -16,6 +17,7 @@ function get_group_summary()
       COUNT(DISTINCT platform) AS unique_platforms,
       COUNT(DISTINCT conn_country) AS unique_countries
     FROM listening_history
+    $year_filter
   """
 
   df = DataFrame(execute(conn, query))
@@ -24,8 +26,9 @@ function get_group_summary()
   return df
 end
 
-function get_user_summary()
+function get_user_summary(; year=nothing)
   conn = get_connection()
+  year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
 
   query = """
     SELECT 
@@ -37,6 +40,7 @@ function get_user_summary()
       COUNT(DISTINCT platform) AS unique_platforms,
       COUNT(DISTINCT conn_country) AS unique_countries
     FROM listening_history
+    $year_filter
     GROUP BY username
     ORDER BY username
   """
@@ -47,8 +51,9 @@ function get_user_summary()
   return df
 end
 
-function get_events_over_time()
+function get_events_over_time(; year=nothing)
   conn = get_connection()
+  year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
 
   query = """
     SELECT
@@ -56,6 +61,7 @@ function get_events_over_time()
       DATE_TRUNC('day', timestamp)::DATE::TEXT AS date,
       COUNT(*) AS events
     FROM listening_history
+    $year_filter
     GROUP BY username, date
     ORDER BY username, date
   """
@@ -65,8 +71,9 @@ function get_events_over_time()
   return df
 end
 
-function get_hourly_counts(username)
+function get_hourly_counts(username; year=nothing)
   conn = get_connection()
+  year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM timestamp) = $year"
 
   query = """
     SELECT
@@ -74,6 +81,7 @@ function get_hourly_counts(username)
       COUNT(*) AS events
     FROM listening_history
     WHERE username = '$username'
+    $year_filter
     GROUP BY hour
     ORDER BY hour
   """
@@ -85,10 +93,11 @@ end
 
 # Plots
 
-function plot_total_events_per_user(df)
+function plot_total_events_per_user(df, suffix)
+  title_label = suffix == "alltime" ? "All-Time" : suffix
   fig = Figure(size=(800, 600))
   ax = Axis(fig[1, 1],
-    title="Total Listening Events per User (2015-2026)",
+    title="Total Listening Events per User - $title_label",
     xlabel="User",
     ylabel="Total Listening Events"
   )
@@ -97,14 +106,16 @@ function plot_total_events_per_user(df)
   ax.xticks = (1:length(labels), String.(labels))
   barplot!(ax, 1:length(labels), Int.(df.total_events))
 
-  save("total_listening_events_per_user.png", fig)
-  println("Plot saved to total_listening_events_per_user.png")
+  fname = "total_listening_events_per_user_$suffix.png"
+  save(fname, fig)
+  println("Plot saved to $fname")
 end
 
-function plot_unique_tracks_per_user(df)
+function plot_unique_tracks_per_user(df, suffix)
+  title_label = suffix == "alltime" ? "All-Time" : suffix
   fig = Figure(size=(800, 600))
   ax = Axis(fig[1, 1],
-    title="Unique Tracks per User (2015-2026)",
+    title="Unique Tracks per User - $title_label",
     xlabel="User",
     ylabel="Unique Tracks"
   )
@@ -113,14 +124,16 @@ function plot_unique_tracks_per_user(df)
   ax.xticks = (1:length(labels), String.(labels))
   barplot!(ax, 1:length(labels), Int.(df.unique_tracks))
 
-  save("unique_tracks_per_user.png", fig)
-  println("Plot saved to unique_tracks_per_user.png")
+  fname = "unique_tracks_per_user_$suffix.png"
+  save(fname, fig)
+  println("Plot saved to $fname")
 end
 
-function plot_unique_artists_per_user(df)
+function plot_unique_artists_per_user(df, suffix)
+  title_label = suffix == "alltime" ? "All-Time" : suffix
   fig = Figure(size=(800, 600))
   ax = Axis(fig[1, 1],
-    title="Unique Artists per User (2015-2026)",
+    title="Unique Artists per User - $title_label",
     xlabel="User",
     ylabel="Unique Artists"
   )
@@ -129,14 +142,16 @@ function plot_unique_artists_per_user(df)
   ax.xticks = (1:length(labels), String.(labels))
   barplot!(ax, 1:length(labels), Int.(df.unique_artists))
 
-  save("unique_artists_per_user.png", fig)
-  println("Plot saved to unique_artists_per_user.png")
+  fname = "unique_artists_per_user_$suffix.png"
+  save(fname, fig)
+  println("Plot saved to $fname")
 end
 
-function plot_unique_albums_per_user(df)
+function plot_unique_albums_per_user(df, suffix)
+  title_label = suffix == "alltime" ? "All-Time" : suffix
   fig = Figure(size=(800, 600))
   ax = Axis(fig[1, 1],
-    title="Unique Albums per User (2015-2026)",
+    title="Unique Albums per User - $title_label",
     xlabel="User",
     ylabel="Unique Albums"
   )
@@ -145,44 +160,71 @@ function plot_unique_albums_per_user(df)
   ax.xticks = (1:length(labels), String.(labels))
   barplot!(ax, 1:length(labels), Int.(df.unique_albums))
 
-  save("unique_albums_per_user.png", fig)
-  println("Plot saved to unique_albums_per_user.png")
+  fname = "unique_albums_per_user_$suffix.png"
+  save(fname, fig)
+  println("Plot saved to $fname")
 end
 
-function plot_events_over_time(df)
-  all_dates = sort(unique(String.(df.date)))
-  date_index = Dict(d => i for (i, d) in enumerate(all_dates))
-
-  jan_positions = [date_index[d] for d in all_dates if endswith(d, "-01-01")]
-  jan_labels = [d[1:4] for d in all_dates if endswith(d, "-01-01")]
+function plot_events_over_time(df, suffix; year=nothing)
+  title_label = suffix == "alltime" ? "All-Time" : suffix
+  month_names = [
+    "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+    "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+  ]
 
   fig = Figure(size=(1200, 500))
-  ax = Axis(fig[1, 1],
-    title="Listening Events Over Time",
-    xlabel="Year",
-    ylabel="Listening Events"
-  )
-  ax.xticks = (jan_positions, jan_labels)
-
   colors = Makie.wong_colors()
 
-  for (i, (username, display_name)) in enumerate(names)
-    user_df = filter(row -> row.username == username, df)
-    sort!(user_df, :date)
+  if year !== nothing
+    ax = Axis(fig[1, 1],
+      title="Listening Events Over Time - $title_label",
+      xlabel="Month",
+      ylabel="Listening Events"
+    )
+    ax.xticks = (1:12, month_names)
 
-    xs = [date_index[d] for d in String.(user_df.date)]
-    ys = Int.(user_df.events)
+    for (i, (username, display_name)) in enumerate(names)
+      user_df = filter(row -> row.username == username, df)
+      month_totals = zeros(Int, 12)
+      for row in eachrow(user_df)
+        m = parse(Int, String(row.date)[6:7])
+        month_totals[m] += Int(row.events)
+      end
+      lines!(ax, 1:12, month_totals, label=display_name, color=colors[i])
+      scatter!(ax, 1:12, month_totals, color=colors[i])
+    end
+  else
+    all_dates = sort(unique(String.(df.date)))
+    date_index = Dict(d => i for (i, d) in enumerate(all_dates))
 
-    lines!(ax, xs, ys, label=display_name, color=colors[i])
+    jan_positions = [date_index[d] for d in all_dates if endswith(d, "-01-01")]
+    jan_labels = [d[1:4] for d in all_dates if endswith(d, "-01-01")]
+
+    ax = Axis(fig[1, 1],
+      title="Listening Events Over Time - $title_label",
+      xlabel="Year",
+      ylabel="Listening Events"
+    )
+    ax.xticks = (jan_positions, jan_labels)
+
+    for (i, (username, display_name)) in enumerate(names)
+      user_df = filter(row -> row.username == username, df)
+      sort!(user_df, :date)
+      xs = [date_index[d] for d in String.(user_df.date)]
+      ys = Int.(user_df.events)
+      lines!(ax, xs, ys, label=display_name, color=colors[i])
+    end
   end
 
   axislegend(ax, position=:rt)
-  save("events_over_time.png", fig)
-  println("Plot saved to events_over_time.png")
+  fname = "events_over_time_$suffix.png"
+  save(fname, fig)
+  println("Plot saved to $fname")
 end
 
-function plot_listening_times(username, df)
+function plot_listening_times(username, df, suffix)
   display_name = get(names, username, username)
+  title_label = suffix == "alltime" ? "All-Time" : suffix
 
   counts = zeros(Int, 24)
   for row in eachrow(df)
@@ -193,7 +235,7 @@ function plot_listening_times(username, df)
   norm_counts = counts ./ max_count
 
   fig = Figure(size=(750, 700))
-  ax = Axis(fig[1, 1], title="Listening Times - $display_name", aspect=DataAspect())
+  ax = Axis(fig[1, 1], title="Listening Times - $display_name - $title_label", aspect=DataAspect())
   hidedecorations!(ax)
   hidespines!(ax)
   limits!(ax, -1.25, 1.25, -1.25, 1.25)
@@ -240,22 +282,33 @@ function plot_listening_times(username, df)
   Colorbar(fig[1, 2], colormap=:inferno, limits=(0, max_count),
     label="Events", height=Relative(0.6))
 
-  fname = "listening_times_$(username).png"
+  fname = "listening_times_$(username)_$suffix.png"
   save(fname, fig)
   println("Plot saved to $fname")
 end
 
-function run_summary_statistics(names)
+function run_summary_statistics(names; year=nothing)
+  year_label = year === nothing ? "alltime" : string(year)
+  no_data(name) = println("\nNo data from $year_label for $name")
+
   println("Calculating...\n")
 
   # Fetch data
 
-  group = first(get_group_summary())
-  user_summary = get_user_summary()
-  events_df = get_events_over_time()
-  hourly_dfs = Dict(username => get_hourly_counts(username) for username in keys(names))
+  group = get_group_summary(year=year)
+  user_summary = get_user_summary(year=year)
+  events_df = get_events_over_time(year=year)
+  hourly_dfs = Dict(username => get_hourly_counts(username, year=year) for username in keys(names))
 
-  # Print data
+  if nrow(group) == 0 || ismissing(first(group).total_events) || first(group).total_events == 0
+    println("\nNo group data for $year_label")
+    return
+  end
+
+  group = first(group)
+  active_users = Set(String.(user_summary.username))
+
+  # Print
 
   println("Group Statistics\n")
 
@@ -270,7 +323,6 @@ function run_summary_statistics(names)
 
   for row in eachrow(user_summary)
     name = get(names, row.username, row.username)
-
     println("$name:")
     println("  Total events: $(row.total_events)")
     println("  Unique tracks: $(row.unique_tracks)")
@@ -279,19 +331,23 @@ function run_summary_statistics(names)
     println("  Unique platforms: $(row.unique_platforms)")
     println("  Unique countries: $(row.unique_countries)\n")
   end
+  for (username, display_name) in names
+    !(username in active_users) && no_data(display_name)
+  end
 
   # Generate plots
 
   println("Generating plots...")
 
-  plot_total_events_per_user(user_summary)
-  plot_unique_tracks_per_user(user_summary)
-  plot_unique_artists_per_user(user_summary)
-  plot_unique_albums_per_user(user_summary)
-  plot_events_over_time(events_df)
+  plot_total_events_per_user(user_summary, year_label)
+  plot_unique_tracks_per_user(user_summary, year_label)
+  plot_unique_artists_per_user(user_summary, year_label)
+  plot_unique_albums_per_user(user_summary, year_label)
+  !isempty(events_df) && plot_events_over_time(events_df, year_label, year=year)
 
   for username in keys(names)
-    plot_listening_times(username, hourly_dfs[username])
+    df = hourly_dfs[username]
+    !isempty(df) && plot_listening_times(username, df, year_label)
   end
 
   # Save JSON
@@ -337,14 +393,20 @@ function run_summary_statistics(names)
     for username in keys(names)
   )
 
-  save_json("summary_statistics_alltime.json", summary_data)
-  save_json("events_over_time_alltime.json", events_data)
-  save_json("hourly_counts_alltime.json", hourly_data)
+  save_json("summary_statistics_$year_label.json", summary_data)
+  save_json("events_over_time_$year_label.json", events_data)
+  save_json("hourly_counts_$year_label.json", hourly_data)
 end
 
 # Main
 
 function summary_statistics(names)
-  println("ALL-TIME STATISITCS\n")
-  println("PER-YEAR STATISITCS\n")
+  println("ALL-TIME STATISTICS\n")
+  run_summary_statistics(names)
+
+  println("\nPER-YEAR STATISTICS")
+  for year in 2015:2026
+    println("\nYear: $year")
+    run_summary_statistics(names, year=year)
+  end
 end
