@@ -128,56 +128,103 @@ Summary Statistics
 
 Group Statistics
 
-Total number of listening events: 844165
-Number of unique tracks: 30717
-Number of unique artists: 5929
-Number of unique albums: 13533
-Number of unique platforms: 275
-Number of unique countries: 19
+Total listening events: 844165
+Unique tracks: 30717
+Unique artists: 5929
+Unique albums: 13533
+Unique platforms: 275
+Unique countries: 19
 
 Individual Statistics
 
-Total Listening Events per User:
-Anthony: 72483 total listening events
-Alexandra: 139541 total listening events
-Koren: 181858 total listening events
-Alan: 450283 total listening events
-
-Unique Tracks per User:
-Anthony: 9066 unique tracks
-Alexandra: 5249 unique tracks
-Koren: 15188 unique tracks
-Alan: 10569 unique tracks
-
-Unique Artists per User:
-Anthony: 1296 unique artists
-Alexandra: 1064 unique artists
-Koren: 4039 unique artists
-Alan: 1695 unique artists
-
-Unique Albums per User:
-Anthony: 4252 unique albums
-Alexandra: 2349 unique albums
-Koren: 7954 unique albums
-Alan: 3769 unique albums
-
-Unique Platforms per User:
-Anthony: 24 unique platforms
-Alexandra: 75 unique platforms
-Koren: 143 unique platforms
-Alan: 48 unique platforms
-
-Unique Countries per User:
-Anthony: 2 unique countries
-Alexandra: 4 unique countries
-Koren: 5 unique countries
-Alan: 16 unique countries
+Alan:
+  Total events: 450283
+  Unique tracks: 10569
+  Unique artists: 1695
+  Unique albums: 3769
+  Unique platforms: 48
+  Unique countries: 16
+Alexandra:
+  Total events: 139541
+  Unique tracks: 5249
+  Unique artists: 1064
+  Unique albums: 2349
+  Unique platforms: 75
+  Unique countries: 4
+Anthony:
+  Total events: 72483
+  Unique tracks: 9066
+  Unique artists: 1296
+  Unique albums: 4252
+  Unique platforms: 24
+  Unique countries: 2
+Koren:
+  Total events: 181858
+  Unique tracks: 15188
+  Unique artists: 4039
+  Unique albums: 7954
+  Unique platforms: 143
+  Unique countries: 5
 ```
 
 - summary_statistics.jl
 - simple sql queries
 - count rows
-  
+- insights:
+  - lot of events - 11 years of data
+  - lots of unique tracks, artists, albums, platforms, countries
+  - platforms? - they are mostly different versions of ios (iphone, ipad, diff updates) & android (diff updates, phones, tablets) - possible to see exactly what device was used to listen and when
+    - cast, home, web player, smart tv, win 10, 11, macos, linux
+  - countries:
+    - koren - us, ca (correct, mostly us) - also gb and switzerland - prob vpn
+    - alan - many - either travel or vpn
+  - users have different listening habits - some listen to more unique tracks, artists, albums, platforms, countries than others
+  - top listener by raw numbers: alan - 450k events
+  - top listener by unique tracks: koren - 15k unique tracks
+  - top listener by unique artists: koren - 4k unique artists
+  - top listener by unique albums: koren - 7k unique albums
+  - top listener by unique platforms: koren - 143 unique platforms
+  - include runners up here and do comparisons
+  - insights about listening habits - alan listens to a lot of music but not as much variety as me
+  - i listen to a lot of music with a lot of variety
+    - 181k events but 15k unique tracks, 4k unique artists, 7k unique albums, 143 unique platforms, 5 unique countries
+  - alan - has fav artists and albums - listens to them a lot - less variety - but still wins by raw numbers 
+    - 450k events but only 10k unique tracks, 1.7k unique artists, 3.7k unique albums, 48 unique platforms, 16 unique countries
+  - others:
+    - anthony - 72k events but only 9k unique tracks, 1.3k unique artists, 4.2k unique albums, 24 unique platforms, 2 unique countries
+    - alexandra - 139k events but only 5k unique tracks, 1k unique artists, 2.3k unique albums, 75 unique platforms, 4 unique countries
+  - lowest listener by raw numbers: anthony - 72k events
+  - lowest listener by unique tracks: alexandra - 5k unique tracks
+  - lowest listener by unique artists: alexandra - 1k unique artists - also anthony - 1.3k unique artists - they have fav artists they listen to a lot but not as much variety
+  - lowest listener by unique albums: alexandra - 2.3k unique albums
+  - lowest listener by unique platforms: anthony - 24 unique platforms
+  - lowest listener by unique countries: anthony - 2 unique countries - only a few devices, and doesnt use vpn or travel much
+  - overall - lot of variety in listening habits - some people listen to a lot of music but not as much variety, while others listen to a lot of music with a lot of variety - keep in mind tho 11 years
+
+  follow up:
+
+  - more detailed analysis of listening habits - what artists, albums, platforms, countries do they listen to the most? - top 10 artists, albums, platforms, countries for each user - compare and contrast
+  - also look at temporal patterns - when do they listen to music? - time of day, day of week, month, year - do they have different listening habits at different times? - do they listen to more music on weekends or weekdays? - do they listen to more music in certain months or years? - do they have different listening habits at different times of day? - do they listen to more music in the morning, afternoon, evening, night?
+  - also look at behavioral patterns - do they skip songs a lot? - do they listen to a lot of music offline? - do they shuffle a lot? - do they have different listening habits when they are offline vs online? - do they have different listening habits when they are shuffling vs not shuffling? - do they have different listening habits when they are skipping vs not skipping?
+  - also look at group-level comparisons - do they have similar listening habits? - do they listen to the same artists, albums, platforms, countries? - do they have similar temporal patterns? - do they have similar behavioral patterns? - do they have similar listening habits overall?
+  - also look at dimensional reduction and early unsupervised structure - can we find any patterns in the data? - can we cluster users based on their listening habits? - can we find any latent factors that explain their listening habits? - can we find any interesting patterns in the data that we didnt expect?
+  - also look at preliminary predictive framing - can we predict how much music they will listen to in the future? - can we predict what artists, albums, platforms, countries they will listen to in the future? - can we predict when they will listen to music in the future? - can we predict their behavioral patterns in the future? - can we predict their group-level comparisons in the future? - can we predict their dimensional reduction and early unsupervised structure in the future?
+  - also story telling - over time
+
+summary stats: visualizations
+
+- bar chart per user for:
+  - total listening events - total_listening_events_per_user.png
+  - unique tracks - unique_tracks_per_user.png
+  - unique artists - unique_artists_per_user.png
+  - unique albums - unique_albums_per_user.png
+- ratio plots for:
+  - unique tracks / total listening events
+- for timestamp vs listening events:
+  - line chart for each user over time - events_over_time.png
+- listening clock - listening_times_name.png - clock plot for each user showing when they listen to music
+- explain all the functions
+
 Univariate analysis
 
 Bivariate analysis

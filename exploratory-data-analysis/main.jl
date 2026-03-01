@@ -19,7 +19,7 @@ function main()
     input = strip(readline())
 
     if input == "0"
-      println("Goodbye.")
+      println("Exiting...")
       break
     end
 
