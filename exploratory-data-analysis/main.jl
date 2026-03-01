@@ -1,3 +1,4 @@
+include("database.jl")
 include("summary_statistics.jl")
 
 const MENU = [
