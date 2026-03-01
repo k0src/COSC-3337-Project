@@ -1,0 +1,3657 @@
+{
+  "user_top_artists": {
+    "Anthony": [],
+    "Alexandra": [
+      {
+        "total_minutes_played": 1420.7237166666666,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 562
+      },
+      {
+        "total_minutes_played": 937.631,
+        "artist_name": "Fall Out Boy",
+        "play_count": 341
+      },
+      {
+        "total_minutes_played": 688.7126333333333,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 301
+      },
+      {
+        "total_minutes_played": 386.1713833333333,
+        "artist_name": "Shawn Mendes",
+        "play_count": 144
+      },
+      {
+        "total_minutes_played": 267.6832,
+        "artist_name": "Sigur Rós",
+        "play_count": 126
+      },
+      {
+        "total_minutes_played": 400.5238,
+        "artist_name": "Jónsi",
+        "play_count": 125
+      },
+      {
+        "total_minutes_played": 227.55561666666668,
+        "artist_name": "Neon Trees",
+        "play_count": 82
+      },
+      {
+        "total_minutes_played": 218.67843333333334,
+        "artist_name": "Passion Pit",
+        "play_count": 77
+      },
+      {
+        "total_minutes_played": 174.17166666666665,
+        "artist_name": "Halsey",
+        "play_count": 77
+      },
+      {
+        "total_minutes_played": 250.03986666666665,
+        "artist_name": "Bring Me The Horizon",
+        "play_count": 72
+      },
+      {
+        "total_minutes_played": 209.53808333333333,
+        "artist_name": "Coldplay",
+        "play_count": 65
+      },
+      {
+        "total_minutes_played": 206.04633333333334,
+        "artist_name": "One Direction",
+        "play_count": 63
+      },
+      {
+        "total_minutes_played": 133.58918333333332,
+        "artist_name": "The Offspring",
+        "play_count": 52
+      },
+      {
+        "total_minutes_played": 129.93731666666667,
+        "artist_name": "The Vamps",
+        "play_count": 46
+      },
+      {
+        "total_minutes_played": 103.46035,
+        "artist_name": "Journey",
+        "play_count": 38
+      },
+      {
+        "total_minutes_played": 86.14048333333334,
+        "artist_name": "EXO",
+        "play_count": 37
+      },
+      {
+        "total_minutes_played": 54.57053333333333,
+        "artist_name": "Meghan Trainor",
+        "play_count": 36
+      },
+      {
+        "total_minutes_played": 76.04241666666667,
+        "artist_name": "Pentatonix",
+        "play_count": 32
+      },
+      {
+        "total_minutes_played": 63.571333333333335,
+        "artist_name": "Vitamin String Quartet",
+        "play_count": 31
+      },
+      {
+        "total_minutes_played": 76.08278333333334,
+        "artist_name": "Greek Fire",
+        "play_count": 30
+      },
+      {
+        "total_minutes_played": 37.64553333333333,
+        "artist_name": "Pitbull",
+        "play_count": 26
+      },
+      {
+        "total_minutes_played": 34.81016666666667,
+        "artist_name": "BTS",
+        "play_count": 25
+      },
+      {
+        "total_minutes_played": 60.500416666666666,
+        "artist_name": "Idina Menzel",
+        "play_count": 25
+      },
+      {
+        "total_minutes_played": 67.96833333333333,
+        "artist_name": "OneRepublic",
+        "play_count": 23
+      },
+      {
+        "total_minutes_played": 112.88825,
+        "artist_name": "My Chemical Romance",
+        "play_count": 22
+      },
+      {
+        "total_minutes_played": 50.63815,
+        "artist_name": "Maroon 5",
+        "play_count": 22
+      },
+      {
+        "total_minutes_played": 61.53118333333333,
+        "artist_name": "The Mowgli's",
+        "play_count": 22
+      },
+      {
+        "total_minutes_played": 78.57786666666667,
+        "artist_name": "The Script",
+        "play_count": 22
+      },
+      {
+        "total_minutes_played": 69.21643333333333,
+        "artist_name": "We The Kings",
+        "play_count": 21
+      },
+      {
+        "total_minutes_played": 30.829283333333333,
+        "artist_name": "Demi Lovato",
+        "play_count": 18
+      },
+      {
+        "total_minutes_played": 35.95908333333333,
+        "artist_name": "Plain White T's",
+        "play_count": 17
+      },
+      {
+        "total_minutes_played": 40.16685,
+        "artist_name": "Eminem",
+        "play_count": 16
+      },
+      {
+        "total_minutes_played": 49.427,
+        "artist_name": "Aerosmith",
+        "play_count": 16
+      },
+      {
+        "total_minutes_played": 42.53523333333333,
+        "artist_name": "The Aranbee Pop Symphony Orchestra",
+        "play_count": 16
+      },
+      {
+        "total_minutes_played": 43.06348333333333,
+        "artist_name": "Florence + The Machine",
+        "play_count": 16
+      },
+      {
+        "total_minutes_played": 37.65445,
+        "artist_name": "Andrew McMahon in the Wilderness",
+        "play_count": 16
+      },
+      {
+        "total_minutes_played": 37.68398333333333,
+        "artist_name": "blink-182",
+        "play_count": 15
+      },
+      {
+        "total_minutes_played": 32.2559,
+        "artist_name": "Bastille",
+        "play_count": 15
+      },
+      {
+        "total_minutes_played": 38.03535,
+        "artist_name": "BOYS LIKE GIRLS",
+        "play_count": 15
+      },
+      {
+        "total_minutes_played": 56.909216666666666,
+        "artist_name": "The Fray",
+        "play_count": 15
+      },
+      {
+        "total_minutes_played": 33.68813333333333,
+        "artist_name": "Simple Minds",
+        "play_count": 14
+      },
+      {
+        "total_minutes_played": 42.41801666666667,
+        "artist_name": "Bea Miller",
+        "play_count": 14
+      },
+      {
+        "total_minutes_played": 46.86135,
+        "artist_name": "Nicki Minaj",
+        "play_count": 14
+      },
+      {
+        "total_minutes_played": 43.17365,
+        "artist_name": "Andy Grammer",
+        "play_count": 13
+      },
+      {
+        "total_minutes_played": 24.894133333333333,
+        "artist_name": "Switchfoot",
+        "play_count": 13
+      },
+      {
+        "total_minutes_played": 14.899333333333333,
+        "artist_name": "Kishi Bashi",
+        "play_count": 13
+      },
+      {
+        "total_minutes_played": 31.69035,
+        "artist_name": "Mark Ronson",
+        "play_count": 13
+      },
+      {
+        "total_minutes_played": 36.5545,
+        "artist_name": "WALK THE MOON",
+        "play_count": 12
+      },
+      {
+        "total_minutes_played": 16.82045,
+        "artist_name": "Patrick Bruel",
+        "play_count": 12
+      },
+      {
+        "total_minutes_played": 20.39105,
+        "artist_name": "Justin Bieber",
+        "play_count": 12
+      },
+      {
+        "total_minutes_played": 44.30801666666667,
+        "artist_name": "P!nk",
+        "play_count": 12
+      },
+      {
+        "total_minutes_played": 16.048933333333334,
+        "artist_name": "Dank Walker",
+        "play_count": 11
+      },
+      {
+        "total_minutes_played": 40.05713333333333,
+        "artist_name": "Britt Nicole",
+        "play_count": 11
+      },
+      {
+        "total_minutes_played": 35.593333333333334,
+        "artist_name": "Hot Water",
+        "play_count": 10
+      },
+      {
+        "total_minutes_played": 26.250733333333333,
+        "artist_name": "Jason Derulo",
+        "play_count": 10
+      },
+      {
+        "total_minutes_played": 12.407366666666666,
+        "artist_name": "Bohemian Rhapsody",
+        "play_count": 9
+      },
+      {
+        "total_minutes_played": 26.93385,
+        "artist_name": "BIGBANG",
+        "play_count": 9
+      },
+      {
+        "total_minutes_played": 27.548283333333334,
+        "artist_name": "Papa Roach",
+        "play_count": 9
+      },
+      {
+        "total_minutes_played": 22.683516666666666,
+        "artist_name": "Milky Chance",
+        "play_count": 8
+      },
+      {
+        "total_minutes_played": 18.38635,
+        "artist_name": "The Game Music Committee",
+        "play_count": 8
+      },
+      {
+        "total_minutes_played": 14.654716666666667,
+        "artist_name": "Imagine Dragons",
+        "play_count": 8
+      },
+      {
+        "total_minutes_played": 25.486316666666667,
+        "artist_name": "GROUPLOVE",
+        "play_count": 8
+      },
+      {
+        "total_minutes_played": 28.6741,
+        "artist_name": "Andrew Lloyd Webber",
+        "play_count": 8
+      },
+      {
+        "total_minutes_played": 20.562483333333333,
+        "artist_name": "Jack & Jack",
+        "play_count": 8
+      },
+      {
+        "total_minutes_played": 23.889716666666665,
+        "artist_name": "The All-American Rejects",
+        "play_count": 7
+      },
+      {
+        "total_minutes_played": 10.277716666666667,
+        "artist_name": "John Powell",
+        "play_count": 7
+      },
+      {
+        "total_minutes_played": 7.520316666666667,
+        "artist_name": "Red Hot Chili Peppers",
+        "play_count": 7
+      },
+      {
+        "total_minutes_played": 14.128033333333333,
+        "artist_name": "Anne Hathaway",
+        "play_count": 6
+      },
+      {
+        "total_minutes_played": 17.5533,
+        "artist_name": "It Boys!",
+        "play_count": 6
+      },
+      {
+        "total_minutes_played": 18.3449,
+        "artist_name": "The Cocktails",
+        "play_count": 6
+      },
+      {
+        "total_minutes_played": 12.094233333333333,
+        "artist_name": "Tonight Alive",
+        "play_count": 6
+      },
+      {
+        "total_minutes_played": 20.161083333333334,
+        "artist_name": "Lady Gaga",
+        "play_count": 5
+      },
+      {
+        "total_minutes_played": 9.254,
+        "artist_name": "The Hush Sound",
+        "play_count": 5
+      },
+      {
+        "total_minutes_played": 13.969233333333333,
+        "artist_name": "Rise Against",
+        "play_count": 5
+      },
+      {
+        "total_minutes_played": 10.243983333333333,
+        "artist_name": "Pokémon",
+        "play_count": 5
+      },
+      {
+        "total_minutes_played": 2.8208,
+        "artist_name": "HAIM",
+        "play_count": 4
+      },
+      {
+        "total_minutes_played": 9.7387,
+        "artist_name": "Natives",
+        "play_count": 4
+      },
+      {
+        "total_minutes_played": 12.6243,
+        "artist_name": "blackbear",
+        "play_count": 4
+      },
+      {
+        "total_minutes_played": 0.20365,
+        "artist_name": "Queen",
+        "play_count": 3
+      },
+      {
+        "total_minutes_played": 20.17465,
+        "artist_name": "Swedish House Mafia",
+        "play_count": 3
+      },
+      {
+        "total_minutes_played": 11.186933333333334,
+        "artist_name": "The 1975",
+        "play_count": 3
+      },
+      {
+        "total_minutes_played": 12.354,
+        "artist_name": "Atlas Genius",
+        "play_count": 3
+      },
+      {
+        "total_minutes_played": 8.8916,
+        "artist_name": "Jorge Quintero",
+        "play_count": 3
+      },
+      {
+        "total_minutes_played": 9.922,
+        "artist_name": "Jonathan Groff",
+        "play_count": 3
+      },
+      {
+        "total_minutes_played": 19.46425,
+        "artist_name": "Puppet",
+        "play_count": 3
+      },
+      {
+        "total_minutes_played": 7.8526,
+        "artist_name": "Eleven Past One",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 16.8182,
+        "artist_name": "Les Misérables Cast",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 7.604,
+        "artist_name": "Thirty Seconds To Mars",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 5.8111,
+        "artist_name": "New Politics",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 8.806433333333333,
+        "artist_name": "Canary Swing",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 0.4040166666666667,
+        "artist_name": "Anarbor",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 0.9786666666666667,
+        "artist_name": "Samuel Little",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 6.9728,
+        "artist_name": "Neck Deep",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 0.2507666666666667,
+        "artist_name": "The Pretty Reckless",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 0.07893333333333333,
+        "artist_name": "Darude",
+        "play_count": 2
+      },
+      {
+        "total_minutes_played": 5.3646666666666665,
+        "artist_name": "Aphex Twin",
+        "play_count": 1
+      },
+      {
+        "total_minutes_played": 0.202,
+        "artist_name": "George Ezra",
+        "play_count": 1
+      },
+      {
+        "total_minutes_played": 1.0433333333333332,
+        "artist_name": "Jon Brion",
+        "play_count": 1
+      },
+      {
+        "total_minutes_played": 4.734883333333333,
+        "artist_name": "Cherri Bomb",
+        "play_count": 1
+      },
+      {
+        "total_minutes_played": 3.4752666666666667,
+        "artist_name": "Shane Harte",
+        "play_count": 1
+      }
+    ],
+    "Koren": [],
+    "Alan": []
+  },
+  "group_top_albums": [
+    {
+      "album_name": "5 Seconds Of Summer",
+      "total_minutes_played": 602.5498,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 268
+    },
+    {
+      "album_name": "Pretty. Odd.",
+      "total_minutes_played": 365.07228333333336,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 175
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "total_minutes_played": 436.43335,
+      "artist_name": "Fall Out Boy",
+      "play_count": 162
+    },
+    {
+      "album_name": "Too Weird to Live, Too Rare to Die!",
+      "total_minutes_played": 349.47156666666666,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 153
+    },
+    {
+      "album_name": "Handwritten",
+      "total_minutes_played": 352.4325166666667,
+      "artist_name": "Shawn Mendes",
+      "play_count": 130
+    },
+    {
+      "album_name": "Vices & Virtues",
+      "total_minutes_played": 366.1735,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 112
+    },
+    {
+      "album_name": "Go",
+      "total_minutes_played": 339.24761666666666,
+      "artist_name": "Jónsi",
+      "play_count": 102
+    },
+    {
+      "album_name": "Með suð i eyrum við spilum endalaust",
+      "total_minutes_played": 208.23713333333333,
+      "artist_name": "Sigur Rós",
+      "play_count": 91
+    },
+    {
+      "album_name": "Save Rock And Roll",
+      "total_minutes_played": 265.9555,
+      "artist_name": "Fall Out Boy",
+      "play_count": 87
+    },
+    {
+      "album_name": "BADLANDS",
+      "total_minutes_played": 174.17166666666665,
+      "artist_name": "Halsey",
+      "play_count": 77
+    },
+    {
+      "album_name": "That's The Spirit",
+      "total_minutes_played": 250.03986666666665,
+      "artist_name": "Bring Me The Horizon",
+      "play_count": 72
+    },
+    {
+      "album_name": "Ghost Stories",
+      "total_minutes_played": 148.94483333333332,
+      "artist_name": "Coldplay",
+      "play_count": 50
+    },
+    {
+      "album_name": "Habits",
+      "total_minutes_played": 148.27381666666668,
+      "artist_name": "Neon Trees",
+      "play_count": 49
+    },
+    {
+      "album_name": "From Under The Cork Tree",
+      "total_minutes_played": 113.17428333333334,
+      "artist_name": "Fall Out Boy",
+      "play_count": 41
+    },
+    {
+      "album_name": "Manners",
+      "total_minutes_played": 113.08428333333333,
+      "artist_name": "Passion Pit",
+      "play_count": 40
+    },
+    {
+      "album_name": "Gossamer",
+      "total_minutes_played": 105.59415,
+      "artist_name": "Passion Pit",
+      "play_count": 37
+    },
+    {
+      "album_name": "Title",
+      "total_minutes_played": 54.57053333333333,
+      "artist_name": "Meghan Trainor",
+      "play_count": 36
+    },
+    {
+      "album_name": "Rise And Fall, Rage And Grace",
+      "total_minutes_played": 94.71531666666667,
+      "artist_name": "The Offspring",
+      "play_count": 35
+    },
+    {
+      "album_name": "A Fever You Can't Sweat Out",
+      "total_minutes_played": 88.3221,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 34
+    },
+    {
+      "album_name": "FOUR",
+      "total_minutes_played": 113.88905,
+      "artist_name": "One Direction",
+      "play_count": 34
+    },
+    {
+      "album_name": "Meet The Vamps",
+      "total_minutes_played": 93.24081666666666,
+      "artist_name": "The Vamps",
+      "play_count": 33
+    },
+    {
+      "album_name": "Live in Chicago",
+      "total_minutes_played": 99.44721666666666,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 31
+    },
+    {
+      "album_name": "Top of the World",
+      "total_minutes_played": 76.08278333333334,
+      "artist_name": "Greek Fire",
+      "play_count": 30
+    },
+    {
+      "album_name": "Escape",
+      "total_minutes_played": 82.57823333333333,
+      "artist_name": "Journey",
+      "play_count": 28
+    },
+    {
+      "album_name": "Time of Our Lives",
+      "total_minutes_played": 37.64553333333333,
+      "artist_name": "Pitbull",
+      "play_count": 26
+    },
+    {
+      "album_name": "Defying Gravity",
+      "total_minutes_played": 60.500416666666666,
+      "artist_name": "Idina Menzel",
+      "play_count": 25
+    },
+    {
+      "album_name": "How To Train Your Dragon 2",
+      "total_minutes_played": 61.276183333333336,
+      "artist_name": "Jónsi",
+      "play_count": 23
+    },
+    {
+      "album_name": "The 1st Album 'XOXO' (Repackage)",
+      "total_minutes_played": 57.52498333333333,
+      "artist_name": "EXO",
+      "play_count": 23
+    },
+    {
+      "album_name": "Native",
+      "total_minutes_played": 67.96833333333333,
+      "artist_name": "OneRepublic",
+      "play_count": 23
+    },
+    {
+      "album_name": "The Black Parade",
+      "total_minutes_played": 112.88825,
+      "artist_name": "My Chemical Romance",
+      "play_count": 22
+    },
+    {
+      "album_name": "LIVESOS",
+      "total_minutes_played": 50.58441666666667,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 22
+    },
+    {
+      "album_name": "Takk",
+      "total_minutes_played": 25.08535,
+      "artist_name": "Sigur Rós",
+      "play_count": 20
+    },
+    {
+      "album_name": "VSQ Performs the Hits of 2014, Vol. 3",
+      "total_minutes_played": 37.145183333333335,
+      "artist_name": "Vitamin String Quartet",
+      "play_count": 19
+    },
+    {
+      "album_name": "Picture Show",
+      "total_minutes_played": 48.9001,
+      "artist_name": "Neon Trees",
+      "play_count": 19
+    },
+    {
+      "album_name": "Confident",
+      "total_minutes_played": 30.829283333333333,
+      "artist_name": "Demi Lovato",
+      "play_count": 18
+    },
+    {
+      "album_name": "Hallelujah",
+      "total_minutes_played": 50.86638333333333,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 18
+    },
+    {
+      "album_name": "All That We Needed",
+      "total_minutes_played": 35.95908333333333,
+      "artist_name": "Plain White T's",
+      "play_count": 17
+    },
+    {
+      "album_name": "Emperor's New Clothes",
+      "total_minutes_played": 40.06935,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 17
+    },
+    {
+      "album_name": "Big Hero 6 - Original Motion Picture Soundtrack",
+      "total_minutes_played": 42.45218333333333,
+      "artist_name": "Fall Out Boy",
+      "play_count": 16
+    },
+    {
+      "album_name": "Big Hero 6",
+      "total_minutes_played": 39.15395,
+      "artist_name": "Fall Out Boy",
+      "play_count": 16
+    },
+    {
+      "album_name": "Lose Yourself",
+      "total_minutes_played": 40.16685,
+      "artist_name": "Eminem",
+      "play_count": 16
+    },
+    {
+      "album_name": "O!RUL8,2?",
+      "total_minutes_played": 29.279983333333334,
+      "artist_name": "BTS",
+      "play_count": 16
+    },
+    {
+      "album_name": "Lungs",
+      "total_minutes_played": 43.06348333333333,
+      "artist_name": "Florence + The Machine",
+      "play_count": 16
+    },
+    {
+      "album_name": "Andrew McMahon In The Wilderness",
+      "total_minutes_played": 37.65445,
+      "artist_name": "Andrew McMahon in the Wilderness",
+      "play_count": 16
+    },
+    {
+      "album_name": "Victorious",
+      "total_minutes_played": 41.81705,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 16
+    },
+    {
+      "album_name": "Aerosmith",
+      "total_minutes_played": 49.427,
+      "artist_name": "Aerosmith",
+      "play_count": 16
+    },
+    {
+      "album_name": "Bittersweet Symphony",
+      "total_minutes_played": 42.53523333333333,
+      "artist_name": "The Aranbee Pop Symphony Orchestra",
+      "play_count": 16
+    },
+    {
+      "album_name": "PTX, Vol. III",
+      "total_minutes_played": 37.349583333333335,
+      "artist_name": "Pentatonix",
+      "play_count": 15
+    },
+    {
+      "album_name": "Bad Blood",
+      "total_minutes_played": 32.2559,
+      "artist_name": "Bastille",
+      "play_count": 15
+    },
+    {
+      "album_name": "Boys Like Girls",
+      "total_minutes_played": 38.03535,
+      "artist_name": "BOYS LIKE GIRLS",
+      "play_count": 15
+    },
+    {
+      "album_name": "Viva La Vida or Death and All His Friends",
+      "total_minutes_played": 60.59325,
+      "artist_name": "Coldplay",
+      "play_count": 15
+    },
+    {
+      "album_name": "Hands All Over",
+      "total_minutes_played": 46.95086666666667,
+      "artist_name": "Maroon 5",
+      "play_count": 15
+    },
+    {
+      "album_name": "How To Save A Life",
+      "total_minutes_played": 56.909216666666666,
+      "artist_name": "The Fray",
+      "play_count": 15
+    },
+    {
+      "album_name": "Takk...",
+      "total_minutes_played": 34.36071666666667,
+      "artist_name": "Sigur Rós",
+      "play_count": 15
+    },
+    {
+      "album_name": "Celebrate",
+      "total_minutes_played": 33.68813333333333,
+      "artist_name": "Simple Minds",
+      "play_count": 14
+    },
+    {
+      "album_name": "Pop Psychology",
+      "total_minutes_played": 30.3817,
+      "artist_name": "Neon Trees",
+      "play_count": 14
+    },
+    {
+      "album_name": "The Best Yet",
+      "total_minutes_played": 24.894133333333333,
+      "artist_name": "Switchfoot",
+      "play_count": 13
+    },
+    {
+      "album_name": "151a",
+      "total_minutes_played": 14.899333333333333,
+      "artist_name": "Kishi Bashi",
+      "play_count": 13
+    },
+    {
+      "album_name": "Uptown Special",
+      "total_minutes_played": 31.69035,
+      "artist_name": "Mark Ronson",
+      "play_count": 13
+    },
+    {
+      "album_name": "Somebody To You",
+      "total_minutes_played": 36.6965,
+      "artist_name": "The Vamps",
+      "play_count": 13
+    },
+    {
+      "album_name": "Somewhere Somehow",
+      "total_minutes_played": 40.0663,
+      "artist_name": "We The Kings",
+      "play_count": 13
+    },
+    {
+      "album_name": "Magazines Or Novels",
+      "total_minutes_played": 43.17365,
+      "artist_name": "Andy Grammer",
+      "play_count": 13
+    },
+    {
+      "album_name": "Infinity On High",
+      "total_minutes_played": 33.93468333333333,
+      "artist_name": "Fall Out Boy",
+      "play_count": 12
+    },
+    {
+      "album_name": "The Truth About Love",
+      "total_minutes_played": 44.30801666666667,
+      "artist_name": "P!nk",
+      "play_count": 12
+    },
+    {
+      "album_name": "Midnight Memories (Deluxe)",
+      "total_minutes_played": 40.781016666666666,
+      "artist_name": "One Direction",
+      "play_count": 12
+    },
+    {
+      "album_name": "Alors regarde",
+      "total_minutes_played": 16.82045,
+      "artist_name": "Patrick Bruel",
+      "play_count": 12
+    },
+    {
+      "album_name": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "total_minutes_played": 21.581733333333332,
+      "artist_name": "EXO",
+      "play_count": 12
+    },
+    {
+      "album_name": "Believe",
+      "total_minutes_played": 20.39105,
+      "artist_name": "Justin Bieber",
+      "play_count": 12
+    },
+    {
+      "album_name": "TALKING IS HARD",
+      "total_minutes_played": 36.5545,
+      "artist_name": "WALK THE MOON",
+      "play_count": 12
+    },
+    {
+      "album_name": "Waiting For The Dawn",
+      "total_minutes_played": 32.908166666666666,
+      "artist_name": "The Mowgli's",
+      "play_count": 12
+    },
+    {
+      "album_name": "Gold",
+      "total_minutes_played": 40.05713333333333,
+      "artist_name": "Britt Nicole",
+      "play_count": 11
+    },
+    {
+      "album_name": "Sounds Good Feels Good",
+      "total_minutes_played": 35.57841666666667,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 11
+    },
+    {
+      "album_name": "Something Big",
+      "total_minutes_played": 22.546216666666666,
+      "artist_name": "Shawn Mendes",
+      "play_count": 11
+    },
+    {
+      "album_name": "Yet You Stay - Single",
+      "total_minutes_played": 16.048933333333334,
+      "artist_name": "Dank Walker",
+      "play_count": 11
+    },
+    {
+      "album_name": "Departure",
+      "total_minutes_played": 20.88211666666667,
+      "artist_name": "Journey",
+      "play_count": 10
+    },
+    {
+      "album_name": "Jason Derulo",
+      "total_minutes_played": 26.250733333333333,
+      "artist_name": "Jason Derulo",
+      "play_count": 10
+    },
+    {
+      "album_name": "South",
+      "total_minutes_played": 35.593333333333334,
+      "artist_name": "Hot Water",
+      "play_count": 10
+    },
+    {
+      "album_name": "Enema Of The State",
+      "total_minutes_played": 21.065566666666665,
+      "artist_name": "blink-182",
+      "play_count": 9
+    },
+    {
+      "album_name": "ALIVE",
+      "total_minutes_played": 26.93385,
+      "artist_name": "BIGBANG",
+      "play_count": 9
+    },
+    {
+      "album_name": "Not An Apology",
+      "total_minutes_played": 28.209733333333332,
+      "artist_name": "Bea Miller",
+      "play_count": 9
+    },
+    {
+      "album_name": "Days Go By",
+      "total_minutes_played": 17.9417,
+      "artist_name": "The Offspring",
+      "play_count": 9
+    },
+    {
+      "album_name": "화양연화 The Most Beautiful Moment In Life, Pt. 1",
+      "total_minutes_played": 5.5301833333333335,
+      "artist_name": "BTS",
+      "play_count": 9
+    },
+    {
+      "album_name": "Who Wants to Rock Forever",
+      "total_minutes_played": 12.407366666666666,
+      "artist_name": "Bohemian Rhapsody",
+      "play_count": 9
+    },
+    {
+      "album_name": "The Phantom Of The Opera",
+      "total_minutes_played": 28.6741,
+      "artist_name": "Andrew Lloyd Webber",
+      "play_count": 8
+    },
+    {
+      "album_name": "The Pinkprint - Deluxe",
+      "total_minutes_played": 30.3413,
+      "artist_name": "Nicki Minaj",
+      "play_count": 8
+    },
+    {
+      "album_name": "Never Trust a Happy Song",
+      "total_minutes_played": 25.486316666666667,
+      "artist_name": "GROUPLOVE",
+      "play_count": 8
+    },
+    {
+      "album_name": "Stolen Dance",
+      "total_minutes_played": 22.683516666666666,
+      "artist_name": "Milky Chance",
+      "play_count": 8
+    },
+    {
+      "album_name": "#3",
+      "total_minutes_played": 23.780166666666666,
+      "artist_name": "The Script",
+      "play_count": 8
+    },
+    {
+      "album_name": "We The Kings",
+      "total_minutes_played": 29.150133333333333,
+      "artist_name": "We The Kings",
+      "play_count": 8
+    },
+    {
+      "album_name": "No Sound Without Silence",
+      "total_minutes_played": 28.6551,
+      "artist_name": "The Script",
+      "play_count": 8
+    },
+    {
+      "album_name": "Bad Apple",
+      "total_minutes_played": 18.38635,
+      "artist_name": "The Game Music Committee",
+      "play_count": 8
+    },
+    {
+      "album_name": "To Be Loved: The Best Of Papa Roach",
+      "total_minutes_played": 24.216733333333334,
+      "artist_name": "Papa Roach",
+      "play_count": 8
+    },
+    {
+      "album_name": "Wild Life",
+      "total_minutes_played": 20.562483333333333,
+      "artist_name": "Jack & Jack",
+      "play_count": 8
+    },
+    {
+      "album_name": "History",
+      "total_minutes_played": 24.990133333333333,
+      "artist_name": "One Direction",
+      "play_count": 8
+    },
+    {
+      "album_name": "Ignition",
+      "total_minutes_played": 20.874133333333333,
+      "artist_name": "The Offspring",
+      "play_count": 7
+    },
+    {
+      "album_name": "Believers Never Die - Greatest Hits",
+      "total_minutes_played": 6.52705,
+      "artist_name": "Fall Out Boy",
+      "play_count": 7
+    },
+    {
+      "album_name": "By the Way",
+      "total_minutes_played": 7.520316666666667,
+      "artist_name": "Red Hot Chili Peppers",
+      "play_count": 7
+    },
+    {
+      "album_name": "Where Are Ü Now",
+      "total_minutes_played": 7.959033333333333,
+      "artist_name": "Pentatonix",
+      "play_count": 7
+    },
+    {
+      "album_name": "LA Devotee",
+      "total_minutes_played": 19.484266666666667,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 6
+    },
+    {
+      "album_name": "Kids In Love",
+      "total_minutes_played": 14.95375,
+      "artist_name": "The Mowgli's",
+      "play_count": 6
+    }
+  ],
+  "group_top_artists": [
+    {
+      "total_minutes_played": 1420.7237166666666,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 562
+    },
+    {
+      "total_minutes_played": 937.631,
+      "artist_name": "Fall Out Boy",
+      "play_count": 341
+    },
+    {
+      "total_minutes_played": 688.7126333333333,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 301
+    },
+    {
+      "total_minutes_played": 386.1713833333333,
+      "artist_name": "Shawn Mendes",
+      "play_count": 144
+    },
+    {
+      "total_minutes_played": 267.6832,
+      "artist_name": "Sigur Rós",
+      "play_count": 126
+    },
+    {
+      "total_minutes_played": 400.5238,
+      "artist_name": "Jónsi",
+      "play_count": 125
+    },
+    {
+      "total_minutes_played": 227.55561666666668,
+      "artist_name": "Neon Trees",
+      "play_count": 82
+    },
+    {
+      "total_minutes_played": 218.67843333333334,
+      "artist_name": "Passion Pit",
+      "play_count": 77
+    },
+    {
+      "total_minutes_played": 174.17166666666665,
+      "artist_name": "Halsey",
+      "play_count": 77
+    },
+    {
+      "total_minutes_played": 250.03986666666665,
+      "artist_name": "Bring Me The Horizon",
+      "play_count": 72
+    },
+    {
+      "total_minutes_played": 209.53808333333333,
+      "artist_name": "Coldplay",
+      "play_count": 65
+    },
+    {
+      "total_minutes_played": 206.04633333333334,
+      "artist_name": "One Direction",
+      "play_count": 63
+    },
+    {
+      "total_minutes_played": 133.58918333333332,
+      "artist_name": "The Offspring",
+      "play_count": 52
+    },
+    {
+      "total_minutes_played": 129.93731666666667,
+      "artist_name": "The Vamps",
+      "play_count": 46
+    },
+    {
+      "total_minutes_played": 103.46035,
+      "artist_name": "Journey",
+      "play_count": 38
+    },
+    {
+      "total_minutes_played": 86.14048333333334,
+      "artist_name": "EXO",
+      "play_count": 37
+    },
+    {
+      "total_minutes_played": 54.57053333333333,
+      "artist_name": "Meghan Trainor",
+      "play_count": 36
+    },
+    {
+      "total_minutes_played": 76.04241666666667,
+      "artist_name": "Pentatonix",
+      "play_count": 32
+    },
+    {
+      "total_minutes_played": 63.571333333333335,
+      "artist_name": "Vitamin String Quartet",
+      "play_count": 31
+    },
+    {
+      "total_minutes_played": 76.08278333333334,
+      "artist_name": "Greek Fire",
+      "play_count": 30
+    },
+    {
+      "total_minutes_played": 37.64553333333333,
+      "artist_name": "Pitbull",
+      "play_count": 26
+    },
+    {
+      "total_minutes_played": 34.81016666666667,
+      "artist_name": "BTS",
+      "play_count": 25
+    },
+    {
+      "total_minutes_played": 60.500416666666666,
+      "artist_name": "Idina Menzel",
+      "play_count": 25
+    },
+    {
+      "total_minutes_played": 67.96833333333333,
+      "artist_name": "OneRepublic",
+      "play_count": 23
+    },
+    {
+      "total_minutes_played": 112.88825,
+      "artist_name": "My Chemical Romance",
+      "play_count": 22
+    },
+    {
+      "total_minutes_played": 50.63815,
+      "artist_name": "Maroon 5",
+      "play_count": 22
+    },
+    {
+      "total_minutes_played": 61.53118333333333,
+      "artist_name": "The Mowgli's",
+      "play_count": 22
+    },
+    {
+      "total_minutes_played": 78.57786666666667,
+      "artist_name": "The Script",
+      "play_count": 22
+    },
+    {
+      "total_minutes_played": 69.21643333333333,
+      "artist_name": "We The Kings",
+      "play_count": 21
+    },
+    {
+      "total_minutes_played": 30.829283333333333,
+      "artist_name": "Demi Lovato",
+      "play_count": 18
+    },
+    {
+      "total_minutes_played": 35.95908333333333,
+      "artist_name": "Plain White T's",
+      "play_count": 17
+    },
+    {
+      "total_minutes_played": 40.16685,
+      "artist_name": "Eminem",
+      "play_count": 16
+    },
+    {
+      "total_minutes_played": 49.427,
+      "artist_name": "Aerosmith",
+      "play_count": 16
+    },
+    {
+      "total_minutes_played": 42.53523333333333,
+      "artist_name": "The Aranbee Pop Symphony Orchestra",
+      "play_count": 16
+    },
+    {
+      "total_minutes_played": 43.06348333333333,
+      "artist_name": "Florence + The Machine",
+      "play_count": 16
+    },
+    {
+      "total_minutes_played": 37.65445,
+      "artist_name": "Andrew McMahon in the Wilderness",
+      "play_count": 16
+    },
+    {
+      "total_minutes_played": 37.68398333333333,
+      "artist_name": "blink-182",
+      "play_count": 15
+    },
+    {
+      "total_minutes_played": 32.2559,
+      "artist_name": "Bastille",
+      "play_count": 15
+    },
+    {
+      "total_minutes_played": 38.03535,
+      "artist_name": "BOYS LIKE GIRLS",
+      "play_count": 15
+    },
+    {
+      "total_minutes_played": 56.909216666666666,
+      "artist_name": "The Fray",
+      "play_count": 15
+    },
+    {
+      "total_minutes_played": 33.68813333333333,
+      "artist_name": "Simple Minds",
+      "play_count": 14
+    },
+    {
+      "total_minutes_played": 42.41801666666667,
+      "artist_name": "Bea Miller",
+      "play_count": 14
+    },
+    {
+      "total_minutes_played": 46.86135,
+      "artist_name": "Nicki Minaj",
+      "play_count": 14
+    },
+    {
+      "total_minutes_played": 43.17365,
+      "artist_name": "Andy Grammer",
+      "play_count": 13
+    },
+    {
+      "total_minutes_played": 24.894133333333333,
+      "artist_name": "Switchfoot",
+      "play_count": 13
+    },
+    {
+      "total_minutes_played": 14.899333333333333,
+      "artist_name": "Kishi Bashi",
+      "play_count": 13
+    },
+    {
+      "total_minutes_played": 31.69035,
+      "artist_name": "Mark Ronson",
+      "play_count": 13
+    },
+    {
+      "total_minutes_played": 36.5545,
+      "artist_name": "WALK THE MOON",
+      "play_count": 12
+    },
+    {
+      "total_minutes_played": 16.82045,
+      "artist_name": "Patrick Bruel",
+      "play_count": 12
+    },
+    {
+      "total_minutes_played": 20.39105,
+      "artist_name": "Justin Bieber",
+      "play_count": 12
+    },
+    {
+      "total_minutes_played": 44.30801666666667,
+      "artist_name": "P!nk",
+      "play_count": 12
+    },
+    {
+      "total_minutes_played": 16.048933333333334,
+      "artist_name": "Dank Walker",
+      "play_count": 11
+    },
+    {
+      "total_minutes_played": 40.05713333333333,
+      "artist_name": "Britt Nicole",
+      "play_count": 11
+    },
+    {
+      "total_minutes_played": 35.593333333333334,
+      "artist_name": "Hot Water",
+      "play_count": 10
+    },
+    {
+      "total_minutes_played": 26.250733333333333,
+      "artist_name": "Jason Derulo",
+      "play_count": 10
+    },
+    {
+      "total_minutes_played": 12.407366666666666,
+      "artist_name": "Bohemian Rhapsody",
+      "play_count": 9
+    },
+    {
+      "total_minutes_played": 26.93385,
+      "artist_name": "BIGBANG",
+      "play_count": 9
+    },
+    {
+      "total_minutes_played": 27.548283333333334,
+      "artist_name": "Papa Roach",
+      "play_count": 9
+    },
+    {
+      "total_minutes_played": 22.683516666666666,
+      "artist_name": "Milky Chance",
+      "play_count": 8
+    },
+    {
+      "total_minutes_played": 18.38635,
+      "artist_name": "The Game Music Committee",
+      "play_count": 8
+    },
+    {
+      "total_minutes_played": 14.654716666666667,
+      "artist_name": "Imagine Dragons",
+      "play_count": 8
+    },
+    {
+      "total_minutes_played": 25.486316666666667,
+      "artist_name": "GROUPLOVE",
+      "play_count": 8
+    },
+    {
+      "total_minutes_played": 28.6741,
+      "artist_name": "Andrew Lloyd Webber",
+      "play_count": 8
+    },
+    {
+      "total_minutes_played": 20.562483333333333,
+      "artist_name": "Jack & Jack",
+      "play_count": 8
+    },
+    {
+      "total_minutes_played": 23.889716666666665,
+      "artist_name": "The All-American Rejects",
+      "play_count": 7
+    },
+    {
+      "total_minutes_played": 10.277716666666667,
+      "artist_name": "John Powell",
+      "play_count": 7
+    },
+    {
+      "total_minutes_played": 7.520316666666667,
+      "artist_name": "Red Hot Chili Peppers",
+      "play_count": 7
+    },
+    {
+      "total_minutes_played": 14.128033333333333,
+      "artist_name": "Anne Hathaway",
+      "play_count": 6
+    },
+    {
+      "total_minutes_played": 17.5533,
+      "artist_name": "It Boys!",
+      "play_count": 6
+    },
+    {
+      "total_minutes_played": 18.3449,
+      "artist_name": "The Cocktails",
+      "play_count": 6
+    },
+    {
+      "total_minutes_played": 12.094233333333333,
+      "artist_name": "Tonight Alive",
+      "play_count": 6
+    },
+    {
+      "total_minutes_played": 20.161083333333334,
+      "artist_name": "Lady Gaga",
+      "play_count": 5
+    },
+    {
+      "total_minutes_played": 9.254,
+      "artist_name": "The Hush Sound",
+      "play_count": 5
+    },
+    {
+      "total_minutes_played": 13.969233333333333,
+      "artist_name": "Rise Against",
+      "play_count": 5
+    },
+    {
+      "total_minutes_played": 10.243983333333333,
+      "artist_name": "Pokémon",
+      "play_count": 5
+    },
+    {
+      "total_minutes_played": 2.8208,
+      "artist_name": "HAIM",
+      "play_count": 4
+    },
+    {
+      "total_minutes_played": 9.7387,
+      "artist_name": "Natives",
+      "play_count": 4
+    },
+    {
+      "total_minutes_played": 12.6243,
+      "artist_name": "blackbear",
+      "play_count": 4
+    },
+    {
+      "total_minutes_played": 0.20365,
+      "artist_name": "Queen",
+      "play_count": 3
+    },
+    {
+      "total_minutes_played": 20.17465,
+      "artist_name": "Swedish House Mafia",
+      "play_count": 3
+    },
+    {
+      "total_minutes_played": 11.186933333333334,
+      "artist_name": "The 1975",
+      "play_count": 3
+    },
+    {
+      "total_minutes_played": 12.354,
+      "artist_name": "Atlas Genius",
+      "play_count": 3
+    },
+    {
+      "total_minutes_played": 8.8916,
+      "artist_name": "Jorge Quintero",
+      "play_count": 3
+    },
+    {
+      "total_minutes_played": 9.922,
+      "artist_name": "Jonathan Groff",
+      "play_count": 3
+    },
+    {
+      "total_minutes_played": 19.46425,
+      "artist_name": "Puppet",
+      "play_count": 3
+    },
+    {
+      "total_minutes_played": 7.8526,
+      "artist_name": "Eleven Past One",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 16.8182,
+      "artist_name": "Les Misérables Cast",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 7.604,
+      "artist_name": "Thirty Seconds To Mars",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 5.8111,
+      "artist_name": "New Politics",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 8.806433333333333,
+      "artist_name": "Canary Swing",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 0.4040166666666667,
+      "artist_name": "Anarbor",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 0.9786666666666667,
+      "artist_name": "Samuel Little",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 6.9728,
+      "artist_name": "Neck Deep",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 0.2507666666666667,
+      "artist_name": "The Pretty Reckless",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 0.07893333333333333,
+      "artist_name": "Darude",
+      "play_count": 2
+    },
+    {
+      "total_minutes_played": 5.3646666666666665,
+      "artist_name": "Aphex Twin",
+      "play_count": 1
+    },
+    {
+      "total_minutes_played": 0.202,
+      "artist_name": "George Ezra",
+      "play_count": 1
+    },
+    {
+      "total_minutes_played": 1.0433333333333332,
+      "artist_name": "Jon Brion",
+      "play_count": 1
+    },
+    {
+      "total_minutes_played": 4.734883333333333,
+      "artist_name": "Cherri Bomb",
+      "play_count": 1
+    },
+    {
+      "total_minutes_played": 3.4752666666666667,
+      "artist_name": "Shane Harte",
+      "play_count": 1
+    }
+  ],
+  "group_session_length_minutes": 42.16066882845188,
+  "user_top_albums": {
+    "Anthony": [],
+    "Alexandra": [
+      {
+        "album_name": "5 Seconds Of Summer",
+        "total_minutes_played": 602.5498,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 268
+      },
+      {
+        "album_name": "Pretty. Odd.",
+        "total_minutes_played": 365.07228333333336,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 175
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "total_minutes_played": 436.43335,
+        "artist_name": "Fall Out Boy",
+        "play_count": 162
+      },
+      {
+        "album_name": "Too Weird to Live, Too Rare to Die!",
+        "total_minutes_played": 349.47156666666666,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 153
+      },
+      {
+        "album_name": "Handwritten",
+        "total_minutes_played": 352.4325166666667,
+        "artist_name": "Shawn Mendes",
+        "play_count": 130
+      },
+      {
+        "album_name": "Vices & Virtues",
+        "total_minutes_played": 366.1735,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 112
+      },
+      {
+        "album_name": "Go",
+        "total_minutes_played": 339.24761666666666,
+        "artist_name": "Jónsi",
+        "play_count": 102
+      },
+      {
+        "album_name": "Með suð i eyrum við spilum endalaust",
+        "total_minutes_played": 208.23713333333333,
+        "artist_name": "Sigur Rós",
+        "play_count": 91
+      },
+      {
+        "album_name": "Save Rock And Roll",
+        "total_minutes_played": 265.9555,
+        "artist_name": "Fall Out Boy",
+        "play_count": 87
+      },
+      {
+        "album_name": "BADLANDS",
+        "total_minutes_played": 174.17166666666665,
+        "artist_name": "Halsey",
+        "play_count": 77
+      },
+      {
+        "album_name": "That's The Spirit",
+        "total_minutes_played": 250.03986666666665,
+        "artist_name": "Bring Me The Horizon",
+        "play_count": 72
+      },
+      {
+        "album_name": "Ghost Stories",
+        "total_minutes_played": 148.94483333333332,
+        "artist_name": "Coldplay",
+        "play_count": 50
+      },
+      {
+        "album_name": "Habits",
+        "total_minutes_played": 148.27381666666668,
+        "artist_name": "Neon Trees",
+        "play_count": 49
+      },
+      {
+        "album_name": "From Under The Cork Tree",
+        "total_minutes_played": 113.17428333333334,
+        "artist_name": "Fall Out Boy",
+        "play_count": 41
+      },
+      {
+        "album_name": "Manners",
+        "total_minutes_played": 113.08428333333333,
+        "artist_name": "Passion Pit",
+        "play_count": 40
+      },
+      {
+        "album_name": "Gossamer",
+        "total_minutes_played": 105.59415,
+        "artist_name": "Passion Pit",
+        "play_count": 37
+      },
+      {
+        "album_name": "Title",
+        "total_minutes_played": 54.57053333333333,
+        "artist_name": "Meghan Trainor",
+        "play_count": 36
+      },
+      {
+        "album_name": "Rise And Fall, Rage And Grace",
+        "total_minutes_played": 94.71531666666667,
+        "artist_name": "The Offspring",
+        "play_count": 35
+      },
+      {
+        "album_name": "A Fever You Can't Sweat Out",
+        "total_minutes_played": 88.3221,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 34
+      },
+      {
+        "album_name": "FOUR",
+        "total_minutes_played": 113.88905,
+        "artist_name": "One Direction",
+        "play_count": 34
+      },
+      {
+        "album_name": "Meet The Vamps",
+        "total_minutes_played": 93.24081666666666,
+        "artist_name": "The Vamps",
+        "play_count": 33
+      },
+      {
+        "album_name": "Live in Chicago",
+        "total_minutes_played": 99.44721666666666,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 31
+      },
+      {
+        "album_name": "Top of the World",
+        "total_minutes_played": 76.08278333333334,
+        "artist_name": "Greek Fire",
+        "play_count": 30
+      },
+      {
+        "album_name": "Escape",
+        "total_minutes_played": 82.57823333333333,
+        "artist_name": "Journey",
+        "play_count": 28
+      },
+      {
+        "album_name": "Time of Our Lives",
+        "total_minutes_played": 37.64553333333333,
+        "artist_name": "Pitbull",
+        "play_count": 26
+      },
+      {
+        "album_name": "Defying Gravity",
+        "total_minutes_played": 60.500416666666666,
+        "artist_name": "Idina Menzel",
+        "play_count": 25
+      },
+      {
+        "album_name": "How To Train Your Dragon 2",
+        "total_minutes_played": 61.276183333333336,
+        "artist_name": "Jónsi",
+        "play_count": 23
+      },
+      {
+        "album_name": "The 1st Album 'XOXO' (Repackage)",
+        "total_minutes_played": 57.52498333333333,
+        "artist_name": "EXO",
+        "play_count": 23
+      },
+      {
+        "album_name": "Native",
+        "total_minutes_played": 67.96833333333333,
+        "artist_name": "OneRepublic",
+        "play_count": 23
+      },
+      {
+        "album_name": "The Black Parade",
+        "total_minutes_played": 112.88825,
+        "artist_name": "My Chemical Romance",
+        "play_count": 22
+      },
+      {
+        "album_name": "LIVESOS",
+        "total_minutes_played": 50.58441666666667,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 22
+      },
+      {
+        "album_name": "Takk",
+        "total_minutes_played": 25.08535,
+        "artist_name": "Sigur Rós",
+        "play_count": 20
+      },
+      {
+        "album_name": "VSQ Performs the Hits of 2014, Vol. 3",
+        "total_minutes_played": 37.145183333333335,
+        "artist_name": "Vitamin String Quartet",
+        "play_count": 19
+      },
+      {
+        "album_name": "Picture Show",
+        "total_minutes_played": 48.9001,
+        "artist_name": "Neon Trees",
+        "play_count": 19
+      },
+      {
+        "album_name": "Confident",
+        "total_minutes_played": 30.829283333333333,
+        "artist_name": "Demi Lovato",
+        "play_count": 18
+      },
+      {
+        "album_name": "Hallelujah",
+        "total_minutes_played": 50.86638333333333,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 18
+      },
+      {
+        "album_name": "All That We Needed",
+        "total_minutes_played": 35.95908333333333,
+        "artist_name": "Plain White T's",
+        "play_count": 17
+      },
+      {
+        "album_name": "Emperor's New Clothes",
+        "total_minutes_played": 40.06935,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 17
+      },
+      {
+        "album_name": "Big Hero 6 - Original Motion Picture Soundtrack",
+        "total_minutes_played": 42.45218333333333,
+        "artist_name": "Fall Out Boy",
+        "play_count": 16
+      },
+      {
+        "album_name": "Big Hero 6",
+        "total_minutes_played": 39.15395,
+        "artist_name": "Fall Out Boy",
+        "play_count": 16
+      },
+      {
+        "album_name": "Lose Yourself",
+        "total_minutes_played": 40.16685,
+        "artist_name": "Eminem",
+        "play_count": 16
+      },
+      {
+        "album_name": "O!RUL8,2?",
+        "total_minutes_played": 29.279983333333334,
+        "artist_name": "BTS",
+        "play_count": 16
+      },
+      {
+        "album_name": "Lungs",
+        "total_minutes_played": 43.06348333333333,
+        "artist_name": "Florence + The Machine",
+        "play_count": 16
+      },
+      {
+        "album_name": "Andrew McMahon In The Wilderness",
+        "total_minutes_played": 37.65445,
+        "artist_name": "Andrew McMahon in the Wilderness",
+        "play_count": 16
+      },
+      {
+        "album_name": "Victorious",
+        "total_minutes_played": 41.81705,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 16
+      },
+      {
+        "album_name": "Aerosmith",
+        "total_minutes_played": 49.427,
+        "artist_name": "Aerosmith",
+        "play_count": 16
+      },
+      {
+        "album_name": "Bittersweet Symphony",
+        "total_minutes_played": 42.53523333333333,
+        "artist_name": "The Aranbee Pop Symphony Orchestra",
+        "play_count": 16
+      },
+      {
+        "album_name": "PTX, Vol. III",
+        "total_minutes_played": 37.349583333333335,
+        "artist_name": "Pentatonix",
+        "play_count": 15
+      },
+      {
+        "album_name": "Bad Blood",
+        "total_minutes_played": 32.2559,
+        "artist_name": "Bastille",
+        "play_count": 15
+      },
+      {
+        "album_name": "Boys Like Girls",
+        "total_minutes_played": 38.03535,
+        "artist_name": "BOYS LIKE GIRLS",
+        "play_count": 15
+      },
+      {
+        "album_name": "Viva La Vida or Death and All His Friends",
+        "total_minutes_played": 60.59325,
+        "artist_name": "Coldplay",
+        "play_count": 15
+      },
+      {
+        "album_name": "Hands All Over",
+        "total_minutes_played": 46.95086666666667,
+        "artist_name": "Maroon 5",
+        "play_count": 15
+      },
+      {
+        "album_name": "How To Save A Life",
+        "total_minutes_played": 56.909216666666666,
+        "artist_name": "The Fray",
+        "play_count": 15
+      },
+      {
+        "album_name": "Takk...",
+        "total_minutes_played": 34.36071666666667,
+        "artist_name": "Sigur Rós",
+        "play_count": 15
+      },
+      {
+        "album_name": "Celebrate",
+        "total_minutes_played": 33.68813333333333,
+        "artist_name": "Simple Minds",
+        "play_count": 14
+      },
+      {
+        "album_name": "Pop Psychology",
+        "total_minutes_played": 30.3817,
+        "artist_name": "Neon Trees",
+        "play_count": 14
+      },
+      {
+        "album_name": "The Best Yet",
+        "total_minutes_played": 24.894133333333333,
+        "artist_name": "Switchfoot",
+        "play_count": 13
+      },
+      {
+        "album_name": "151a",
+        "total_minutes_played": 14.899333333333333,
+        "artist_name": "Kishi Bashi",
+        "play_count": 13
+      },
+      {
+        "album_name": "Uptown Special",
+        "total_minutes_played": 31.69035,
+        "artist_name": "Mark Ronson",
+        "play_count": 13
+      },
+      {
+        "album_name": "Somebody To You",
+        "total_minutes_played": 36.6965,
+        "artist_name": "The Vamps",
+        "play_count": 13
+      },
+      {
+        "album_name": "Somewhere Somehow",
+        "total_minutes_played": 40.0663,
+        "artist_name": "We The Kings",
+        "play_count": 13
+      },
+      {
+        "album_name": "Magazines Or Novels",
+        "total_minutes_played": 43.17365,
+        "artist_name": "Andy Grammer",
+        "play_count": 13
+      },
+      {
+        "album_name": "Infinity On High",
+        "total_minutes_played": 33.93468333333333,
+        "artist_name": "Fall Out Boy",
+        "play_count": 12
+      },
+      {
+        "album_name": "The Truth About Love",
+        "total_minutes_played": 44.30801666666667,
+        "artist_name": "P!nk",
+        "play_count": 12
+      },
+      {
+        "album_name": "Midnight Memories (Deluxe)",
+        "total_minutes_played": 40.781016666666666,
+        "artist_name": "One Direction",
+        "play_count": 12
+      },
+      {
+        "album_name": "Alors regarde",
+        "total_minutes_played": 16.82045,
+        "artist_name": "Patrick Bruel",
+        "play_count": 12
+      },
+      {
+        "album_name": "LOVE ME RIGHT - The 2nd Album Repackage",
+        "total_minutes_played": 21.581733333333332,
+        "artist_name": "EXO",
+        "play_count": 12
+      },
+      {
+        "album_name": "Believe",
+        "total_minutes_played": 20.39105,
+        "artist_name": "Justin Bieber",
+        "play_count": 12
+      },
+      {
+        "album_name": "TALKING IS HARD",
+        "total_minutes_played": 36.5545,
+        "artist_name": "WALK THE MOON",
+        "play_count": 12
+      },
+      {
+        "album_name": "Waiting For The Dawn",
+        "total_minutes_played": 32.908166666666666,
+        "artist_name": "The Mowgli's",
+        "play_count": 12
+      },
+      {
+        "album_name": "Gold",
+        "total_minutes_played": 40.05713333333333,
+        "artist_name": "Britt Nicole",
+        "play_count": 11
+      },
+      {
+        "album_name": "Sounds Good Feels Good",
+        "total_minutes_played": 35.57841666666667,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 11
+      },
+      {
+        "album_name": "Something Big",
+        "total_minutes_played": 22.546216666666666,
+        "artist_name": "Shawn Mendes",
+        "play_count": 11
+      },
+      {
+        "album_name": "Yet You Stay - Single",
+        "total_minutes_played": 16.048933333333334,
+        "artist_name": "Dank Walker",
+        "play_count": 11
+      },
+      {
+        "album_name": "Departure",
+        "total_minutes_played": 20.88211666666667,
+        "artist_name": "Journey",
+        "play_count": 10
+      },
+      {
+        "album_name": "Jason Derulo",
+        "total_minutes_played": 26.250733333333333,
+        "artist_name": "Jason Derulo",
+        "play_count": 10
+      },
+      {
+        "album_name": "South",
+        "total_minutes_played": 35.593333333333334,
+        "artist_name": "Hot Water",
+        "play_count": 10
+      },
+      {
+        "album_name": "Enema Of The State",
+        "total_minutes_played": 21.065566666666665,
+        "artist_name": "blink-182",
+        "play_count": 9
+      },
+      {
+        "album_name": "ALIVE",
+        "total_minutes_played": 26.93385,
+        "artist_name": "BIGBANG",
+        "play_count": 9
+      },
+      {
+        "album_name": "Not An Apology",
+        "total_minutes_played": 28.209733333333332,
+        "artist_name": "Bea Miller",
+        "play_count": 9
+      },
+      {
+        "album_name": "Days Go By",
+        "total_minutes_played": 17.9417,
+        "artist_name": "The Offspring",
+        "play_count": 9
+      },
+      {
+        "album_name": "화양연화 The Most Beautiful Moment In Life, Pt. 1",
+        "total_minutes_played": 5.5301833333333335,
+        "artist_name": "BTS",
+        "play_count": 9
+      },
+      {
+        "album_name": "Who Wants to Rock Forever",
+        "total_minutes_played": 12.407366666666666,
+        "artist_name": "Bohemian Rhapsody",
+        "play_count": 9
+      },
+      {
+        "album_name": "The Phantom Of The Opera",
+        "total_minutes_played": 28.6741,
+        "artist_name": "Andrew Lloyd Webber",
+        "play_count": 8
+      },
+      {
+        "album_name": "The Pinkprint - Deluxe",
+        "total_minutes_played": 30.3413,
+        "artist_name": "Nicki Minaj",
+        "play_count": 8
+      },
+      {
+        "album_name": "Never Trust a Happy Song",
+        "total_minutes_played": 25.486316666666667,
+        "artist_name": "GROUPLOVE",
+        "play_count": 8
+      },
+      {
+        "album_name": "Stolen Dance",
+        "total_minutes_played": 22.683516666666666,
+        "artist_name": "Milky Chance",
+        "play_count": 8
+      },
+      {
+        "album_name": "#3",
+        "total_minutes_played": 23.780166666666666,
+        "artist_name": "The Script",
+        "play_count": 8
+      },
+      {
+        "album_name": "We The Kings",
+        "total_minutes_played": 29.150133333333333,
+        "artist_name": "We The Kings",
+        "play_count": 8
+      },
+      {
+        "album_name": "No Sound Without Silence",
+        "total_minutes_played": 28.6551,
+        "artist_name": "The Script",
+        "play_count": 8
+      },
+      {
+        "album_name": "Bad Apple",
+        "total_minutes_played": 18.38635,
+        "artist_name": "The Game Music Committee",
+        "play_count": 8
+      },
+      {
+        "album_name": "To Be Loved: The Best Of Papa Roach",
+        "total_minutes_played": 24.216733333333334,
+        "artist_name": "Papa Roach",
+        "play_count": 8
+      },
+      {
+        "album_name": "Wild Life",
+        "total_minutes_played": 20.562483333333333,
+        "artist_name": "Jack & Jack",
+        "play_count": 8
+      },
+      {
+        "album_name": "History",
+        "total_minutes_played": 24.990133333333333,
+        "artist_name": "One Direction",
+        "play_count": 8
+      },
+      {
+        "album_name": "Ignition",
+        "total_minutes_played": 20.874133333333333,
+        "artist_name": "The Offspring",
+        "play_count": 7
+      },
+      {
+        "album_name": "Believers Never Die - Greatest Hits",
+        "total_minutes_played": 6.52705,
+        "artist_name": "Fall Out Boy",
+        "play_count": 7
+      },
+      {
+        "album_name": "By the Way",
+        "total_minutes_played": 7.520316666666667,
+        "artist_name": "Red Hot Chili Peppers",
+        "play_count": 7
+      },
+      {
+        "album_name": "Where Are Ü Now",
+        "total_minutes_played": 7.959033333333333,
+        "artist_name": "Pentatonix",
+        "play_count": 7
+      },
+      {
+        "album_name": "LA Devotee",
+        "total_minutes_played": 19.484266666666667,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 6
+      },
+      {
+        "album_name": "Kids In Love",
+        "total_minutes_played": 14.95375,
+        "artist_name": "The Mowgli's",
+        "play_count": 6
+      }
+    ],
+    "Koren": [],
+    "Alan": []
+  },
+  "user_top_tracks": {
+    "Anthony": [],
+    "Alexandra": [
+      {
+        "album_name": "Save Rock And Roll",
+        "track_name": "Young Volcanoes",
+        "total_minutes_played": 122.64893333333333,
+        "artist_name": "Fall Out Boy",
+        "play_count": 41
+      },
+      {
+        "album_name": "Too Weird to Live, Too Rare to Die!",
+        "track_name": "This Is Gospel",
+        "total_minutes_played": 103.05143333333334,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 36
+      },
+      {
+        "album_name": "FOUR",
+        "track_name": "Stockholm Syndrome",
+        "total_minutes_played": 113.88905,
+        "artist_name": "One Direction",
+        "play_count": 34
+      },
+      {
+        "album_name": "Top of the World",
+        "track_name": "Top of the World",
+        "total_minutes_played": 76.08278333333334,
+        "artist_name": "Greek Fire",
+        "play_count": 30
+      },
+      {
+        "album_name": "Vices & Virtues",
+        "track_name": "Hurricane",
+        "total_minutes_played": 121.89598333333333,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 30
+      },
+      {
+        "album_name": "Title",
+        "track_name": "Lips Are Movin",
+        "total_minutes_played": 45.00738333333334,
+        "artist_name": "Meghan Trainor",
+        "play_count": 30
+      },
+      {
+        "album_name": "Go",
+        "track_name": "Grow Till Tall",
+        "total_minutes_played": 67.21958333333333,
+        "artist_name": "Jónsi",
+        "play_count": 29
+      },
+      {
+        "album_name": "Handwritten",
+        "track_name": "Stitches",
+        "total_minutes_played": 89.6937,
+        "artist_name": "Shawn Mendes",
+        "play_count": 29
+      },
+      {
+        "album_name": "Habits",
+        "track_name": "1983",
+        "total_minutes_played": 95.13358333333333,
+        "artist_name": "Neon Trees",
+        "play_count": 29
+      },
+      {
+        "album_name": "Með suð i eyrum við spilum endalaust",
+        "track_name": "Með suð í eyrum",
+        "total_minutes_played": 56.79635,
+        "artist_name": "Sigur Rós",
+        "play_count": 29
+      },
+      {
+        "album_name": "A Fever You Can't Sweat Out",
+        "track_name": "I Write Sins Not Tragedies",
+        "total_minutes_played": 81.29896666666667,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 28
+      },
+      {
+        "album_name": "Escape",
+        "track_name": "Don't Stop Believin'",
+        "total_minutes_played": 82.57823333333333,
+        "artist_name": "Journey",
+        "play_count": 28
+      },
+      {
+        "album_name": "Too Weird to Live, Too Rare to Die!",
+        "track_name": "Miss Jackson (feat. LOLO)",
+        "total_minutes_played": 52.290083333333335,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 28
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Good Girls",
+        "total_minutes_played": 79.67751666666666,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 28
+      },
+      {
+        "album_name": "Vices & Virtues",
+        "track_name": "The Ballad of Mona Lisa",
+        "total_minutes_played": 87.66525,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 27
+      },
+      {
+        "album_name": "Go",
+        "track_name": "Around Us",
+        "total_minutes_played": 111.60431666666666,
+        "artist_name": "Jónsi",
+        "play_count": 26
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "track_name": "Immortals",
+        "total_minutes_played": 50.780516666666664,
+        "artist_name": "Fall Out Boy",
+        "play_count": 26
+      },
+      {
+        "album_name": "Time of Our Lives",
+        "track_name": "Time of Our Lives",
+        "total_minutes_played": 37.64553333333333,
+        "artist_name": "Pitbull",
+        "play_count": 26
+      },
+      {
+        "album_name": "Defying Gravity",
+        "track_name": "Defying Gravity",
+        "total_minutes_played": 60.500416666666666,
+        "artist_name": "Idina Menzel",
+        "play_count": 25
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "18",
+        "total_minutes_played": 26.589033333333333,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 25
+      },
+      {
+        "album_name": "Go",
+        "track_name": "Go do",
+        "total_minutes_played": 92.84296666666667,
+        "artist_name": "Jónsi",
+        "play_count": 25
+      },
+      {
+        "album_name": "From Under The Cork Tree",
+        "track_name": "Sugar, We're Goin Down",
+        "total_minutes_played": 69.08541666666666,
+        "artist_name": "Fall Out Boy",
+        "play_count": 24
+      },
+      {
+        "album_name": "Gossamer",
+        "track_name": "Carried Away",
+        "total_minutes_played": 56.94318333333333,
+        "artist_name": "Passion Pit",
+        "play_count": 24
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "track_name": "Centuries",
+        "total_minutes_played": 69.06206666666667,
+        "artist_name": "Fall Out Boy",
+        "play_count": 24
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "track_name": "Favorite Record",
+        "total_minutes_played": 54.63465,
+        "artist_name": "Fall Out Boy",
+        "play_count": 23
+      },
+      {
+        "album_name": "How To Train Your Dragon 2",
+        "track_name": "Where No One Goes",
+        "total_minutes_played": 61.276183333333336,
+        "artist_name": "Jónsi",
+        "play_count": 23
+      },
+      {
+        "album_name": "Native",
+        "track_name": "Counting Stars",
+        "total_minutes_played": 67.96833333333333,
+        "artist_name": "OneRepublic",
+        "play_count": 23
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "track_name": "Uma Thurman",
+        "total_minutes_played": 73.83293333333333,
+        "artist_name": "Fall Out Boy",
+        "play_count": 23
+      },
+      {
+        "album_name": "Save Rock And Roll",
+        "track_name": "My Songs Know What You Did In The Dark (Light Em Up)",
+        "total_minutes_played": 58.709666666666664,
+        "artist_name": "Fall Out Boy",
+        "play_count": 23
+      },
+      {
+        "album_name": "LIVESOS",
+        "track_name": "What I Like About You - Studio Mix",
+        "total_minutes_played": 50.58441666666667,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 22
+      },
+      {
+        "album_name": "Live in Chicago",
+        "track_name": "Mad as Rabbits - Live at Congress Theater, Chicago, IL, 2008",
+        "total_minutes_played": 97.6779,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 22
+      },
+      {
+        "album_name": "Pretty. Odd.",
+        "track_name": "That Green Gentleman (Things Have Changed)",
+        "total_minutes_played": 55.264466666666664,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 22
+      },
+      {
+        "album_name": "Rise And Fall, Rage And Grace",
+        "track_name": "You're Gonna Go Far, Kid",
+        "total_minutes_played": 59.29235,
+        "artist_name": "The Offspring",
+        "play_count": 22
+      },
+      {
+        "album_name": "Með suð i eyrum við spilum endalaust",
+        "track_name": "Festival",
+        "total_minutes_played": 81.53673333333333,
+        "artist_name": "Sigur Rós",
+        "play_count": 22
+      },
+      {
+        "album_name": "Með suð i eyrum við spilum endalaust",
+        "track_name": "Gobbledigook",
+        "total_minutes_played": 40.855216666666664,
+        "artist_name": "Sigur Rós",
+        "play_count": 22
+      },
+      {
+        "album_name": "Handwritten",
+        "track_name": "Something Big",
+        "total_minutes_played": 51.25188333333333,
+        "artist_name": "Shawn Mendes",
+        "play_count": 21
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "She Looks So Perfect",
+        "total_minutes_played": 45.220166666666664,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 21
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "track_name": "American Beauty/American Psycho",
+        "total_minutes_played": 49.99838333333334,
+        "artist_name": "Fall Out Boy",
+        "play_count": 21
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Social Casualty",
+        "total_minutes_played": 47.19663333333333,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 20
+      },
+      {
+        "album_name": "Habits",
+        "track_name": "Animal",
+        "total_minutes_played": 53.140233333333335,
+        "artist_name": "Neon Trees",
+        "play_count": 20
+      },
+      {
+        "album_name": "Save Rock And Roll",
+        "track_name": "Save Rock And Roll",
+        "total_minutes_played": 84.35726666666666,
+        "artist_name": "Fall Out Boy",
+        "play_count": 20
+      },
+      {
+        "album_name": "Manners",
+        "track_name": "Moth's Wings",
+        "total_minutes_played": 60.82455,
+        "artist_name": "Passion Pit",
+        "play_count": 20
+      },
+      {
+        "album_name": "Manners",
+        "track_name": "Little Secrets",
+        "total_minutes_played": 52.25973333333334,
+        "artist_name": "Passion Pit",
+        "play_count": 20
+      },
+      {
+        "album_name": "Pretty. Odd.",
+        "track_name": "Nine in the Afternoon - Single Mix",
+        "total_minutes_played": 51.14066666666667,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 19
+      },
+      {
+        "album_name": "Go",
+        "track_name": "Boy Lilikoi",
+        "total_minutes_played": 61.31065,
+        "artist_name": "Jónsi",
+        "play_count": 19
+      },
+      {
+        "album_name": "Too Weird to Live, Too Rare to Die!",
+        "track_name": "The End of All Things",
+        "total_minutes_played": 14.876783333333334,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 19
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Everything I Didn't Say",
+        "total_minutes_played": 42.25621666666667,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 18
+      },
+      {
+        "album_name": "Picture Show",
+        "track_name": "Everybody Talks",
+        "total_minutes_played": 45.859883333333336,
+        "artist_name": "Neon Trees",
+        "play_count": 18
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "track_name": "Fourth Of July",
+        "total_minutes_played": 56.248,
+        "artist_name": "Fall Out Boy",
+        "play_count": 18
+      },
+      {
+        "album_name": "Með suð i eyrum við spilum endalaust",
+        "track_name": "Við spilum endalaust",
+        "total_minutes_played": 29.048833333333334,
+        "artist_name": "Sigur Rós",
+        "play_count": 18
+      },
+      {
+        "album_name": "Hallelujah",
+        "track_name": "Hallelujah",
+        "total_minutes_played": 50.86638333333333,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 18
+      },
+      {
+        "album_name": "Too Weird to Live, Too Rare to Die!",
+        "track_name": "Nicotine",
+        "total_minutes_played": 52.59793333333333,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 18
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Voodoo Doll",
+        "total_minutes_played": 52.7844,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 18
+      },
+      {
+        "album_name": "From Under The Cork Tree",
+        "track_name": "Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued",
+        "total_minutes_played": 44.08886666666667,
+        "artist_name": "Fall Out Boy",
+        "play_count": 17
+      },
+      {
+        "album_name": "Emperor's New Clothes",
+        "track_name": "Emperor's New Clothes",
+        "total_minutes_played": 40.06935,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 17
+      },
+      {
+        "album_name": "All That We Needed",
+        "track_name": "Hey There Delilah",
+        "total_minutes_played": 35.95908333333333,
+        "artist_name": "Plain White T's",
+        "play_count": 17
+      },
+      {
+        "album_name": "Ghost Stories",
+        "track_name": "A Sky Full of Stars",
+        "total_minutes_played": 61.413866666666664,
+        "artist_name": "Coldplay",
+        "play_count": 17
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Kiss Me Kiss Me",
+        "total_minutes_played": 38.23688333333333,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 17
+      },
+      {
+        "album_name": "Big Hero 6",
+        "track_name": "Immortals",
+        "total_minutes_played": 39.15395,
+        "artist_name": "Fall Out Boy",
+        "play_count": 16
+      },
+      {
+        "album_name": "Big Hero 6 - Original Motion Picture Soundtrack",
+        "track_name": "Immortals",
+        "total_minutes_played": 42.45218333333333,
+        "artist_name": "Fall Out Boy",
+        "play_count": 16
+      },
+      {
+        "album_name": "Andrew McMahon In The Wilderness",
+        "track_name": "Cecilia And The Satellite",
+        "total_minutes_played": 37.65445,
+        "artist_name": "Andrew McMahon in the Wilderness",
+        "play_count": 16
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "End Up Here",
+        "total_minutes_played": 31.03076666666667,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 16
+      },
+      {
+        "album_name": "Lose Yourself",
+        "track_name": "Lose Yourself - Soundtrack Version",
+        "total_minutes_played": 40.16685,
+        "artist_name": "Eminem",
+        "play_count": 16
+      },
+      {
+        "album_name": "Aerosmith",
+        "track_name": "Dream On",
+        "total_minutes_played": 49.427,
+        "artist_name": "Aerosmith",
+        "play_count": 16
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Heartbreak Girl",
+        "total_minutes_played": 36.61306666666667,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 16
+      },
+      {
+        "album_name": "Lungs",
+        "track_name": "Dog Days Are Over",
+        "total_minutes_played": 43.06348333333333,
+        "artist_name": "Florence + The Machine",
+        "play_count": 16
+      },
+      {
+        "album_name": "Bittersweet Symphony",
+        "track_name": "Bittersweet Symphony",
+        "total_minutes_played": 42.53523333333333,
+        "artist_name": "The Aranbee Pop Symphony Orchestra",
+        "play_count": 16
+      },
+      {
+        "album_name": "Victorious",
+        "track_name": "Victorious",
+        "total_minutes_played": 41.81705,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 16
+      },
+      {
+        "album_name": "How To Save A Life",
+        "track_name": "How to Save a Life",
+        "total_minutes_played": 56.909216666666666,
+        "artist_name": "The Fray",
+        "play_count": 15
+      },
+      {
+        "album_name": "Bad Blood",
+        "track_name": "Pompeii",
+        "total_minutes_played": 32.2559,
+        "artist_name": "Bastille",
+        "play_count": 15
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Long Way Home",
+        "total_minutes_played": 38.479366666666664,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 15
+      },
+      {
+        "album_name": "Viva La Vida or Death and All His Friends",
+        "track_name": "Viva La Vida",
+        "total_minutes_played": 60.59325,
+        "artist_name": "Coldplay",
+        "play_count": 15
+      },
+      {
+        "album_name": "Boys Like Girls",
+        "track_name": "The Great Escape",
+        "total_minutes_played": 38.03535,
+        "artist_name": "BOYS LIKE GIRLS",
+        "play_count": 15
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Never Be",
+        "total_minutes_played": 25.615316666666665,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 15
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "track_name": "The Kids Aren't Alright",
+        "total_minutes_played": 42.55213333333333,
+        "artist_name": "Fall Out Boy",
+        "play_count": 15
+      },
+      {
+        "album_name": "Hands All Over",
+        "track_name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+        "total_minutes_played": 46.95086666666667,
+        "artist_name": "Maroon 5",
+        "play_count": 15
+      },
+      {
+        "album_name": "Handwritten",
+        "track_name": "Life Of The Party",
+        "total_minutes_played": 42.9585,
+        "artist_name": "Shawn Mendes",
+        "play_count": 15
+      },
+      {
+        "album_name": "Celebrate",
+        "track_name": "Don't You (Forget About Me) - Remastered",
+        "total_minutes_played": 33.68813333333333,
+        "artist_name": "Simple Minds",
+        "play_count": 14
+      },
+      {
+        "album_name": "Pretty. Odd.",
+        "track_name": "Northern Downpour",
+        "total_minutes_played": 43.72708333333333,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 14
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Mrs All American",
+        "total_minutes_played": 34.63871666666667,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 14
+      },
+      {
+        "album_name": "Somebody To You",
+        "track_name": "Somebody To You",
+        "total_minutes_played": 36.6965,
+        "artist_name": "The Vamps",
+        "play_count": 13
+      },
+      {
+        "album_name": "151a",
+        "track_name": "Chester's Burst Over the Hamptons",
+        "total_minutes_played": 14.899333333333333,
+        "artist_name": "Kishi Bashi",
+        "play_count": 13
+      },
+      {
+        "album_name": "Magazines Or Novels",
+        "track_name": "Honey, I'm Good.",
+        "total_minutes_played": 43.17365,
+        "artist_name": "Andy Grammer",
+        "play_count": 13
+      },
+      {
+        "album_name": "Ghost Stories",
+        "track_name": "Oceans",
+        "total_minutes_played": 22.415283333333335,
+        "artist_name": "Coldplay",
+        "play_count": 13
+      },
+      {
+        "album_name": "Uptown Special",
+        "track_name": "Uptown Funk (feat. Bruno Mars)",
+        "total_minutes_played": 31.69035,
+        "artist_name": "Mark Ronson",
+        "play_count": 13
+      },
+      {
+        "album_name": "Pop Psychology",
+        "track_name": "Sleeping With A Friend",
+        "total_minutes_played": 27.02415,
+        "artist_name": "Neon Trees",
+        "play_count": 13
+      },
+      {
+        "album_name": "The Black Parade",
+        "track_name": "Welcome to the Black Parade",
+        "total_minutes_played": 67.4063,
+        "artist_name": "My Chemical Romance",
+        "play_count": 13
+      },
+      {
+        "album_name": "Gossamer",
+        "track_name": "Take a Walk",
+        "total_minutes_played": 48.65096666666667,
+        "artist_name": "Passion Pit",
+        "play_count": 13
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Amnesia",
+        "total_minutes_played": 28.577,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 13
+      },
+      {
+        "album_name": "Pretty. Odd.",
+        "track_name": "Do You Know What I'm Seeing?",
+        "total_minutes_played": 34.66951666666667,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 13
+      },
+      {
+        "album_name": "Rise And Fall, Rage And Grace",
+        "track_name": "Half-Truism",
+        "total_minutes_played": 35.42296666666667,
+        "artist_name": "The Offspring",
+        "play_count": 13
+      },
+      {
+        "album_name": "The Best Yet",
+        "track_name": "Meant to Live",
+        "total_minutes_played": 24.894133333333333,
+        "artist_name": "Switchfoot",
+        "play_count": 13
+      },
+      {
+        "album_name": "5 Seconds Of Summer",
+        "track_name": "Beside You",
+        "total_minutes_played": 31.221283333333332,
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 13
+      },
+      {
+        "album_name": "The Truth About Love",
+        "track_name": "Slut Like You",
+        "total_minutes_played": 44.30801666666667,
+        "artist_name": "P!nk",
+        "play_count": 12
+      },
+      {
+        "album_name": "Pretty. Odd.",
+        "track_name": "The Piano Knows Something I Don't Know",
+        "total_minutes_played": 21.093,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 12
+      },
+      {
+        "album_name": "Takk",
+        "track_name": "Hoppípolla",
+        "total_minutes_played": 18.365866666666665,
+        "artist_name": "Sigur Rós",
+        "play_count": 12
+      },
+      {
+        "album_name": "Infinity On High",
+        "track_name": "Thnks fr th Mmrs",
+        "total_minutes_played": 33.93468333333333,
+        "artist_name": "Fall Out Boy",
+        "play_count": 12
+      },
+      {
+        "album_name": "Vices & Virtues",
+        "track_name": "Trade Mistakes",
+        "total_minutes_played": 39.665416666666665,
+        "artist_name": "Panic! At The Disco",
+        "play_count": 12
+      },
+      {
+        "album_name": "TALKING IS HARD",
+        "track_name": "Shut Up and Dance",
+        "total_minutes_played": 36.5545,
+        "artist_name": "WALK THE MOON",
+        "play_count": 12
+      },
+      {
+        "album_name": "BADLANDS",
+        "track_name": "Hold Me Down",
+        "total_minutes_played": 27.476566666666667,
+        "artist_name": "Halsey",
+        "play_count": 12
+      }
+    ],
+    "Koren": [],
+    "Alan": []
+  },
+  "group_averages": {
+    "avg_daily_unique_tracks": 39.67844522968198,
+    "avg_daily_unique_artists": 19.47735303565692,
+    "avg_shuffle_rate": 0.7494378413106328,
+    "avg_monthly_plays": 437.35721169290076,
+    "avg_ms_played": 157336.10247349823,
+    "avg_skip_rate": 0.29938965628011566,
+    "avg_offline_rate": 0,
+    "avg_yearly_plays": 3113,
+    "avg_daily_plays": 45.37520077096049
+  },
+  "group_top_tracks": [
+    {
+      "album_name": "Save Rock And Roll",
+      "track_name": "Young Volcanoes",
+      "total_minutes_played": 122.64893333333333,
+      "artist_name": "Fall Out Boy",
+      "play_count": 41
+    },
+    {
+      "album_name": "Too Weird to Live, Too Rare to Die!",
+      "track_name": "This Is Gospel",
+      "total_minutes_played": 103.05143333333334,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 36
+    },
+    {
+      "album_name": "FOUR",
+      "track_name": "Stockholm Syndrome",
+      "total_minutes_played": 113.88905,
+      "artist_name": "One Direction",
+      "play_count": 34
+    },
+    {
+      "album_name": "Top of the World",
+      "track_name": "Top of the World",
+      "total_minutes_played": 76.08278333333334,
+      "artist_name": "Greek Fire",
+      "play_count": 30
+    },
+    {
+      "album_name": "Vices & Virtues",
+      "track_name": "Hurricane",
+      "total_minutes_played": 121.89598333333333,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 30
+    },
+    {
+      "album_name": "Title",
+      "track_name": "Lips Are Movin",
+      "total_minutes_played": 45.00738333333334,
+      "artist_name": "Meghan Trainor",
+      "play_count": 30
+    },
+    {
+      "album_name": "Go",
+      "track_name": "Grow Till Tall",
+      "total_minutes_played": 67.21958333333333,
+      "artist_name": "Jónsi",
+      "play_count": 29
+    },
+    {
+      "album_name": "Handwritten",
+      "track_name": "Stitches",
+      "total_minutes_played": 89.6937,
+      "artist_name": "Shawn Mendes",
+      "play_count": 29
+    },
+    {
+      "album_name": "Habits",
+      "track_name": "1983",
+      "total_minutes_played": 95.13358333333333,
+      "artist_name": "Neon Trees",
+      "play_count": 29
+    },
+    {
+      "album_name": "Með suð i eyrum við spilum endalaust",
+      "track_name": "Með suð í eyrum",
+      "total_minutes_played": 56.79635,
+      "artist_name": "Sigur Rós",
+      "play_count": 29
+    },
+    {
+      "album_name": "A Fever You Can't Sweat Out",
+      "track_name": "I Write Sins Not Tragedies",
+      "total_minutes_played": 81.29896666666667,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 28
+    },
+    {
+      "album_name": "Escape",
+      "track_name": "Don't Stop Believin'",
+      "total_minutes_played": 82.57823333333333,
+      "artist_name": "Journey",
+      "play_count": 28
+    },
+    {
+      "album_name": "Too Weird to Live, Too Rare to Die!",
+      "track_name": "Miss Jackson (feat. LOLO)",
+      "total_minutes_played": 52.290083333333335,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 28
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Good Girls",
+      "total_minutes_played": 79.67751666666666,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 28
+    },
+    {
+      "album_name": "Vices & Virtues",
+      "track_name": "The Ballad of Mona Lisa",
+      "total_minutes_played": 87.66525,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 27
+    },
+    {
+      "album_name": "Go",
+      "track_name": "Around Us",
+      "total_minutes_played": 111.60431666666666,
+      "artist_name": "Jónsi",
+      "play_count": 26
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "track_name": "Immortals",
+      "total_minutes_played": 50.780516666666664,
+      "artist_name": "Fall Out Boy",
+      "play_count": 26
+    },
+    {
+      "album_name": "Time of Our Lives",
+      "track_name": "Time of Our Lives",
+      "total_minutes_played": 37.64553333333333,
+      "artist_name": "Pitbull",
+      "play_count": 26
+    },
+    {
+      "album_name": "Defying Gravity",
+      "track_name": "Defying Gravity",
+      "total_minutes_played": 60.500416666666666,
+      "artist_name": "Idina Menzel",
+      "play_count": 25
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "18",
+      "total_minutes_played": 26.589033333333333,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 25
+    },
+    {
+      "album_name": "Go",
+      "track_name": "Go do",
+      "total_minutes_played": 92.84296666666667,
+      "artist_name": "Jónsi",
+      "play_count": 25
+    },
+    {
+      "album_name": "From Under The Cork Tree",
+      "track_name": "Sugar, We're Goin Down",
+      "total_minutes_played": 69.08541666666666,
+      "artist_name": "Fall Out Boy",
+      "play_count": 24
+    },
+    {
+      "album_name": "Gossamer",
+      "track_name": "Carried Away",
+      "total_minutes_played": 56.94318333333333,
+      "artist_name": "Passion Pit",
+      "play_count": 24
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "track_name": "Centuries",
+      "total_minutes_played": 69.06206666666667,
+      "artist_name": "Fall Out Boy",
+      "play_count": 24
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "track_name": "Favorite Record",
+      "total_minutes_played": 54.63465,
+      "artist_name": "Fall Out Boy",
+      "play_count": 23
+    },
+    {
+      "album_name": "How To Train Your Dragon 2",
+      "track_name": "Where No One Goes",
+      "total_minutes_played": 61.276183333333336,
+      "artist_name": "Jónsi",
+      "play_count": 23
+    },
+    {
+      "album_name": "Native",
+      "track_name": "Counting Stars",
+      "total_minutes_played": 67.96833333333333,
+      "artist_name": "OneRepublic",
+      "play_count": 23
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "track_name": "Uma Thurman",
+      "total_minutes_played": 73.83293333333333,
+      "artist_name": "Fall Out Boy",
+      "play_count": 23
+    },
+    {
+      "album_name": "Save Rock And Roll",
+      "track_name": "My Songs Know What You Did In The Dark (Light Em Up)",
+      "total_minutes_played": 58.709666666666664,
+      "artist_name": "Fall Out Boy",
+      "play_count": 23
+    },
+    {
+      "album_name": "LIVESOS",
+      "track_name": "What I Like About You - Studio Mix",
+      "total_minutes_played": 50.58441666666667,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 22
+    },
+    {
+      "album_name": "Live in Chicago",
+      "track_name": "Mad as Rabbits - Live at Congress Theater, Chicago, IL, 2008",
+      "total_minutes_played": 97.6779,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 22
+    },
+    {
+      "album_name": "Pretty. Odd.",
+      "track_name": "That Green Gentleman (Things Have Changed)",
+      "total_minutes_played": 55.264466666666664,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 22
+    },
+    {
+      "album_name": "Rise And Fall, Rage And Grace",
+      "track_name": "You're Gonna Go Far, Kid",
+      "total_minutes_played": 59.29235,
+      "artist_name": "The Offspring",
+      "play_count": 22
+    },
+    {
+      "album_name": "Með suð i eyrum við spilum endalaust",
+      "track_name": "Festival",
+      "total_minutes_played": 81.53673333333333,
+      "artist_name": "Sigur Rós",
+      "play_count": 22
+    },
+    {
+      "album_name": "Með suð i eyrum við spilum endalaust",
+      "track_name": "Gobbledigook",
+      "total_minutes_played": 40.855216666666664,
+      "artist_name": "Sigur Rós",
+      "play_count": 22
+    },
+    {
+      "album_name": "Handwritten",
+      "track_name": "Something Big",
+      "total_minutes_played": 51.25188333333333,
+      "artist_name": "Shawn Mendes",
+      "play_count": 21
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "She Looks So Perfect",
+      "total_minutes_played": 45.220166666666664,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 21
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "track_name": "American Beauty/American Psycho",
+      "total_minutes_played": 49.99838333333334,
+      "artist_name": "Fall Out Boy",
+      "play_count": 21
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Social Casualty",
+      "total_minutes_played": 47.19663333333333,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 20
+    },
+    {
+      "album_name": "Habits",
+      "track_name": "Animal",
+      "total_minutes_played": 53.140233333333335,
+      "artist_name": "Neon Trees",
+      "play_count": 20
+    },
+    {
+      "album_name": "Save Rock And Roll",
+      "track_name": "Save Rock And Roll",
+      "total_minutes_played": 84.35726666666666,
+      "artist_name": "Fall Out Boy",
+      "play_count": 20
+    },
+    {
+      "album_name": "Manners",
+      "track_name": "Moth's Wings",
+      "total_minutes_played": 60.82455,
+      "artist_name": "Passion Pit",
+      "play_count": 20
+    },
+    {
+      "album_name": "Manners",
+      "track_name": "Little Secrets",
+      "total_minutes_played": 52.25973333333334,
+      "artist_name": "Passion Pit",
+      "play_count": 20
+    },
+    {
+      "album_name": "Pretty. Odd.",
+      "track_name": "Nine in the Afternoon - Single Mix",
+      "total_minutes_played": 51.14066666666667,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 19
+    },
+    {
+      "album_name": "Go",
+      "track_name": "Boy Lilikoi",
+      "total_minutes_played": 61.31065,
+      "artist_name": "Jónsi",
+      "play_count": 19
+    },
+    {
+      "album_name": "Too Weird to Live, Too Rare to Die!",
+      "track_name": "The End of All Things",
+      "total_minutes_played": 14.876783333333334,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 19
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Everything I Didn't Say",
+      "total_minutes_played": 42.25621666666667,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 18
+    },
+    {
+      "album_name": "Picture Show",
+      "track_name": "Everybody Talks",
+      "total_minutes_played": 45.859883333333336,
+      "artist_name": "Neon Trees",
+      "play_count": 18
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "track_name": "Fourth Of July",
+      "total_minutes_played": 56.248,
+      "artist_name": "Fall Out Boy",
+      "play_count": 18
+    },
+    {
+      "album_name": "Með suð i eyrum við spilum endalaust",
+      "track_name": "Við spilum endalaust",
+      "total_minutes_played": 29.048833333333334,
+      "artist_name": "Sigur Rós",
+      "play_count": 18
+    },
+    {
+      "album_name": "Hallelujah",
+      "track_name": "Hallelujah",
+      "total_minutes_played": 50.86638333333333,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 18
+    },
+    {
+      "album_name": "Too Weird to Live, Too Rare to Die!",
+      "track_name": "Nicotine",
+      "total_minutes_played": 52.59793333333333,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 18
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Voodoo Doll",
+      "total_minutes_played": 52.7844,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 18
+    },
+    {
+      "album_name": "From Under The Cork Tree",
+      "track_name": "Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued",
+      "total_minutes_played": 44.08886666666667,
+      "artist_name": "Fall Out Boy",
+      "play_count": 17
+    },
+    {
+      "album_name": "Emperor's New Clothes",
+      "track_name": "Emperor's New Clothes",
+      "total_minutes_played": 40.06935,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 17
+    },
+    {
+      "album_name": "All That We Needed",
+      "track_name": "Hey There Delilah",
+      "total_minutes_played": 35.95908333333333,
+      "artist_name": "Plain White T's",
+      "play_count": 17
+    },
+    {
+      "album_name": "Ghost Stories",
+      "track_name": "A Sky Full of Stars",
+      "total_minutes_played": 61.413866666666664,
+      "artist_name": "Coldplay",
+      "play_count": 17
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Kiss Me Kiss Me",
+      "total_minutes_played": 38.23688333333333,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 17
+    },
+    {
+      "album_name": "Big Hero 6",
+      "track_name": "Immortals",
+      "total_minutes_played": 39.15395,
+      "artist_name": "Fall Out Boy",
+      "play_count": 16
+    },
+    {
+      "album_name": "Big Hero 6 - Original Motion Picture Soundtrack",
+      "track_name": "Immortals",
+      "total_minutes_played": 42.45218333333333,
+      "artist_name": "Fall Out Boy",
+      "play_count": 16
+    },
+    {
+      "album_name": "Andrew McMahon In The Wilderness",
+      "track_name": "Cecilia And The Satellite",
+      "total_minutes_played": 37.65445,
+      "artist_name": "Andrew McMahon in the Wilderness",
+      "play_count": 16
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "End Up Here",
+      "total_minutes_played": 31.03076666666667,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 16
+    },
+    {
+      "album_name": "Lose Yourself",
+      "track_name": "Lose Yourself - Soundtrack Version",
+      "total_minutes_played": 40.16685,
+      "artist_name": "Eminem",
+      "play_count": 16
+    },
+    {
+      "album_name": "Aerosmith",
+      "track_name": "Dream On",
+      "total_minutes_played": 49.427,
+      "artist_name": "Aerosmith",
+      "play_count": 16
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Heartbreak Girl",
+      "total_minutes_played": 36.61306666666667,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 16
+    },
+    {
+      "album_name": "Lungs",
+      "track_name": "Dog Days Are Over",
+      "total_minutes_played": 43.06348333333333,
+      "artist_name": "Florence + The Machine",
+      "play_count": 16
+    },
+    {
+      "album_name": "Bittersweet Symphony",
+      "track_name": "Bittersweet Symphony",
+      "total_minutes_played": 42.53523333333333,
+      "artist_name": "The Aranbee Pop Symphony Orchestra",
+      "play_count": 16
+    },
+    {
+      "album_name": "Victorious",
+      "track_name": "Victorious",
+      "total_minutes_played": 41.81705,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 16
+    },
+    {
+      "album_name": "How To Save A Life",
+      "track_name": "How to Save a Life",
+      "total_minutes_played": 56.909216666666666,
+      "artist_name": "The Fray",
+      "play_count": 15
+    },
+    {
+      "album_name": "Bad Blood",
+      "track_name": "Pompeii",
+      "total_minutes_played": 32.2559,
+      "artist_name": "Bastille",
+      "play_count": 15
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Long Way Home",
+      "total_minutes_played": 38.479366666666664,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 15
+    },
+    {
+      "album_name": "Viva La Vida or Death and All His Friends",
+      "track_name": "Viva La Vida",
+      "total_minutes_played": 60.59325,
+      "artist_name": "Coldplay",
+      "play_count": 15
+    },
+    {
+      "album_name": "Boys Like Girls",
+      "track_name": "The Great Escape",
+      "total_minutes_played": 38.03535,
+      "artist_name": "BOYS LIKE GIRLS",
+      "play_count": 15
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Never Be",
+      "total_minutes_played": 25.615316666666665,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 15
+    },
+    {
+      "album_name": "American Beauty/American Psycho",
+      "track_name": "The Kids Aren't Alright",
+      "total_minutes_played": 42.55213333333333,
+      "artist_name": "Fall Out Boy",
+      "play_count": 15
+    },
+    {
+      "album_name": "Hands All Over",
+      "track_name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "total_minutes_played": 46.95086666666667,
+      "artist_name": "Maroon 5",
+      "play_count": 15
+    },
+    {
+      "album_name": "Handwritten",
+      "track_name": "Life Of The Party",
+      "total_minutes_played": 42.9585,
+      "artist_name": "Shawn Mendes",
+      "play_count": 15
+    },
+    {
+      "album_name": "Celebrate",
+      "track_name": "Don't You (Forget About Me) - Remastered",
+      "total_minutes_played": 33.68813333333333,
+      "artist_name": "Simple Minds",
+      "play_count": 14
+    },
+    {
+      "album_name": "Pretty. Odd.",
+      "track_name": "Northern Downpour",
+      "total_minutes_played": 43.72708333333333,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 14
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Mrs All American",
+      "total_minutes_played": 34.63871666666667,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 14
+    },
+    {
+      "album_name": "Somebody To You",
+      "track_name": "Somebody To You",
+      "total_minutes_played": 36.6965,
+      "artist_name": "The Vamps",
+      "play_count": 13
+    },
+    {
+      "album_name": "151a",
+      "track_name": "Chester's Burst Over the Hamptons",
+      "total_minutes_played": 14.899333333333333,
+      "artist_name": "Kishi Bashi",
+      "play_count": 13
+    },
+    {
+      "album_name": "Magazines Or Novels",
+      "track_name": "Honey, I'm Good.",
+      "total_minutes_played": 43.17365,
+      "artist_name": "Andy Grammer",
+      "play_count": 13
+    },
+    {
+      "album_name": "Ghost Stories",
+      "track_name": "Oceans",
+      "total_minutes_played": 22.415283333333335,
+      "artist_name": "Coldplay",
+      "play_count": 13
+    },
+    {
+      "album_name": "Uptown Special",
+      "track_name": "Uptown Funk (feat. Bruno Mars)",
+      "total_minutes_played": 31.69035,
+      "artist_name": "Mark Ronson",
+      "play_count": 13
+    },
+    {
+      "album_name": "Pop Psychology",
+      "track_name": "Sleeping With A Friend",
+      "total_minutes_played": 27.02415,
+      "artist_name": "Neon Trees",
+      "play_count": 13
+    },
+    {
+      "album_name": "The Black Parade",
+      "track_name": "Welcome to the Black Parade",
+      "total_minutes_played": 67.4063,
+      "artist_name": "My Chemical Romance",
+      "play_count": 13
+    },
+    {
+      "album_name": "Gossamer",
+      "track_name": "Take a Walk",
+      "total_minutes_played": 48.65096666666667,
+      "artist_name": "Passion Pit",
+      "play_count": 13
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Amnesia",
+      "total_minutes_played": 28.577,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 13
+    },
+    {
+      "album_name": "Pretty. Odd.",
+      "track_name": "Do You Know What I'm Seeing?",
+      "total_minutes_played": 34.66951666666667,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 13
+    },
+    {
+      "album_name": "Rise And Fall, Rage And Grace",
+      "track_name": "Half-Truism",
+      "total_minutes_played": 35.42296666666667,
+      "artist_name": "The Offspring",
+      "play_count": 13
+    },
+    {
+      "album_name": "The Best Yet",
+      "track_name": "Meant to Live",
+      "total_minutes_played": 24.894133333333333,
+      "artist_name": "Switchfoot",
+      "play_count": 13
+    },
+    {
+      "album_name": "5 Seconds Of Summer",
+      "track_name": "Beside You",
+      "total_minutes_played": 31.221283333333332,
+      "artist_name": "5 Seconds of Summer",
+      "play_count": 13
+    },
+    {
+      "album_name": "The Truth About Love",
+      "track_name": "Slut Like You",
+      "total_minutes_played": 44.30801666666667,
+      "artist_name": "P!nk",
+      "play_count": 12
+    },
+    {
+      "album_name": "Pretty. Odd.",
+      "track_name": "The Piano Knows Something I Don't Know",
+      "total_minutes_played": 21.093,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 12
+    },
+    {
+      "album_name": "Takk",
+      "track_name": "Hoppípolla",
+      "total_minutes_played": 18.365866666666665,
+      "artist_name": "Sigur Rós",
+      "play_count": 12
+    },
+    {
+      "album_name": "Infinity On High",
+      "track_name": "Thnks fr th Mmrs",
+      "total_minutes_played": 33.93468333333333,
+      "artist_name": "Fall Out Boy",
+      "play_count": 12
+    },
+    {
+      "album_name": "Vices & Virtues",
+      "track_name": "Trade Mistakes",
+      "total_minutes_played": 39.665416666666665,
+      "artist_name": "Panic! At The Disco",
+      "play_count": 12
+    },
+    {
+      "album_name": "TALKING IS HARD",
+      "track_name": "Shut Up and Dance",
+      "total_minutes_played": 36.5545,
+      "artist_name": "WALK THE MOON",
+      "play_count": 12
+    },
+    {
+      "album_name": "BADLANDS",
+      "track_name": "Hold Me Down",
+      "total_minutes_played": 27.476566666666667,
+      "artist_name": "Halsey",
+      "play_count": 12
+    }
+  ],
+  "user_averages": {
+    "Alexandra": {
+      "avg_daily_unique_tracks": 39.67844522968198,
+      "avg_daily_unique_artists": 19.47735303565692,
+      "avg_shuffle_rate": 0.7494378413106328,
+      "avg_monthly_plays": 437.35721169290076,
+      "avg_ms_played": 157336.10247349823,
+      "avg_skip_rate": 0.29938965628011566,
+      "avg_offline_rate": 0,
+      "avg_yearly_plays": 3113,
+      "avg_daily_plays": 45.37520077096049
+    }
+  },
+  "user_session_lengths_minutes": {
+    "Alexandra": 42.16066882845188
+  }
+}

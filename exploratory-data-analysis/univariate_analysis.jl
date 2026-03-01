@@ -544,17 +544,122 @@ function run_univariate_analysis(names; year=nothing)
       println("    Total minutes played: $(round(row.total_minutes_played; digits=4))")
     end
   end
+
+  # Save JSON
+
+  year_suffix = year === nothing ? "alltime" : string(year)
+  println("\nSaving JSON...")
+
+  ga = first(group_averages)
+  gsl = first(group_avg_session_length)
+
+  data = Dict(
+    "group_averages" => Dict(
+      "avg_ms_played" => Float64(ga.avg_ms_played),
+      "avg_skip_rate" => Float64(ga.avg_skip_rate),
+      "avg_shuffle_rate" => Float64(ga.avg_shuffle_rate),
+      "avg_offline_rate" => Float64(ga.avg_offline_rate),
+      "avg_daily_plays" => Float64(ga.avg_daily_plays),
+      "avg_daily_unique_tracks" => Float64(ga.avg_daily_unique_tracks),
+      "avg_daily_unique_artists" => Float64(ga.avg_daily_unique_artists),
+      "avg_monthly_plays" => Float64(ga.avg_monthly_plays),
+      "avg_yearly_plays" => Float64(ga.avg_yearly_plays),
+    ),
+    "user_averages" => Dict(
+      get(names, String(row.username), String(row.username)) => Dict(
+        "avg_ms_played" => Float64(row.avg_ms_played),
+        "avg_skip_rate" => Float64(row.avg_skip_rate),
+        "avg_shuffle_rate" => Float64(row.avg_shuffle_rate),
+        "avg_offline_rate" => Float64(row.avg_offline_rate),
+        "avg_daily_plays" => Float64(row.avg_daily_plays),
+        "avg_daily_unique_tracks" => Float64(row.avg_daily_unique_tracks),
+        "avg_daily_unique_artists" => Float64(row.avg_daily_unique_artists),
+        "avg_monthly_plays" => Float64(row.avg_monthly_plays),
+        "avg_yearly_plays" => Float64(row.avg_yearly_plays),
+      )
+      for row in eachrow(user_averages)
+    ),
+    "group_session_length_minutes" => Float64(gsl.avg_session_length_minutes),
+    "user_session_lengths_minutes" => Dict(
+      get(names, String(row.username), String(row.username)) =>
+        Float64(row.avg_session_length_minutes)
+      for row in eachrow(user_avg_session_length)
+    ),
+    "group_top_tracks" => [
+      Dict(
+        "track_name" => String(row.track_name),
+        "artist_name" => String(row.artist_name),
+        "album_name" => String(row.album_name),
+        "play_count" => Int(row.play_count),
+        "total_minutes_played" => Float64(row.total_minutes_played),
+      )
+      for row in eachrow(group_top_tracks)
+    ],
+    "group_top_artists" => [
+      Dict(
+        "artist_name" => String(row.artist_name),
+        "play_count" => Int(row.play_count),
+        "total_minutes_played" => Float64(row.total_minutes_played),
+      )
+      for row in eachrow(group_top_artists)
+    ],
+    "group_top_albums" => [
+      Dict(
+        "album_name" => String(row.album_name),
+        "artist_name" => String(row.artist_name),
+        "play_count" => Int(row.play_count),
+        "total_minutes_played" => Float64(row.total_minutes_played),
+      )
+      for row in eachrow(group_top_albums)
+    ],
+    "user_top_tracks" => Dict(
+      name => [
+        Dict(
+          "track_name" => String(row.track_name),
+          "artist_name" => String(row.artist_name),
+          "album_name" => String(row.album_name),
+          "play_count" => Int(row.play_count),
+          "total_minutes_played" => Float64(row.total_minutes_played),
+        )
+        for row in eachrow(df)
+      ]
+      for (name, df) in user_top_tracks
+    ),
+    "user_top_artists" => Dict(
+      name => [
+        Dict(
+          "artist_name" => String(row.artist_name),
+          "play_count" => Int(row.play_count),
+          "total_minutes_played" => Float64(row.total_minutes_played),
+        )
+        for row in eachrow(df)
+      ]
+      for (name, df) in user_top_artists
+    ),
+    "user_top_albums" => Dict(
+      name => [
+        Dict(
+          "album_name" => String(row.album_name),
+          "artist_name" => String(row.artist_name),
+          "play_count" => Int(row.play_count),
+          "total_minutes_played" => Float64(row.total_minutes_played),
+        )
+        for row in eachrow(df)
+      ]
+      for (name, df) in user_top_albums
+    ),
+  )
+
+  save_json("univariate_analysis_$year_suffix.json", data)
 end
 
 function univariate_analysis(names)
-  println("ALL-TIME STATISITCS")
-  # run_univariate_analysis(names)
+  println("ALL-TIME STATISTICS")
+  run_univariate_analysis(names)
 
-  println("\nPER-YEAR STATISITCS")
+  println("\nPER-YEAR STATISTICS")
   for year in 2015:2026
     println("\nYear: $year")
     run_univariate_analysis(names, year=year)
   end
-
-  println("Saving JSON...")
 end
