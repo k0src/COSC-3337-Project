@@ -2,13 +2,6 @@ using DataFrames
 using CairoMakie
 using StatsBase
 
-names = Dict(
-  "korenns" => "Koren",
-  "alexxxxxrs" => "Alexandra",
-  "alanjzamora" => "Alan",
-  "dasucc" => "Anthony",
-)
-
 # Data
 
 function get_group_summary()
@@ -257,7 +250,7 @@ end
 
 # Main
 
-function summary_statistics()
+function summary_statistics(names)
   group = first(get_group_summary())
 
   println("Group Statistics\n")

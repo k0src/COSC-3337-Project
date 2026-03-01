@@ -1,6 +1,13 @@
 include("database.jl")
 include("summary_statistics.jl")
 
+names = Dict(
+  "korenns" => "Koren",
+  "alexxxxxrs" => "Alexandra",
+  "alanjzamora" => "Alan",
+  "dasucc" => "Anthony",
+)
+
 const MENU = [
   ("Summary Statistics", summary_statistics),
 ]
@@ -31,7 +38,7 @@ function main()
 
     label, fn = MENU[choice]
     println("\n$label\n")
-    fn()
+    fn(names)
   end
 end
 

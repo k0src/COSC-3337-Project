@@ -226,6 +226,15 @@ summary stats: visualizations
 - explain all the functions
 
 Univariate analysis
+- mean, median, mode, range, sd for each attribute
+- mean, median, mode, range, sd for each user for each attribute
+- avg daily plays for each user  - histogram
+- avg daily unique tracks for each user
+- avg monthly plays for each user
+- avg session length for each user
+- skip rate for each user
+- shuffle rate for each user
+- offline rate for each user
 
 Bivariate analysis
 
