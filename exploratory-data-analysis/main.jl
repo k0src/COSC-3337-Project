@@ -1,3 +1,4 @@
+include("utils.jl")
 include("database.jl")
 include("summary_statistics.jl")
 include("univariate_analysis.jl")

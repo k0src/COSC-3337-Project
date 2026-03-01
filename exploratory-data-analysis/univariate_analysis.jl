@@ -547,7 +547,7 @@ function run_univariate_analysis(names; year=nothing)
 end
 
 function univariate_analysis(names)
-  println("\nALL-TIME STATISITCS")
+  println("ALL-TIME STATISITCS")
 
   # run_univariate_analysis(names)
 

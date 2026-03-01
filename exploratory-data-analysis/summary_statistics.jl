@@ -53,11 +53,11 @@ function get_events_over_time()
   query = """
     SELECT
       username,
-      TO_CHAR(DATE_TRUNC('month', timestamp), 'YYYY-MM') AS month,
+      DATE_TRUNC('day', timestamp)::DATE::TEXT AS date,
       COUNT(*) AS events
     FROM listening_history
-    GROUP BY username, month
-    ORDER BY username, month
+    GROUP BY username, date
+    ORDER BY username, date
   """
 
   df = DataFrame(execute(conn, query))
@@ -149,14 +149,12 @@ function plot_unique_albums_per_user(df)
   println("Plot saved to unique_albums_per_user.png")
 end
 
-function plot_events_over_time()
-  df = get_events_over_time()
+function plot_events_over_time(df)
+  all_dates = sort(unique(String.(df.date)))
+  date_index = Dict(d => i for (i, d) in enumerate(all_dates))
 
-  all_months = sort(unique(String.(df.month)))
-  month_index = Dict(m => i for (i, m) in enumerate(all_months))
-
-  jan_positions = [month_index[m] for m in all_months if endswith(m, "-01")]
-  jan_labels = [m[1:4] for m in all_months if endswith(m, "-01")]
+  jan_positions = [date_index[d] for d in all_dates if endswith(d, "-01-01")]
+  jan_labels = [d[1:4] for d in all_dates if endswith(d, "-01-01")]
 
   fig = Figure(size=(1200, 500))
   ax = Axis(fig[1, 1],
@@ -170,9 +168,9 @@ function plot_events_over_time()
 
   for (i, (username, display_name)) in enumerate(names)
     user_df = filter(row -> row.username == username, df)
-    sort!(user_df, :month)
+    sort!(user_df, :date)
 
-    xs = [month_index[m] for m in String.(user_df.month)]
+    xs = [date_index[d] for d in String.(user_df.date)]
     ys = Int.(user_df.events)
 
     lines!(ax, xs, ys, label=display_name, color=colors[i])
@@ -183,9 +181,8 @@ function plot_events_over_time()
   println("Plot saved to events_over_time.png")
 end
 
-function plot_listening_times(username)
+function plot_listening_times(username, df)
   display_name = get(names, username, username)
-  df = get_hourly_counts(username)
 
   counts = zeros(Int, 24)
   for row in eachrow(df)
@@ -248,10 +245,17 @@ function plot_listening_times(username)
   println("Plot saved to $fname")
 end
 
-# Main
+function run_summary_statistics(names)
+  println("Calculating...\n")
 
-function summary_statistics(names)
+  # Fetch data
+
   group = first(get_group_summary())
+  user_summary = get_user_summary()
+  events_df = get_events_over_time()
+  hourly_dfs = Dict(username => get_hourly_counts(username) for username in keys(names))
+
+  # Print data
 
   println("Group Statistics\n")
 
@@ -263,8 +267,6 @@ function summary_statistics(names)
   println("Unique countries: $(group.unique_countries)")
 
   println("\nIndividual Statistics\n")
-
-  user_summary = get_user_summary()
 
   for row in eachrow(user_summary)
     name = get(names, row.username, row.username)
@@ -278,15 +280,71 @@ function summary_statistics(names)
     println("  Unique countries: $(row.unique_countries)\n")
   end
 
+  # Generate plots
+
   println("Generating plots...")
 
   plot_total_events_per_user(user_summary)
   plot_unique_tracks_per_user(user_summary)
   plot_unique_artists_per_user(user_summary)
   plot_unique_albums_per_user(user_summary)
-  plot_events_over_time()
+  plot_events_over_time(events_df)
 
   for username in keys(names)
-    plot_listening_times(username)
+    plot_listening_times(username, hourly_dfs[username])
   end
+
+  # Save JSON
+
+  println("Saving JSON...")
+
+  summary_data = Dict(
+    "group" => Dict(
+      "total_events" => Int(group.total_events),
+      "unique_tracks" => Int(group.unique_tracks),
+      "unique_artists" => Int(group.unique_artists),
+      "unique_albums" => Int(group.unique_albums),
+      "unique_platforms" => Int(group.unique_platforms),
+      "unique_countries" => Int(group.unique_countries),
+    ),
+    "individual" => Dict(
+      get(names, String(row.username), String(row.username)) => Dict(
+        "total_events" => Int(row.total_events),
+        "unique_tracks" => Int(row.unique_tracks),
+        "unique_artists" => Int(row.unique_artists),
+        "unique_albums" => Int(row.unique_albums),
+        "unique_platforms" => Int(row.unique_platforms),
+        "unique_countries" => Int(row.unique_countries),
+      )
+      for row in eachrow(user_summary)
+    ),
+  )
+
+  events_data = Dict(
+    get(names, username, username) => begin
+      user_df = filter(r -> r.username == username, events_df)
+      sort!(user_df, :date)
+      Dict(String(r.date) => Int(r.events) for r in eachrow(user_df))
+    end
+    for username in keys(names)
+  )
+
+  hourly_data = Dict(
+    get(names, username, username) => begin
+      df = hourly_dfs[username]
+      Dict(string(Int(r.hour)) => Int(r.events) for r in eachrow(df))
+    end
+    for username in keys(names)
+  )
+
+  save_json("summary_statistics_alltime.json", summary_data)
+  save_json("events_over_time_alltime.json", events_data)
+  save_json("hourly_counts_alltime.json", hourly_data)
+end
+
+# Main
+
+function summary_statistics(names)
+  println("ALL-TIME STATISITCS\n")
+  println("PER-YEAR STATISITCS\n")
 end
