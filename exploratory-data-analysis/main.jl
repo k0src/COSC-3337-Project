@@ -1,5 +1,6 @@
 include("database.jl")
 include("summary_statistics.jl")
+include("univariate_analysis.jl")
 
 names = Dict(
   "korenns" => "Koren",
@@ -10,6 +11,7 @@ names = Dict(
 
 const MENU = [
   ("Summary Statistics", summary_statistics),
+  ("Univariate Analysis", univariate_analysis),
 ]
 
 function main()
