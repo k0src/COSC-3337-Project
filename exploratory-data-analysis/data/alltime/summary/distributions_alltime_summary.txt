@@ -1,0 +1,411 @@
+users (4)
+  Anthony (5)
+    plays_per_album (2)
+      data (4355)
+        album_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_artist (2)
+      data (1296)
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_track (2)
+      data (8254)
+        track_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    daily_play_count (2)
+      data (1248)
+        date
+        play_count
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+    session_length (2)
+      data (3025)
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+  Alexandra (5)
+    plays_per_album (2)
+      data (2407)
+        album_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_artist (2)
+      data (1064)
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_track (2)
+      data (4334)
+        track_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    daily_play_count (2)
+      data (3508)
+        date
+        play_count
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+    session_length (2)
+      data (11122)
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+  Koren (5)
+    plays_per_album (2)
+      data (8402)
+        album_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_artist (2)
+      data (4039)
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_track (2)
+      data (13803)
+        track_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    daily_play_count (2)
+      data (2845)
+        date
+        play_count
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+    session_length (2)
+      data (10458)
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+  Alan (5)
+    plays_per_album (2)
+      data (3924)
+        album_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_artist (2)
+      data (1695)
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    plays_per_track (2)
+      data (9475)
+        track_name
+        artist_name
+        play_count
+      stats (12)
+        q1
+        variance
+        q3
+        entropy
+        max
+        skewness
+        median
+        min
+        gini
+        mean
+        modes (1)
+        std
+    daily_play_count (2)
+      data (2876)
+        date
+        play_count
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+    session_length (2)
+      data (15331)
+      stats (10)
+        q1
+        median
+        std
+        variance
+        max
+        min
+        skewness
+        mean
+        modes (1)
+        q3
+group (5)
+  plays_per_album (2)
+    data (14421)
+      album_name
+      artist_name
+      play_count
+    stats (12)
+      q1
+      variance
+      q3
+      entropy
+      max
+      skewness
+      median
+      min
+      gini
+      mean
+      modes (1)
+      std
+  plays_per_artist (2)
+    data (5929)
+      artist_name
+      play_count
+    stats (12)
+      q1
+      variance
+      q3
+      entropy
+      max
+      skewness
+      median
+      min
+      gini
+      mean
+      modes (1)
+      std
+  plays_per_track (2)
+    data (26975)
+      track_name
+      artist_name
+      play_count
+    stats (12)
+      q1
+      variance
+      q3
+      entropy
+      max
+      skewness
+      median
+      min
+      gini
+      mean
+      modes (1)
+      std
+  daily_play_count (2)
+    data (3746)
+      date
+      play_count
+    stats (10)
+      q1
+      median
+      std
+      variance
+      max
+      min
+      skewness
+      mean
+      modes (1)
+      q3
+  session_length (2)
+    data (39936)
+    stats (10)
+      q1
+      median
+      std
+      variance
+      max
+      min
+      skewness
+      mean
+      modes (1)
+      q3

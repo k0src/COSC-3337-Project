@@ -114,6 +114,8 @@ Exploratory Data Analysis
 + patterns
 + anomalies
 
+/* =================================== --- ================================== */
+
 Exploratory Data Analysis
 
 Summary stats - done
@@ -226,7 +228,7 @@ summary stats: visualizations
 - listening clock - listening_times_name.png - clock plot for each user showing when they listen to music
 - explain all the functions & methodology 
 
-Univariate analysis
+Univariate analysis - done
 
 - averages - group and per user:
 
@@ -353,12 +355,32 @@ OUTLIERS
 - Pareto chart
 - lorenz curve
 - histogram of log counts
+  
 - same thing for
   - plays per track
   - plays per artist
   - session length
 
 DISTRIBUTIONS
+- Daily Listening Counts
+  - symmetric?
+  - right-skewed?
+  - long tail?
+  - typical daily listening volume
+- daily plot count per user
+- plot histogram ~50 bins
+- overlay density curve
+- compute mean, median, sd, skewness, kurtosis
+- boxplot
+- log scale histogram
+- median diff from mean?
+- one user has higher variance?
+- multiple modes?
+  
+- and do this for
+  - plays per track
+  - plays per artist
+  - session length
 
 Bivariate analysis
 

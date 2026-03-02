@@ -1,0 +1,77 @@
+users (4)
+  Anthony (5)
+    plays_per_album (189)
+      album_name
+      artist_name
+      play_count
+    plays_per_artist (47)
+      artist_name
+      play_count
+    plays_per_track (283)
+      track_name
+      artist_name
+      play_count
+    daily_play_count (89)
+      date
+      play_count
+    session_length (0)
+  Alexandra (5)
+    plays_per_album (0)
+    plays_per_artist (3)
+      artist_name
+      play_count
+    plays_per_track (0)
+    daily_play_count (191)
+      date
+      play_count
+    session_length (299)
+      session_length_minutes
+  Koren (5)
+    plays_per_album (56)
+      album_name
+      artist_name
+      play_count
+    plays_per_artist (53)
+      artist_name
+      play_count
+    plays_per_track (43)
+      track_name
+      artist_name
+      play_count
+    daily_play_count (158)
+      date
+      play_count
+    session_length (0)
+  Alan (5)
+    plays_per_album (348)
+      album_name
+      artist_name
+      play_count
+    plays_per_artist (121)
+      artist_name
+      play_count
+    plays_per_track (235)
+      track_name
+      artist_name
+      play_count
+    daily_play_count (94)
+      date
+      play_count
+    session_length (0)
+group (5)
+  plays_per_album (337)
+    album_name
+    artist_name
+    play_count
+  plays_per_artist (134)
+    artist_name
+    play_count
+  plays_per_track (339)
+    track_name
+    artist_name
+    play_count
+  daily_play_count (67)
+    date
+    play_count
+  session_length (5)
+    session_length_minutes
