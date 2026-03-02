@@ -1,0 +1,302 @@
+{
+  "users": {
+    "Anthony": {
+      "plays_per_album": [],
+      "plays_per_artist": [],
+      "plays_per_track": [],
+      "daily_play_count": [],
+      "session_length": []
+    },
+    "Alexandra": {
+      "plays_per_album": [
+        {
+          "album_name": "Death of a Bachelor",
+          "artist_name": "Panic! At The Disco",
+          "play_count": 521
+        },
+        {
+          "album_name": "Pretty. Odd.",
+          "artist_name": "Panic! At The Disco",
+          "play_count": 269
+        },
+        {
+          "album_name": "Around the World and Back",
+          "artist_name": "State Champs",
+          "play_count": 258
+        },
+        {
+          "album_name": "5 Seconds Of Summer",
+          "artist_name": "5 Seconds of Summer",
+          "play_count": 256
+        },
+        {
+          "album_name": "BADLANDS",
+          "artist_name": "Halsey",
+          "play_count": 248
+        },
+        {
+          "album_name": "That's The Spirit",
+          "artist_name": "Bring Me The Horizon",
+          "play_count": 242
+        },
+        {
+          "album_name": "Too Weird to Live, Too Rare to Die!",
+          "artist_name": "Panic! At The Disco",
+          "play_count": 238
+        },
+        {
+          "album_name": "Wishful Thinking",
+          "artist_name": "Neck Deep",
+          "play_count": 234
+        },
+        {
+          "album_name": "The Finer Things",
+          "artist_name": "State Champs",
+          "play_count": 233
+        }
+      ],
+      "plays_per_artist": [
+        {
+          "artist_name": "Panic! At The Disco",
+          "play_count": 1381
+        },
+        {
+          "artist_name": "State Champs",
+          "play_count": 794
+        },
+        {
+          "artist_name": "Bring Me The Horizon",
+          "play_count": 772
+        },
+        {
+          "artist_name": "Neck Deep",
+          "play_count": 761
+        },
+        {
+          "artist_name": "My Chemical Romance",
+          "play_count": 478
+        },
+        {
+          "artist_name": "Breathe Carolina",
+          "play_count": 444
+        },
+        {
+          "artist_name": "Shawn Mendes",
+          "play_count": 399
+        },
+        {
+          "artist_name": "Seether",
+          "play_count": 382
+        },
+        {
+          "artist_name": "blink-182",
+          "play_count": 370
+        },
+        {
+          "artist_name": "5 Seconds of Summer",
+          "play_count": 353
+        }
+      ],
+      "plays_per_track": [],
+      "daily_play_count": [
+        {
+          "date": "2016-04-27",
+          "play_count": 216
+        },
+        {
+          "date": "2016-11-10",
+          "play_count": 188
+        },
+        {
+          "date": "2016-06-14",
+          "play_count": 177
+        },
+        {
+          "date": "2016-07-27",
+          "play_count": 159
+        },
+        {
+          "date": "2016-10-11",
+          "play_count": 153
+        },
+        {
+          "date": "2016-11-23",
+          "play_count": 144
+        },
+        {
+          "date": "2016-09-30",
+          "play_count": 140
+        },
+        {
+          "date": "2016-10-09",
+          "play_count": 138
+        },
+        {
+          "date": "2016-09-09",
+          "play_count": 136
+        }
+      ],
+      "session_length": []
+    },
+    "Koren": {
+      "plays_per_album": [],
+      "plays_per_artist": [
+        {
+          "artist_name": "Drake",
+          "play_count": 265
+        }
+      ],
+      "plays_per_track": [],
+      "daily_play_count": [
+        {
+          "date": "2016-10-12",
+          "play_count": 208
+        },
+        {
+          "date": "2016-10-16",
+          "play_count": 197
+        },
+        {
+          "date": "2016-11-13",
+          "play_count": 184
+        },
+        {
+          "date": "2016-12-04",
+          "play_count": 165
+        },
+        {
+          "date": "2016-07-26",
+          "play_count": 154
+        },
+        {
+          "date": "2016-11-09",
+          "play_count": 145
+        },
+        {
+          "date": "2016-10-17",
+          "play_count": 117
+        }
+      ],
+      "session_length": []
+    },
+    "Alan": {
+      "plays_per_album": [],
+      "plays_per_artist": [],
+      "plays_per_track": [],
+      "daily_play_count": [
+        {
+          "date": "2016-08-28",
+          "play_count": 65
+        },
+        {
+          "date": "2016-11-25",
+          "play_count": 61
+        }
+      ],
+      "session_length": []
+    }
+  },
+  "group": {
+    "plays_per_album": [
+      {
+        "album_name": "Death of a Bachelor",
+        "artist_name": "Panic! At The Disco",
+        "play_count": 521
+      }
+    ],
+    "plays_per_artist": [
+      {
+        "artist_name": "Panic! At The Disco",
+        "play_count": 1382
+      },
+      {
+        "artist_name": "State Champs",
+        "play_count": 794
+      },
+      {
+        "artist_name": "Bring Me The Horizon",
+        "play_count": 772
+      },
+      {
+        "artist_name": "Neck Deep",
+        "play_count": 761
+      },
+      {
+        "artist_name": "My Chemical Romance",
+        "play_count": 478
+      },
+      {
+        "artist_name": "Breathe Carolina",
+        "play_count": 444
+      },
+      {
+        "artist_name": "Shawn Mendes",
+        "play_count": 432
+      },
+      {
+        "artist_name": "Seether",
+        "play_count": 382
+      },
+      {
+        "artist_name": "blink-182",
+        "play_count": 370
+      },
+      {
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 353
+      },
+      {
+        "artist_name": "Fall Out Boy",
+        "play_count": 341
+      }
+    ],
+    "plays_per_track": [],
+    "daily_play_count": [
+      {
+        "date": "2016-10-16",
+        "play_count": 308
+      },
+      {
+        "date": "2016-10-12",
+        "play_count": 263
+      },
+      {
+        "date": "2016-11-13",
+        "play_count": 238
+      },
+      {
+        "date": "2016-04-27",
+        "play_count": 216
+      },
+      {
+        "date": "2016-11-10",
+        "play_count": 189
+      },
+      {
+        "date": "2016-07-27",
+        "play_count": 187
+      },
+      {
+        "date": "2016-12-04",
+        "play_count": 183
+      },
+      {
+        "date": "2016-10-23",
+        "play_count": 180
+      },
+      {
+        "date": "2016-06-14",
+        "play_count": 177
+      },
+      {
+        "date": "2016-09-16",
+        "play_count": 166
+      },
+      {
+        "date": "2016-10-11",
+        "play_count": 164
+      }
+    ],
+    "session_length": []
+  }
+}

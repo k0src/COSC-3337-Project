@@ -1,0 +1,269 @@
+{
+  "users": {
+    "Anthony": {
+      "plays_per_album": [],
+      "plays_per_artist": [],
+      "plays_per_track": [],
+      "daily_play_count": [],
+      "session_length": []
+    },
+    "Alexandra": {
+      "plays_per_album": [
+        {
+          "album_name": "5 Seconds Of Summer",
+          "artist_name": "5 Seconds of Summer",
+          "play_count": 268
+        },
+        {
+          "album_name": "Pretty. Odd.",
+          "artist_name": "Panic! At The Disco",
+          "play_count": 175
+        },
+        {
+          "album_name": "American Beauty/American Psycho",
+          "artist_name": "Fall Out Boy",
+          "play_count": 162
+        },
+        {
+          "album_name": "Too Weird to Live, Too Rare to Die!",
+          "artist_name": "Panic! At The Disco",
+          "play_count": 153
+        }
+      ],
+      "plays_per_artist": [
+        {
+          "artist_name": "Panic! At The Disco",
+          "play_count": 562
+        },
+        {
+          "artist_name": "Fall Out Boy",
+          "play_count": 341
+        },
+        {
+          "artist_name": "5 Seconds of Summer",
+          "play_count": 301
+        }
+      ],
+      "plays_per_track": [],
+      "daily_play_count": [
+        {
+          "date": "2015-12-03",
+          "play_count": 106
+        },
+        {
+          "date": "2015-07-29",
+          "play_count": 103
+        },
+        {
+          "date": "2015-07-30",
+          "play_count": 100
+        },
+        {
+          "date": "2015-11-27",
+          "play_count": 95
+        },
+        {
+          "date": "2015-11-28",
+          "play_count": 95
+        },
+        {
+          "date": "2015-03-09",
+          "play_count": 92
+        },
+        {
+          "date": "2015-11-19",
+          "play_count": 72
+        },
+        {
+          "date": "2015-03-17",
+          "play_count": 66
+        },
+        {
+          "date": "2015-06-05",
+          "play_count": 63
+        },
+        {
+          "date": "2015-12-31",
+          "play_count": 62
+        }
+      ],
+      "session_length": [
+        {
+          "session_length_minutes": 433.2126666666667
+        },
+        {
+          "session_length_minutes": 381.11266666666666
+        },
+        {
+          "session_length_minutes": 1.0433333333333332
+        },
+        {
+          "session_length_minutes": 0.6795666666666667
+        },
+        {
+          "session_length_minutes": 0.5903166666666667
+        },
+        {
+          "session_length_minutes": 0.35333333333333333
+        },
+        {
+          "session_length_minutes": 0.15216666666666667
+        },
+        {
+          "session_length_minutes": 0.09751666666666667
+        },
+        {
+          "session_length_minutes": 0.0236
+        },
+        {
+          "session_length_minutes": 0.017016666666666666
+        },
+        {
+          "session_length_minutes": 0.017016666666666666
+        },
+        {
+          "session_length_minutes": 0
+        },
+        {
+          "session_length_minutes": 0
+        }
+      ]
+    },
+    "Koren": {
+      "plays_per_album": [],
+      "plays_per_artist": [],
+      "plays_per_track": [],
+      "daily_play_count": [],
+      "session_length": []
+    },
+    "Alan": {
+      "plays_per_album": [],
+      "plays_per_artist": [],
+      "plays_per_track": [],
+      "daily_play_count": [],
+      "session_length": []
+    }
+  },
+  "group": {
+    "plays_per_album": [
+      {
+        "album_name": "5 Seconds Of Summer",
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 268
+      },
+      {
+        "album_name": "Pretty. Odd.",
+        "artist_name": "Panic! At The Disco",
+        "play_count": 175
+      },
+      {
+        "album_name": "American Beauty/American Psycho",
+        "artist_name": "Fall Out Boy",
+        "play_count": 162
+      },
+      {
+        "album_name": "Too Weird to Live, Too Rare to Die!",
+        "artist_name": "Panic! At The Disco",
+        "play_count": 153
+      }
+    ],
+    "plays_per_artist": [
+      {
+        "artist_name": "Panic! At The Disco",
+        "play_count": 562
+      },
+      {
+        "artist_name": "Fall Out Boy",
+        "play_count": 341
+      },
+      {
+        "artist_name": "5 Seconds of Summer",
+        "play_count": 301
+      }
+    ],
+    "plays_per_track": [],
+    "daily_play_count": [
+      {
+        "date": "2015-12-03",
+        "play_count": 106
+      },
+      {
+        "date": "2015-07-29",
+        "play_count": 103
+      },
+      {
+        "date": "2015-07-30",
+        "play_count": 100
+      },
+      {
+        "date": "2015-11-27",
+        "play_count": 95
+      },
+      {
+        "date": "2015-11-28",
+        "play_count": 95
+      },
+      {
+        "date": "2015-03-09",
+        "play_count": 92
+      },
+      {
+        "date": "2015-11-19",
+        "play_count": 72
+      },
+      {
+        "date": "2015-03-17",
+        "play_count": 66
+      },
+      {
+        "date": "2015-06-05",
+        "play_count": 63
+      },
+      {
+        "date": "2015-12-31",
+        "play_count": 62
+      }
+    ],
+    "session_length": [
+      {
+        "session_length_minutes": 433.2126666666667
+      },
+      {
+        "session_length_minutes": 381.11266666666666
+      },
+      {
+        "session_length_minutes": 1.0433333333333332
+      },
+      {
+        "session_length_minutes": 0.6795666666666667
+      },
+      {
+        "session_length_minutes": 0.5903166666666667
+      },
+      {
+        "session_length_minutes": 0.35333333333333333
+      },
+      {
+        "session_length_minutes": 0.15216666666666667
+      },
+      {
+        "session_length_minutes": 0.09751666666666667
+      },
+      {
+        "session_length_minutes": 0.0236
+      },
+      {
+        "session_length_minutes": 0.017016666666666666
+      },
+      {
+        "session_length_minutes": 0.017016666666666666
+      },
+      {
+        "session_length_minutes": 0
+      },
+      {
+        "session_length_minutes": 0
+      }
+    ]
+  }
+}

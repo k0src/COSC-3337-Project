@@ -1,0 +1,1601 @@
+{
+  "users": {
+    "Anthony": {
+      "plays_per_album": [
+        {
+          "album_name": "The Fall-Off",
+          "artist_name": "J. Cole",
+          "play_count": 35
+        },
+        {
+          "album_name": "Don't Be Dumb",
+          "artist_name": "A$AP Rocky",
+          "play_count": 32
+        },
+        {
+          "album_name": "My Beautiful Dark Twisted Fantasy",
+          "artist_name": "Kanye West",
+          "play_count": 16
+        },
+        {
+          "album_name": "Graduation",
+          "artist_name": "Kanye West",
+          "play_count": 15
+        },
+        {
+          "album_name": "MUSIC",
+          "artist_name": "Playboi Carti",
+          "play_count": 13
+        },
+        {
+          "album_name": "The Life Of Pablo",
+          "artist_name": "Kanye West",
+          "play_count": 11
+        }
+      ],
+      "plays_per_artist": [
+        {
+          "artist_name": "Kanye West",
+          "play_count": 71
+        },
+        {
+          "artist_name": "A$AP Rocky",
+          "play_count": 50
+        },
+        {
+          "artist_name": "J. Cole",
+          "play_count": 42
+        },
+        {
+          "artist_name": "Young Dolph",
+          "play_count": 38
+        },
+        {
+          "artist_name": "Mike Sherm",
+          "play_count": 25
+        },
+        {
+          "artist_name": "Playboi Carti",
+          "play_count": 21
+        },
+        {
+          "artist_name": "Gunna",
+          "play_count": 19
+        }
+      ],
+      "plays_per_track": [
+        {
+          "track_name": "Two Six",
+          "artist_name": "J. Cole",
+          "play_count": 7
+        },
+        {
+          "track_name": "Bazooka",
+          "artist_name": "4dawgs",
+          "play_count": 7
+        },
+        {
+          "track_name": "Father Stretch My Hands Pt. 1",
+          "artist_name": "Kanye West",
+          "play_count": 6
+        }
+      ],
+      "daily_play_count": [
+        {
+          "date": "2026-01-23",
+          "play_count": 63
+        },
+        {
+          "date": "2026-02-02",
+          "play_count": 62
+        },
+        {
+          "date": "2026-02-06",
+          "play_count": 56
+        },
+        {
+          "date": "2026-01-10",
+          "play_count": 48
+        },
+        {
+          "date": "2026-02-03",
+          "play_count": 47
+        }
+      ],
+      "session_length": []
+    },
+    "Alexandra": {
+      "plays_per_album": [
+        {
+          "album_name": "The Surface",
+          "artist_name": "Beartooth",
+          "play_count": 19
+        },
+        {
+          "album_name": "Below",
+          "artist_name": "Beartooth",
+          "play_count": 16
+        },
+        {
+          "album_name": "TRUE POWER",
+          "artist_name": "I Prevail",
+          "play_count": 15
+        },
+        {
+          "album_name": "POST HUMAN: NeX GEn",
+          "artist_name": "Bring Me The Horizon",
+          "play_count": 14
+        },
+        {
+          "album_name": "A Gradual Decline In Morale",
+          "artist_name": "Kim Dracula",
+          "play_count": 13
+        },
+        {
+          "album_name": "Disgusting (Deluxe Edition)",
+          "artist_name": "Beartooth",
+          "play_count": 12
+        },
+        {
+          "album_name": "Three Days Grace",
+          "artist_name": "Three Days Grace",
+          "play_count": 11
+        },
+        {
+          "album_name": "Kings of the New Age",
+          "artist_name": "State Champs",
+          "play_count": 11
+        }
+      ],
+      "plays_per_artist": [
+        {
+          "artist_name": "Beartooth",
+          "play_count": 60
+        },
+        {
+          "artist_name": "Neck Deep",
+          "play_count": 58
+        },
+        {
+          "artist_name": "Bring Me The Horizon",
+          "play_count": 38
+        },
+        {
+          "artist_name": "State Champs",
+          "play_count": 33
+        },
+        {
+          "artist_name": "I Prevail",
+          "play_count": 32
+        },
+        {
+          "artist_name": "Wage War",
+          "play_count": 28
+        },
+        {
+          "artist_name": "Ashnikko",
+          "play_count": 25
+        },
+        {
+          "artist_name": "WSTR",
+          "play_count": 22
+        },
+        {
+          "artist_name": "Kim Dracula",
+          "play_count": 21
+        }
+      ],
+      "plays_per_track": [
+        {
+          "track_name": "Pursuit of Violence",
+          "artist_name": "Sullivan King",
+          "play_count": 6
+        },
+        {
+          "track_name": "Paralyzed",
+          "artist_name": "Sueco",
+          "play_count": 6
+        },
+        {
+          "track_name": "Afraid Of The Dark",
+          "artist_name": "Motionless In White",
+          "play_count": 5
+        },
+        {
+          "track_name": "Might Love Myself",
+          "artist_name": "Beartooth",
+          "play_count": 5
+        },
+        {
+          "track_name": "Everybody Talks",
+          "artist_name": "Neon Trees",
+          "play_count": 5
+        },
+        {
+          "track_name": "Fed Up",
+          "artist_name": "Beartooth",
+          "play_count": 5
+        },
+        {
+          "track_name": "POLTERGEIST!",
+          "artist_name": "CORPSE",
+          "play_count": 5
+        },
+        {
+          "track_name": "Poison Pens",
+          "artist_name": "Creeper",
+          "play_count": 5
+        }
+      ],
+      "daily_play_count": [
+        {
+          "date": "2026-02-13",
+          "play_count": 64
+        },
+        {
+          "date": "2026-01-29",
+          "play_count": 62
+        }
+      ],
+      "session_length": []
+    },
+    "Koren": {
+      "plays_per_album": [
+        {
+          "album_name": "New Forms",
+          "artist_name": "Roni Size",
+          "play_count": 41
+        },
+        {
+          "album_name": "Atmospheric Intelligence",
+          "artist_name": "Mint",
+          "play_count": 36
+        },
+        {
+          "album_name": "Selected Jungle Works",
+          "artist_name": "Mint",
+          "play_count": 35
+        },
+        {
+          "album_name": "the book about my idle plot on a vague anxiety",
+          "artist_name": "toe",
+          "play_count": 33
+        },
+        {
+          "album_name": "convict",
+          "artist_name": "prodby668",
+          "play_count": 30
+        },
+        {
+          "album_name": "Unutella",
+          "artist_name": "Nuito",
+          "play_count": 28
+        },
+        {
+          "album_name": "High On Bikes",
+          "artist_name": "dios trio",
+          "play_count": 26
+        },
+        {
+          "album_name": "Grim",
+          "artist_name": "Foster Parents",
+          "play_count": 24
+        },
+        {
+          "album_name": "For Long Tomorrow",
+          "artist_name": "toe",
+          "play_count": 24
+        },
+        {
+          "album_name": "an anxious object",
+          "artist_name": "mouse on the keys",
+          "play_count": 23
+        },
+        {
+          "album_name": "Producer 01",
+          "artist_name": "LTJ Bukem",
+          "play_count": 23
+        },
+        {
+          "album_name": "Self-Titled",
+          "artist_name": "Stage Kids",
+          "play_count": 22
+        },
+        {
+          "album_name": "Producer 05",
+          "artist_name": "LTJ Bukem",
+          "play_count": 22
+        },
+        {
+          "album_name": "Floral LP",
+          "artist_name": "Floral",
+          "play_count": 21
+        },
+        {
+          "album_name": "effloresce",
+          "artist_name": "Covet",
+          "play_count": 18
+        },
+        {
+          "album_name": "technicolor",
+          "artist_name": "Covet",
+          "play_count": 17
+        },
+        {
+          "album_name": "Hear You",
+          "artist_name": "toe",
+          "play_count": 17
+        },
+        {
+          "album_name": "The Second Floral - EP",
+          "artist_name": "Floral",
+          "play_count": 17
+        },
+        {
+          "album_name": "Selected Works 94-96",
+          "artist_name": "Wax Doctor",
+          "play_count": 16
+        },
+        {
+          "album_name": "Method of slow motion",
+          "artist_name": "how to count one to ten",
+          "play_count": 16
+        },
+        {
+          "album_name": "Blue Hills",
+          "artist_name": "prodby668",
+          "play_count": 15
+        },
+        {
+          "album_name": "Journey Inwards",
+          "artist_name": "LTJ Bukem",
+          "play_count": 15
+        },
+        {
+          "album_name": "Floral EP",
+          "artist_name": "Floral",
+          "play_count": 15
+        },
+        {
+          "album_name": "Calm and Clear",
+          "artist_name": "Via Luna",
+          "play_count": 15
+        },
+        {
+          "album_name": "Wilt",
+          "artist_name": "Via Luna",
+          "play_count": 15
+        },
+        {
+          "album_name": "Phantasia",
+          "artist_name": "LITE",
+          "play_count": 14
+        },
+        {
+          "album_name": "Heavy Light",
+          "artist_name": "Via Luna",
+          "play_count": 13
+        },
+        {
+          "album_name": "Now I See the Light",
+          "artist_name": "toe",
+          "play_count": 13
+        },
+        {
+          "album_name": "Comma",
+          "artist_name": "Monobody",
+          "play_count": 13
+        },
+        {
+          "album_name": "Jungle Hits, Vol. 1",
+          "artist_name": "M-Beat",
+          "play_count": 13
+        },
+        {
+          "album_name": "Die Lit",
+          "artist_name": "Playboi Carti",
+          "play_count": 13
+        },
+        {
+          "album_name": "おくりもの",
+          "artist_name": "百景",
+          "play_count": 13
+        },
+        {
+          "album_name": "Shadow Era, Pt. 1",
+          "artist_name": "Aquasky",
+          "play_count": 13
+        },
+        {
+          "album_name": "Banoffee Pies White Label Series 01",
+          "artist_name": "Tim Reaper",
+          "play_count": 12
+        },
+        {
+          "album_name": "Slow Motion",
+          "artist_name": "J Majik",
+          "play_count": 12
+        },
+        {
+          "album_name": "II",
+          "artist_name": "dios trio",
+          "play_count": 11
+        },
+        {
+          "album_name": "Qualia",
+          "artist_name": "PRIMITIVE ART ORCHESTRA",
+          "play_count": 11
+        },
+        {
+          "album_name": "Recess",
+          "artist_name": "Stage Kids",
+          "play_count": 11
+        },
+        {
+          "album_name": "Killer Tofu",
+          "artist_name": "Stage Kids",
+          "play_count": 11
+        },
+        {
+          "album_name": "Monobody / Pyramid Scheme",
+          "artist_name": "Monobody",
+          "play_count": 11
+        },
+        {
+          "album_name": "Intra Mental",
+          "artist_name": "Stage Kids",
+          "play_count": 11
+        }
+      ],
+      "plays_per_artist": [
+        {
+          "artist_name": "toe",
+          "play_count": 116
+        },
+        {
+          "artist_name": "Mint",
+          "play_count": 77
+        },
+        {
+          "artist_name": "LTJ Bukem",
+          "play_count": 72
+        },
+        {
+          "artist_name": "Floral",
+          "play_count": 56
+        },
+        {
+          "artist_name": "Stage Kids",
+          "play_count": 55
+        },
+        {
+          "artist_name": "Roni Size",
+          "play_count": 53
+        },
+        {
+          "artist_name": "Lil Uzi Vert",
+          "play_count": 48
+        },
+        {
+          "artist_name": "mouse on the keys",
+          "play_count": 46
+        },
+        {
+          "artist_name": "prodby668",
+          "play_count": 46
+        },
+        {
+          "artist_name": "Via Luna",
+          "play_count": 45
+        },
+        {
+          "artist_name": "Covet",
+          "play_count": 42
+        },
+        {
+          "artist_name": "Monobody",
+          "play_count": 41
+        },
+        {
+          "artist_name": "Nookie",
+          "play_count": 39
+        },
+        {
+          "artist_name": "Playboi Carti",
+          "play_count": 38
+        },
+        {
+          "artist_name": "dios trio",
+          "play_count": 37
+        },
+        {
+          "artist_name": "tenkay",
+          "play_count": 30
+        },
+        {
+          "artist_name": "Autumn!",
+          "play_count": 29
+        },
+        {
+          "artist_name": "Big Bud",
+          "play_count": 28
+        },
+        {
+          "artist_name": "Nuito",
+          "play_count": 28
+        },
+        {
+          "artist_name": "Alex Reece",
+          "play_count": 24
+        },
+        {
+          "artist_name": "Foster Parents",
+          "play_count": 24
+        },
+        {
+          "artist_name": "M-Beat",
+          "play_count": 23
+        },
+        {
+          "artist_name": "how to count one to ten",
+          "play_count": 23
+        },
+        {
+          "artist_name": "Tim Reaper",
+          "play_count": 22
+        },
+        {
+          "artist_name": "Omni Trio",
+          "play_count": 22
+        },
+        {
+          "artist_name": "Chief Keef",
+          "play_count": 22
+        },
+        {
+          "artist_name": "Varra",
+          "play_count": 22
+        },
+        {
+          "artist_name": "百景",
+          "play_count": 22
+        },
+        {
+          "artist_name": "PRIMITIVE ART ORCHESTRA",
+          "play_count": 21
+        },
+        {
+          "artist_name": "J Majik",
+          "play_count": 21
+        }
+      ],
+      "plays_per_track": [
+        {
+          "track_name": "NeKoMaJiN Vs",
+          "artist_name": "Nuito",
+          "play_count": 13
+        }
+      ],
+      "daily_play_count": [
+        {
+          "date": "2026-02-04",
+          "play_count": 508
+        }
+      ],
+      "session_length": []
+    },
+    "Alan": {
+      "plays_per_album": [
+        {
+          "album_name": "Tidal",
+          "artist_name": "Fiona Apple",
+          "play_count": 138
+        },
+        {
+          "album_name": "The Renaissance",
+          "artist_name": "Q-Tip",
+          "play_count": 104
+        }
+      ],
+      "plays_per_artist": [],
+      "plays_per_track": [
+        {
+          "track_name": "Do It",
+          "artist_name": "underscores",
+          "play_count": 37
+        },
+        {
+          "track_name": "Criminal",
+          "artist_name": "Fiona Apple",
+          "play_count": 24
+        },
+        {
+          "track_name": "Sullen Girl",
+          "artist_name": "Fiona Apple",
+          "play_count": 24
+        },
+        {
+          "track_name": "21st Century Schizoid Man - Including \"Mirrors\"",
+          "artist_name": "King Crimson",
+          "play_count": 23
+        },
+        {
+          "track_name": "Won't Trade",
+          "artist_name": "Q-Tip",
+          "play_count": 23
+        },
+        {
+          "track_name": "In Bloom",
+          "artist_name": "Nirvana",
+          "play_count": 22
+        },
+        {
+          "track_name": "Gettin Up",
+          "artist_name": "Q-Tip",
+          "play_count": 21
+        },
+        {
+          "track_name": "Johnny Is Dead",
+          "artist_name": "Q-Tip",
+          "play_count": 20
+        },
+        {
+          "track_name": "Slow Like Honey",
+          "artist_name": "Fiona Apple",
+          "play_count": 19
+        },
+        {
+          "track_name": "The First Taste",
+          "artist_name": "Fiona Apple",
+          "play_count": 18
+        },
+        {
+          "track_name": "Shadowboxer",
+          "artist_name": "Fiona Apple",
+          "play_count": 17
+        },
+        {
+          "track_name": "Is This Desire?",
+          "artist_name": "PJ Harvey",
+          "play_count": 16
+        },
+        {
+          "track_name": "Something In The Way",
+          "artist_name": "Nirvana",
+          "play_count": 16
+        },
+        {
+          "track_name": "Smells Like Teen Spirit",
+          "artist_name": "Nirvana",
+          "play_count": 15
+        },
+        {
+          "track_name": "Aerials",
+          "artist_name": "System Of A Down",
+          "play_count": 12
+        },
+        {
+          "track_name": "Black Sunlight",
+          "artist_name": "Armand Hammer",
+          "play_count": 12
+        },
+        {
+          "track_name": "Toxicity",
+          "artist_name": "System Of A Down",
+          "play_count": 12
+        },
+        {
+          "track_name": "Never Is a Promise",
+          "artist_name": "Fiona Apple",
+          "play_count": 12
+        },
+        {
+          "track_name": "Limp",
+          "artist_name": "Fiona Apple",
+          "play_count": 11
+        },
+        {
+          "track_name": "Dance The Night - From Barbie The Album",
+          "artist_name": "Dua Lipa",
+          "play_count": 11
+        },
+        {
+          "track_name": "Copycats",
+          "artist_name": "Danny Brown",
+          "play_count": 11
+        },
+        {
+          "track_name": "Official",
+          "artist_name": "Q-Tip",
+          "play_count": 11
+        }
+      ],
+      "daily_play_count": [
+        {
+          "date": "2026-02-12",
+          "play_count": 357
+        },
+        {
+          "date": "2026-02-08",
+          "play_count": 296
+        }
+      ],
+      "session_length": []
+    }
+  },
+  "group": {
+    "plays_per_album": [
+      {
+        "album_name": "Tidal",
+        "artist_name": "Fiona Apple",
+        "play_count": 138
+      },
+      {
+        "album_name": "The Renaissance",
+        "artist_name": "Q-Tip",
+        "play_count": 104
+      },
+      {
+        "album_name": "Nevermind",
+        "artist_name": "Nirvana",
+        "play_count": 84
+      },
+      {
+        "album_name": "What's Your Pleasure?",
+        "artist_name": "Jessie Ware",
+        "play_count": 68
+      },
+      {
+        "album_name": "When The Pawn...",
+        "artist_name": "Fiona Apple",
+        "play_count": 62
+      },
+      {
+        "album_name": "Toxicity",
+        "artist_name": "System Of A Down",
+        "play_count": 55
+      },
+      {
+        "album_name": "New Forms",
+        "artist_name": "Roni Size",
+        "play_count": 41
+      },
+      {
+        "album_name": "Is This Desire?",
+        "artist_name": "PJ Harvey",
+        "play_count": 39
+      },
+      {
+        "album_name": "Haram",
+        "artist_name": "Armand Hammer",
+        "play_count": 38
+      },
+      {
+        "album_name": "Atmospheric Intelligence",
+        "artist_name": "Mint",
+        "play_count": 36
+      },
+      {
+        "album_name": "Songs For The Deaf",
+        "artist_name": "Queens of the Stone Age",
+        "play_count": 35
+      },
+      {
+        "album_name": "Selected Jungle Works",
+        "artist_name": "Mint",
+        "play_count": 35
+      },
+      {
+        "album_name": "The Fall-Off",
+        "artist_name": "J. Cole",
+        "play_count": 35
+      },
+      {
+        "album_name": "Do It",
+        "artist_name": "underscores",
+        "play_count": 35
+      },
+      {
+        "album_name": "Don't Be Dumb",
+        "artist_name": "A$AP Rocky",
+        "play_count": 34
+      },
+      {
+        "album_name": "the book about my idle plot on a vague anxiety",
+        "artist_name": "toe",
+        "play_count": 33
+      },
+      {
+        "album_name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
+        "artist_name": "King Crimson",
+        "play_count": 32
+      },
+      {
+        "album_name": "convict",
+        "artist_name": "prodby668",
+        "play_count": 30
+      },
+      {
+        "album_name": "Unutella",
+        "artist_name": "Nuito",
+        "play_count": 28
+      },
+      {
+        "album_name": "OK Computer",
+        "artist_name": "Radiohead",
+        "play_count": 27
+      },
+      {
+        "album_name": "High On Bikes",
+        "artist_name": "dios trio",
+        "play_count": 26
+      },
+      {
+        "album_name": "DAYTONA",
+        "artist_name": "Pusha T",
+        "play_count": 25
+      },
+      {
+        "album_name": "Is This It",
+        "artist_name": "The Strokes",
+        "play_count": 25
+      },
+      {
+        "album_name": "Black On Both Sides",
+        "artist_name": "Mos Def",
+        "play_count": 25
+      },
+      {
+        "album_name": "My Beautiful Dark Twisted Fantasy",
+        "artist_name": "Kanye West",
+        "play_count": 24
+      },
+      {
+        "album_name": "For Long Tomorrow",
+        "artist_name": "toe",
+        "play_count": 24
+      },
+      {
+        "album_name": "Grim",
+        "artist_name": "Foster Parents",
+        "play_count": 24
+      },
+      {
+        "album_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        "artist_name": "David Bowie",
+        "play_count": 24
+      },
+      {
+        "album_name": "MUSIC",
+        "artist_name": "Playboi Carti",
+        "play_count": 23
+      },
+      {
+        "album_name": "To Bring You My Love",
+        "artist_name": "PJ Harvey",
+        "play_count": 23
+      },
+      {
+        "album_name": "Sound of Silver",
+        "artist_name": "LCD Soundsystem",
+        "play_count": 23
+      },
+      {
+        "album_name": "Producer 01",
+        "artist_name": "LTJ Bukem",
+        "play_count": 23
+      },
+      {
+        "album_name": "an anxious object",
+        "artist_name": "mouse on the keys",
+        "play_count": 23
+      },
+      {
+        "album_name": "Self-Titled",
+        "artist_name": "Stage Kids",
+        "play_count": 22
+      },
+      {
+        "album_name": "Producer 05",
+        "artist_name": "LTJ Bukem",
+        "play_count": 22
+      },
+      {
+        "album_name": "I Robot",
+        "artist_name": "The Alan Parsons Project",
+        "play_count": 22
+      },
+      {
+        "album_name": "Before And After Science",
+        "artist_name": "Brian Eno",
+        "play_count": 21
+      },
+      {
+        "album_name": "Floral LP",
+        "artist_name": "Floral",
+        "play_count": 21
+      },
+      {
+        "album_name": "Stardust",
+        "artist_name": "Danny Brown",
+        "play_count": 20
+      },
+      {
+        "album_name": "Stories From The City, Stories From The Sea",
+        "artist_name": "PJ Harvey",
+        "play_count": 20
+      },
+      {
+        "album_name": "The Surface",
+        "artist_name": "Beartooth",
+        "play_count": 19
+      },
+      {
+        "album_name": "Kid A",
+        "artist_name": "Radiohead",
+        "play_count": 19
+      },
+      {
+        "album_name": "Future Nostalgia",
+        "artist_name": "Dua Lipa",
+        "play_count": 18
+      },
+      {
+        "album_name": "Ready to Die",
+        "artist_name": "The Notorious B.I.G.",
+        "play_count": 18
+      },
+      {
+        "album_name": "good kid, m.A.A.d city",
+        "artist_name": "Kendrick Lamar",
+        "play_count": 18
+      },
+      {
+        "album_name": "effloresce",
+        "artist_name": "Covet",
+        "play_count": 18
+      },
+      {
+        "album_name": "...Like Clockwork",
+        "artist_name": "Queens of the Stone Age",
+        "play_count": 18
+      },
+      {
+        "album_name": "You're Living All Over Me",
+        "artist_name": "Dinosaur Jr.",
+        "play_count": 18
+      },
+      {
+        "album_name": "Let It Bleed",
+        "artist_name": "The Rolling Stones",
+        "play_count": 17
+      },
+      {
+        "album_name": "Hear You",
+        "artist_name": "toe",
+        "play_count": 17
+      },
+      {
+        "album_name": "I LAY DOWN MY LIFE FOR YOU: DIRECTOR'S CUT",
+        "artist_name": "JPEGMAFIA",
+        "play_count": 17
+      },
+      {
+        "album_name": "technicolor",
+        "artist_name": "Covet",
+        "play_count": 17
+      },
+      {
+        "album_name": "The Second Floral - EP",
+        "artist_name": "Floral",
+        "play_count": 17
+      },
+      {
+        "album_name": "The College Dropout",
+        "artist_name": "Kanye West",
+        "play_count": 17
+      },
+      {
+        "album_name": "Below",
+        "artist_name": "Beartooth",
+        "play_count": 16
+      },
+      {
+        "album_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "artist_name": "Wu-Tang Clan",
+        "play_count": 16
+      },
+      {
+        "album_name": "Helplessness Blues",
+        "artist_name": "Fleet Foxes",
+        "play_count": 16
+      },
+      {
+        "album_name": "Twin Fantasy",
+        "artist_name": "Car Seat Headrest",
+        "play_count": 16
+      },
+      {
+        "album_name": "Javelin",
+        "artist_name": "Sufjan Stevens",
+        "play_count": 16
+      },
+      {
+        "album_name": "Blackstar",
+        "artist_name": "David Bowie",
+        "play_count": 16
+      },
+      {
+        "album_name": "Method of slow motion",
+        "artist_name": "how to count one to ten",
+        "play_count": 16
+      },
+      {
+        "album_name": "Selected Works 94-96",
+        "artist_name": "Wax Doctor",
+        "play_count": 16
+      },
+      {
+        "album_name": "6 Feet Beneath The Moon",
+        "artist_name": "King Krule",
+        "play_count": 15
+      },
+      {
+        "album_name": "The Life Of Pablo",
+        "artist_name": "Kanye West",
+        "play_count": 15
+      },
+      {
+        "album_name": "In Rainbows",
+        "artist_name": "Radiohead",
+        "play_count": 15
+      },
+      {
+        "album_name": "Calm and Clear",
+        "artist_name": "Via Luna",
+        "play_count": 15
+      },
+      {
+        "album_name": "Graduation",
+        "artist_name": "Kanye West",
+        "play_count": 15
+      },
+      {
+        "album_name": "Die Lit",
+        "artist_name": "Playboi Carti",
+        "play_count": 15
+      },
+      {
+        "album_name": "Blue Hills",
+        "artist_name": "prodby668",
+        "play_count": 15
+      },
+      {
+        "album_name": "Floral EP",
+        "artist_name": "Floral",
+        "play_count": 15
+      },
+      {
+        "album_name": "TRUE POWER",
+        "artist_name": "I Prevail",
+        "play_count": 15
+      },
+      {
+        "album_name": "Yoshimi Battles the Pink Robots",
+        "artist_name": "The Flaming Lips",
+        "play_count": 15
+      },
+      {
+        "album_name": "Wilt",
+        "artist_name": "Via Luna",
+        "play_count": 15
+      },
+      {
+        "album_name": "Journey Inwards",
+        "artist_name": "LTJ Bukem",
+        "play_count": 15
+      },
+      {
+        "album_name": "Congratulations",
+        "artist_name": "MGMT",
+        "play_count": 14
+      },
+      {
+        "album_name": "A Great Chaos",
+        "artist_name": "Ken Carson",
+        "play_count": 14
+      },
+      {
+        "album_name": "Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them",
+        "artist_name": "Bruno Pernadas",
+        "play_count": 14
+      },
+      {
+        "album_name": "Phantasia",
+        "artist_name": "LITE",
+        "play_count": 14
+      },
+      {
+        "album_name": "POST HUMAN: NeX GEn",
+        "artist_name": "Bring Me The Horizon",
+        "play_count": 14
+      },
+      {
+        "album_name": "A Gradual Decline In Morale",
+        "artist_name": "Kim Dracula",
+        "play_count": 13
+      },
+      {
+        "album_name": "Shadow Era, Pt. 1",
+        "artist_name": "Aquasky",
+        "play_count": 13
+      },
+      {
+        "album_name": "Comma",
+        "artist_name": "Monobody",
+        "play_count": 13
+      },
+      {
+        "album_name": "Heavy Light",
+        "artist_name": "Via Luna",
+        "play_count": 13
+      },
+      {
+        "album_name": "Jungle Hits, Vol. 1",
+        "artist_name": "M-Beat",
+        "play_count": 13
+      },
+      {
+        "album_name": "Let God Sort Em Out",
+        "artist_name": "Clipse",
+        "play_count": 13
+      },
+      {
+        "album_name": "Now I See the Light",
+        "artist_name": "toe",
+        "play_count": 13
+      },
+      {
+        "album_name": "おくりもの",
+        "artist_name": "百景",
+        "play_count": 13
+      },
+      {
+        "album_name": "Banoffee Pies White Label Series 01",
+        "artist_name": "Tim Reaper",
+        "play_count": 12
+      },
+      {
+        "album_name": "Slow Motion",
+        "artist_name": "J Majik",
+        "play_count": 12
+      },
+      {
+        "album_name": "Luv Is Rage 2",
+        "artist_name": "Lil Uzi Vert",
+        "play_count": 12
+      },
+      {
+        "album_name": "Teens Of Denial",
+        "artist_name": "Car Seat Headrest",
+        "play_count": 12
+      },
+      {
+        "album_name": "History Will Absolve Me",
+        "artist_name": "billy woods",
+        "play_count": 12
+      },
+      {
+        "album_name": "We Cool?",
+        "artist_name": "Jeff Rosenstock",
+        "play_count": 12
+      },
+      {
+        "album_name": "To Pimp A Butterfly",
+        "artist_name": "Kendrick Lamar",
+        "play_count": 12
+      },
+      {
+        "album_name": "The Infamous",
+        "artist_name": "Mobb Deep",
+        "play_count": 12
+      },
+      {
+        "album_name": "Disgusting (Deluxe Edition)",
+        "artist_name": "Beartooth",
+        "play_count": 12
+      },
+      {
+        "album_name": "Qualia",
+        "artist_name": "PRIMITIVE ART ORCHESTRA",
+        "play_count": 11
+      },
+      {
+        "album_name": "Recess",
+        "artist_name": "Stage Kids",
+        "play_count": 11
+      },
+      {
+        "album_name": "JESUS IS KING",
+        "artist_name": "Kanye West",
+        "play_count": 11
+      },
+      {
+        "album_name": "ye",
+        "artist_name": "Kanye West",
+        "play_count": 11
+      },
+      {
+        "album_name": "Get Wet",
+        "artist_name": "Krewella",
+        "play_count": 11
+      },
+      {
+        "album_name": "Watch The Throne",
+        "artist_name": "JAY-Z",
+        "play_count": 11
+      },
+      {
+        "album_name": "Bandana",
+        "artist_name": "Freddie Gibbs",
+        "play_count": 11
+      },
+      {
+        "album_name": "Ants From Up There",
+        "artist_name": "Black Country, New Road",
+        "play_count": 11
+      },
+      {
+        "album_name": "Dance The Night (From Barbie The Album)",
+        "artist_name": "Dua Lipa",
+        "play_count": 11
+      },
+      {
+        "album_name": "II",
+        "artist_name": "dios trio",
+        "play_count": 11
+      },
+      {
+        "album_name": "Kings of the New Age",
+        "artist_name": "State Champs",
+        "play_count": 11
+      },
+      {
+        "album_name": "Killer Tofu",
+        "artist_name": "Stage Kids",
+        "play_count": 11
+      },
+      {
+        "album_name": "Monobody / Pyramid Scheme",
+        "artist_name": "Monobody",
+        "play_count": 11
+      },
+      {
+        "album_name": "Three Days Grace",
+        "artist_name": "Three Days Grace",
+        "play_count": 11
+      },
+      {
+        "album_name": "Intra Mental",
+        "artist_name": "Stage Kids",
+        "play_count": 11
+      },
+      {
+        "album_name": "Demon Days",
+        "artist_name": "Gorillaz",
+        "play_count": 11
+      }
+    ],
+    "plays_per_artist": [
+      {
+        "artist_name": "Fiona Apple",
+        "play_count": 219
+      },
+      {
+        "artist_name": "Kanye West",
+        "play_count": 126
+      },
+      {
+        "artist_name": "toe",
+        "play_count": 116
+      },
+      {
+        "artist_name": "Q-Tip",
+        "play_count": 105
+      },
+      {
+        "artist_name": "PJ Harvey",
+        "play_count": 88
+      },
+      {
+        "artist_name": "Nirvana",
+        "play_count": 85
+      },
+      {
+        "artist_name": "Mint",
+        "play_count": 77
+      },
+      {
+        "artist_name": "LTJ Bukem",
+        "play_count": 72
+      },
+      {
+        "artist_name": "Jessie Ware",
+        "play_count": 69
+      },
+      {
+        "artist_name": "A$AP Rocky",
+        "play_count": 65
+      },
+      {
+        "artist_name": "Radiohead",
+        "play_count": 61
+      },
+      {
+        "artist_name": "Beartooth",
+        "play_count": 60
+      },
+      {
+        "artist_name": "Playboi Carti",
+        "play_count": 59
+      },
+      {
+        "artist_name": "System Of A Down",
+        "play_count": 58
+      },
+      {
+        "artist_name": "Lil Uzi Vert",
+        "play_count": 58
+      },
+      {
+        "artist_name": "Neck Deep",
+        "play_count": 58
+      },
+      {
+        "artist_name": "Kendrick Lamar",
+        "play_count": 56
+      },
+      {
+        "artist_name": "Floral",
+        "play_count": 56
+      },
+      {
+        "artist_name": "Stage Kids",
+        "play_count": 55
+      },
+      {
+        "artist_name": "underscores",
+        "play_count": 54
+      },
+      {
+        "artist_name": "Roni Size",
+        "play_count": 53
+      },
+      {
+        "artist_name": "Queens of the Stone Age",
+        "play_count": 53
+      },
+      {
+        "artist_name": "J. Cole",
+        "play_count": 47
+      },
+      {
+        "artist_name": "mouse on the keys",
+        "play_count": 46
+      },
+      {
+        "artist_name": "prodby668",
+        "play_count": 46
+      },
+      {
+        "artist_name": "Via Luna",
+        "play_count": 45
+      },
+      {
+        "artist_name": "Covet",
+        "play_count": 42
+      },
+      {
+        "artist_name": "Monobody",
+        "play_count": 41
+      },
+      {
+        "artist_name": "Danny Brown",
+        "play_count": 40
+      },
+      {
+        "artist_name": "David Bowie",
+        "play_count": 40
+      },
+      {
+        "artist_name": "Nookie",
+        "play_count": 39
+      },
+      {
+        "artist_name": "Armand Hammer",
+        "play_count": 38
+      },
+      {
+        "artist_name": "Dua Lipa",
+        "play_count": 38
+      },
+      {
+        "artist_name": "Bring Me The Horizon",
+        "play_count": 38
+      },
+      {
+        "artist_name": "Young Dolph",
+        "play_count": 38
+      },
+      {
+        "artist_name": "dios trio",
+        "play_count": 37
+      },
+      {
+        "artist_name": "JPEGMAFIA",
+        "play_count": 36
+      },
+      {
+        "artist_name": "Pusha T",
+        "play_count": 34
+      },
+      {
+        "artist_name": "The Strokes",
+        "play_count": 34
+      },
+      {
+        "artist_name": "State Champs",
+        "play_count": 33
+      },
+      {
+        "artist_name": "I Prevail",
+        "play_count": 32
+      },
+      {
+        "artist_name": "Sufjan Stevens",
+        "play_count": 32
+      },
+      {
+        "artist_name": "King Crimson",
+        "play_count": 32
+      }
+    ],
+    "plays_per_track": [
+      {
+        "track_name": "Do It",
+        "artist_name": "underscores",
+        "play_count": 37
+      },
+      {
+        "track_name": "Criminal",
+        "artist_name": "Fiona Apple",
+        "play_count": 24
+      },
+      {
+        "track_name": "Sullen Girl",
+        "artist_name": "Fiona Apple",
+        "play_count": 24
+      },
+      {
+        "track_name": "21st Century Schizoid Man - Including \"Mirrors\"",
+        "artist_name": "King Crimson",
+        "play_count": 23
+      },
+      {
+        "track_name": "Won't Trade",
+        "artist_name": "Q-Tip",
+        "play_count": 23
+      },
+      {
+        "track_name": "In Bloom",
+        "artist_name": "Nirvana",
+        "play_count": 22
+      },
+      {
+        "track_name": "Gettin Up",
+        "artist_name": "Q-Tip",
+        "play_count": 21
+      },
+      {
+        "track_name": "Johnny Is Dead",
+        "artist_name": "Q-Tip",
+        "play_count": 20
+      },
+      {
+        "track_name": "Slow Like Honey",
+        "artist_name": "Fiona Apple",
+        "play_count": 19
+      },
+      {
+        "track_name": "The First Taste",
+        "artist_name": "Fiona Apple",
+        "play_count": 18
+      },
+      {
+        "track_name": "Shadowboxer",
+        "artist_name": "Fiona Apple",
+        "play_count": 17
+      },
+      {
+        "track_name": "Is This Desire?",
+        "artist_name": "PJ Harvey",
+        "play_count": 16
+      },
+      {
+        "track_name": "Something In The Way",
+        "artist_name": "Nirvana",
+        "play_count": 16
+      },
+      {
+        "track_name": "Smells Like Teen Spirit",
+        "artist_name": "Nirvana",
+        "play_count": 15
+      },
+      {
+        "track_name": "NeKoMaJiN Vs",
+        "artist_name": "Nuito",
+        "play_count": 13
+      },
+      {
+        "track_name": "Toxicity",
+        "artist_name": "System Of A Down",
+        "play_count": 12
+      },
+      {
+        "track_name": "Aerials",
+        "artist_name": "System Of A Down",
+        "play_count": 12
+      },
+      {
+        "track_name": "Black Sunlight",
+        "artist_name": "Armand Hammer",
+        "play_count": 12
+      },
+      {
+        "track_name": "Never Is a Promise",
+        "artist_name": "Fiona Apple",
+        "play_count": 12
+      },
+      {
+        "track_name": "Copycats",
+        "artist_name": "Danny Brown",
+        "play_count": 11
+      },
+      {
+        "track_name": "Dance The Night - From Barbie The Album",
+        "artist_name": "Dua Lipa",
+        "play_count": 11
+      },
+      {
+        "track_name": "Official",
+        "artist_name": "Q-Tip",
+        "play_count": 11
+      },
+      {
+        "track_name": "Limp",
+        "artist_name": "Fiona Apple",
+        "play_count": 11
+      }
+    ],
+    "daily_play_count": [
+      {
+        "date": "2026-02-04",
+        "play_count": 548
+      }
+    ],
+    "session_length": [
+      {
+        "session_length_minutes": 1085.8023833333334
+      },
+      {
+        "session_length_minutes": 858.8288833333334
+      },
+      {
+        "session_length_minutes": 814.9933333333333
+      },
+      {
+        "session_length_minutes": 806.9944833333333
+      }
+    ]
+  }
+}
