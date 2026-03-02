@@ -3,7 +3,7 @@ include("database.jl")
 include("summary_statistics.jl")
 include("univariate_analysis.jl")
 include("outliers.jl")
-# include("distributions.jl")
+include("distributions.jl")
 
 names = Dict(
   "korenns" => "Koren",
@@ -16,7 +16,7 @@ const MENU = [
   ("Summary Statistics", summary_statistics),
   ("Univariate Analysis", univariate_analysis),
   ("Outliers Analysis", outliers),
-  # ("Distributions", distributions),
+  ("Distributions", distributions),
 ]
 
 function main()
