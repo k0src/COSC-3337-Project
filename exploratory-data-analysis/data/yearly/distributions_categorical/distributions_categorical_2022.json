@@ -1,0 +1,974 @@
+{
+  "users": {
+    "Anthony": {
+      "bool_flags": {
+        "offline_false": 5744,
+        "offline_rate": 0.021465076660988076,
+        "skipped_true": 1247,
+        "total": 5870,
+        "skip_rate": 0.21243611584327088,
+        "shuffle_false": 2592,
+        "shuffle_rate": 0.5584327086882453,
+        "offline_true": 126,
+        "shuffle_true": 3278,
+        "skipped_false": 4623
+      },
+      "completion_by_reason_start": [
+        {
+          "count": 42,
+          "reason_start": "appload",
+          "skipped": "false"
+        },
+        {
+          "count": 11,
+          "reason_start": "appload",
+          "skipped": "true"
+        },
+        {
+          "count": 51,
+          "reason_start": "backbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 17,
+          "reason_start": "backbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 210,
+          "reason_start": "clickrow",
+          "skipped": "false"
+        },
+        {
+          "count": 25,
+          "reason_start": "clickrow",
+          "skipped": "true"
+        },
+        {
+          "count": 1955,
+          "reason_start": "fwdbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 969,
+          "reason_start": "fwdbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 144,
+          "reason_start": "playbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 16,
+          "reason_start": "playbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 2,
+          "reason_start": "remote",
+          "skipped": "false"
+        },
+        {
+          "count": 2219,
+          "reason_start": "trackdone",
+          "skipped": "false"
+        },
+        {
+          "count": 209,
+          "reason_start": "trackdone",
+          "skipped": "true"
+        }
+      ],
+      "reason_end": [
+        {
+          "count": 2917,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 2497,
+          "category": "trackdone"
+        },
+        {
+          "count": 276,
+          "category": "endplay"
+        },
+        {
+          "count": 67,
+          "category": "backbtn"
+        },
+        {
+          "count": 54,
+          "category": "unexpected-exit-while-paused"
+        },
+        {
+          "count": 52,
+          "category": "logout"
+        },
+        {
+          "count": 3,
+          "category": "unknown"
+        },
+        {
+          "count": 2,
+          "category": "unexpected-exit"
+        },
+        {
+          "count": 2,
+          "category": "remote"
+        }
+      ],
+      "skip_by_shuffle": [
+        {
+          "count": 1707,
+          "skipped": "false",
+          "shuffle": "false"
+        },
+        {
+          "count": 885,
+          "skipped": "true",
+          "shuffle": "false"
+        },
+        {
+          "count": 2916,
+          "skipped": "false",
+          "shuffle": "true"
+        },
+        {
+          "count": 362,
+          "skipped": "true",
+          "shuffle": "true"
+        }
+      ],
+      "reason_start": [
+        {
+          "count": 2924,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 2428,
+          "category": "trackdone"
+        },
+        {
+          "count": 235,
+          "category": "clickrow"
+        },
+        {
+          "count": 160,
+          "category": "playbtn"
+        },
+        {
+          "count": 68,
+          "category": "backbtn"
+        },
+        {
+          "count": 53,
+          "category": "appload"
+        },
+        {
+          "count": 2,
+          "category": "remote"
+        }
+      ]
+    },
+    "Alexandra": {
+      "bool_flags": {
+        "offline_false": 21936,
+        "offline_rate": 0.00018231540565177758,
+        "skipped_true": 2285,
+        "total": 21940,
+        "skip_rate": 0.10414767547857794,
+        "shuffle_false": 919,
+        "shuffle_rate": 0.9581130355515041,
+        "offline_true": 4,
+        "shuffle_true": 21021,
+        "skipped_false": 19655
+      },
+      "completion_by_reason_start": [
+        {
+          "count": 433,
+          "reason_start": "appload",
+          "skipped": "false"
+        },
+        {
+          "count": 49,
+          "reason_start": "appload",
+          "skipped": "true"
+        },
+        {
+          "count": 756,
+          "reason_start": "backbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 83,
+          "reason_start": "backbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 351,
+          "reason_start": "clickrow",
+          "skipped": "false"
+        },
+        {
+          "count": 20,
+          "reason_start": "clickrow",
+          "skipped": "true"
+        },
+        {
+          "count": 7317,
+          "reason_start": "fwdbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 1391,
+          "reason_start": "fwdbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 670,
+          "reason_start": "playbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 16,
+          "reason_start": "playbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 7,
+          "reason_start": "remote",
+          "skipped": "false"
+        },
+        {
+          "count": 2,
+          "reason_start": "remote",
+          "skipped": "true"
+        },
+        {
+          "count": 10119,
+          "reason_start": "trackdone",
+          "skipped": "false"
+        },
+        {
+          "count": 721,
+          "reason_start": "trackdone",
+          "skipped": "true"
+        },
+        {
+          "count": 2,
+          "reason_start": "trackerror",
+          "skipped": "false"
+        },
+        {
+          "count": 3,
+          "reason_start": "trackerror",
+          "skipped": "true"
+        }
+      ],
+      "reason_end": [
+        {
+          "count": 10858,
+          "category": "trackdone"
+        },
+        {
+          "count": 8614,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 828,
+          "category": "backbtn"
+        },
+        {
+          "count": 739,
+          "category": "endplay"
+        },
+        {
+          "count": 535,
+          "category": "logout"
+        },
+        {
+          "count": 333,
+          "category": "unexpected-exit-while-paused"
+        },
+        {
+          "count": 18,
+          "category": "trackerror"
+        },
+        {
+          "count": 10,
+          "category": "remote"
+        },
+        {
+          "count": 5,
+          "category": "unexpected-exit"
+        }
+      ],
+      "skip_by_shuffle": [
+        {
+          "count": 849,
+          "skipped": "false",
+          "shuffle": "false"
+        },
+        {
+          "count": 70,
+          "skipped": "true",
+          "shuffle": "false"
+        },
+        {
+          "count": 18806,
+          "skipped": "false",
+          "shuffle": "true"
+        },
+        {
+          "count": 2215,
+          "skipped": "true",
+          "shuffle": "true"
+        }
+      ],
+      "reason_start": [
+        {
+          "count": 10840,
+          "category": "trackdone"
+        },
+        {
+          "count": 8708,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 839,
+          "category": "backbtn"
+        },
+        {
+          "count": 686,
+          "category": "playbtn"
+        },
+        {
+          "count": 482,
+          "category": "appload"
+        },
+        {
+          "count": 371,
+          "category": "clickrow"
+        },
+        {
+          "count": 9,
+          "category": "remote"
+        },
+        {
+          "count": 5,
+          "category": "trackerror"
+        }
+      ]
+    },
+    "Koren": {
+      "bool_flags": {
+        "offline_false": 14500,
+        "offline_rate": 0.00759701594688933,
+        "skipped_true": 1388,
+        "total": 14611,
+        "skip_rate": 0.09499692012867018,
+        "shuffle_false": 4012,
+        "shuffle_rate": 0.7254123605502704,
+        "offline_true": 111,
+        "shuffle_true": 10599,
+        "skipped_false": 13223
+      },
+      "completion_by_reason_start": [
+        {
+          "count": 223,
+          "reason_start": "appload",
+          "skipped": "false"
+        },
+        {
+          "count": 26,
+          "reason_start": "appload",
+          "skipped": "true"
+        },
+        {
+          "count": 457,
+          "reason_start": "backbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 71,
+          "reason_start": "backbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 2196,
+          "reason_start": "clickrow",
+          "skipped": "false"
+        },
+        {
+          "count": 265,
+          "reason_start": "clickrow",
+          "skipped": "true"
+        },
+        {
+          "count": 7845,
+          "reason_start": "fwdbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 824,
+          "reason_start": "fwdbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 753,
+          "reason_start": "playbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 31,
+          "reason_start": "playbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 9,
+          "reason_start": "remote",
+          "skipped": "false"
+        },
+        {
+          "count": 9,
+          "reason_start": "remote",
+          "skipped": "true"
+        },
+        {
+          "count": 1625,
+          "reason_start": "trackdone",
+          "skipped": "false"
+        },
+        {
+          "count": 160,
+          "reason_start": "trackdone",
+          "skipped": "true"
+        },
+        {
+          "count": 114,
+          "reason_start": "trackerror",
+          "skipped": "false"
+        },
+        {
+          "count": 2,
+          "reason_start": "trackerror",
+          "skipped": "true"
+        },
+        {
+          "count": 1,
+          "reason_start": "unknown",
+          "skipped": "false"
+        }
+      ],
+      "reason_end": [
+        {
+          "count": 8765,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 2653,
+          "category": "endplay"
+        },
+        {
+          "count": 1853,
+          "category": "trackdone"
+        },
+        {
+          "count": 544,
+          "category": "backbtn"
+        },
+        {
+          "count": 367,
+          "category": "unexpected-exit-while-paused"
+        },
+        {
+          "count": 339,
+          "category": "logout"
+        },
+        {
+          "count": 35,
+          "category": "trackerror"
+        },
+        {
+          "count": 27,
+          "category": "remote"
+        },
+        {
+          "count": 26,
+          "category": "unexpected-exit"
+        },
+        {
+          "count": 2,
+          "category": "unknown"
+        }
+      ],
+      "skip_by_shuffle": [
+        {
+          "count": 3599,
+          "skipped": "false",
+          "shuffle": "false"
+        },
+        {
+          "count": 413,
+          "skipped": "true",
+          "shuffle": "false"
+        },
+        {
+          "count": 9624,
+          "skipped": "false",
+          "shuffle": "true"
+        },
+        {
+          "count": 975,
+          "skipped": "true",
+          "shuffle": "true"
+        }
+      ],
+      "reason_start": [
+        {
+          "count": 8669,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 2461,
+          "category": "clickrow"
+        },
+        {
+          "count": 1785,
+          "category": "trackdone"
+        },
+        {
+          "count": 784,
+          "category": "playbtn"
+        },
+        {
+          "count": 528,
+          "category": "backbtn"
+        },
+        {
+          "count": 249,
+          "category": "appload"
+        },
+        {
+          "count": 116,
+          "category": "trackerror"
+        },
+        {
+          "count": 18,
+          "category": "remote"
+        },
+        {
+          "count": 1,
+          "category": "unknown"
+        }
+      ]
+    },
+    "Alan": {
+      "bool_flags": {
+        "offline_false": 31588,
+        "offline_rate": 0.0010120177103099305,
+        "skipped_true": 3443,
+        "total": 31620,
+        "skip_rate": 0.10888678051865908,
+        "shuffle_false": 18402,
+        "shuffle_rate": 0.41802656546489564,
+        "offline_true": 32,
+        "shuffle_true": 13218,
+        "skipped_false": 28177
+      },
+      "completion_by_reason_start": [
+        {
+          "count": 730,
+          "reason_start": "appload",
+          "skipped": "false"
+        },
+        {
+          "count": 52,
+          "reason_start": "appload",
+          "skipped": "true"
+        },
+        {
+          "count": 1648,
+          "reason_start": "backbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 99,
+          "reason_start": "backbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 6228,
+          "reason_start": "clickrow",
+          "skipped": "false"
+        },
+        {
+          "count": 1470,
+          "reason_start": "clickrow",
+          "skipped": "true"
+        },
+        {
+          "count": 13492,
+          "reason_start": "fwdbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 1490,
+          "reason_start": "fwdbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 1595,
+          "reason_start": "playbtn",
+          "skipped": "false"
+        },
+        {
+          "count": 150,
+          "reason_start": "playbtn",
+          "skipped": "true"
+        },
+        {
+          "count": 46,
+          "reason_start": "remote",
+          "skipped": "false"
+        },
+        {
+          "count": 2,
+          "reason_start": "remote",
+          "skipped": "true"
+        },
+        {
+          "count": 4423,
+          "reason_start": "trackdone",
+          "skipped": "false"
+        },
+        {
+          "count": 177,
+          "reason_start": "trackdone",
+          "skipped": "true"
+        },
+        {
+          "count": 11,
+          "reason_start": "trackerror",
+          "skipped": "false"
+        },
+        {
+          "count": 3,
+          "reason_start": "trackerror",
+          "skipped": "true"
+        },
+        {
+          "count": 4,
+          "reason_start": "unknown",
+          "skipped": "false"
+        }
+      ],
+      "reason_end": [
+        {
+          "count": 15125,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 8750,
+          "category": "endplay"
+        },
+        {
+          "count": 4840,
+          "category": "trackdone"
+        },
+        {
+          "count": 1733,
+          "category": "backbtn"
+        },
+        {
+          "count": 980,
+          "category": "unexpected-exit-while-paused"
+        },
+        {
+          "count": 94,
+          "category": "remote"
+        },
+        {
+          "count": 68,
+          "category": "logout"
+        },
+        {
+          "count": 18,
+          "category": "trackerror"
+        },
+        {
+          "count": 11,
+          "category": "unexpected-exit"
+        },
+        {
+          "count": 1,
+          "category": "unknown"
+        }
+      ],
+      "skip_by_shuffle": [
+        {
+          "count": 15851,
+          "skipped": "false",
+          "shuffle": "false"
+        },
+        {
+          "count": 2551,
+          "skipped": "true",
+          "shuffle": "false"
+        },
+        {
+          "count": 12326,
+          "skipped": "false",
+          "shuffle": "true"
+        },
+        {
+          "count": 892,
+          "skipped": "true",
+          "shuffle": "true"
+        }
+      ],
+      "reason_start": [
+        {
+          "count": 14982,
+          "category": "fwdbtn"
+        },
+        {
+          "count": 7698,
+          "category": "clickrow"
+        },
+        {
+          "count": 4600,
+          "category": "trackdone"
+        },
+        {
+          "count": 1747,
+          "category": "backbtn"
+        },
+        {
+          "count": 1745,
+          "category": "playbtn"
+        },
+        {
+          "count": 782,
+          "category": "appload"
+        },
+        {
+          "count": 48,
+          "category": "remote"
+        },
+        {
+          "count": 14,
+          "category": "trackerror"
+        },
+        {
+          "count": 4,
+          "category": "unknown"
+        }
+      ]
+    }
+  },
+  "group": {
+    "bool_flags": {
+      "offline_false": 73768,
+      "offline_rate": 0.0036871463108277846,
+      "skipped_true": 8363,
+      "total": 74041,
+      "skip_rate": 0.11295093259140206,
+      "shuffle_false": 25925,
+      "shuffle_rate": 0.6498561607757863,
+      "offline_true": 273,
+      "shuffle_true": 48116,
+      "skipped_false": 65678
+    },
+    "completion_by_reason_start": [
+      {
+        "count": 1428,
+        "reason_start": "appload",
+        "skipped": "false"
+      },
+      {
+        "count": 138,
+        "reason_start": "appload",
+        "skipped": "true"
+      },
+      {
+        "count": 2912,
+        "reason_start": "backbtn",
+        "skipped": "false"
+      },
+      {
+        "count": 270,
+        "reason_start": "backbtn",
+        "skipped": "true"
+      },
+      {
+        "count": 8985,
+        "reason_start": "clickrow",
+        "skipped": "false"
+      },
+      {
+        "count": 1780,
+        "reason_start": "clickrow",
+        "skipped": "true"
+      },
+      {
+        "count": 30609,
+        "reason_start": "fwdbtn",
+        "skipped": "false"
+      },
+      {
+        "count": 4674,
+        "reason_start": "fwdbtn",
+        "skipped": "true"
+      },
+      {
+        "count": 3162,
+        "reason_start": "playbtn",
+        "skipped": "false"
+      },
+      {
+        "count": 213,
+        "reason_start": "playbtn",
+        "skipped": "true"
+      },
+      {
+        "count": 64,
+        "reason_start": "remote",
+        "skipped": "false"
+      },
+      {
+        "count": 13,
+        "reason_start": "remote",
+        "skipped": "true"
+      },
+      {
+        "count": 18386,
+        "reason_start": "trackdone",
+        "skipped": "false"
+      },
+      {
+        "count": 1267,
+        "reason_start": "trackdone",
+        "skipped": "true"
+      },
+      {
+        "count": 127,
+        "reason_start": "trackerror",
+        "skipped": "false"
+      },
+      {
+        "count": 8,
+        "reason_start": "trackerror",
+        "skipped": "true"
+      },
+      {
+        "count": 5,
+        "reason_start": "unknown",
+        "skipped": "false"
+      }
+    ],
+    "reason_end": [
+      {
+        "count": 35421,
+        "category": "fwdbtn"
+      },
+      {
+        "count": 20048,
+        "category": "trackdone"
+      },
+      {
+        "count": 12418,
+        "category": "endplay"
+      },
+      {
+        "count": 3172,
+        "category": "backbtn"
+      },
+      {
+        "count": 1734,
+        "category": "unexpected-exit-while-paused"
+      },
+      {
+        "count": 994,
+        "category": "logout"
+      },
+      {
+        "count": 133,
+        "category": "remote"
+      },
+      {
+        "count": 71,
+        "category": "trackerror"
+      },
+      {
+        "count": 44,
+        "category": "unexpected-exit"
+      },
+      {
+        "count": 6,
+        "category": "unknown"
+      }
+    ],
+    "skip_by_shuffle": [
+      {
+        "count": 22006,
+        "skipped": "false",
+        "shuffle": "false"
+      },
+      {
+        "count": 3919,
+        "skipped": "true",
+        "shuffle": "false"
+      },
+      {
+        "count": 43672,
+        "skipped": "false",
+        "shuffle": "true"
+      },
+      {
+        "count": 4444,
+        "skipped": "true",
+        "shuffle": "true"
+      }
+    ],
+    "reason_start": [
+      {
+        "count": 35283,
+        "category": "fwdbtn"
+      },
+      {
+        "count": 19653,
+        "category": "trackdone"
+      },
+      {
+        "count": 10765,
+        "category": "clickrow"
+      },
+      {
+        "count": 3375,
+        "category": "playbtn"
+      },
+      {
+        "count": 3182,
+        "category": "backbtn"
+      },
+      {
+        "count": 1566,
+        "category": "appload"
+      },
+      {
+        "count": 135,
+        "category": "trackerror"
+      },
+      {
+        "count": 77,
+        "category": "remote"
+      },
+      {
+        "count": 5,
+        "category": "unknown"
+      }
+    ]
+  }
+}
