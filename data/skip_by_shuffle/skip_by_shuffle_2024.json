@@ -1,0 +1,58 @@
+{
+  "Anthony": {
+    "shuffle_on": {
+      "total": 7998,
+      "skip_rate": 0.6552888222055514,
+      "completed": 2757,
+      "skipped": 5241
+    },
+    "shuffle_off": {
+      "total": 3715,
+      "skip_rate": 0.34293405114401077,
+      "completed": 2441,
+      "skipped": 1274
+    }
+  },
+  "Alexandra": {
+    "shuffle_on": {
+      "total": 11069,
+      "skip_rate": 0.37221067847140665,
+      "completed": 6949,
+      "skipped": 4120
+    },
+    "shuffle_off": {
+      "total": 1300,
+      "skip_rate": 0.35923076923076924,
+      "completed": 833,
+      "skipped": 467
+    }
+  },
+  "Koren": {
+    "shuffle_on": {
+      "total": 11189,
+      "skip_rate": 0.5405308785414246,
+      "completed": 5141,
+      "skipped": 6048
+    },
+    "shuffle_off": {
+      "total": 3517,
+      "skip_rate": 0.740403753198749,
+      "completed": 913,
+      "skipped": 2604
+    }
+  },
+  "Alan": {
+    "shuffle_on": {
+      "total": 41529,
+      "skip_rate": 0.8139131691107419,
+      "completed": 7728,
+      "skipped": 33801
+    },
+    "shuffle_off": {
+      "total": 15513,
+      "skip_rate": 0.7843743956681493,
+      "completed": 3345,
+      "skipped": 12168
+    }
+  }
+}

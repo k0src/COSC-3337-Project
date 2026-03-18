@@ -1,0 +1,771 @@
+{
+  "Anthony": {
+    "rediscovered_albums": [
+      {
+        "gap_days": 1428,
+        "album_name": "Dangerous Woman",
+        "artist_name": "Ariana Grande",
+        "plays": 27
+      },
+      {
+        "gap_days": 1293,
+        "album_name": "Slimeball",
+        "artist_name": "Young Nudy",
+        "plays": 25
+      }
+    ],
+    "threshold_days": 774,
+    "rediscovered_tracks": [],
+    "span_days": 1548,
+    "discovered_artists": [
+      {
+        "artist_name": "DONDA",
+        "plays": 103
+      },
+      {
+        "artist_name": "Ye",
+        "plays": 51
+      },
+      {
+        "artist_name": "GELO",
+        "plays": 33
+      }
+    ],
+    "rediscovered_artists": [],
+    "discovered_tracks": [
+      {
+        "track_name": "EVIL J0RDAN",
+        "artist_name": "Playboi Carti",
+        "plays": 39
+      },
+      {
+        "track_name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+        "artist_name": "Lil Baby",
+        "plays": 38
+      },
+      {
+        "track_name": "RATHER LIE (with The Weeknd)",
+        "artist_name": "Playboi Carti",
+        "plays": 36
+      },
+      {
+        "track_name": "Stuff (feat. Travis Scott)",
+        "artist_name": "Lil Baby",
+        "plays": 32
+      },
+      {
+        "track_name": "4X4",
+        "artist_name": "Travis Scott",
+        "plays": 32
+      }
+    ],
+    "discovered_albums": [
+      {
+        "album_name": "MUSIC",
+        "artist_name": "Playboi Carti",
+        "plays": 385
+      },
+      {
+        "album_name": "UY SCUTI",
+        "artist_name": "Young Thug",
+        "plays": 112
+      },
+      {
+        "album_name": "WHAM",
+        "artist_name": "Lil Baby",
+        "plays": 104
+      },
+      {
+        "album_name": "Hurry Up Tomorrow",
+        "artist_name": "The Weeknd",
+        "plays": 103
+      },
+      {
+        "album_name": "DONDA 2",
+        "artist_name": "DONDA",
+        "plays": 103
+      },
+      {
+        "album_name": "Porch 2 The Pent",
+        "artist_name": "1900Rugrat",
+        "plays": 97
+      },
+      {
+        "album_name": "More Chaos",
+        "artist_name": "Ken Carson",
+        "plays": 80
+      },
+      {
+        "album_name": "WHAT HAPPENED TO THE STREETS?",
+        "artist_name": "21 Savage",
+        "plays": 62
+      },
+      {
+        "album_name": "The Last Wun",
+        "artist_name": "Gunna",
+        "plays": 59
+      },
+      {
+        "album_name": "nolimit",
+        "artist_name": "Knock2",
+        "plays": 57
+      },
+      {
+        "album_name": "$ome $exy $ongs 4 U",
+        "artist_name": "Drake",
+        "plays": 50
+      },
+      {
+        "album_name": "MUSIC - SORRY 4 DA WAIT",
+        "artist_name": "Playboi Carti",
+        "plays": 49
+      },
+      {
+        "album_name": "House Of Balloons",
+        "artist_name": "The Weeknd",
+        "plays": 49
+      },
+      {
+        "album_name": "$ome $exy $ongs 4 U",
+        "artist_name": "PARTYNEXTDOOR",
+        "plays": 39
+      },
+      {
+        "album_name": "Tha Carter VI",
+        "artist_name": "Lil Wayne",
+        "plays": 39
+      },
+      {
+        "album_name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "artist_name": "Metro Boomin",
+        "plays": 36
+      },
+      {
+        "album_name": "JACKBOYS 2",
+        "artist_name": "Travis Scott",
+        "plays": 35
+      },
+      {
+        "album_name": "4X4",
+        "artist_name": "Travis Scott",
+        "plays": 32
+      }
+    ]
+  },
+  "Alexandra": {
+    "rediscovered_albums": [],
+    "threshold_days": 1805,
+    "rediscovered_tracks": [],
+    "span_days": 3609,
+    "discovered_artists": [
+      {
+        "artist_name": "Palisades",
+        "plays": 119
+      },
+      {
+        "artist_name": "bbno$",
+        "plays": 72
+      },
+      {
+        "artist_name": "Dead Eyes",
+        "plays": 30
+      }
+    ],
+    "rediscovered_artists": [],
+    "discovered_tracks": [
+      {
+        "track_name": "Vendetta",
+        "artist_name": "Palisades",
+        "plays": 119
+      }
+    ],
+    "discovered_albums": [
+      {
+        "album_name": "Erase The Pain",
+        "artist_name": "Palisades",
+        "plays": 119
+      },
+      {
+        "album_name": "bbno$",
+        "artist_name": "bbno$",
+        "plays": 46
+      },
+      {
+        "album_name": "Neck Deep (Dumbfuck Edition)",
+        "artist_name": "Neck Deep",
+        "plays": 30
+      }
+    ]
+  },
+  "Koren": {
+    "rediscovered_albums": [
+      {
+        "gap_days": 2513,
+        "album_name": "Pr3ssure",
+        "artist_name": "Dolan Beatz",
+        "plays": 27
+      }
+    ],
+    "threshold_days": 1641,
+    "rediscovered_tracks": [],
+    "span_days": 3281,
+    "discovered_artists": [
+      {
+        "artist_name": "Che",
+        "plays": 290
+      },
+      {
+        "artist_name": "fakemink",
+        "plays": 153
+      },
+      {
+        "artist_name": "Protect",
+        "plays": 123
+      },
+      {
+        "artist_name": "ark762",
+        "plays": 109
+      },
+      {
+        "artist_name": "Nuito",
+        "plays": 93
+      },
+      {
+        "artist_name": "Nine Vicious",
+        "plays": 42
+      },
+      {
+        "artist_name": "1900Rugrat",
+        "plays": 34
+      }
+    ],
+    "rediscovered_artists": [
+      {
+        "gap_days": 2513,
+        "artist_name": "Dolan Beatz",
+        "plays": 27
+      }
+    ],
+    "discovered_tracks": [
+      {
+        "track_name": "POP OUT",
+        "artist_name": "Playboi Carti",
+        "plays": 45
+      },
+      {
+        "track_name": "K POP",
+        "artist_name": "Playboi Carti",
+        "plays": 42
+      },
+      {
+        "track_name": "GOOD CREDIT (with Kendrick Lamar)",
+        "artist_name": "Playboi Carti",
+        "plays": 38
+      },
+      {
+        "track_name": "Autobots",
+        "artist_name": "ark762",
+        "plays": 38
+      },
+      {
+        "track_name": "MOJO JOJO",
+        "artist_name": "Playboi Carti",
+        "plays": 38
+      },
+      {
+        "track_name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
+        "artist_name": "Ken Carson",
+        "plays": 38
+      },
+      {
+        "track_name": "EVIL J0RDAN",
+        "artist_name": "Playboi Carti",
+        "plays": 37
+      },
+      {
+        "track_name": "Not Regular",
+        "artist_name": "Molly Santana",
+        "plays": 37
+      },
+      {
+        "track_name": "PHILLY (with Travis Scott)",
+        "artist_name": "Playboi Carti",
+        "plays": 33
+      },
+      {
+        "track_name": "Load Out (feat. LAZER DIM 700)",
+        "artist_name": "Benji Blue Bills",
+        "plays": 32
+      },
+      {
+        "track_name": "OPM BABI",
+        "artist_name": "Playboi Carti",
+        "plays": 32
+      },
+      {
+        "track_name": "TWIN TRIM (with Lil Uzi Vert)",
+        "artist_name": "Playboi Carti",
+        "plays": 32
+      },
+      {
+        "track_name": "CRUSH (with Travis Scott)",
+        "artist_name": "Playboi Carti",
+        "plays": 31
+      },
+      {
+        "track_name": "LIKE WEEZY",
+        "artist_name": "Playboi Carti",
+        "plays": 31
+      }
+    ],
+    "discovered_albums": [
+      {
+        "album_name": "MUSIC - SORRY 4 DA WAIT",
+        "artist_name": "Playboi Carti",
+        "plays": 584
+      },
+      {
+        "album_name": "MUSIC",
+        "artist_name": "Playboi Carti",
+        "plays": 307
+      },
+      {
+        "album_name": "REST IN BASS",
+        "artist_name": "Che",
+        "plays": 160
+      },
+      {
+        "album_name": "Unutella",
+        "artist_name": "Nuito",
+        "plays": 93
+      },
+      {
+        "album_name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "artist_name": "Skrillex",
+        "plays": 77
+      },
+      {
+        "album_name": "Ball Hog For Life",
+        "artist_name": "Protect",
+        "plays": 67
+      },
+      {
+        "album_name": "More Chaos",
+        "artist_name": "Ken Carson",
+        "plays": 64
+      },
+      {
+        "album_name": "JACKBOYS 2",
+        "artist_name": "Travis Scott",
+        "plays": 57
+      },
+      {
+        "album_name": "Wild One",
+        "artist_name": "fakemink",
+        "plays": 38
+      },
+      {
+        "album_name": "B2MR",
+        "artist_name": "Autumn!",
+        "plays": 38
+      },
+      {
+        "album_name": "Autobots",
+        "artist_name": "ark762",
+        "plays": 38
+      },
+      {
+        "album_name": "Shine Back",
+        "artist_name": "tenkay",
+        "plays": 37
+      },
+      {
+        "album_name": "Load Out (feat. LAZER DIM 700)",
+        "artist_name": "Benji Blue Bills",
+        "plays": 32
+      },
+      {
+        "album_name": "Not Regular",
+        "artist_name": "Molly Santana",
+        "plays": 30
+      },
+      {
+        "album_name": "Museum Music",
+        "artist_name": "Edward Skeletrix",
+        "plays": 30
+      }
+    ]
+  },
+  "Alan": {
+    "rediscovered_albums": [
+      {
+        "gap_days": 2054,
+        "album_name": "XXX",
+        "artist_name": "Danny Brown",
+        "plays": 91
+      }
+    ],
+    "threshold_days": 1541,
+    "rediscovered_tracks": [
+      {
+        "gap_days": 1574,
+        "track_name": "Sullen Girl",
+        "artist_name": "Fiona Apple",
+        "plays": 34
+      },
+      {
+        "gap_days": 1656,
+        "track_name": "Fear Not Of Man",
+        "artist_name": "Mos Def",
+        "plays": 20
+      }
+    ],
+    "span_days": 3083,
+    "discovered_artists": [
+      {
+        "artist_name": "underscores",
+        "plays": 394
+      },
+      {
+        "artist_name": "The Alan Parsons Project",
+        "plays": 275
+      },
+      {
+        "artist_name": "LCD Soundsystem",
+        "plays": 160
+      },
+      {
+        "artist_name": "SeZon",
+        "plays": 113
+      },
+      {
+        "artist_name": "Scarface",
+        "plays": 74
+      },
+      {
+        "artist_name": "The Moody Blues",
+        "plays": 60
+      },
+      {
+        "artist_name": "ARIANNE",
+        "plays": 50
+      },
+      {
+        "artist_name": "Arianne",
+        "plays": 46
+      },
+      {
+        "artist_name": "Jack Wall",
+        "plays": 37
+      },
+      {
+        "artist_name": "Skylar Grey",
+        "plays": 35
+      },
+      {
+        "artist_name": "Tennessee Ernie Ford",
+        "plays": 34
+      }
+    ],
+    "rediscovered_artists": [],
+    "discovered_tracks": [
+      {
+        "track_name": "Weird Fishes",
+        "artist_name": "Lianne La Havas",
+        "plays": 78
+      },
+      {
+        "track_name": "Uncanny long arms (with Jane Remover)",
+        "artist_name": "underscores",
+        "plays": 70
+      },
+      {
+        "track_name": "Duhhhhhhhhhhhhhhhhh",
+        "artist_name": "underscores",
+        "plays": 66
+      },
+      {
+        "track_name": "PROTECT THE CROSS",
+        "artist_name": "JPEGMAFIA",
+        "plays": 66
+      },
+      {
+        "track_name": "Waltz (Better Than Fine)",
+        "artist_name": "Fiona Apple",
+        "plays": 63
+      },
+      {
+        "track_name": "SIN MIEDO",
+        "artist_name": "JPEGMAFIA",
+        "plays": 61
+      },
+      {
+        "track_name": "Can't Fight",
+        "artist_name": "Lianne La Havas",
+        "plays": 53
+      },
+      {
+        "track_name": "don't rely on other men",
+        "artist_name": "JPEGMAFIA",
+        "plays": 51
+      },
+      {
+        "track_name": "What the hip hop hell is this ?",
+        "artist_name": "JPEGMAFIA",
+        "plays": 51
+      },
+      {
+        "track_name": "Read My Mind",
+        "artist_name": "Lianne La Havas",
+        "plays": 51
+      },
+      {
+        "track_name": "M11 re-arrange and re-mix",
+        "artist_name": "ARIANNE",
+        "plays": 50
+      },
+      {
+        "track_name": "Don't Put Anything On the Bible (feat. Buzzy Lee)",
+        "artist_name": "JPEGMAFIA",
+        "plays": 49
+      },
+      {
+        "track_name": "I'll Be Right There",
+        "artist_name": "JPEGMAFIA",
+        "plays": 48
+      },
+      {
+        "track_name": "Don't Let It Show",
+        "artist_name": "The Alan Parsons Project",
+        "plays": 48
+      },
+      {
+        "track_name": "Title Screen",
+        "artist_name": "SeZon",
+        "plays": 47
+      },
+      {
+        "track_name": "I Wouldn't Want to Be Like You",
+        "artist_name": "The Alan Parsons Project",
+        "plays": 47
+      },
+      {
+        "track_name": "KOMM, SUSSER TOD - M-10 Director's Edit Version",
+        "artist_name": "Arianne",
+        "plays": 46
+      },
+      {
+        "track_name": "Chozo Ruins",
+        "artist_name": "SeZon",
+        "plays": 46
+      },
+      {
+        "track_name": "Please Don't Make Me Cry",
+        "artist_name": "Lianne La Havas",
+        "plays": 45
+      },
+      {
+        "track_name": "Exmilitary",
+        "artist_name": "JPEGMAFIA",
+        "plays": 42
+      },
+      {
+        "track_name": "Some Other Time",
+        "artist_name": "The Alan Parsons Project",
+        "plays": 42
+      },
+      {
+        "track_name": "Old money bitch",
+        "artist_name": "underscores",
+        "plays": 42
+      },
+      {
+        "track_name": "Gin and Juice",
+        "artist_name": "Snoop Dogg",
+        "plays": 41
+      },
+      {
+        "track_name": "don't rely on other men (single)",
+        "artist_name": "JPEGMAFIA",
+        "plays": 41
+      },
+      {
+        "track_name": "Get Innocuous!",
+        "artist_name": "LCD Soundsystem",
+        "plays": 41
+      },
+      {
+        "track_name": "Genesis Ch.1. V.32",
+        "artist_name": "The Alan Parsons Project",
+        "plays": 39
+      },
+      {
+        "track_name": "Abandon Me",
+        "artist_name": "Kevin Abstract",
+        "plays": 39
+      },
+      {
+        "track_name": "Chains & Whips",
+        "artist_name": "Clipse",
+        "plays": 38
+      },
+      {
+        "track_name": "New Black History (feat. Vince Staples)",
+        "artist_name": "JPEGMAFIA",
+        "plays": 37
+      },
+      {
+        "track_name": "Johnny johnny johnny",
+        "artist_name": "underscores",
+        "plays": 37
+      },
+      {
+        "track_name": "Sour Flower",
+        "artist_name": "Lianne La Havas",
+        "plays": 36
+      },
+      {
+        "track_name": "North American Scum",
+        "artist_name": "LCD Soundsystem",
+        "plays": 36
+      },
+      {
+        "track_name": "Tearz (feat. RZA & Ghostface Killah)",
+        "artist_name": "Wu-Tang Clan",
+        "plays": 34
+      },
+      {
+        "track_name": "New York, I Love You but You're Bringing Me Down",
+        "artist_name": "LCD Soundsystem",
+        "plays": 34
+      },
+      {
+        "track_name": "Samurai",
+        "artist_name": "Lupe Fiasco",
+        "plays": 33
+      },
+      {
+        "track_name": "Adrenaline",
+        "artist_name": "Jack Wall",
+        "plays": 32
+      },
+      {
+        "track_name": "Geez louise (with henhouse!)",
+        "artist_name": "underscores",
+        "plays": 31
+      }
+    ],
+    "discovered_albums": [
+      {
+        "album_name": "Wallsocket",
+        "artist_name": "underscores",
+        "plays": 359
+      },
+      {
+        "album_name": "I LAY DOWN MY LIFE FOR YOU: DIRECTOR'S CUT",
+        "artist_name": "JPEGMAFIA",
+        "plays": 356
+      },
+      {
+        "album_name": "I Robot",
+        "artist_name": "The Alan Parsons Project",
+        "plays": 273
+      },
+      {
+        "album_name": "God Does Like Ugly",
+        "artist_name": "JID",
+        "plays": 176
+      },
+      {
+        "album_name": "Sound of Silver",
+        "artist_name": "LCD Soundsystem",
+        "plays": 159
+      },
+      {
+        "album_name": "Doggystyle",
+        "artist_name": "Snoop Dogg",
+        "plays": 149
+      },
+      {
+        "album_name": "Let God Sort Em Out",
+        "artist_name": "Clipse",
+        "plays": 141
+      },
+      {
+        "album_name": "Samurai",
+        "artist_name": "Lupe Fiasco",
+        "plays": 140
+      },
+      {
+        "album_name": "Metroid Prime OST Remake, Pt. 1",
+        "artist_name": "SeZon",
+        "plays": 111
+      },
+      {
+        "album_name": "Have You In My Wilderness",
+        "artist_name": "Julia Holter",
+        "plays": 106
+      },
+      {
+        "album_name": "Stardust",
+        "artist_name": "Danny Brown",
+        "plays": 91
+      },
+      {
+        "album_name": "The Diary",
+        "artist_name": "Scarface",
+        "plays": 74
+      },
+      {
+        "album_name": "Days Of Future Passed",
+        "artist_name": "The Moody Blues",
+        "plays": 60
+      },
+      {
+        "album_name": "Blush",
+        "artist_name": "Kevin Abstract",
+        "plays": 53
+      },
+      {
+        "album_name": "History Will Absolve Me",
+        "artist_name": "billy woods",
+        "plays": 50
+      },
+      {
+        "album_name": "Shiro SAGISU outtakes from Evangelion",
+        "artist_name": "ARIANNE",
+        "plays": 50
+      },
+      {
+        "album_name": "Evangelion Finally",
+        "artist_name": "Arianne",
+        "plays": 46
+      },
+      {
+        "album_name": "Enter the Wu-Tang (36 Chambers)",
+        "artist_name": "Wu-Tang Clan",
+        "plays": 43
+      },
+      {
+        "album_name": "Hurry Up Tomorrow",
+        "artist_name": "The Weeknd",
+        "plays": 37
+      },
+      {
+        "album_name": "Call of Duty Black Ops II (Original Game Soundtrack)",
+        "artist_name": "Jack Wall",
+        "plays": 35
+      },
+      {
+        "album_name": "Private Reasons",
+        "artist_name": "Bruno Pernadas",
+        "plays": 34
+      },
+      {
+        "album_name": "Sixteen Tons",
+        "artist_name": "Tennessee Ernie Ford",
+        "plays": 32
+      }
+    ]
+  }
+}

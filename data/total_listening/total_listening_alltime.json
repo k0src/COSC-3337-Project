@@ -1,0 +1,22 @@
+{
+  "Anthony": {
+    "total_minutes": 111125.19961666666,
+    "play_count": 72483,
+    "total_hours": 1852.0866602777778
+  },
+  "Alexandra": {
+    "total_minutes": 292826.90723333333,
+    "play_count": 139541,
+    "total_hours": 4880.448453888889
+  },
+  "Koren": {
+    "total_minutes": 218405.78233333334,
+    "play_count": 181858,
+    "total_hours": 3640.0963722222223
+  },
+  "Alan": {
+    "total_minutes": 443300.79415,
+    "play_count": 450283,
+    "total_hours": 7388.346569166666
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "Anthony": [
+    {
+      "proportion": 0.5267579984272174,
+      "count": 38181,
+      "category": "fwdbtn"
+    },
+    {
+      "proportion": 0.356952664762772,
+      "count": 25873,
+      "category": "trackdone"
+    },
+    {
+      "proportion": 0.051860436240221845,
+      "count": 3759,
+      "category": "clickrow"
+    },
+    {
+      "proportion": 0.02973110936357491,
+      "count": 2155,
+      "category": "playbtn"
+    },
+    {
+      "proportion": 0.018100796048728666,
+      "count": 1312,
+      "category": "backbtn"
+    },
+    {
+      "proportion": 0.007822523902156368,
+      "count": 567,
+      "category": "appload"
+    },
+    {
+      "proportion": 0.007656967840735069,
+      "count": 555,
+      "category": "remote"
+    },
+    {
+      "proportion": 0.0008415766455582689,
+      "count": 61,
+      "category": "unknown"
+    },
+    {
+      "proportion": 0.0002621304305837231,
+      "count": 19,
+      "category": "trackerror"
+    },
+    {
+      "proportion": 1.3796338451774898e-5,
+      "count": 1,
+      "category": "switched-to-audio"
+    }
+  ],
+  "Alexandra": [
+    {
+      "proportion": 0.5395331837954437,
+      "count": 75287,
+      "category": "trackdone"
+    },
+    {
+      "proportion": 0.3487935445496306,
+      "count": 48671,
+      "category": "fwdbtn"
+    },
+    {
+      "proportion": 0.03621157939243663,
+      "count": 5053,
+      "category": "clickrow"
+    },
+    {
+      "proportion": 0.028314258891651917,
+      "count": 3951,
+      "category": "backbtn"
+    },
+    {
+      "proportion": 0.023627464329480225,
+      "count": 3297,
+      "category": "playbtn"
+    },
+    {
+      "proportion": 0.01889767165205925,
+      "count": 2637,
+      "category": "appload"
+    },
+    {
+      "proportion": 0.0020639095319655155,
+      "count": 288,
+      "category": "remote"
+    },
+    {
+      "proportion": 0.0013472742778108226,
+      "count": 188,
+      "category": "trackerror"
+    },
+    {
+      "proportion": 0.001211113579521431,
+      "count": 169,
+      "category": "unknown"
+    }
+  ],
+  "Koren": [
+    {
+      "proportion": 0.5151656787163611,
+      "count": 93687,
+      "category": "fwdbtn"
+    },
+    {
+      "proportion": 0.19925986209020224,
+      "count": 36237,
+      "category": "trackdone"
+    },
+    {
+      "proportion": 0.15545645503634703,
+      "count": 28271,
+      "category": "clickrow"
+    },
+    {
+      "proportion": 0.057946309758162964,
+      "count": 10538,
+      "category": "playbtn"
+    },
+    {
+      "proportion": 0.043072067217279415,
+      "count": 7833,
+      "category": "backbtn"
+    },
+    {
+      "proportion": 0.01413740390854403,
+      "count": 2571,
+      "category": "appload"
+    },
+    {
+      "proportion": 0.007340892344576537,
+      "count": 1335,
+      "category": "remote"
+    },
+    {
+      "proportion": 0.005916704241771052,
+      "count": 1076,
+      "category": "trackerror"
+    },
+    {
+      "proportion": 0.001264723025657381,
+      "count": 230,
+      "category": "unknown"
+    },
+    {
+      "proportion": 0.00038491570346094206,
+      "count": 70,
+      "category": "cosmos"
+    },
+    {
+      "proportion": 4.9489161873549694e-5,
+      "count": 9,
+      "category": "endplay"
+    },
+    {
+      "proportion": 5.498795763727743e-6,
+      "count": 1,
+      "category": "click-row"
+    }
+  ],
+  "Alan": [
+    {
+      "proportion": 0.5550020764719077,
+      "count": 249908,
+      "category": "fwdbtn"
+    },
+    {
+      "proportion": 0.2261822009713891,
+      "count": 101846,
+      "category": "clickrow"
+    },
+    {
+      "proportion": 0.10085213077109284,
+      "count": 45412,
+      "category": "trackdone"
+    },
+    {
+      "proportion": 0.06983830169027035,
+      "count": 31447,
+      "category": "backbtn"
+    },
+    {
+      "proportion": 0.035819695613647416,
+      "count": 16129,
+      "category": "playbtn"
+    },
+    {
+      "proportion": 0.01030907229453477,
+      "count": 4642,
+      "category": "appload"
+    },
+    {
+      "proportion": 0.0015456945965093064,
+      "count": 696,
+      "category": "remote"
+    },
+    {
+      "proportion": 0.0003753195212788402,
+      "count": 169,
+      "category": "trackerror"
+    },
+    {
+      "proportion": 5.996229038182654e-5,
+      "count": 27,
+      "category": "unknown"
+    },
+    {
+      "proportion": 1.5545778987880956e-5,
+      "count": 7,
+      "category": "reconnect"
+    }
+  ]
+}

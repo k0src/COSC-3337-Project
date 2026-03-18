@@ -1,0 +1,30 @@
+{
+    "Anthony": {
+        "repeat_rate": 0.7664133868351405,
+        "new_rate": 0.23358661316485957,
+        "total_plays": 11713,
+        "new_plays": 2736,
+        "repeat_plays": 8977
+    },
+    "Alexandra": {
+        "repeat_rate": 0.8239954725523486,
+        "new_rate": 0.17600452744765138,
+        "total_plays": 12369,
+        "new_plays": 2177,
+        "repeat_plays": 10192
+    },
+    "Koren": {
+        "repeat_rate": 0.7952536379708962,
+        "new_rate": 0.20474636202910376,
+        "total_plays": 14706,
+        "new_plays": 3011,
+        "repeat_plays": 11695
+    },
+    "Alan": {
+        "repeat_rate": 0.9311735212650328,
+        "new_rate": 0.06882647873496722,
+        "total_plays": 57042,
+        "new_plays": 3926,
+        "repeat_plays": 53116
+    }
+}
