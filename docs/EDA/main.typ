@@ -65,7 +65,7 @@ create table public.listening_history (
 - *Null/Empty Entries.* Events that had empty values for any of the primary key attributes were pruned before being entered into the database.
 - *Accidental Plays/Skips.* Any tracks that had a single play and less than 30 seconds played were removed from the database, since these were likely accidental plays or skips that do not reflect the user's true listening habits.
 - *Erroneous Play Data.* A subset of Spotify listening events contained impossible play durations, likely due to logging errors, which would distort analysis if left uncorrected. These were identified by comparing reported playtime against timestamp gaps and verified track durations via external metadata, then removed or manually reviewed. 
-- *Artist Genre Classification.* Since Spotify data lacks genre labels, genres were assigned to ~6,000 artists using a combination of manual tagging (via MusicBrainz data and a custom tagging tool) and AI-based classification, with filtering to ensure relevance and consistency.
+- *Artist Genre Classification.* Since Spotify data lacks genre labels, genres were assigned to \~6,000 artists using a combination of manual tagging (via MusicBrainz data and a custom tagging tool) and AI-based classification, with filtering to ensure relevance and consistency.
 - *Post-Processing and Normalization.* The resulting genre data was standardized through normalization of naming conventions, expansion of abbreviations, correction of inconsistencies and misspellings, and auditing of rare tags to ensure a clean, usable dataset for analysis.
 
 After these data cleaning steps, we were left with approximately 845,000 rows of listening events.
@@ -558,16 +558,22 @@ Self-drift applies the same composite distance function between each user's 2024
     + *Exploratory* (Koren: most unique artists/tracks, short sessions, genre-shifting)
   ])],
   [#box(theme: "important", title: "Alan's Kanye Obsession is Statistically Extreme", [
-    43,739 Kanye plays = ~9.7% of Alan's entire listening history devoted to one artist. His artist Gini coefficient of 0.933 means the bulk of his plays is concentrated in fewer than 20 artists, which indicates Alan listens to a select few of his favorites almost exclusively.
+    43,739 Kanye plays = \~9.7% of Alan's entire listening history devoted to one artist. His artist Gini coefficient of 0.933 means the bulk of his plays is concentrated in fewer than 20 artists, which indicates Alan listens to a select few of his favorites almost exclusively.
   ])],
-  [#box(theme: "important", title: "Alan's Kanye Obsession is Statistically Extreme", [
-    43,739 Kanye plays = ~9.7% of Alan's entire listening history devoted to one artist. His artist Gini coefficient of 0.933 means the bulk of his plays is concentrated in fewer than 20 artists, which indicates Alan listens to a select few of his favorites almost exclusively.
+  [#box(theme: "important", title: "Anthony Has a Split Temporal Personality", [
+    Anthony's peak listening hour is 5 PM, yet 46.3% of his total plays still fall in the late-night window (10 PM-5 AM), which is nearly as high as Alan's 43.8%. No other user shows this split between an early evening peak and sustained late-night volume.
   ])],
   [#box(theme: "important", title: "Koren's Drum & Bass Pivot is a Genuine Behavioral Shift", [
     LTJ Bukem, Roni Size, Alex Reece (classic 90s drum and bass artists) suddenly appeared in Koren's top artists in 2024 and stayed in 2025. This is an abrupt addition of an entirely new genre rather than a gradual increase in plays.
   ])],
   [#box(theme: "important", title: "Group Listening Volume Has Been Declining Since 2021", [
-    Group-wide events went from ~44k in 2018 to ~140k in 2019, peaked at ~130k in 2020-2021, and have declined to ~70k in 2025. This is largely Alan's trajectory, as his listening dropped post-2020, and no other user increased enough to compensate.
+    Group-wide events went from \~44k in 2018 to \~140k in 2019, peaked at \~130k in 2020-2021, and have declined to \~70k in 2025. This is largely Alan's trajectory, as his listening dropped post-2020, and no other user increased enough to compensate.
+  ])],
+  [#box(theme: "important", title: "Genre Space Has Three Distinct Poles", [
+    PCA on genre play-share vectors explains 87.2% of inter-user variance in two dimensions. PC1 is a clean rock-vs-rap axis (Alexandra alone on the rock side), and PC2 isolates drum & bass (Koren alone at the top). Alan and Anthony cluster tightly together in the rap region, confirming their genre profiles are nearly interchangeable.
+  ])],
+  [#box(theme: "important", title: "Alexandra Listens Almost Entirely Through Playlists", [
+    Alexandra's shuffle rate is 93.3%, far above the 53-65% range of the other three users. She shuffles playlists she has curated herself rather than selecting individual tracks. Combined with the lowest skip rate (11.7%), she rarely overrides what comes next, suggesting high confidence in her own playlists.
   ])],
 )
 
