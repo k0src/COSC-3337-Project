@@ -1,0 +1,132 @@
+{
+    "profiles_2024": {
+        "Anthony": {
+            "late_night_frac": 0.439459967529693,
+            "mean_session_min": 35.4017326732673,
+            "artist_entropy": 6.89399897409981,
+            "mean_plays_per_track": 4.492514395393474,
+            "top_genre": "trap",
+            "mean_play_min": 1.6167807898259705,
+            "artist_gini": 0.8028389961816027,
+            "top1_artist_share": 0.07331453473468341,
+            "skip_rate": 0.556267623686234,
+            "shuffle_rate": 0.682987268221823,
+            "genre_gini": 0.8959422381350138,
+            "top1_track_share": 0.005041442365205503
+        },
+        "Alexandra": {
+            "late_night_frac": 0.369399967653243,
+            "mean_session_min": 24.563698630137,
+            "artist_entropy": 7.1175940717404504,
+            "mean_plays_per_track": 6.245454545454545,
+            "top_genre": "metalcore",
+            "mean_play_min": 2.203675219688393,
+            "artist_gini": 0.7369885778178611,
+            "top1_artist_share": 0.07989649037683973,
+            "skip_rate": 0.370936438622028,
+            "shuffle_rate": 0.894873038977842,
+            "genre_gini": 0.851017710207246,
+            "top1_track_share": 0.0042050784408863015
+        },
+        "Koren": {
+            "late_night_frac": 0.447386472767183,
+            "mean_session_min": 36.3162995594714,
+            "artist_entropy": 8.437622516100447,
+            "mean_plays_per_track": 5.030365769496204,
+            "top_genre": "drum and bass",
+            "mean_play_min": 2.5321274157406135,
+            "artist_gini": 0.7397432905229131,
+            "top1_artist_share": 0.05227054465633146,
+            "skip_rate": 0.587391960488407,
+            "shuffle_rate": 0.761627109342845,
+            "genre_gini": 0.8742337717224309,
+            "top1_track_share": 0.005350528193167787
+        },
+        "Alan": {
+            "late_night_frac": 0.35009055581931,
+            "mean_session_min": 52.3631573744563,
+            "artist_entropy": 7.1874427330891795,
+            "mean_plays_per_track": 15.222430406852249,
+            "top_genre": "hip hop",
+            "mean_play_min": 1.3093387379625234,
+            "artist_gini": 0.8532688013222908,
+            "top1_artist_share": 0.04921664820382972,
+            "skip_rate": 0.806597387068981,
+            "shuffle_rate": 0.729088639200999,
+            "genre_gini": 0.8268308314252968,
+            "top1_track_share": 0.002145205816672821
+        }
+    },
+    "mean_drift": 0.2283941672992825,
+    "users": [
+        "Alan",
+        "Alexandra",
+        "Anthony",
+        "Koren"
+    ],
+    "drifts": {
+        "Anthony": 0.20916736048080148,
+        "Alexandra": 0.28848107645581955,
+        "Koren": 0.13658207188436386,
+        "Alan": 0.279346160376145
+    },
+    "description": "d(user_2024, user_2025) using same composite distance function as cross-user matrix",
+    "profiles_2025": {
+        "Anthony": {
+            "late_night_frac": 0.407502006859812,
+            "mean_session_min": 45.4900793650794,
+            "artist_entropy": 6.845651098620161,
+            "mean_plays_per_track": 4.124924744130042,
+            "top_genre": "trap",
+            "mean_play_min": 2.423902240385317,
+            "artist_gini": 0.8038397850533193,
+            "top1_artist_share": 0.08749908779099468,
+            "skip_rate": 0.31898124498285,
+            "shuffle_rate": 0.61541268335401,
+            "genre_gini": 0.8775623895679093,
+            "top1_track_share": 0.0037218127417353863
+        },
+        "Alexandra": {
+            "late_night_frac": 0.346917690276662,
+            "mean_session_min": 18.0572505482456,
+            "artist_entropy": 7.214489977923771,
+            "mean_plays_per_track": 4.594409282700422,
+            "top_genre": "pop punk",
+            "mean_play_min": 2.389799328435312,
+            "artist_gini": 0.7109833251666673,
+            "top1_artist_share": 0.06463092641487773,
+            "skip_rate": 0.263574790494777,
+            "shuffle_rate": 0.957754563195959,
+            "genre_gini": 0.8478150328109644,
+            "top1_track_share": 0.013660888531741477
+        },
+        "Koren": {
+            "late_night_frac": 0.383766423357664,
+            "mean_session_min": 45.4601079489696,
+            "artist_entropy": 8.558262872401068,
+            "mean_plays_per_track": 4.780848687883863,
+            "top_genre": "drum and bass",
+            "mean_play_min": 2.4771122520681264,
+            "artist_gini": 0.7432601593708826,
+            "top1_artist_share": 0.06254014598540146,
+            "skip_rate": 0.551416058394161,
+            "shuffle_rate": 0.766014598540146,
+            "genre_gini": 0.8792959993262759,
+            "top1_track_share": 0.002627737226277372
+        },
+        "Alan": {
+            "late_night_frac": 0.400006823144105,
+            "mean_session_min": 37.5896425189394,
+            "artist_entropy": 7.112168355751649,
+            "mean_plays_per_track": 9.57282821685173,
+            "top_genre": "hip hop",
+            "mean_play_min": 1.5017150956377365,
+            "artist_gini": 0.7771362305805022,
+            "top1_artist_share": 0.040222434497816595,
+            "skip_rate": 0.802811135371179,
+            "shuffle_rate": 0.496895469432314,
+            "genre_gini": 0.7885631387265009,
+            "top1_track_share": 0.0035480349344978166
+        }
+    }
+}

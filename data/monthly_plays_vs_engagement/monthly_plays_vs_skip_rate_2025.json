@@ -1,0 +1,266 @@
+{
+    "Anthony": {
+        "points": [
+            {
+                "month": 1,
+                "skip_rate": 0.5466034755134281,
+                "play_count": 1899
+            },
+            {
+                "month": 2,
+                "skip_rate": 0.20793085917641077,
+                "play_count": 1967
+            },
+            {
+                "month": 3,
+                "skip_rate": 0.24860853432282004,
+                "play_count": 1617
+            },
+            {
+                "month": 4,
+                "skip_rate": 0.22555066079295155,
+                "play_count": 2270
+            },
+            {
+                "month": 5,
+                "skip_rate": 0.196513470681458,
+                "play_count": 1262
+            },
+            {
+                "month": 6,
+                "skip_rate": 0.3874709976798144,
+                "play_count": 1293
+            },
+            {
+                "month": 7,
+                "skip_rate": 0.3982808022922636,
+                "play_count": 1047
+            },
+            {
+                "month": 8,
+                "skip_rate": 0.2143727161997564,
+                "play_count": 821
+            },
+            {
+                "month": 9,
+                "skip_rate": 0.208,
+                "play_count": 250
+            },
+            {
+                "month": 10,
+                "skip_rate": 0.2419753086419753,
+                "play_count": 405
+            },
+            {
+                "month": 11,
+                "skip_rate": 0.6057007125890737,
+                "play_count": 421
+            },
+            {
+                "month": 12,
+                "skip_rate": 0.5831485587583148,
+                "play_count": 451
+            }
+        ],
+        "correlation": -0.22277557117174446,
+        "n_months": 12
+    },
+    "Alexandra": {
+        "points": [
+            {
+                "month": 1,
+                "skip_rate": 0.27560718057022177,
+                "play_count": 947
+            },
+            {
+                "month": 2,
+                "skip_rate": 0.33851674641148327,
+                "play_count": 836
+            },
+            {
+                "month": 3,
+                "skip_rate": 0.21052631578947367,
+                "play_count": 779
+            },
+            {
+                "month": 4,
+                "skip_rate": 0.2786259541984733,
+                "play_count": 786
+            },
+            {
+                "month": 5,
+                "skip_rate": 0.2410358565737052,
+                "play_count": 1004
+            },
+            {
+                "month": 6,
+                "skip_rate": 0.25,
+                "play_count": 504
+            },
+            {
+                "month": 7,
+                "skip_rate": 0.30196078431372547,
+                "play_count": 510
+            },
+            {
+                "month": 8,
+                "skip_rate": 0.2704507512520868,
+                "play_count": 599
+            },
+            {
+                "month": 9,
+                "skip_rate": 0.2945091514143095,
+                "play_count": 601
+            },
+            {
+                "month": 10,
+                "skip_rate": 0.26832844574780057,
+                "play_count": 682
+            },
+            {
+                "month": 11,
+                "skip_rate": 0.22623345367027678,
+                "play_count": 831
+            },
+            {
+                "month": 12,
+                "skip_rate": 0.21677215189873417,
+                "play_count": 632
+            }
+        ],
+        "correlation": -0.10371757474255032,
+        "n_months": 12
+    },
+    "Koren": {
+        "points": [
+            {
+                "month": 1,
+                "skip_rate": 0.6375929682217715,
+                "play_count": 1479
+            },
+            {
+                "month": 2,
+                "skip_rate": 0.4369556985990155,
+                "play_count": 2641
+            },
+            {
+                "month": 3,
+                "skip_rate": 0.5676274944567627,
+                "play_count": 4059
+            },
+            {
+                "month": 4,
+                "skip_rate": 0.42347188264058677,
+                "play_count": 2045
+            },
+            {
+                "month": 5,
+                "skip_rate": 0.8032305433186491,
+                "play_count": 681
+            },
+            {
+                "month": 6,
+                "skip_rate": 0.5017543859649123,
+                "play_count": 570
+            },
+            {
+                "month": 7,
+                "skip_rate": 0.5207631874298541,
+                "play_count": 891
+            },
+            {
+                "month": 8,
+                "skip_rate": 0.7684449489216799,
+                "play_count": 881
+            },
+            {
+                "month": 9,
+                "skip_rate": 0.3129644921552436,
+                "play_count": 1211
+            },
+            {
+                "month": 10,
+                "skip_rate": 0.6647398843930635,
+                "play_count": 1384
+            },
+            {
+                "month": 11,
+                "skip_rate": 0.6748878923766816,
+                "play_count": 446
+            },
+            {
+                "month": 12,
+                "skip_rate": 0.7224824355971897,
+                "play_count": 854
+            }
+        ],
+        "correlation": -0.34091219272238854,
+        "n_months": 12
+    },
+    "Alan": {
+        "points": [
+            {
+                "month": 1,
+                "skip_rate": 0.7894736842105263,
+                "play_count": 2242
+            },
+            {
+                "month": 2,
+                "skip_rate": 0.8286872782564623,
+                "play_count": 3946
+            },
+            {
+                "month": 3,
+                "skip_rate": 0.8575793184488837,
+                "play_count": 4255
+            },
+            {
+                "month": 4,
+                "skip_rate": 0.6109589041095891,
+                "play_count": 1095
+            },
+            {
+                "month": 5,
+                "skip_rate": 0.837979094076655,
+                "play_count": 1148
+            },
+            {
+                "month": 6,
+                "skip_rate": 0.879710893133712,
+                "play_count": 1937
+            },
+            {
+                "month": 7,
+                "skip_rate": 0.6938068427890862,
+                "play_count": 2309
+            },
+            {
+                "month": 8,
+                "skip_rate": 0.7541471714164185,
+                "play_count": 2351
+            },
+            {
+                "month": 9,
+                "skip_rate": 0.7891839378238342,
+                "play_count": 3088
+            },
+            {
+                "month": 10,
+                "skip_rate": 0.778811369509044,
+                "play_count": 1935
+            },
+            {
+                "month": 11,
+                "skip_rate": 0.8159281066005578,
+                "play_count": 3227
+            },
+            {
+                "month": 12,
+                "skip_rate": 0.8743690409422322,
+                "play_count": 1783
+            }
+        ],
+        "correlation": 0.3491310801766695,
+        "n_months": 12
+    }
+}

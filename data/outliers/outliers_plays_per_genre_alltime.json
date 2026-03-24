@@ -1,0 +1,6520 @@
+{
+    "Anthony": {
+        "outliers": [
+            {
+                "genre": "trap",
+                "z_score": 10.571962905651457,
+                "play_count": 49947
+            },
+            {
+                "genre": "hip hop",
+                "z_score": 9.630933508426237,
+                "play_count": 45588
+            },
+            {
+                "genre": "pop rap",
+                "z_score": 6.4872606287764025,
+                "play_count": 31026
+            },
+            {
+                "genre": "contemporary r&b",
+                "z_score": 2.7786246996798134,
+                "play_count": 13847
+            },
+            {
+                "genre": "pop",
+                "z_score": 2.438826518621659,
+                "play_count": 12273
+            },
+            {
+                "genre": "southern hip hop",
+                "z_score": 1.9263227817524988,
+                "play_count": 9899
+            },
+            {
+                "genre": "abstract hip hop",
+                "z_score": 1.6048745659992638,
+                "play_count": 8410
+            },
+            {
+                "genre": "gangsta rap",
+                "z_score": 1.5873881284733995,
+                "play_count": 8329
+            },
+            {
+                "genre": "electronic",
+                "z_score": 1.4166255101652674,
+                "play_count": 7538
+            },
+            {
+                "genre": "chicago hip hop",
+                "z_score": 1.3740967670468072,
+                "play_count": 7341
+            },
+            {
+                "genre": "soul",
+                "z_score": 1.3004810238823659,
+                "play_count": 7000
+            },
+            {
+                "genre": "melodic rap",
+                "z_score": 0.7959649189694648,
+                "play_count": 4663
+            },
+            {
+                "genre": "emo rap",
+                "z_score": 0.7318479813746288,
+                "play_count": 4366
+            },
+            {
+                "genre": "cloud rap",
+                "z_score": 0.7052945021686866,
+                "play_count": 4243
+            },
+            {
+                "genre": "alternative r&b",
+                "z_score": 0.621316425655585,
+                "play_count": 3854
+            },
+            {
+                "genre": "rage",
+                "z_score": 0.6146240853679085,
+                "play_count": 3823
+            },
+            {
+                "genre": "west coast hip hop",
+                "z_score": 0.5708000505808658,
+                "play_count": 3620
+            },
+            {
+                "genre": "conscious hip hop",
+                "z_score": 0.5619488908455517,
+                "play_count": 3579
+            },
+            {
+                "genre": "alternative hip hop",
+                "z_score": 0.505603703262211,
+                "play_count": 3318
+            },
+            {
+                "genre": "east coast hip hop",
+                "z_score": 0.49416196018973185,
+                "play_count": 3265
+            },
+            {
+                "genre": "melodic hip hop",
+                "z_score": 0.46372260597804205,
+                "play_count": 3124
+            },
+            {
+                "genre": "drill",
+                "z_score": 0.39831037671462355,
+                "play_count": 2821
+            },
+            {
+                "genre": "punk rap",
+                "z_score": 0.34714635580561304,
+                "play_count": 2584
+            },
+            {
+                "genre": "dance pop",
+                "z_score": 0.2782800154259744,
+                "play_count": 2265
+            },
+            {
+                "genre": "jazz rap",
+                "z_score": 0.20855014726728074,
+                "play_count": 1942
+            },
+            {
+                "genre": "electro pop",
+                "z_score": 0.17163433471267822,
+                "play_count": 1771
+            },
+            {
+                "genre": "plugg",
+                "z_score": 0.17120257082315068,
+                "play_count": 1769
+            },
+            {
+                "genre": "underground trap",
+                "z_score": 0.13407087632378442,
+                "play_count": 1597
+            },
+            {
+                "genre": "psychedelic hip hop",
+                "z_score": 0.12370854297512406,
+                "play_count": 1549
+            },
+            {
+                "genre": "r&b",
+                "z_score": 0.12306089714083279,
+                "play_count": 1546
+            },
+            {
+                "genre": "neo soul",
+                "z_score": 0.10600622350449594,
+                "play_count": 1467
+            },
+            {
+                "genre": "dirty south",
+                "z_score": 0.07599863318233366,
+                "play_count": 1328
+            },
+            {
+                "genre": "experimental hip hop",
+                "z_score": 0.07168099428705851,
+                "play_count": 1308
+            },
+            {
+                "genre": "synth pop",
+                "z_score": 0.06736335539178337,
+                "play_count": 1288
+            },
+            {
+                "genre": "florida rap",
+                "z_score": 0.05052456370021028,
+                "play_count": 1210
+            },
+            {
+                "genre": "rap",
+                "z_score": 0.04426398730206132,
+                "play_count": 1181
+            },
+            {
+                "genre": "trap soul",
+                "z_score": 0.042536931743951255,
+                "play_count": 1173
+            },
+            {
+                "genre": "memphis hip hop",
+                "z_score": 0.03692400118009356,
+                "play_count": 1147
+            },
+            {
+                "genre": "detroit hip hop",
+                "z_score": 0.03282224422958217,
+                "play_count": 1128
+            },
+            {
+                "genre": "indie rock",
+                "z_score": -0.02028471418230216,
+                "play_count": 882
+            },
+            {
+                "genre": "new york drill",
+                "z_score": -0.062165811466471106,
+                "play_count": 688
+            },
+            {
+                "genre": "g funk",
+                "z_score": -0.09087811012005084,
+                "play_count": 555
+            },
+            {
+                "genre": "underground hip hop",
+                "z_score": -0.10361514486111253,
+                "play_count": 496
+            },
+            {
+                "genre": "art pop",
+                "z_score": -0.11030748514878902,
+                "play_count": 465
+            },
+            {
+                "genre": "psychedelic rock",
+                "z_score": -0.11246630459642659,
+                "play_count": 455
+            },
+            {
+                "genre": "hyperpop",
+                "z_score": -0.11959040877363059,
+                "play_count": 422
+            },
+            {
+                "genre": "hyphy",
+                "z_score": -0.12326040183461447,
+                "play_count": 405
+            },
+            {
+                "genre": "uk drill",
+                "z_score": -0.12455569350319701,
+                "play_count": 399
+            },
+            {
+                "genre": "crunk",
+                "z_score": -0.12498745739272452,
+                "play_count": 397
+            },
+            {
+                "genre": "dancehall",
+                "z_score": -0.1271462768403621,
+                "play_count": 387
+            },
+            {
+                "genre": "boom bap",
+                "z_score": -0.1301686240670547,
+                "play_count": 373
+            },
+            {
+                "genre": "funk",
+                "z_score": -0.13556567268614864,
+                "play_count": 348
+            },
+            {
+                "genre": "pop punk",
+                "z_score": -0.13599743657567614,
+                "play_count": 346
+            },
+            {
+                "genre": "pluggnb",
+                "z_score": -0.13815625602331372,
+                "play_count": 336
+            }
+        ],
+        "data": [
+            {
+                "genre": "hardcore hip hop",
+                "play_count": 316
+            },
+            {
+                "genre": "trip hop",
+                "play_count": 298
+            },
+            {
+                "genre": "electro house",
+                "play_count": 289
+            },
+            {
+                "genre": "horrorcore",
+                "play_count": 287
+            },
+            {
+                "genre": "edm",
+                "play_count": 285
+            },
+            {
+                "genre": "dubstep",
+                "play_count": 257
+            },
+            {
+                "genre": "future bass",
+                "play_count": 244
+            },
+            {
+                "genre": "mafioso rap",
+                "play_count": 205
+            },
+            {
+                "genre": "trap metal",
+                "play_count": 197
+            },
+            {
+                "genre": "progressive house",
+                "play_count": 185
+            },
+            {
+                "genre": "country",
+                "play_count": 179
+            },
+            {
+                "genre": "drum and bass",
+                "play_count": 175
+            },
+            {
+                "genre": "bass music",
+                "play_count": 174
+            },
+            {
+                "genre": "neo psychedelia",
+                "play_count": 173
+            },
+            {
+                "genre": "gospel hip hop",
+                "play_count": 155
+            },
+            {
+                "genre": "alternative pop",
+                "play_count": 149
+            },
+            {
+                "genre": "bass house",
+                "play_count": 145
+            },
+            {
+                "genre": "grime",
+                "play_count": 141
+            },
+            {
+                "genre": "pop rock",
+                "play_count": 135
+            },
+            {
+                "genre": "indie pop",
+                "play_count": 132
+            },
+            {
+                "genre": "atlanta hip hop",
+                "play_count": 129
+            },
+            {
+                "genre": "experimental",
+                "play_count": 128
+            },
+            {
+                "genre": "hip hop soul",
+                "play_count": 128
+            },
+            {
+                "genre": "pop soul",
+                "play_count": 118
+            },
+            {
+                "genre": "house",
+                "play_count": 115
+            },
+            {
+                "genre": "chicago rap",
+                "play_count": 87
+            },
+            {
+                "genre": "psychedelic soul",
+                "play_count": 83
+            },
+            {
+                "genre": "psychedelia",
+                "play_count": 80
+            },
+            {
+                "genre": "alternative rock",
+                "play_count": 74
+            },
+            {
+                "genre": "chicano rap",
+                "play_count": 74
+            },
+            {
+                "genre": "snap",
+                "play_count": 72
+            },
+            {
+                "genre": "melodic dubstep",
+                "play_count": 71
+            },
+            {
+                "genre": "future bounce",
+                "play_count": 70
+            },
+            {
+                "genre": "trap edm",
+                "play_count": 68
+            },
+            {
+                "genre": "houston rap",
+                "play_count": 65
+            },
+            {
+                "genre": "k pop",
+                "play_count": 61
+            },
+            {
+                "genre": "bedroom pop",
+                "play_count": 60
+            },
+            {
+                "genre": "country rap",
+                "play_count": 59
+            },
+            {
+                "genre": "comedy rap",
+                "play_count": 55
+            },
+            {
+                "genre": "canadian hip hop",
+                "play_count": 51
+            },
+            {
+                "genre": "jersey club",
+                "play_count": 50
+            },
+            {
+                "genre": "brostep",
+                "play_count": 50
+            },
+            {
+                "genre": "riddim",
+                "play_count": 49
+            },
+            {
+                "genre": "latin pop",
+                "play_count": 49
+            },
+            {
+                "genre": "reggaeton",
+                "play_count": 47
+            },
+            {
+                "genre": "jersey drill",
+                "play_count": 46
+            },
+            {
+                "genre": "dance",
+                "play_count": 44
+            },
+            {
+                "genre": "glitch pop",
+                "play_count": 42
+            },
+            {
+                "genre": "post punk",
+                "play_count": 42
+            },
+            {
+                "genre": "political hip hop",
+                "play_count": 39
+            },
+            {
+                "genre": "chopped and screwed",
+                "play_count": 36
+            },
+            {
+                "genre": "trance",
+                "play_count": 36
+            },
+            {
+                "genre": "uk garage",
+                "play_count": 36
+            },
+            {
+                "genre": "nu disco",
+                "play_count": 35
+            },
+            {
+                "genre": "big room",
+                "play_count": 35
+            },
+            {
+                "genre": "coke rap",
+                "play_count": 35
+            },
+            {
+                "genre": "lo fi hip hop",
+                "play_count": 34
+            },
+            {
+                "genre": "scam rap",
+                "play_count": 32
+            },
+            {
+                "genre": "singer songwriter",
+                "play_count": 32
+            },
+            {
+                "genre": "deconstructed club",
+                "play_count": 32
+            },
+            {
+                "genre": "electronic dance music",
+                "play_count": 32
+            },
+            {
+                "genre": "experimental pop",
+                "play_count": 32
+            },
+            {
+                "genre": "techno",
+                "play_count": 31
+            },
+            {
+                "genre": "rock",
+                "play_count": 30
+            },
+            {
+                "genre": "bubblegum bass",
+                "play_count": 30
+            },
+            {
+                "genre": "reggae fusion",
+                "play_count": 29
+            },
+            {
+                "genre": "post grunge",
+                "play_count": 26
+            },
+            {
+                "genre": "contemporary hip hop",
+                "play_count": 25
+            },
+            {
+                "genre": "deep house",
+                "play_count": 23
+            },
+            {
+                "genre": "big room house",
+                "play_count": 23
+            },
+            {
+                "genre": "electro",
+                "play_count": 23
+            },
+            {
+                "genre": "hard rock",
+                "play_count": 23
+            },
+            {
+                "genre": "afrobeats",
+                "play_count": 23
+            },
+            {
+                "genre": "moombahton",
+                "play_count": 22
+            },
+            {
+                "genre": "country pop",
+                "play_count": 21
+            },
+            {
+                "genre": "bounce",
+                "play_count": 21
+            },
+            {
+                "genre": "glitch hop",
+                "play_count": 20
+            },
+            {
+                "genre": "teen pop",
+                "play_count": 19
+            },
+            {
+                "genre": "reggae",
+                "play_count": 19
+            },
+            {
+                "genre": "instrumental hip hop",
+                "play_count": 19
+            },
+            {
+                "genre": "new wave",
+                "play_count": 19
+            },
+            {
+                "genre": "dream pop",
+                "play_count": 19
+            },
+            {
+                "genre": "industrial techno",
+                "play_count": 18
+            },
+            {
+                "genre": "parody",
+                "play_count": 18
+            },
+            {
+                "genre": "dark electro",
+                "play_count": 18
+            },
+            {
+                "genre": "chinese hip hop",
+                "play_count": 18
+            },
+            {
+                "genre": "tropical house",
+                "play_count": 18
+            },
+            {
+                "genre": "jerk",
+                "play_count": 17
+            },
+            {
+                "genre": "baile funk",
+                "play_count": 17
+            },
+            {
+                "genre": "electro hop",
+                "play_count": 17
+            },
+            {
+                "genre": "hybrid trap",
+                "play_count": 16
+            },
+            {
+                "genre": "future house",
+                "play_count": 16
+            },
+            {
+                "genre": "emo pop",
+                "play_count": 16
+            },
+            {
+                "genre": "alternative metal",
+                "play_count": 15
+            },
+            {
+                "genre": "rap rock",
+                "play_count": 15
+            },
+            {
+                "genre": "latin trap",
+                "play_count": 15
+            },
+            {
+                "genre": "psychedelic pop",
+                "play_count": 14
+            },
+            {
+                "genre": "electronic trap",
+                "play_count": 14
+            },
+            {
+                "genre": "nu metal",
+                "play_count": 13
+            },
+            {
+                "genre": "k hip hop",
+                "play_count": 13
+            },
+            {
+                "genre": "new jack swing",
+                "play_count": 13
+            },
+            {
+                "genre": "funk soul",
+                "play_count": 13
+            },
+            {
+                "genre": "hardstyle",
+                "play_count": 13
+            },
+            {
+                "genre": "blue eyed soul",
+                "play_count": 12
+            },
+            {
+                "genre": "heavy metal",
+                "play_count": 12
+            },
+            {
+                "genre": "indie r&b",
+                "play_count": 11
+            },
+            {
+                "genre": "latin hip hop",
+                "play_count": 11
+            },
+            {
+                "genre": "gospel",
+                "play_count": 11
+            },
+            {
+                "genre": "lo fi",
+                "play_count": 11
+            },
+            {
+                "genre": "funk rock",
+                "play_count": 11
+            },
+            {
+                "genre": "electronic rock",
+                "play_count": 10
+            },
+            {
+                "genre": "soft rock",
+                "play_count": 10
+            },
+            {
+                "genre": "punk rock",
+                "play_count": 10
+            },
+            {
+                "genre": "progressive trance",
+                "play_count": 9
+            },
+            {
+                "genre": "afropop",
+                "play_count": 9
+            },
+            {
+                "genre": "folktronica",
+                "play_count": 9
+            },
+            {
+                "genre": "dutch house",
+                "play_count": 9
+            },
+            {
+                "genre": "chillhop",
+                "play_count": 9
+            },
+            {
+                "genre": "yacht rock",
+                "play_count": 8
+            },
+            {
+                "genre": "classic rock",
+                "play_count": 8
+            },
+            {
+                "genre": "death metal",
+                "play_count": 8
+            },
+            {
+                "genre": "electronic dance",
+                "play_count": 8
+            },
+            {
+                "genre": "grindcore",
+                "play_count": 8
+            },
+            {
+                "genre": "uk bass",
+                "play_count": 8
+            },
+            {
+                "genre": "future funk",
+                "play_count": 7
+            },
+            {
+                "genre": "mall punk",
+                "play_count": 7
+            },
+            {
+                "genre": "latin house",
+                "play_count": 7
+            },
+            {
+                "genre": "electro soul",
+                "play_count": 7
+            },
+            {
+                "genre": "progressive electronic",
+                "play_count": 7
+            },
+            {
+                "genre": "ambient",
+                "play_count": 6
+            },
+            {
+                "genre": "indie electronic",
+                "play_count": 6
+            },
+            {
+                "genre": "blues rock",
+                "play_count": 6
+            },
+            {
+                "genre": "complextro",
+                "play_count": 6
+            },
+            {
+                "genre": "indietronica",
+                "play_count": 6
+            },
+            {
+                "genre": "drumstep",
+                "play_count": 6
+            },
+            {
+                "genre": "amapiano",
+                "play_count": 5
+            },
+            {
+                "genre": "metalcore",
+                "play_count": 5
+            },
+            {
+                "genre": "baroque pop",
+                "play_count": 5
+            },
+            {
+                "genre": "britpop",
+                "play_count": 5
+            },
+            {
+                "genre": "bubblegum pop",
+                "play_count": 5
+            },
+            {
+                "genre": "indie dance",
+                "play_count": 5
+            },
+            {
+                "genre": "chillout",
+                "play_count": 5
+            },
+            {
+                "genre": "melbourne bounce",
+                "play_count": 5
+            },
+            {
+                "genre": "post punk revival",
+                "play_count": 5
+            },
+            {
+                "genre": "jazz fusion",
+                "play_count": 4
+            },
+            {
+                "genre": "jazz",
+                "play_count": 4
+            },
+            {
+                "genre": "grunge",
+                "play_count": 4
+            },
+            {
+                "genre": "footwork",
+                "play_count": 4
+            },
+            {
+                "genre": "folk pop",
+                "play_count": 4
+            },
+            {
+                "genre": "emo",
+                "play_count": 4
+            },
+            {
+                "genre": "power pop",
+                "play_count": 4
+            },
+            {
+                "genre": "psytrance",
+                "play_count": 4
+            },
+            {
+                "genre": "classical",
+                "play_count": 4
+            },
+            {
+                "genre": "chillwave",
+                "play_count": 4
+            },
+            {
+                "genre": "briddim",
+                "play_count": 4
+            },
+            {
+                "genre": "soundtrack",
+                "play_count": 4
+            },
+            {
+                "genre": "uk hip hop",
+                "play_count": 4
+            },
+            {
+                "genre": "vocal trance",
+                "play_count": 4
+            },
+            {
+                "genre": "industrial hip hop",
+                "play_count": 3
+            },
+            {
+                "genre": "symphonic rock",
+                "play_count": 3
+            },
+            {
+                "genre": "post dubstep",
+                "play_count": 3
+            },
+            {
+                "genre": "french house",
+                "play_count": 3
+            },
+            {
+                "genre": "symphonic metal",
+                "play_count": 3
+            },
+            {
+                "genre": "electronic pop",
+                "play_count": 3
+            },
+            {
+                "genre": "tech house",
+                "play_count": 3
+            },
+            {
+                "genre": "jazz hip hop",
+                "play_count": 3
+            },
+            {
+                "genre": "afroswing",
+                "play_count": 3
+            },
+            {
+                "genre": "funk carioca",
+                "play_count": 3
+            },
+            {
+                "genre": "metal",
+                "play_count": 3
+            },
+            {
+                "genre": "future garage",
+                "play_count": 3
+            },
+            {
+                "genre": "indie folk",
+                "play_count": 3
+            },
+            {
+                "genre": "romantic",
+                "play_count": 3
+            },
+            {
+                "genre": "regalia",
+                "play_count": 3
+            },
+            {
+                "genre": "comedy",
+                "play_count": 3
+            },
+            {
+                "genre": "progressive r&b",
+                "play_count": 3
+            },
+            {
+                "genre": "piano rock",
+                "play_count": 3
+            },
+            {
+                "genre": "avant garde hip hop",
+                "play_count": 3
+            },
+            {
+                "genre": "christian hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "afro house",
+                "play_count": 2
+            },
+            {
+                "genre": "acoustic rock",
+                "play_count": 2
+            },
+            {
+                "genre": "flamenco",
+                "play_count": 2
+            },
+            {
+                "genre": "polka",
+                "play_count": 2
+            },
+            {
+                "genre": "electronica",
+                "play_count": 2
+            },
+            {
+                "genre": "hard dance",
+                "play_count": 2
+            },
+            {
+                "genre": "hard trance",
+                "play_count": 2
+            },
+            {
+                "genre": "progressive metal",
+                "play_count": 2
+            },
+            {
+                "genre": "progressive rock",
+                "play_count": 2
+            },
+            {
+                "genre": "electro funk",
+                "play_count": 2
+            },
+            {
+                "genre": "math rock",
+                "play_count": 2
+            },
+            {
+                "genre": "downtempo",
+                "play_count": 2
+            },
+            {
+                "genre": "djent",
+                "play_count": 2
+            },
+            {
+                "genre": "world music",
+                "play_count": 2
+            },
+            {
+                "genre": "disco",
+                "play_count": 2
+            },
+            {
+                "genre": "dark pop",
+                "play_count": 2
+            },
+            {
+                "genre": "dark plugg",
+                "play_count": 2
+            },
+            {
+                "genre": "hardbass",
+                "play_count": 2
+            },
+            {
+                "genre": "afrofuturism",
+                "play_count": 2
+            },
+            {
+                "genre": "roots reggae",
+                "play_count": 2
+            },
+            {
+                "genre": "liquid funk",
+                "play_count": 2
+            },
+            {
+                "genre": "ska punk",
+                "play_count": 2
+            },
+            {
+                "genre": "adult contemporary",
+                "play_count": 2
+            },
+            {
+                "genre": "blues",
+                "play_count": 2
+            },
+            {
+                "genre": "thrash metal",
+                "play_count": 2
+            },
+            {
+                "genre": "avant garde",
+                "play_count": 2
+            },
+            {
+                "genre": "garage rock",
+                "play_count": 2
+            },
+            {
+                "genre": "nightcore",
+                "play_count": 2
+            },
+            {
+                "genre": "noise rap",
+                "play_count": 2
+            },
+            {
+                "genre": "japanese hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "folk rock",
+                "play_count": 2
+            },
+            {
+                "genre": "folk",
+                "play_count": 1
+            },
+            {
+                "genre": "euro house",
+                "play_count": 1
+            },
+            {
+                "genre": "stoner metal",
+                "play_count": 1
+            },
+            {
+                "genre": "doom metal",
+                "play_count": 1
+            },
+            {
+                "genre": "dub",
+                "play_count": 1
+            },
+            {
+                "genre": "bluegrass",
+                "play_count": 1
+            },
+            {
+                "genre": "glam rock",
+                "play_count": 1
+            },
+            {
+                "genre": "alternative dance",
+                "play_count": 1
+            },
+            {
+                "genre": "baroque",
+                "play_count": 1
+            },
+            {
+                "genre": "euro pop",
+                "play_count": 1
+            },
+            {
+                "genre": "bachata",
+                "play_count": 1
+            },
+            {
+                "genre": "euro dance",
+                "play_count": 1
+            },
+            {
+                "genre": "euro trance",
+                "play_count": 1
+            },
+            {
+                "genre": "art rock",
+                "play_count": 1
+            },
+            {
+                "genre": "arena rock",
+                "play_count": 1
+            },
+            {
+                "genre": "reggae rock",
+                "play_count": 1
+            },
+            {
+                "genre": "idm",
+                "play_count": 1
+            },
+            {
+                "genre": "rockabilly",
+                "play_count": 1
+            },
+            {
+                "genre": "comedy rock",
+                "play_count": 1
+            },
+            {
+                "genre": "jangle pop",
+                "play_count": 1
+            },
+            {
+                "genre": "glam metal",
+                "play_count": 1
+            },
+            {
+                "genre": "rap metal",
+                "play_count": 1
+            },
+            {
+                "genre": "german hip hop",
+                "play_count": 1
+            },
+            {
+                "genre": "sludge metal",
+                "play_count": 1
+            },
+            {
+                "genre": "disco house",
+                "play_count": 1
+            },
+            {
+                "genre": "boy band",
+                "play_count": 1
+            },
+            {
+                "genre": "indie funk",
+                "play_count": 1
+            }
+        ],
+        "stats": {
+            "median": 8.5,
+            "variance": 3649.4618103137404,
+            "q1": 2.75,
+            "q3": 32,
+            "iqr": 29.25,
+            "range": 315,
+            "skewness": 2.767131041700525,
+            "mean": 33.67796610169491,
+            "modes": [
+                2
+            ],
+            "std": 60.4107756142374
+        }
+    },
+    "Alexandra": {
+        "outliers": [
+            {
+                "genre": "pop punk",
+                "z_score": 9.88250014902107,
+                "play_count": 55254
+            },
+            {
+                "genre": "alternative rock",
+                "z_score": 9.435406439385483,
+                "play_count": 52820
+            },
+            {
+                "genre": "pop rock",
+                "z_score": 5.497161108823869,
+                "play_count": 31380
+            },
+            {
+                "genre": "post hardcore",
+                "z_score": 4.450513632446068,
+                "play_count": 25682
+            },
+            {
+                "genre": "metalcore",
+                "z_score": 3.9473954439941896,
+                "play_count": 22943
+            },
+            {
+                "genre": "punk rock",
+                "z_score": 3.824325277414139,
+                "play_count": 22273
+            },
+            {
+                "genre": "electro pop",
+                "z_score": 2.9540171441958125,
+                "play_count": 17535
+            },
+            {
+                "genre": "indie rock",
+                "z_score": 2.136978187556911,
+                "play_count": 13087
+            },
+            {
+                "genre": "hard rock",
+                "z_score": 2.1096088520040337,
+                "play_count": 12938
+            },
+            {
+                "genre": "alternative metal",
+                "z_score": 1.9727621742396495,
+                "play_count": 12193
+            },
+            {
+                "genre": "emo",
+                "z_score": 1.5383428548936506,
+                "play_count": 9828
+            },
+            {
+                "genre": "power pop",
+                "z_score": 1.461010705445589,
+                "play_count": 9407
+            },
+            {
+                "genre": "pop",
+                "z_score": 1.380004819681705,
+                "play_count": 8966
+            },
+            {
+                "genre": "emo pop",
+                "z_score": 1.3197555441022177,
+                "play_count": 8638
+            },
+            {
+                "genre": "hip hop",
+                "z_score": 1.2128498173117859,
+                "play_count": 8056
+            },
+            {
+                "genre": "deathcore",
+                "z_score": 0.9521982257041866,
+                "play_count": 6637
+            },
+            {
+                "genre": "metal",
+                "z_score": 0.9016843513616285,
+                "play_count": 6362
+            },
+            {
+                "genre": "trap",
+                "z_score": 0.8972758677826416,
+                "play_count": 6338
+            },
+            {
+                "genre": "indie pop",
+                "z_score": 0.8724781476508404,
+                "play_count": 6203
+            },
+            {
+                "genre": "rock",
+                "z_score": 0.8601711309928354,
+                "play_count": 6136
+            },
+            {
+                "genre": "pop rap",
+                "z_score": 0.8002892290449303,
+                "play_count": 5810
+            },
+            {
+                "genre": "post grunge",
+                "z_score": 0.6748311338595953,
+                "play_count": 5127
+            },
+            {
+                "genre": "nu metal",
+                "z_score": 0.5570878849374873,
+                "play_count": 4486
+            },
+            {
+                "genre": "electronic",
+                "z_score": 0.5445971814636912,
+                "play_count": 4418
+            },
+            {
+                "genre": "post punk revival",
+                "z_score": 0.5115335546212896,
+                "play_count": 4238
+            },
+            {
+                "genre": "rap rock",
+                "z_score": 0.4797557354894258,
+                "play_count": 4065
+            },
+            {
+                "genre": "easycore",
+                "z_score": 0.4679997792787941,
+                "play_count": 4001
+            },
+            {
+                "genre": "skate punk",
+                "z_score": 0.4176695917520272,
+                "play_count": 3727
+            },
+            {
+                "genre": "dance pop",
+                "z_score": 0.4075668168835156,
+                "play_count": 3672
+            },
+            {
+                "genre": "dubstep",
+                "z_score": 0.37468687685690516,
+                "play_count": 3493
+            },
+            {
+                "genre": "synth pop",
+                "z_score": 0.31829502440903135,
+                "play_count": 3186
+            },
+            {
+                "genre": "heavy metal",
+                "z_score": 0.2742101886191625,
+                "play_count": 2946
+            },
+            {
+                "genre": "alternative hip hop",
+                "z_score": 0.1990822809605944,
+                "play_count": 2537
+            },
+            {
+                "genre": "edm",
+                "z_score": 0.1529768901970233,
+                "play_count": 2286
+            },
+            {
+                "genre": "blues rock",
+                "z_score": 0.14562941756537848,
+                "play_count": 2246
+            },
+            {
+                "genre": "new wave",
+                "z_score": 0.12781179643363985,
+                "play_count": 2149
+            },
+            {
+                "genre": "garage rock",
+                "z_score": 0.06627671314361464,
+                "play_count": 1814
+            },
+            {
+                "genre": "teen pop",
+                "z_score": 0.061133482301463274,
+                "play_count": 1786
+            },
+            {
+                "genre": "melodic hardcore",
+                "z_score": 0.04919383927504047,
+                "play_count": 1721
+            },
+            {
+                "genre": "garage punk",
+                "z_score": 0.04000949848548447,
+                "play_count": 1671
+            },
+            {
+                "genre": "progressive rock",
+                "z_score": 0.02733510819589719,
+                "play_count": 1602
+            },
+            {
+                "genre": "psychedelic rock",
+                "z_score": 0.02255925098532807,
+                "play_count": 1576
+            },
+            {
+                "genre": "progressive metal",
+                "z_score": 0.01888551466950567,
+                "play_count": 1556
+            },
+            {
+                "genre": "contemporary r&b",
+                "z_score": 0.006027437564127266,
+                "play_count": 1486
+            },
+            {
+                "genre": "screamo",
+                "z_score": -0.01711710122555386,
+                "play_count": 1360
+            },
+            {
+                "genre": "electronic pop",
+                "z_score": -0.040996387278399465,
+                "play_count": 1230
+            },
+            {
+                "genre": "dub",
+                "z_score": -0.044670123594221865,
+                "play_count": 1210
+            },
+            {
+                "genre": "trip hop",
+                "z_score": -0.048894920357417625,
+                "play_count": 1187
+            }
+        ],
+        "data": [
+            {
+                "genre": "art rock",
+                "play_count": 1130
+            },
+            {
+                "genre": "horror punk",
+                "play_count": 1097
+            },
+            {
+                "genre": "alternative pop",
+                "play_count": 1089
+            },
+            {
+                "genre": "trap metal",
+                "play_count": 1073
+            },
+            {
+                "genre": "electronic rock",
+                "play_count": 987
+            },
+            {
+                "genre": "industrial metal",
+                "play_count": 980
+            },
+            {
+                "genre": "industrial rock",
+                "play_count": 917
+            },
+            {
+                "genre": "reggae rock",
+                "play_count": 913
+            },
+            {
+                "genre": "folk rock",
+                "play_count": 911
+            },
+            {
+                "genre": "alternative r&b",
+                "play_count": 903
+            },
+            {
+                "genre": "hardcore",
+                "play_count": 846
+            },
+            {
+                "genre": "east coast hip hop",
+                "play_count": 845
+            },
+            {
+                "genre": "ska punk",
+                "play_count": 803
+            },
+            {
+                "genre": "indie folk",
+                "play_count": 761
+            },
+            {
+                "genre": "avant garde metal",
+                "play_count": 753
+            },
+            {
+                "genre": "drum and bass",
+                "play_count": 714
+            },
+            {
+                "genre": "grunge",
+                "play_count": 689
+            },
+            {
+                "genre": "underground hip hop",
+                "play_count": 687
+            },
+            {
+                "genre": "death metal",
+                "play_count": 667
+            },
+            {
+                "genre": "future bass",
+                "play_count": 649
+            },
+            {
+                "genre": "electro house",
+                "play_count": 647
+            },
+            {
+                "genre": "midwest emo",
+                "play_count": 616
+            },
+            {
+                "genre": "djent",
+                "play_count": 596
+            },
+            {
+                "genre": "folk pop",
+                "play_count": 587
+            },
+            {
+                "genre": "bass music",
+                "play_count": 581
+            },
+            {
+                "genre": "house",
+                "play_count": 555
+            },
+            {
+                "genre": "hardstyle",
+                "play_count": 537
+            },
+            {
+                "genre": "arena rock",
+                "play_count": 532
+            },
+            {
+                "genre": "surf rock",
+                "play_count": 518
+            },
+            {
+                "genre": "soundtrack",
+                "play_count": 505
+            },
+            {
+                "genre": "soul",
+                "play_count": 502
+            },
+            {
+                "genre": "mall punk",
+                "play_count": 500
+            },
+            {
+                "genre": "rap metal",
+                "play_count": 489
+            },
+            {
+                "genre": "glam rock",
+                "play_count": 486
+            },
+            {
+                "genre": "post punk",
+                "play_count": 481
+            },
+            {
+                "genre": "melodic metalcore",
+                "play_count": 460
+            },
+            {
+                "genre": "soft rock",
+                "play_count": 443
+            },
+            {
+                "genre": "art pop",
+                "play_count": 428
+            },
+            {
+                "genre": "k pop",
+                "play_count": 426
+            },
+            {
+                "genre": "post rock",
+                "play_count": 421
+            },
+            {
+                "genre": "dream pop",
+                "play_count": 403
+            },
+            {
+                "genre": "electronicore",
+                "play_count": 398
+            },
+            {
+                "genre": "brostep",
+                "play_count": 373
+            },
+            {
+                "genre": "experimental",
+                "play_count": 372
+            },
+            {
+                "genre": "funk rock",
+                "play_count": 369
+            },
+            {
+                "genre": "singer songwriter",
+                "play_count": 365
+            },
+            {
+                "genre": "gothic metal",
+                "play_count": 362
+            },
+            {
+                "genre": "folk punk",
+                "play_count": 349
+            },
+            {
+                "genre": "progressive metalcore",
+                "play_count": 343
+            },
+            {
+                "genre": "hardcore punk",
+                "play_count": 334
+            },
+            {
+                "genre": "britpop",
+                "play_count": 328
+            },
+            {
+                "genre": "acoustic rock",
+                "play_count": 328
+            },
+            {
+                "genre": "slam",
+                "play_count": 324
+            },
+            {
+                "genre": "electro",
+                "play_count": 324
+            },
+            {
+                "genre": "progressive house",
+                "play_count": 322
+            },
+            {
+                "genre": "trap edm",
+                "play_count": 318
+            },
+            {
+                "genre": "hyperpop",
+                "play_count": 300
+            },
+            {
+                "genre": "symphonic metal",
+                "play_count": 292
+            },
+            {
+                "genre": "christian rock",
+                "play_count": 290
+            },
+            {
+                "genre": "sunshine pop",
+                "play_count": 286
+            },
+            {
+                "genre": "dance rock",
+                "play_count": 279
+            },
+            {
+                "genre": "glam metal",
+                "play_count": 277
+            },
+            {
+                "genre": "classic rock",
+                "play_count": 275
+            },
+            {
+                "genre": "baroque pop",
+                "play_count": 272
+            },
+            {
+                "genre": "emo rap",
+                "play_count": 271
+            },
+            {
+                "genre": "folk",
+                "play_count": 256
+            },
+            {
+                "genre": "beatdown",
+                "play_count": 247
+            },
+            {
+                "genre": "experimental rock",
+                "play_count": 229
+            },
+            {
+                "genre": "deathgrind",
+                "play_count": 228
+            },
+            {
+                "genre": "grindcore",
+                "play_count": 228
+            },
+            {
+                "genre": "math rock",
+                "play_count": 213
+            },
+            {
+                "genre": "british pop",
+                "play_count": 206
+            },
+            {
+                "genre": "celtic rock",
+                "play_count": 201
+            },
+            {
+                "genre": "funk metal",
+                "play_count": 201
+            },
+            {
+                "genre": "americana",
+                "play_count": 200
+            },
+            {
+                "genre": "jazz",
+                "play_count": 199
+            },
+            {
+                "genre": "ska",
+                "play_count": 199
+            },
+            {
+                "genre": "ambient pop",
+                "play_count": 188
+            },
+            {
+                "genre": "french house",
+                "play_count": 182
+            },
+            {
+                "genre": "vocal jazz",
+                "play_count": 177
+            },
+            {
+                "genre": "post britpop",
+                "play_count": 175
+            },
+            {
+                "genre": "underground trap",
+                "play_count": 175
+            },
+            {
+                "genre": "pluggnb",
+                "play_count": 172
+            },
+            {
+                "genre": "hardcore hip hop",
+                "play_count": 171
+            },
+            {
+                "genre": "nwobhm",
+                "play_count": 169
+            },
+            {
+                "genre": "ambient",
+                "play_count": 163
+            },
+            {
+                "genre": "shock rock",
+                "play_count": 161
+            },
+            {
+                "genre": "trance",
+                "play_count": 160
+            },
+            {
+                "genre": "funk",
+                "play_count": 160
+            },
+            {
+                "genre": "gabber",
+                "play_count": 158
+            },
+            {
+                "genre": "slacker rock",
+                "play_count": 156
+            },
+            {
+                "genre": "bedroom pop",
+                "play_count": 148
+            },
+            {
+                "genre": "comedy",
+                "play_count": 146
+            },
+            {
+                "genre": "dance punk",
+                "play_count": 145
+            },
+            {
+                "genre": "tropical house",
+                "play_count": 143
+            },
+            {
+                "genre": "country rock",
+                "play_count": 133
+            },
+            {
+                "genre": "experimental indie",
+                "play_count": 130
+            },
+            {
+                "genre": "r&b",
+                "play_count": 130
+            },
+            {
+                "genre": "art punk",
+                "play_count": 121
+            },
+            {
+                "genre": "noise rock",
+                "play_count": 121
+            },
+            {
+                "genre": "beach pop",
+                "play_count": 120
+            },
+            {
+                "genre": "deep house",
+                "play_count": 120
+            },
+            {
+                "genre": "j rock",
+                "play_count": 119
+            },
+            {
+                "genre": "cloud rap",
+                "play_count": 119
+            },
+            {
+                "genre": "kawaii metal",
+                "play_count": 119
+            },
+            {
+                "genre": "country pop",
+                "play_count": 112
+            },
+            {
+                "genre": "electro funk",
+                "play_count": 112
+            },
+            {
+                "genre": "disco",
+                "play_count": 112
+            },
+            {
+                "genre": "melodic dubstep",
+                "play_count": 109
+            },
+            {
+                "genre": "afro house",
+                "play_count": 109
+            },
+            {
+                "genre": "techno",
+                "play_count": 108
+            },
+            {
+                "genre": "garage rock revival",
+                "play_count": 107
+            },
+            {
+                "genre": "space rock",
+                "play_count": 107
+            },
+            {
+                "genre": "lo fi",
+                "play_count": 101
+            },
+            {
+                "genre": "thrash metal",
+                "play_count": 100
+            },
+            {
+                "genre": "alternative hardcore",
+                "play_count": 97
+            },
+            {
+                "genre": "alternative dance",
+                "play_count": 96
+            },
+            {
+                "genre": "groove metal",
+                "play_count": 96
+            },
+            {
+                "genre": "piano rock",
+                "play_count": 95
+            },
+            {
+                "genre": "k hip hop",
+                "play_count": 90
+            },
+            {
+                "genre": "j pop",
+                "play_count": 90
+            },
+            {
+                "genre": "abstract hip hop",
+                "play_count": 87
+            },
+            {
+                "genre": "alternative country",
+                "play_count": 86
+            },
+            {
+                "genre": "melodic hip hop",
+                "play_count": 84
+            },
+            {
+                "genre": "psychedelic hip hop",
+                "play_count": 84
+            },
+            {
+                "genre": "blue eyed soul",
+                "play_count": 83
+            },
+            {
+                "genre": "shoegaze",
+                "play_count": 82
+            },
+            {
+                "genre": "complextro",
+                "play_count": 80
+            },
+            {
+                "genre": "indie electronica",
+                "play_count": 78
+            },
+            {
+                "genre": "comedy rock",
+                "play_count": 77
+            },
+            {
+                "genre": "melodic rap",
+                "play_count": 74
+            },
+            {
+                "genre": "country",
+                "play_count": 73
+            },
+            {
+                "genre": "industrial metalcore",
+                "play_count": 72
+            },
+            {
+                "genre": "future funk",
+                "play_count": 71
+            },
+            {
+                "genre": "electro soul",
+                "play_count": 71
+            },
+            {
+                "genre": "glitch hop",
+                "play_count": 71
+            },
+            {
+                "genre": "riddim",
+                "play_count": 71
+            },
+            {
+                "genre": "anime",
+                "play_count": 70
+            },
+            {
+                "genre": "political hip hop",
+                "play_count": 68
+            },
+            {
+                "genre": "gospel",
+                "play_count": 67
+            },
+            {
+                "genre": "pop metal",
+                "play_count": 63
+            },
+            {
+                "genre": "electronic dance music",
+                "play_count": 63
+            },
+            {
+                "genre": "bluegrass",
+                "play_count": 62
+            },
+            {
+                "genre": "neo soul",
+                "play_count": 61
+            },
+            {
+                "genre": "rap",
+                "play_count": 61
+            },
+            {
+                "genre": "experimental hip hop",
+                "play_count": 61
+            },
+            {
+                "genre": "yacht rock",
+                "play_count": 59
+            },
+            {
+                "genre": "euro dance",
+                "play_count": 59
+            },
+            {
+                "genre": "children's music",
+                "play_count": 58
+            },
+            {
+                "genre": "parody",
+                "play_count": 57
+            },
+            {
+                "genre": "christian hip hop",
+                "play_count": 56
+            },
+            {
+                "genre": "drone",
+                "play_count": 56
+            },
+            {
+                "genre": "lo fi hip hop",
+                "play_count": 55
+            },
+            {
+                "genre": "krautrock",
+                "play_count": 55
+            },
+            {
+                "genre": "briddim",
+                "play_count": 55
+            },
+            {
+                "genre": "nu disco",
+                "play_count": 51
+            },
+            {
+                "genre": "a cappella",
+                "play_count": 50
+            },
+            {
+                "genre": "witch house",
+                "play_count": 45
+            },
+            {
+                "genre": "jangle pop",
+                "play_count": 44
+            },
+            {
+                "genre": "reggaeton",
+                "play_count": 43
+            },
+            {
+                "genre": "indietronica",
+                "play_count": 42
+            },
+            {
+                "genre": "doo wop",
+                "play_count": 42
+            },
+            {
+                "genre": "video game music",
+                "play_count": 41
+            },
+            {
+                "genre": "nu metalcore",
+                "play_count": 40
+            },
+            {
+                "genre": "orchestral",
+                "play_count": 40
+            },
+            {
+                "genre": "memphis hip hop",
+                "play_count": 38
+            },
+            {
+                "genre": "speed metal",
+                "play_count": 38
+            },
+            {
+                "genre": "electro punk",
+                "play_count": 36
+            },
+            {
+                "genre": "blues",
+                "play_count": 36
+            },
+            {
+                "genre": "hard trap",
+                "play_count": 35
+            },
+            {
+                "genre": "drift phonk",
+                "play_count": 34
+            },
+            {
+                "genre": "grime",
+                "play_count": 34
+            },
+            {
+                "genre": "electronic metal",
+                "play_count": 32
+            },
+            {
+                "genre": "crunk",
+                "play_count": 32
+            },
+            {
+                "genre": "christian pop",
+                "play_count": 32
+            },
+            {
+                "genre": "latin hip hop",
+                "play_count": 32
+            },
+            {
+                "genre": "phonk",
+                "play_count": 31
+            },
+            {
+                "genre": "string quartet",
+                "play_count": 31
+            },
+            {
+                "genre": "bass house",
+                "play_count": 30
+            },
+            {
+                "genre": "conscious hip hop",
+                "play_count": 30
+            },
+            {
+                "genre": "industrial",
+                "play_count": 30
+            },
+            {
+                "genre": "dance",
+                "play_count": 30
+            },
+            {
+                "genre": "progressive deathcore",
+                "play_count": 29
+            },
+            {
+                "genre": "progressive funk",
+                "play_count": 27
+            },
+            {
+                "genre": "funk fusion",
+                "play_count": 27
+            },
+            {
+                "genre": "downtempo deathcore",
+                "play_count": 27
+            },
+            {
+                "genre": "technical death metal",
+                "play_count": 27
+            },
+            {
+                "genre": "folk metal",
+                "play_count": 27
+            },
+            {
+                "genre": "boom bap",
+                "play_count": 26
+            },
+            {
+                "genre": "swancore",
+                "play_count": 26
+            },
+            {
+                "genre": "jungle",
+                "play_count": 26
+            },
+            {
+                "genre": "riot grrrl",
+                "play_count": 25
+            },
+            {
+                "genre": "rave",
+                "play_count": 25
+            },
+            {
+                "genre": "pop soul",
+                "play_count": 25
+            },
+            {
+                "genre": "hard dance",
+                "play_count": 25
+            },
+            {
+                "genre": "detroit hip hop",
+                "play_count": 24
+            },
+            {
+                "genre": "world music",
+                "play_count": 24
+            },
+            {
+                "genre": "horrorcore",
+                "play_count": 24
+            },
+            {
+                "genre": "library music",
+                "play_count": 24
+            },
+            {
+                "genre": "experimental electronic",
+                "play_count": 23
+            },
+            {
+                "genre": "folktronica",
+                "play_count": 23
+            },
+            {
+                "genre": "pop funk",
+                "play_count": 22
+            },
+            {
+                "genre": "chamber pop",
+                "play_count": 22
+            },
+            {
+                "genre": "contemporary hip hop",
+                "play_count": 21
+            },
+            {
+                "genre": "nerdcore",
+                "play_count": 21
+            },
+            {
+                "genre": "uk hip hop",
+                "play_count": 21
+            },
+            {
+                "genre": "contemporary country",
+                "play_count": 21
+            },
+            {
+                "genre": "synth punk",
+                "play_count": 20
+            },
+            {
+                "genre": "industrial hip hop",
+                "play_count": 20
+            },
+            {
+                "genre": "electro gothic metal",
+                "play_count": 18
+            },
+            {
+                "genre": "visual kei",
+                "play_count": 18
+            },
+            {
+                "genre": "comedy rap",
+                "play_count": 18
+            },
+            {
+                "genre": "jazz pop",
+                "play_count": 18
+            },
+            {
+                "genre": "christian metal",
+                "play_count": 17
+            },
+            {
+                "genre": "j metal",
+                "play_count": 17
+            },
+            {
+                "genre": "c pop",
+                "play_count": 15
+            },
+            {
+                "genre": "beatdown hardcore",
+                "play_count": 14
+            },
+            {
+                "genre": "moombahton",
+                "play_count": 14
+            },
+            {
+                "genre": "big room",
+                "play_count": 12
+            },
+            {
+                "genre": "chanson",
+                "play_count": 12
+            },
+            {
+                "genre": "southern hip hop",
+                "play_count": 12
+            },
+            {
+                "genre": "latin pop",
+                "play_count": 12
+            },
+            {
+                "genre": "electronica",
+                "play_count": 11
+            },
+            {
+                "genre": "digicore",
+                "play_count": 11
+            },
+            {
+                "genre": "neurofunk",
+                "play_count": 10
+            },
+            {
+                "genre": "liquid funk",
+                "play_count": 10
+            },
+            {
+                "genre": "rockabilly",
+                "play_count": 9
+            },
+            {
+                "genre": "progressive pop",
+                "play_count": 8
+            },
+            {
+                "genre": "classical",
+                "play_count": 8
+            },
+            {
+                "genre": "experimental pop",
+                "play_count": 7
+            },
+            {
+                "genre": "rage",
+                "play_count": 6
+            },
+            {
+                "genre": "funk pop",
+                "play_count": 6
+            },
+            {
+                "genre": "j core",
+                "play_count": 6
+            },
+            {
+                "genre": "power metal",
+                "play_count": 6
+            },
+            {
+                "genre": "breakcore",
+                "play_count": 4
+            },
+            {
+                "genre": "trap soul",
+                "play_count": 4
+            },
+            {
+                "genre": "jazz rap",
+                "play_count": 4
+            },
+            {
+                "genre": "acid jazz",
+                "play_count": 4
+            },
+            {
+                "genre": "trancecore",
+                "play_count": 4
+            },
+            {
+                "genre": "dancehall",
+                "play_count": 3
+            },
+            {
+                "genre": "hardtekk",
+                "play_count": 3
+            },
+            {
+                "genre": "gangsta rap",
+                "play_count": 3
+            },
+            {
+                "genre": "electro hop",
+                "play_count": 3
+            },
+            {
+                "genre": "psychedelic pop",
+                "play_count": 3
+            },
+            {
+                "genre": "canadian hip hop",
+                "play_count": 3
+            },
+            {
+                "genre": "stoner rock",
+                "play_count": 3
+            },
+            {
+                "genre": "afropop",
+                "play_count": 2
+            },
+            {
+                "genre": "avant garde",
+                "play_count": 2
+            },
+            {
+                "genre": "psychedelic trance",
+                "play_count": 2
+            },
+            {
+                "genre": "psychedelia",
+                "play_count": 2
+            },
+            {
+                "genre": "plugg",
+                "play_count": 2
+            },
+            {
+                "genre": "euro trance",
+                "play_count": 2
+            },
+            {
+                "genre": "mafioso rap",
+                "play_count": 2
+            },
+            {
+                "genre": "krushclub",
+                "play_count": 2
+            },
+            {
+                "genre": "west coast hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "piano",
+                "play_count": 2
+            },
+            {
+                "genre": "french pop",
+                "play_count": 2
+            },
+            {
+                "genre": "outlaw country",
+                "play_count": 2
+            },
+            {
+                "genre": "acid techno",
+                "play_count": 1
+            },
+            {
+                "genre": "neo psychedelia",
+                "play_count": 1
+            },
+            {
+                "genre": "jazz rock",
+                "play_count": 1
+            },
+            {
+                "genre": "swamp rock",
+                "play_count": 1
+            },
+            {
+                "genre": "idm",
+                "play_count": 1
+            },
+            {
+                "genre": "southern rock",
+                "play_count": 1
+            },
+            {
+                "genre": "symphonic rock",
+                "play_count": 1
+            },
+            {
+                "genre": "breakbeat",
+                "play_count": 1
+            },
+            {
+                "genre": "bubblegum bass",
+                "play_count": 1
+            },
+            {
+                "genre": "cold wave",
+                "play_count": 1
+            },
+            {
+                "genre": "psychedelic folk",
+                "play_count": 1
+            },
+            {
+                "genre": "progressive techno",
+                "play_count": 1
+            },
+            {
+                "genre": "ambient techno",
+                "play_count": 1
+            },
+            {
+                "genre": "deconstructed club",
+                "play_count": 1
+            },
+            {
+                "genre": "uk garage",
+                "play_count": 1
+            },
+            {
+                "genre": "new york drill",
+                "play_count": 1
+            }
+        ],
+        "stats": {
+            "median": 70.5,
+            "variance": 61049.50707200341,
+            "q1": 21,
+            "q3": 228,
+            "iqr": 207,
+            "range": 1129,
+            "skewness": 1.949152796947226,
+            "mean": 177.6058394160584,
+            "modes": [
+                1
+            ],
+            "std": 247.08198451526857
+        }
+    },
+    "Koren": {
+        "outliers": [
+            {
+                "genre": "trap",
+                "z_score": 16.052742712924246,
+                "play_count": 98095
+            },
+            {
+                "genre": "hip hop",
+                "z_score": 11.777181274316769,
+                "play_count": 72280
+            },
+            {
+                "genre": "pop rap",
+                "z_score": 4.78573153548518,
+                "play_count": 30067
+            },
+            {
+                "genre": "underground trap",
+                "z_score": 3.5362705440904554,
+                "play_count": 22523
+            },
+            {
+                "genre": "rage",
+                "z_score": 3.395822118758705,
+                "play_count": 21675
+            },
+            {
+                "genre": "drum and bass",
+                "z_score": 3.3792598044507156,
+                "play_count": 21575
+            },
+            {
+                "genre": "cloud rap",
+                "z_score": 3.3196354729419535,
+                "play_count": 21215
+            },
+            {
+                "genre": "plugg",
+                "z_score": 2.8088536996835587,
+                "play_count": 18131
+            },
+            {
+                "genre": "liquid funk",
+                "z_score": 2.244078781781118,
+                "play_count": 14721
+            },
+            {
+                "genre": "drill",
+                "z_score": 2.1776639014060803,
+                "play_count": 14320
+            },
+            {
+                "genre": "jungle",
+                "z_score": 2.1382455933530653,
+                "play_count": 14082
+            },
+            {
+                "genre": "gangsta rap",
+                "z_score": 2.0415216777944067,
+                "play_count": 13498
+            },
+            {
+                "genre": "southern hip hop",
+                "z_score": 1.8603299592650022,
+                "play_count": 12404
+            },
+            {
+                "genre": "emo rap",
+                "z_score": 1.7392594416735994,
+                "play_count": 11673
+            },
+            {
+                "genre": "punk rap",
+                "z_score": 1.5020871007831904,
+                "play_count": 10241
+            },
+            {
+                "genre": "melodic hip hop",
+                "z_score": 1.31410483338751,
+                "play_count": 9106
+            },
+            {
+                "genre": "pluggnb",
+                "z_score": 1.0688169584861862,
+                "play_count": 7625
+            },
+            {
+                "genre": "contemporary r&b",
+                "z_score": 1.0638482641937894,
+                "play_count": 7595
+            },
+            {
+                "genre": "east coast hip hop",
+                "z_score": 1.0549046144674752,
+                "play_count": 7541
+            },
+            {
+                "genre": "alternative hip hop",
+                "z_score": 1.0542421218951556,
+                "play_count": 7537
+            },
+            {
+                "genre": "chicago hip hop",
+                "z_score": 1.0121738435528624,
+                "play_count": 7283
+            },
+            {
+                "genre": "electronic",
+                "z_score": 0.8902752102460599,
+                "play_count": 6547
+            },
+            {
+                "genre": "pop",
+                "z_score": 0.6930180468379056,
+                "play_count": 5356
+            },
+            {
+                "genre": "west coast hip hop",
+                "z_score": 0.6555872165018494,
+                "play_count": 5130
+            },
+            {
+                "genre": "indie rock",
+                "z_score": 0.5711194135311032,
+                "play_count": 4620
+            },
+            {
+                "genre": "boom bap",
+                "z_score": 0.5411416246336422,
+                "play_count": 4439
+            },
+            {
+                "genre": "alternative r&b",
+                "z_score": 0.4826766551264395,
+                "play_count": 4086
+            },
+            {
+                "genre": "jazz fusion",
+                "z_score": 0.4536926050874579,
+                "play_count": 3911
+            },
+            {
+                "genre": "jerk",
+                "z_score": 0.4382896527810277,
+                "play_count": 3818
+            },
+            {
+                "genre": "jazz rap",
+                "z_score": 0.4252054244777161,
+                "play_count": 3739
+            },
+            {
+                "genre": "abstract hip hop",
+                "z_score": 0.4170898904668012,
+                "play_count": 3690
+            },
+            {
+                "genre": "math rock",
+                "z_score": 0.38794021728473976,
+                "play_count": 3514
+            },
+            {
+                "genre": "conscious hip hop",
+                "z_score": 0.3819777841338636,
+                "play_count": 3478
+            },
+            {
+                "genre": "melodic rap",
+                "z_score": 0.3796590601307451,
+                "play_count": 3464
+            },
+            {
+                "genre": "underground hip hop",
+                "z_score": 0.3722060186921498,
+                "play_count": 3419
+            },
+            {
+                "genre": "post rock",
+                "z_score": 0.2973443580200375,
+                "play_count": 2967
+            },
+            {
+                "genre": "detroit hip hop",
+                "z_score": 0.25395109453310516,
+                "play_count": 2705
+            },
+            {
+                "genre": "electro pop",
+                "z_score": 0.25328860196078556,
+                "play_count": 2701
+            },
+            {
+                "genre": "experimental hip hop",
+                "z_score": 0.24417932909139137,
+                "play_count": 2646
+            },
+            {
+                "genre": "grime",
+                "z_score": 0.2342419405065977,
+                "play_count": 2586
+            },
+            {
+                "genre": "ambient",
+                "z_score": 0.20509226732453625,
+                "play_count": 2410
+            },
+            {
+                "genre": "hyperpop",
+                "z_score": 0.20161418131985845,
+                "play_count": 2389
+            },
+            {
+                "genre": "soul",
+                "z_score": 0.18637685215650815,
+                "play_count": 2297
+            },
+            {
+                "genre": "dance pop",
+                "z_score": 0.18372688186722985,
+                "play_count": 2281
+            },
+            {
+                "genre": "indie pop",
+                "z_score": 0.1453023126726943,
+                "play_count": 2049
+            },
+            {
+                "genre": "alternative rock",
+                "z_score": 0.13818051752025884,
+                "play_count": 2006
+            },
+            {
+                "genre": "psychedelic hip hop",
+                "z_score": 0.12228069578458897,
+                "play_count": 1910
+            },
+            {
+                "genre": "synth pop",
+                "z_score": 0.10091531032728257,
+                "play_count": 1781
+            },
+            {
+                "genre": "hardcore hip hop",
+                "z_score": 0.07607183886529839,
+                "play_count": 1631
+            },
+            {
+                "genre": "funk",
+                "z_score": 0.07507810000681903,
+                "play_count": 1625
+            },
+            {
+                "genre": "g funk",
+                "z_score": 0.0696125362851825,
+                "play_count": 1592
+            },
+            {
+                "genre": "ambient techno",
+                "z_score": 0.0694469131421026,
+                "play_count": 1591
+            },
+            {
+                "genre": "techno",
+                "z_score": 0.06447821884970578,
+                "play_count": 1561
+            },
+            {
+                "genre": "r&b",
+                "z_score": 0.056528307981870834,
+                "play_count": 1513
+            },
+            {
+                "genre": "experimental",
+                "z_score": 0.05536894598031158,
+                "play_count": 1506
+            },
+            {
+                "genre": "soundtrack",
+                "z_score": 0.051393990546394104,
+                "play_count": 1482
+            },
+            {
+                "genre": "idm",
+                "z_score": 0.049075266543275584,
+                "play_count": 1468
+            },
+            {
+                "genre": "jazz",
+                "z_score": 0.04725341196939674,
+                "play_count": 1457
+            },
+            {
+                "genre": "new york drill",
+                "z_score": 0.02936611251676813,
+                "play_count": 1349
+            },
+            {
+                "genre": "breakbeat",
+                "z_score": 0.02638489594133003,
+                "play_count": 1331
+            },
+            {
+                "genre": "neo soul",
+                "z_score": 0.025059910796690874,
+                "play_count": 1323
+            },
+            {
+                "genre": "comedy rap",
+                "z_score": 0.023238056222812033,
+                "play_count": 1312
+            },
+            {
+                "genre": "pop rock",
+                "z_score": 0.018931854502734775,
+                "play_count": 1286
+            },
+            {
+                "genre": "jazz funk",
+                "z_score": 0.018269361930415198,
+                "play_count": 1282
+            },
+            {
+                "genre": "pop punk",
+                "z_score": 0.014791275925737412,
+                "play_count": 1261
+            },
+            {
+                "genre": "trip hop",
+                "z_score": 0.010153827919500364,
+                "play_count": 1233
+            },
+            {
+                "genre": "florida rap",
+                "z_score": -0.002102284668411833,
+                "play_count": 1159
+            },
+            {
+                "genre": "memphis hip hop",
+                "z_score": -0.007733471533128248,
+                "play_count": 1125
+            },
+            {
+                "genre": "trap metal",
+                "z_score": -0.021480192408759494,
+                "play_count": 1042
+            },
+            {
+                "genre": "downtempo",
+                "z_score": -0.03108633470739338,
+                "play_count": 984
+            },
+            {
+                "genre": "art pop",
+                "z_score": -0.031748827279712954,
+                "play_count": 980
+            },
+            {
+                "genre": "instrumental hip hop",
+                "z_score": -0.04532992501226431,
+                "play_count": 898
+            },
+            {
+                "genre": "dark plugg",
+                "z_score": -0.045495548155344206,
+                "play_count": 897
+            },
+            {
+                "genre": "house",
+                "z_score": -0.04913925730310188,
+                "play_count": 875
+            },
+            {
+                "genre": "power pop",
+                "z_score": -0.049636126732341565,
+                "play_count": 872
+            },
+            {
+                "genre": "uk drill",
+                "z_score": -0.05145798130622041,
+                "play_count": 861
+            },
+            {
+                "genre": "experimental pop",
+                "z_score": -0.0516236044493003,
+                "play_count": 860
+            },
+            {
+                "genre": "jazzstep",
+                "z_score": -0.05443919788165851,
+                "play_count": 843
+            },
+            {
+                "genre": "dancehall",
+                "z_score": -0.05857977645865587,
+                "play_count": 818
+            },
+            {
+                "genre": "acid jazz",
+                "z_score": -0.060070384746374925,
+                "play_count": 809
+            },
+            {
+                "genre": "bubblegum bass",
+                "z_score": -0.0608985004617744,
+                "play_count": 804
+            },
+            {
+                "genre": "alternative pop",
+                "z_score": -0.06321722446489292,
+                "play_count": 790
+            },
+            {
+                "genre": "deconstructed club",
+                "z_score": -0.0668609336126506,
+                "play_count": 768
+            },
+            {
+                "genre": "regalia",
+                "z_score": -0.06917965761576912,
+                "play_count": 754
+            },
+            {
+                "genre": "rock",
+                "z_score": -0.07216087419120723,
+                "play_count": 736
+            },
+            {
+                "genre": "dub techno",
+                "z_score": -0.07712956848360407,
+                "play_count": 706
+            }
+        ],
+        "data": [
+            {
+                "genre": "acid techno",
+                "play_count": 643
+            },
+            {
+                "genre": "trap soul",
+                "play_count": 621
+            },
+            {
+                "genre": "smooth jazz",
+                "play_count": 621
+            },
+            {
+                "genre": "lo fi hip hop",
+                "play_count": 609
+            },
+            {
+                "genre": "minimal techno",
+                "play_count": 602
+            },
+            {
+                "genre": "uk garage",
+                "play_count": 596
+            },
+            {
+                "genre": "dream pop",
+                "play_count": 591
+            },
+            {
+                "genre": "progressive rock",
+                "play_count": 589
+            },
+            {
+                "genre": "progressive techno",
+                "play_count": 582
+            },
+            {
+                "genre": "country",
+                "play_count": 576
+            },
+            {
+                "genre": "experimental rock",
+                "play_count": 572
+            },
+            {
+                "genre": "punk rock",
+                "play_count": 566
+            },
+            {
+                "genre": "deep house",
+                "play_count": 556
+            },
+            {
+                "genre": "dubstep",
+                "play_count": 553
+            },
+            {
+                "genre": "rap",
+                "play_count": 544
+            },
+            {
+                "genre": "nu jazz",
+                "play_count": 527
+            },
+            {
+                "genre": "psychedelic rock",
+                "play_count": 500
+            },
+            {
+                "genre": "soft rock",
+                "play_count": 477
+            },
+            {
+                "genre": "edm",
+                "play_count": 473
+            },
+            {
+                "genre": "disco",
+                "play_count": 468
+            },
+            {
+                "genre": "indietronica",
+                "play_count": 463
+            },
+            {
+                "genre": "dirty south",
+                "play_count": 459
+            },
+            {
+                "genre": "dub",
+                "play_count": 454
+            },
+            {
+                "genre": "electro house",
+                "play_count": 452
+            },
+            {
+                "genre": "instrumental rock",
+                "play_count": 450
+            },
+            {
+                "genre": "emo",
+                "play_count": 445
+            },
+            {
+                "genre": "glitch pop",
+                "play_count": 435
+            },
+            {
+                "genre": "new wave",
+                "play_count": 431
+            },
+            {
+                "genre": "hard rock",
+                "play_count": 426
+            },
+            {
+                "genre": "reggae",
+                "play_count": 406
+            },
+            {
+                "genre": "post punk",
+                "play_count": 404
+            },
+            {
+                "genre": "baroque pop",
+                "play_count": 398
+            },
+            {
+                "genre": "horrorcore",
+                "play_count": 387
+            },
+            {
+                "genre": "garage rock",
+                "play_count": 386
+            },
+            {
+                "genre": "crunk",
+                "play_count": 379
+            },
+            {
+                "genre": "breakbeat hardcore",
+                "play_count": 369
+            },
+            {
+                "genre": "indie folk",
+                "play_count": 364
+            },
+            {
+                "genre": "lo fi",
+                "play_count": 360
+            },
+            {
+                "genre": "ragga jungle",
+                "play_count": 355
+            },
+            {
+                "genre": "art rock",
+                "play_count": 355
+            },
+            {
+                "genre": "mafioso rap",
+                "play_count": 353
+            },
+            {
+                "genre": "future bass",
+                "play_count": 338
+            },
+            {
+                "genre": "shoegaze",
+                "play_count": 303
+            },
+            {
+                "genre": "industrial",
+                "play_count": 280
+            },
+            {
+                "genre": "rave",
+                "play_count": 276
+            },
+            {
+                "genre": "techstep",
+                "play_count": 276
+            },
+            {
+                "genre": "dance",
+                "play_count": 275
+            },
+            {
+                "genre": "progressive house",
+                "play_count": 272
+            },
+            {
+                "genre": "atlanta hip hop",
+                "play_count": 267
+            },
+            {
+                "genre": "post hardcore",
+                "play_count": 266
+            },
+            {
+                "genre": "political hip hop",
+                "play_count": 264
+            },
+            {
+                "genre": "trance",
+                "play_count": 263
+            },
+            {
+                "genre": "uk hip hop",
+                "play_count": 249
+            },
+            {
+                "genre": "electronic dance music",
+                "play_count": 240
+            },
+            {
+                "genre": "soul jazz",
+                "play_count": 240
+            },
+            {
+                "genre": "death metal",
+                "play_count": 232
+            },
+            {
+                "genre": "funk rock",
+                "play_count": 229
+            },
+            {
+                "genre": "folktronica",
+                "play_count": 225
+            },
+            {
+                "genre": "alternative metal",
+                "play_count": 223
+            },
+            {
+                "genre": "sigilkore",
+                "play_count": 222
+            },
+            {
+                "genre": "anti folk",
+                "play_count": 215
+            },
+            {
+                "genre": "uk bass",
+                "play_count": 212
+            },
+            {
+                "genre": "industrial hip hop",
+                "play_count": 211
+            },
+            {
+                "genre": "breakcore",
+                "play_count": 209
+            },
+            {
+                "genre": "avant garde pop",
+                "play_count": 205
+            },
+            {
+                "genre": "easy listening",
+                "play_count": 201
+            },
+            {
+                "genre": "glam rock",
+                "play_count": 198
+            },
+            {
+                "genre": "progressive pop",
+                "play_count": 197
+            },
+            {
+                "genre": "electronica",
+                "play_count": 195
+            },
+            {
+                "genre": "brostep",
+                "play_count": 193
+            },
+            {
+                "genre": "folk rock",
+                "play_count": 193
+            },
+            {
+                "genre": "post grunge",
+                "play_count": 188
+            },
+            {
+                "genre": "grindcore",
+                "play_count": 185
+            },
+            {
+                "genre": "jazz hip hop",
+                "play_count": 185
+            },
+            {
+                "genre": "digicore",
+                "play_count": 184
+            },
+            {
+                "genre": "blues rock",
+                "play_count": 182
+            },
+            {
+                "genre": "hyphy",
+                "play_count": 181
+            },
+            {
+                "genre": "jersey club",
+                "play_count": 180
+            },
+            {
+                "genre": "pop soul",
+                "play_count": 178
+            },
+            {
+                "genre": "contemporary hip hop",
+                "play_count": 177
+            },
+            {
+                "genre": "nu metal",
+                "play_count": 177
+            },
+            {
+                "genre": "electro",
+                "play_count": 172
+            },
+            {
+                "genre": "psychedelic pop",
+                "play_count": 170
+            },
+            {
+                "genre": "witch house",
+                "play_count": 170
+            },
+            {
+                "genre": "avant garde hip hop",
+                "play_count": 169
+            },
+            {
+                "genre": "rockabilly",
+                "play_count": 168
+            },
+            {
+                "genre": "midwest emo",
+                "play_count": 167
+            },
+            {
+                "genre": "teen pop",
+                "play_count": 162
+            },
+            {
+                "genre": "k pop",
+                "play_count": 159
+            },
+            {
+                "genre": "bedroom pop",
+                "play_count": 155
+            },
+            {
+                "genre": "bass music",
+                "play_count": 155
+            },
+            {
+                "genre": "glitch hop",
+                "play_count": 155
+            },
+            {
+                "genre": "tech house",
+                "play_count": 153
+            },
+            {
+                "genre": "houston rap",
+                "play_count": 152
+            },
+            {
+                "genre": "j pop",
+                "play_count": 149
+            },
+            {
+                "genre": "chillhop",
+                "play_count": 149
+            },
+            {
+                "genre": "country pop",
+                "play_count": 148
+            },
+            {
+                "genre": "screamo",
+                "play_count": 147
+            },
+            {
+                "genre": "jersey drill",
+                "play_count": 146
+            },
+            {
+                "genre": "post punk revival",
+                "play_count": 146
+            },
+            {
+                "genre": "bachata",
+                "play_count": 145
+            },
+            {
+                "genre": "heavy metal",
+                "play_count": 140
+            },
+            {
+                "genre": "noise rap",
+                "play_count": 137
+            },
+            {
+                "genre": "latin pop",
+                "play_count": 135
+            },
+            {
+                "genre": "new jack swing",
+                "play_count": 132
+            },
+            {
+                "genre": "hip house",
+                "play_count": 128
+            },
+            {
+                "genre": "country rock",
+                "play_count": 128
+            },
+            {
+                "genre": "happy hardcore",
+                "play_count": 127
+            },
+            {
+                "genre": "grunge",
+                "play_count": 120
+            },
+            {
+                "genre": "milwaukee hip hop",
+                "play_count": 120
+            },
+            {
+                "genre": "detroit techno",
+                "play_count": 118
+            },
+            {
+                "genre": "electronic jazz",
+                "play_count": 118
+            },
+            {
+                "genre": "yacht rock",
+                "play_count": 117
+            },
+            {
+                "genre": "folk",
+                "play_count": 111
+            },
+            {
+                "genre": "jazz pop",
+                "play_count": 109
+            },
+            {
+                "genre": "emo pop",
+                "play_count": 109
+            },
+            {
+                "genre": "future funk",
+                "play_count": 107
+            },
+            {
+                "genre": "folk pop",
+                "play_count": 103
+            },
+            {
+                "genre": "blues",
+                "play_count": 102
+            },
+            {
+                "genre": "space jazz",
+                "play_count": 101
+            },
+            {
+                "genre": "chamber jazz",
+                "play_count": 99
+            },
+            {
+                "genre": "coke rap",
+                "play_count": 99
+            },
+            {
+                "genre": "rap rock",
+                "play_count": 96
+            },
+            {
+                "genre": "synthwave",
+                "play_count": 95
+            },
+            {
+                "genre": "j rock",
+                "play_count": 93
+            },
+            {
+                "genre": "hard bop",
+                "play_count": 92
+            },
+            {
+                "genre": "chillout",
+                "play_count": 92
+            },
+            {
+                "genre": "future pop",
+                "play_count": 89
+            },
+            {
+                "genre": "microhouse",
+                "play_count": 88
+            },
+            {
+                "genre": "children's music",
+                "play_count": 87
+            },
+            {
+                "genre": "noise rock",
+                "play_count": 87
+            },
+            {
+                "genre": "big beat",
+                "play_count": 86
+            },
+            {
+                "genre": "big band",
+                "play_count": 82
+            },
+            {
+                "genre": "city pop",
+                "play_count": 82
+            },
+            {
+                "genre": "trap edm",
+                "play_count": 82
+            },
+            {
+                "genre": "moombahton",
+                "play_count": 79
+            },
+            {
+                "genre": "progressive metal",
+                "play_count": 77
+            },
+            {
+                "genre": "dark ambient",
+                "play_count": 75
+            },
+            {
+                "genre": "funk metal",
+                "play_count": 75
+            },
+            {
+                "genre": "euro dance",
+                "play_count": 75
+            },
+            {
+                "genre": "roots reggae",
+                "play_count": 72
+            },
+            {
+                "genre": "nu disco",
+                "play_count": 70
+            },
+            {
+                "genre": "classical",
+                "play_count": 70
+            },
+            {
+                "genre": "library music",
+                "play_count": 70
+            },
+            {
+                "genre": "reggae fusion",
+                "play_count": 69
+            },
+            {
+                "genre": "chicago rap",
+                "play_count": 68
+            },
+            {
+                "genre": "scam rap",
+                "play_count": 67
+            },
+            {
+                "genre": "world music",
+                "play_count": 66
+            },
+            {
+                "genre": "psychedelic soul",
+                "play_count": 65
+            },
+            {
+                "genre": "video game music",
+                "play_count": 64
+            },
+            {
+                "genre": "classic rock",
+                "play_count": 64
+            },
+            {
+                "genre": "afrobeats",
+                "play_count": 64
+            },
+            {
+                "genre": "ragga",
+                "play_count": 64
+            },
+            {
+                "genre": "baile funk",
+                "play_count": 64
+            },
+            {
+                "genre": "future garage",
+                "play_count": 63
+            },
+            {
+                "genre": "motown",
+                "play_count": 63
+            },
+            {
+                "genre": "footwork",
+                "play_count": 63
+            },
+            {
+                "genre": "mall punk",
+                "play_count": 62
+            },
+            {
+                "genre": "jazz rock",
+                "play_count": 61
+            },
+            {
+                "genre": "phonk",
+                "play_count": 61
+            },
+            {
+                "genre": "post dubstep",
+                "play_count": 60
+            },
+            {
+                "genre": "hip hop soul",
+                "play_count": 59
+            },
+            {
+                "genre": "deep tech",
+                "play_count": 58
+            },
+            {
+                "genre": "latin jazz",
+                "play_count": 57
+            },
+            {
+                "genre": "easycore",
+                "play_count": 56
+            },
+            {
+                "genre": "noise pop",
+                "play_count": 56
+            },
+            {
+                "genre": "darkwave",
+                "play_count": 56
+            },
+            {
+                "genre": "melodic hardcore",
+                "play_count": 55
+            },
+            {
+                "genre": "french house",
+                "play_count": 55
+            },
+            {
+                "genre": "snap",
+                "play_count": 53
+            },
+            {
+                "genre": "comedy",
+                "play_count": 52
+            },
+            {
+                "genre": "old school hip hop",
+                "play_count": 51
+            },
+            {
+                "genre": "post bop",
+                "play_count": 50
+            },
+            {
+                "genre": "piano rock",
+                "play_count": 50
+            },
+            {
+                "genre": "neo psychedelia",
+                "play_count": 50
+            },
+            {
+                "genre": "jump up",
+                "play_count": 49
+            },
+            {
+                "genre": "heartland rock",
+                "play_count": 47
+            },
+            {
+                "genre": "adult contemporary",
+                "play_count": 45
+            },
+            {
+                "genre": "blue eyed soul",
+                "play_count": 44
+            },
+            {
+                "genre": "arena rock",
+                "play_count": 44
+            },
+            {
+                "genre": "electroclash",
+                "play_count": 43
+            },
+            {
+                "genre": "reggaeton",
+                "play_count": 43
+            },
+            {
+                "genre": "funky breaks",
+                "play_count": 42
+            },
+            {
+                "genre": "smooth soul",
+                "play_count": 42
+            },
+            {
+                "genre": "synth punk",
+                "play_count": 41
+            },
+            {
+                "genre": "vaporwave",
+                "play_count": 41
+            },
+            {
+                "genre": "electro punk",
+                "play_count": 41
+            },
+            {
+                "genre": "french hip hop",
+                "play_count": 41
+            },
+            {
+                "genre": "euro house",
+                "play_count": 41
+            },
+            {
+                "genre": "bitpop",
+                "play_count": 41
+            },
+            {
+                "genre": "latin trap",
+                "play_count": 40
+            },
+            {
+                "genre": "deep techno",
+                "play_count": 40
+            },
+            {
+                "genre": "chicano rap",
+                "play_count": 40
+            },
+            {
+                "genre": "metal",
+                "play_count": 40
+            },
+            {
+                "genre": "industrial metal",
+                "play_count": 39
+            },
+            {
+                "genre": "gospel",
+                "play_count": 39
+            },
+            {
+                "genre": "sophisti pop",
+                "play_count": 39
+            },
+            {
+                "genre": "chamber pop",
+                "play_count": 39
+            },
+            {
+                "genre": "swing",
+                "play_count": 39
+            },
+            {
+                "genre": "hardstyle",
+                "play_count": 38
+            },
+            {
+                "genre": "p funk",
+                "play_count": 38
+            },
+            {
+                "genre": "glitch",
+                "play_count": 38
+            },
+            {
+                "genre": "art punk",
+                "play_count": 38
+            },
+            {
+                "genre": "chopped and screwed",
+                "play_count": 37
+            },
+            {
+                "genre": "skate punk",
+                "play_count": 37
+            },
+            {
+                "genre": "canadian hip hop",
+                "play_count": 36
+            },
+            {
+                "genre": "garage house",
+                "play_count": 35
+            },
+            {
+                "genre": "gabber",
+                "play_count": 35
+            },
+            {
+                "genre": "doo wop",
+                "play_count": 35
+            },
+            {
+                "genre": "electronic pop",
+                "play_count": 35
+            },
+            {
+                "genre": "orchestral",
+                "play_count": 35
+            },
+            {
+                "genre": "chillwave",
+                "play_count": 35
+            },
+            {
+                "genre": "mood music",
+                "play_count": 35
+            },
+            {
+                "genre": "electronic punk",
+                "play_count": 34
+            },
+            {
+                "genre": "metalcore",
+                "play_count": 34
+            },
+            {
+                "genre": "roots rock",
+                "play_count": 34
+            },
+            {
+                "genre": "electronic rock",
+                "play_count": 33
+            },
+            {
+                "genre": "japanese hip hop",
+                "play_count": 33
+            },
+            {
+                "genre": "darkcore",
+                "play_count": 33
+            },
+            {
+                "genre": "ska",
+                "play_count": 32
+            },
+            {
+                "genre": "symphonic rock",
+                "play_count": 32
+            },
+            {
+                "genre": "latin hip hop",
+                "play_count": 32
+            },
+            {
+                "genre": "cold wave",
+                "play_count": 32
+            },
+            {
+                "genre": "speed metal",
+                "play_count": 31
+            },
+            {
+                "genre": "quiet storm",
+                "play_count": 31
+            },
+            {
+                "genre": "noise",
+                "play_count": 31
+            },
+            {
+                "genre": "vocal jazz",
+                "play_count": 30
+            },
+            {
+                "genre": "glam metal",
+                "play_count": 30
+            },
+            {
+                "genre": "hardcore techno",
+                "play_count": 29
+            },
+            {
+                "genre": "folk punk",
+                "play_count": 29
+            },
+            {
+                "genre": "gothic rock",
+                "play_count": 29
+            },
+            {
+                "genre": "drone",
+                "play_count": 29
+            },
+            {
+                "genre": "autonomic",
+                "play_count": 29
+            },
+            {
+                "genre": "black metal",
+                "play_count": 29
+            },
+            {
+                "genre": "avant garde jazz",
+                "play_count": 28
+            },
+            {
+                "genre": "contemporary jazz",
+                "play_count": 28
+            },
+            {
+                "genre": "indie dance",
+                "play_count": 28
+            },
+            {
+                "genre": "broken beat",
+                "play_count": 27
+            },
+            {
+                "genre": "honky tonk",
+                "play_count": 27
+            },
+            {
+                "genre": "dc drill",
+                "play_count": 27
+            },
+            {
+                "genre": "singer songwriter",
+                "play_count": 26
+            },
+            {
+                "genre": "dark pop",
+                "play_count": 26
+            },
+            {
+                "genre": "disco house",
+                "play_count": 25
+            },
+            {
+                "genre": "complextro",
+                "play_count": 25
+            },
+            {
+                "genre": "ambient dub",
+                "play_count": 25
+            },
+            {
+                "genre": "avant garde",
+                "play_count": 24
+            },
+            {
+                "genre": "euro pop",
+                "play_count": 22
+            },
+            {
+                "genre": "future jazz",
+                "play_count": 22
+            },
+            {
+                "genre": "retrowave",
+                "play_count": 21
+            },
+            {
+                "genre": "ambient pop",
+                "play_count": 21
+            },
+            {
+                "genre": "electro hop",
+                "play_count": 21
+            },
+            {
+                "genre": "ska punk",
+                "play_count": 21
+            },
+            {
+                "genre": "outrun",
+                "play_count": 21
+            },
+            {
+                "genre": "anisong",
+                "play_count": 21
+            },
+            {
+                "genre": "hardtekk",
+                "play_count": 20
+            },
+            {
+                "genre": "progressive jazz",
+                "play_count": 20
+            },
+            {
+                "genre": "bounce",
+                "play_count": 20
+            },
+            {
+                "genre": "german hip hop",
+                "play_count": 20
+            },
+            {
+                "genre": "free jazz",
+                "play_count": 20
+            },
+            {
+                "genre": "big room",
+                "play_count": 20
+            },
+            {
+                "genre": "experimental electronic",
+                "play_count": 20
+            },
+            {
+                "genre": "2-step",
+                "play_count": 19
+            },
+            {
+                "genre": "russian hip hop",
+                "play_count": 19
+            },
+            {
+                "genre": "slowcore",
+                "play_count": 19
+            },
+            {
+                "genre": "toronto drill",
+                "play_count": 19
+            },
+            {
+                "genre": "southern soul",
+                "play_count": 18
+            },
+            {
+                "genre": "lounge",
+                "play_count": 18
+            },
+            {
+                "genre": "ambient trap",
+                "play_count": 17
+            },
+            {
+                "genre": "anime",
+                "play_count": 17
+            },
+            {
+                "genre": "melodic dubstep",
+                "play_count": 16
+            },
+            {
+                "genre": "acid house",
+                "play_count": 16
+            },
+            {
+                "genre": "visual kei",
+                "play_count": 16
+            },
+            {
+                "genre": "sunshine pop",
+                "play_count": 16
+            },
+            {
+                "genre": "chicago house",
+                "play_count": 16
+            },
+            {
+                "genre": "cool jazz",
+                "play_count": 16
+            },
+            {
+                "genre": "chinese hip hop",
+                "play_count": 16
+            },
+            {
+                "genre": "memphis soul",
+                "play_count": 16
+            },
+            {
+                "genre": "twee pop",
+                "play_count": 15
+            },
+            {
+                "genre": "rawstyle",
+                "play_count": 15
+            },
+            {
+                "genre": "romantic",
+                "play_count": 15
+            },
+            {
+                "genre": "symphonic metal",
+                "play_count": 15
+            },
+            {
+                "genre": "frenchcore",
+                "play_count": 15
+            },
+            {
+                "genre": "indie soul",
+                "play_count": 15
+            },
+            {
+                "genre": "jangle pop",
+                "play_count": 15
+            },
+            {
+                "genre": "hardstep",
+                "play_count": 14
+            },
+            {
+                "genre": "royalty free music",
+                "play_count": 14
+            },
+            {
+                "genre": "space rock",
+                "play_count": 14
+            },
+            {
+                "genre": "deathcore",
+                "play_count": 14
+            },
+            {
+                "genre": "americana",
+                "play_count": 14
+            },
+            {
+                "genre": "progressive soul",
+                "play_count": 14
+            },
+            {
+                "genre": "piano",
+                "play_count": 14
+            },
+            {
+                "genre": "ambient house",
+                "play_count": 14
+            },
+            {
+                "genre": "indie r&b",
+                "play_count": 14
+            },
+            {
+                "genre": "jam band",
+                "play_count": 13
+            },
+            {
+                "genre": "ambient folk",
+                "play_count": 13
+            },
+            {
+                "genre": "hardcore punk",
+                "play_count": 13
+            },
+            {
+                "genre": "industrial rock",
+                "play_count": 13
+            },
+            {
+                "genre": "italian hip hop",
+                "play_count": 12
+            },
+            {
+                "genre": "darksynth",
+                "play_count": 12
+            },
+            {
+                "genre": "gospel hip hop",
+                "play_count": 12
+            },
+            {
+                "genre": "modal jazz",
+                "play_count": 12
+            },
+            {
+                "genre": "electronic dance",
+                "play_count": 12
+            },
+            {
+                "genre": "riot grrrl",
+                "play_count": 12
+            },
+            {
+                "genre": "bossa nova",
+                "play_count": 11
+            },
+            {
+                "genre": "progressive metalcore",
+                "play_count": 11
+            },
+            {
+                "genre": "tropical house",
+                "play_count": 11
+            },
+            {
+                "genre": "euro trance",
+                "play_count": 11
+            },
+            {
+                "genre": "thrash metal",
+                "play_count": 11
+            },
+            {
+                "genre": "punk jazz",
+                "play_count": 10
+            },
+            {
+                "genre": "rap metal",
+                "play_count": 10
+            },
+            {
+                "genre": "minimal house",
+                "play_count": 10
+            },
+            {
+                "genre": "acoustic rock",
+                "play_count": 10
+            },
+            {
+                "genre": "soca",
+                "play_count": 9
+            },
+            {
+                "genre": "acoustic",
+                "play_count": 9
+            },
+            {
+                "genre": "doom metal",
+                "play_count": 9
+            },
+            {
+                "genre": "philly soul",
+                "play_count": 9
+            },
+            {
+                "genre": "c pop",
+                "play_count": 9
+            },
+            {
+                "genre": "chiptune",
+                "play_count": 9
+            },
+            {
+                "genre": "bebop",
+                "play_count": 9
+            },
+            {
+                "genre": "march",
+                "play_count": 9
+            },
+            {
+                "genre": "guitar jazz",
+                "play_count": 9
+            },
+            {
+                "genre": "hard trance",
+                "play_count": 9
+            },
+            {
+                "genre": "dixieland",
+                "play_count": 9
+            },
+            {
+                "genre": "mandopop",
+                "play_count": 9
+            },
+            {
+                "genre": "norteno",
+                "play_count": 9
+            },
+            {
+                "genre": "italo disco",
+                "play_count": 8
+            },
+            {
+                "genre": "turkish hip hop",
+                "play_count": 8
+            },
+            {
+                "genre": "djent",
+                "play_count": 8
+            },
+            {
+                "genre": "dance punk",
+                "play_count": 8
+            },
+            {
+                "genre": "alternative dance",
+                "play_count": 8
+            },
+            {
+                "genre": "cinematic",
+                "play_count": 8
+            },
+            {
+                "genre": "neoclassical pop",
+                "play_count": 8
+            },
+            {
+                "genre": "j core",
+                "play_count": 8
+            },
+            {
+                "genre": "country rap",
+                "play_count": 8
+            },
+            {
+                "genre": "afropop",
+                "play_count": 8
+            },
+            {
+                "genre": "neurofunk",
+                "play_count": 8
+            },
+            {
+                "genre": "k hip hop",
+                "play_count": 7
+            },
+            {
+                "genre": "latin rock",
+                "play_count": 7
+            },
+            {
+                "genre": "future bounce",
+                "play_count": 7
+            },
+            {
+                "genre": "speed garage",
+                "play_count": 7
+            },
+            {
+                "genre": "latin funk",
+                "play_count": 7
+            },
+            {
+                "genre": "psybient",
+                "play_count": 7
+            },
+            {
+                "genre": "italo house",
+                "play_count": 7
+            },
+            {
+                "genre": "ethio jazz",
+                "play_count": 7
+            },
+            {
+                "genre": "ethereal wave",
+                "play_count": 7
+            },
+            {
+                "genre": "drift phonk",
+                "play_count": 7
+            },
+            {
+                "genre": "sludge metal",
+                "play_count": 7
+            },
+            {
+                "genre": "reggae rock",
+                "play_count": 7
+            },
+            {
+                "genre": "hard dance",
+                "play_count": 7
+            },
+            {
+                "genre": "dance rock",
+                "play_count": 7
+            },
+            {
+                "genre": "stoner metal",
+                "play_count": 7
+            },
+            {
+                "genre": "afrofuturism",
+                "play_count": 7
+            },
+            {
+                "genre": "post britpop",
+                "play_count": 7
+            },
+            {
+                "genre": "garage punk",
+                "play_count": 6
+            },
+            {
+                "genre": "british pop",
+                "play_count": 6
+            },
+            {
+                "genre": "contemporary folk",
+                "play_count": 6
+            },
+            {
+                "genre": "britpop",
+                "play_count": 6
+            },
+            {
+                "genre": "new age",
+                "play_count": 6
+            },
+            {
+                "genre": "garage rock revival",
+                "play_count": 6
+            },
+            {
+                "genre": "funk carioca",
+                "play_count": 6
+            },
+            {
+                "genre": "hypnagogic pop",
+                "play_count": 5
+            },
+            {
+                "genre": "contemporary country",
+                "play_count": 5
+            },
+            {
+                "genre": "dark wave",
+                "play_count": 5
+            },
+            {
+                "genre": "indie funk",
+                "play_count": 5
+            },
+            {
+                "genre": "synth funk",
+                "play_count": 5
+            },
+            {
+                "genre": "shock rock",
+                "play_count": 5
+            },
+            {
+                "genre": "electro funk",
+                "play_count": 5
+            },
+            {
+                "genre": "atmospheric black metal",
+                "play_count": 4
+            },
+            {
+                "genre": "neofolk",
+                "play_count": 4
+            },
+            {
+                "genre": "nerdcore",
+                "play_count": 4
+            },
+            {
+                "genre": "krushclub",
+                "play_count": 4
+            },
+            {
+                "genre": "kompa",
+                "play_count": 4
+            },
+            {
+                "genre": "nwobhm",
+                "play_count": 4
+            },
+            {
+                "genre": "italo dance",
+                "play_count": 4
+            },
+            {
+                "genre": "industrial folk",
+                "play_count": 4
+            },
+            {
+                "genre": "post industrial",
+                "play_count": 4
+            },
+            {
+                "genre": "power metal",
+                "play_count": 4
+            },
+            {
+                "genre": "progressive r&b",
+                "play_count": 4
+            },
+            {
+                "genre": "experimental folk",
+                "play_count": 4
+            },
+            {
+                "genre": "euro beat",
+                "play_count": 4
+            },
+            {
+                "genre": "delta blues",
+                "play_count": 4
+            },
+            {
+                "genre": "samba",
+                "play_count": 4
+            },
+            {
+                "genre": "slacker rock",
+                "play_count": 4
+            },
+            {
+                "genre": "chimurenga",
+                "play_count": 4
+            },
+            {
+                "genre": "caribbean jazz",
+                "play_count": 4
+            },
+            {
+                "genre": "southern rock",
+                "play_count": 4
+            },
+            {
+                "genre": "zouk",
+                "play_count": 4
+            },
+            {
+                "genre": "afroswing",
+                "play_count": 4
+            },
+            {
+                "genre": "hardbass",
+                "play_count": 3
+            },
+            {
+                "genre": "flute jazz",
+                "play_count": 3
+            },
+            {
+                "genre": "spiritual jazz",
+                "play_count": 3
+            },
+            {
+                "genre": "contemporary classical",
+                "play_count": 3
+            },
+            {
+                "genre": "boy band",
+                "play_count": 3
+            },
+            {
+                "genre": "a cappella",
+                "play_count": 3
+            },
+            {
+                "genre": "traditional pop",
+                "play_count": 3
+            },
+            {
+                "genre": "nightcore",
+                "play_count": 3
+            },
+            {
+                "genre": "dutch hip hop",
+                "play_count": 3
+            },
+            {
+                "genre": "roots",
+                "play_count": 3
+            },
+            {
+                "genre": "bass house",
+                "play_count": 3
+            },
+            {
+                "genre": "drone metal",
+                "play_count": 2
+            },
+            {
+                "genre": "big room house",
+                "play_count": 2
+            },
+            {
+                "genre": "battle rap",
+                "play_count": 2
+            },
+            {
+                "genre": "string quartet",
+                "play_count": 2
+            },
+            {
+                "genre": "conjunto",
+                "play_count": 2
+            },
+            {
+                "genre": "indigenous hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "contemporary christian music",
+                "play_count": 2
+            },
+            {
+                "genre": "space age pop",
+                "play_count": 2
+            },
+            {
+                "genre": "shimokita kei",
+                "play_count": 2
+            },
+            {
+                "genre": "cumbia",
+                "play_count": 2
+            },
+            {
+                "genre": "stoner rock",
+                "play_count": 2
+            },
+            {
+                "genre": "rocksteady",
+                "play_count": 2
+            },
+            {
+                "genre": "brazilian hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "drag pop",
+                "play_count": 2
+            },
+            {
+                "genre": "experimental jazz",
+                "play_count": 2
+            },
+            {
+                "genre": "tribal house",
+                "play_count": 2
+            },
+            {
+                "genre": "progressive trance",
+                "play_count": 2
+            },
+            {
+                "genre": "flamenco",
+                "play_count": 2
+            },
+            {
+                "genre": "folk blues",
+                "play_count": 2
+            },
+            {
+                "genre": "powwow step",
+                "play_count": 2
+            },
+            {
+                "genre": "power electronics",
+                "play_count": 2
+            },
+            {
+                "genre": "post metal",
+                "play_count": 2
+            },
+            {
+                "genre": "vaportrap",
+                "play_count": 2
+            },
+            {
+                "genre": "hardcore",
+                "play_count": 2
+            },
+            {
+                "genre": "afro funk",
+                "play_count": 2
+            },
+            {
+                "genre": "polish hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "chanson",
+                "play_count": 2
+            },
+            {
+                "genre": "kawaii future bass",
+                "play_count": 2
+            },
+            {
+                "genre": "ballroom",
+                "play_count": 2
+            },
+            {
+                "genre": "balearic beat",
+                "play_count": 2
+            },
+            {
+                "genre": "electronicore",
+                "play_count": 1
+            },
+            {
+                "genre": "shibuya kei",
+                "play_count": 1
+            },
+            {
+                "genre": "bluegrass",
+                "play_count": 1
+            },
+            {
+                "genre": "baroque",
+                "play_count": 1
+            },
+            {
+                "genre": "celtic rock",
+                "play_count": 1
+            },
+            {
+                "genre": "indie electronic",
+                "play_count": 1
+            },
+            {
+                "genre": "bubblegum pop",
+                "play_count": 1
+            },
+            {
+                "genre": "psychedelic folk",
+                "play_count": 1
+            },
+            {
+                "genre": "alternative country",
+                "play_count": 1
+            },
+            {
+                "genre": "psychedelia",
+                "play_count": 1
+            },
+            {
+                "genre": "plunderphonics",
+                "play_count": 1
+            },
+            {
+                "genre": "christian rock",
+                "play_count": 1
+            },
+            {
+                "genre": "riddim",
+                "play_count": 1
+            }
+        ],
+        "stats": {
+            "median": 32,
+            "variance": 20667.442956669853,
+            "q1": 8,
+            "q3": 118,
+            "iqr": 110,
+            "range": 642,
+            "skewness": 2.099598601593902,
+            "mean": 95.34841628959276,
+            "modes": [
+                2
+            ],
+            "std": 143.76175762931481
+        }
+    },
+    "Alan": {
+        "outliers": [
+            {
+                "genre": "hip hop",
+                "z_score": 11.647694466224355,
+                "play_count": 230824
+            },
+            {
+                "genre": "trap",
+                "z_score": 9.873170654203193,
+                "play_count": 196373
+            },
+            {
+                "genre": "pop rap",
+                "z_score": 7.57315579895426,
+                "play_count": 151720
+            },
+            {
+                "genre": "abstract hip hop",
+                "z_score": 3.856241549752231,
+                "play_count": 79559
+            },
+            {
+                "genre": "conscious hip hop",
+                "z_score": 3.17962418611373,
+                "play_count": 66423
+            },
+            {
+                "genre": "alternative hip hop",
+                "z_score": 3.070116838740447,
+                "play_count": 64297
+            },
+            {
+                "genre": "pop",
+                "z_score": 2.9657603543668474,
+                "play_count": 62271
+            },
+            {
+                "genre": "electronic",
+                "z_score": 2.735774321430953,
+                "play_count": 57806
+            },
+            {
+                "genre": "jazz rap",
+                "z_score": 2.601851883439167,
+                "play_count": 55206
+            },
+            {
+                "genre": "soul",
+                "z_score": 2.4490257782385405,
+                "play_count": 52239
+            },
+            {
+                "genre": "boom bap",
+                "z_score": 2.146670120157085,
+                "play_count": 46369
+            },
+            {
+                "genre": "chicago hip hop",
+                "z_score": 2.0389140662036938,
+                "play_count": 44277
+            },
+            {
+                "genre": "contemporary r&b",
+                "z_score": 1.764115525170548,
+                "play_count": 38942
+            },
+            {
+                "genre": "emo rap",
+                "z_score": 1.650487487397517,
+                "play_count": 36736
+            },
+            {
+                "genre": "melodic hip hop",
+                "z_score": 1.6477060213776877,
+                "play_count": 36682
+            },
+            {
+                "genre": "east coast hip hop",
+                "z_score": 1.5959913568608595,
+                "play_count": 35678
+            },
+            {
+                "genre": "gangsta rap",
+                "z_score": 1.5493760467137185,
+                "play_count": 34773
+            },
+            {
+                "genre": "experimental hip hop",
+                "z_score": 1.3105305294183678,
+                "play_count": 30136
+            },
+            {
+                "genre": "southern hip hop",
+                "z_score": 1.2659755644711004,
+                "play_count": 29271
+            },
+            {
+                "genre": "rage",
+                "z_score": 1.0200218562361856,
+                "play_count": 24496
+            },
+            {
+                "genre": "psychedelic hip hop",
+                "z_score": 0.927357830871869,
+                "play_count": 22697
+            },
+            {
+                "genre": "neo soul",
+                "z_score": 0.917313648022485,
+                "play_count": 22502
+            },
+            {
+                "genre": "indie rock",
+                "z_score": 0.8875931685143079,
+                "play_count": 21925
+            },
+            {
+                "genre": "alternative r&b",
+                "z_score": 0.8704923033553568,
+                "play_count": 21593
+            },
+            {
+                "genre": "cloud rap",
+                "z_score": 0.8476224716367594,
+                "play_count": 21149
+            },
+            {
+                "genre": "west coast hip hop",
+                "z_score": 0.7593881884521712,
+                "play_count": 19436
+            },
+            {
+                "genre": "alternative rock",
+                "z_score": 0.7382696501534664,
+                "play_count": 19026
+            },
+            {
+                "genre": "punk rap",
+                "z_score": 0.6581222218783821,
+                "play_count": 17470
+            },
+            {
+                "genre": "trip hop",
+                "z_score": 0.5000422364180777,
+                "play_count": 14401
+            },
+            {
+                "genre": "melodic rap",
+                "z_score": 0.4892254241187411,
+                "play_count": 14191
+            },
+            {
+                "genre": "dance pop",
+                "z_score": 0.48160214687920866,
+                "play_count": 14043
+            },
+            {
+                "genre": "indie pop",
+                "z_score": 0.47768749099944874,
+                "play_count": 13967
+            },
+            {
+                "genre": "trap metal",
+                "z_score": 0.4356049402920298,
+                "play_count": 13150
+            },
+            {
+                "genre": "art pop",
+                "z_score": 0.38522950015511953,
+                "play_count": 12172
+            },
+            {
+                "genre": "psychedelic rock",
+                "z_score": 0.3451557860175774,
+                "play_count": 11394
+            },
+            {
+                "genre": "synth pop",
+                "z_score": 0.31636246184934336,
+                "play_count": 10835
+            },
+            {
+                "genre": "electro pop",
+                "z_score": 0.3058547013299878,
+                "play_count": 10631
+            },
+            {
+                "genre": "r&b",
+                "z_score": 0.2933896128707524,
+                "play_count": 10389
+            },
+            {
+                "genre": "underground trap",
+                "z_score": 0.26701719431236987,
+                "play_count": 9877
+            },
+            {
+                "genre": "hardcore hip hop",
+                "z_score": 0.26114521049273004,
+                "play_count": 9763
+            },
+            {
+                "genre": "plugg",
+                "z_score": 0.23873895644410428,
+                "play_count": 9328
+            },
+            {
+                "genre": "art rock",
+                "z_score": 0.23029154112462238,
+                "play_count": 9164
+            },
+            {
+                "genre": "neo psychedelia",
+                "z_score": 0.2088639510459366,
+                "play_count": 8748
+            },
+            {
+                "genre": "funk",
+                "z_score": 0.1959867935467264,
+                "play_count": 8498
+            },
+            {
+                "genre": "indie folk",
+                "z_score": 0.1938234310868591,
+                "play_count": 8456
+            },
+            {
+                "genre": "baroque pop",
+                "z_score": 0.12624410853100396,
+                "play_count": 7144
+            },
+            {
+                "genre": "experimental rock",
+                "z_score": 0.0788561689339104,
+                "play_count": 6224
+            },
+            {
+                "genre": "chamber pop",
+                "z_score": 0.05073245695563532,
+                "play_count": 5678
+            },
+            {
+                "genre": "jazz",
+                "z_score": 0.02260874497736024,
+                "play_count": 5132
+            },
+            {
+                "genre": "dirty south",
+                "z_score": -0.007575312200788473,
+                "play_count": 4546
+            },
+            {
+                "genre": "underground hip hop",
+                "z_score": -0.026942557079600617,
+                "play_count": 4170
+            },
+            {
+                "genre": "nu disco",
+                "z_score": -0.03379320486918044,
+                "play_count": 4037
+            },
+            {
+                "genre": "instrumental hip hop",
+                "z_score": -0.035080920619101466,
+                "play_count": 4012
+            },
+            {
+                "genre": "dream pop",
+                "z_score": -0.03729579170896562,
+                "play_count": 3969
+            },
+            {
+                "genre": "rap",
+                "z_score": -0.04059234402876343,
+                "play_count": 3905
+            },
+            {
+                "genre": "electronic pop",
+                "z_score": -0.05259385481802734,
+                "play_count": 3672
+            },
+            {
+                "genre": "dub",
+                "z_score": -0.05583889850782831,
+                "play_count": 3609
+            },
+            {
+                "genre": "drill",
+                "z_score": -0.06629515039718699,
+                "play_count": 3406
+            },
+            {
+                "genre": "jazz pop",
+                "z_score": -0.07814213529646039,
+                "play_count": 3176
+            },
+            {
+                "genre": "singer songwriter",
+                "z_score": -0.0800479546063435,
+                "play_count": 3139
+            },
+            {
+                "genre": "piano rock",
+                "z_score": -0.08272640336617922,
+                "play_count": 3087
+            },
+            {
+                "genre": "alternative pop",
+                "z_score": -0.10317532947492501,
+                "play_count": 2690
+            }
+        ],
+        "data": [
+            {
+                "genre": "progressive folk",
+                "play_count": 2327
+            },
+            {
+                "genre": "chamber folk",
+                "play_count": 2242
+            },
+            {
+                "genre": "new wave",
+                "play_count": 2183
+            },
+            {
+                "genre": "progressive rock",
+                "play_count": 2137
+            },
+            {
+                "genre": "industrial hip hop",
+                "play_count": 2088
+            },
+            {
+                "genre": "trap soul",
+                "play_count": 1972
+            },
+            {
+                "genre": "psychedelic pop",
+                "play_count": 1934
+            },
+            {
+                "genre": "glitch hop",
+                "play_count": 1888
+            },
+            {
+                "genre": "pop rock",
+                "play_count": 1887
+            },
+            {
+                "genre": "hard rock",
+                "play_count": 1837
+            },
+            {
+                "genre": "post punk",
+                "play_count": 1831
+            },
+            {
+                "genre": "post punk revival",
+                "play_count": 1802
+            },
+            {
+                "genre": "noise rap",
+                "play_count": 1778
+            },
+            {
+                "genre": "indietronica",
+                "play_count": 1768
+            },
+            {
+                "genre": "hyperpop",
+                "play_count": 1718
+            },
+            {
+                "genre": "country",
+                "play_count": 1695
+            },
+            {
+                "genre": "edm",
+                "play_count": 1691
+            },
+            {
+                "genre": "garage rock revival",
+                "play_count": 1667
+            },
+            {
+                "genre": "jazz fusion",
+                "play_count": 1657
+            },
+            {
+                "genre": "lo fi",
+                "play_count": 1641
+            },
+            {
+                "genre": "pop soul",
+                "play_count": 1580
+            },
+            {
+                "genre": "political hip hop",
+                "play_count": 1572
+            },
+            {
+                "genre": "pop punk",
+                "play_count": 1566
+            },
+            {
+                "genre": "noise rock",
+                "play_count": 1525
+            },
+            {
+                "genre": "dancehall",
+                "play_count": 1445
+            },
+            {
+                "genre": "soundtrack",
+                "play_count": 1410
+            },
+            {
+                "genre": "rock",
+                "play_count": 1381
+            },
+            {
+                "genre": "experimental pop",
+                "play_count": 1330
+            },
+            {
+                "genre": "folk",
+                "play_count": 1280
+            },
+            {
+                "genre": "stoner rock",
+                "play_count": 1253
+            },
+            {
+                "genre": "florida rap",
+                "play_count": 1245
+            },
+            {
+                "genre": "deconstructed club",
+                "play_count": 1192
+            },
+            {
+                "genre": "bubblegum bass",
+                "play_count": 1189
+            },
+            {
+                "genre": "gospel",
+                "play_count": 1178
+            },
+            {
+                "genre": "cinematic",
+                "play_count": 1153
+            },
+            {
+                "genre": "electro house",
+                "play_count": 1042
+            },
+            {
+                "genre": "disco",
+                "play_count": 1041
+            },
+            {
+                "genre": "post rock",
+                "play_count": 1037
+            },
+            {
+                "genre": "plunderphonics",
+                "play_count": 1027
+            },
+            {
+                "genre": "noise pop",
+                "play_count": 1002
+            },
+            {
+                "genre": "french house",
+                "play_count": 985
+            },
+            {
+                "genre": "jazz rock",
+                "play_count": 971
+            },
+            {
+                "genre": "coke rap",
+                "play_count": 969
+            },
+            {
+                "genre": "electro funk",
+                "play_count": 958
+            },
+            {
+                "genre": "j pop",
+                "play_count": 955
+            },
+            {
+                "genre": "garage rock",
+                "play_count": 912
+            },
+            {
+                "genre": "space rock",
+                "play_count": 903
+            },
+            {
+                "genre": "jam band",
+                "play_count": 892
+            },
+            {
+                "genre": "progressive house",
+                "play_count": 867
+            },
+            {
+                "genre": "g funk",
+                "play_count": 858
+            },
+            {
+                "genre": "punk jazz",
+                "play_count": 850
+            },
+            {
+                "genre": "ambient",
+                "play_count": 826
+            },
+            {
+                "genre": "avant garde",
+                "play_count": 810
+            },
+            {
+                "genre": "latin pop",
+                "play_count": 713
+            },
+            {
+                "genre": "lo fi hip hop",
+                "play_count": 707
+            },
+            {
+                "genre": "shoegaze",
+                "play_count": 703
+            },
+            {
+                "genre": "power pop",
+                "play_count": 687
+            },
+            {
+                "genre": "quiet storm",
+                "play_count": 672
+            },
+            {
+                "genre": "smooth soul",
+                "play_count": 655
+            },
+            {
+                "genre": "blues",
+                "play_count": 652
+            },
+            {
+                "genre": "sophisti pop",
+                "play_count": 639
+            },
+            {
+                "genre": "blues rock",
+                "play_count": 620
+            },
+            {
+                "genre": "slowcore",
+                "play_count": 592
+            },
+            {
+                "genre": "atlanta hip hop",
+                "play_count": 592
+            },
+            {
+                "genre": "ska punk",
+                "play_count": 577
+            },
+            {
+                "genre": "folk punk",
+                "play_count": 575
+            },
+            {
+                "genre": "electronic rock",
+                "play_count": 558
+            },
+            {
+                "genre": "detroit hip hop",
+                "play_count": 546
+            },
+            {
+                "genre": "house",
+                "play_count": 540
+            },
+            {
+                "genre": "future bass",
+                "play_count": 538
+            },
+            {
+                "genre": "vocal jazz",
+                "play_count": 516
+            },
+            {
+                "genre": "new jack swing",
+                "play_count": 500
+            },
+            {
+                "genre": "folktronica",
+                "play_count": 493
+            },
+            {
+                "genre": "experimental",
+                "play_count": 482
+            },
+            {
+                "genre": "progressive metal",
+                "play_count": 466
+            },
+            {
+                "genre": "digicore",
+                "play_count": 457
+            },
+            {
+                "genre": "hard bop",
+                "play_count": 456
+            },
+            {
+                "genre": "krautrock",
+                "play_count": 455
+            },
+            {
+                "genre": "bebop",
+                "play_count": 454
+            },
+            {
+                "genre": "midwest emo",
+                "play_count": 448
+            },
+            {
+                "genre": "modal jazz",
+                "play_count": 439
+            },
+            {
+                "genre": "drum and bass",
+                "play_count": 430
+            },
+            {
+                "genre": "comedy rap",
+                "play_count": 375
+            },
+            {
+                "genre": "horrorcore",
+                "play_count": 371
+            },
+            {
+                "genre": "folk rock",
+                "play_count": 367
+            },
+            {
+                "genre": "baile funk",
+                "play_count": 364
+            },
+            {
+                "genre": "southern soul",
+                "play_count": 337
+            },
+            {
+                "genre": "anime",
+                "play_count": 336
+            },
+            {
+                "genre": "memphis soul",
+                "play_count": 329
+            },
+            {
+                "genre": "bedroom pop",
+                "play_count": 327
+            },
+            {
+                "genre": "downtempo",
+                "play_count": 327
+            },
+            {
+                "genre": "jazz hip hop",
+                "play_count": 325
+            },
+            {
+                "genre": "avant garde jazz",
+                "play_count": 321
+            },
+            {
+                "genre": "free jazz",
+                "play_count": 321
+            },
+            {
+                "genre": "post bop",
+                "play_count": 320
+            },
+            {
+                "genre": "drone",
+                "play_count": 317
+            },
+            {
+                "genre": "idm",
+                "play_count": 306
+            },
+            {
+                "genre": "liquid funk",
+                "play_count": 275
+            },
+            {
+                "genre": "britpop",
+                "play_count": 269
+            },
+            {
+                "genre": "cool jazz",
+                "play_count": 265
+            },
+            {
+                "genre": "psychedelic soul",
+                "play_count": 259
+            },
+            {
+                "genre": "country pop",
+                "play_count": 255
+            },
+            {
+                "genre": "world music",
+                "play_count": 253
+            },
+            {
+                "genre": "alternative metal",
+                "play_count": 253
+            },
+            {
+                "genre": "swing",
+                "play_count": 249
+            },
+            {
+                "genre": "future garage",
+                "play_count": 239
+            },
+            {
+                "genre": "orchestral",
+                "play_count": 239
+            },
+            {
+                "genre": "post dubstep",
+                "play_count": 239
+            },
+            {
+                "genre": "big band",
+                "play_count": 234
+            },
+            {
+                "genre": "funk rock",
+                "play_count": 230
+            },
+            {
+                "genre": "punk rock",
+                "play_count": 226
+            },
+            {
+                "genre": "progressive pop",
+                "play_count": 226
+            },
+            {
+                "genre": "tropical house",
+                "play_count": 224
+            },
+            {
+                "genre": "j rock",
+                "play_count": 222
+            },
+            {
+                "genre": "memphis hip hop",
+                "play_count": 220
+            },
+            {
+                "genre": "jangle pop",
+                "play_count": 215
+            },
+            {
+                "genre": "post grunge",
+                "play_count": 205
+            },
+            {
+                "genre": "scam rap",
+                "play_count": 205
+            },
+            {
+                "genre": "grunge",
+                "play_count": 200
+            },
+            {
+                "genre": "dance punk",
+                "play_count": 183
+            },
+            {
+                "genre": "vaporwave",
+                "play_count": 182
+            },
+            {
+                "genre": "crunk",
+                "play_count": 181
+            },
+            {
+                "genre": "chillwave",
+                "play_count": 174
+            },
+            {
+                "genre": "dance",
+                "play_count": 173
+            },
+            {
+                "genre": "dark wave",
+                "play_count": 169
+            },
+            {
+                "genre": "soft rock",
+                "play_count": 169
+            },
+            {
+                "genre": "avant garde pop",
+                "play_count": 168
+            },
+            {
+                "genre": "nu metal",
+                "play_count": 165
+            },
+            {
+                "genre": "new age",
+                "play_count": 164
+            },
+            {
+                "genre": "reggaeton",
+                "play_count": 159
+            },
+            {
+                "genre": "progressive r&b",
+                "play_count": 153
+            },
+            {
+                "genre": "gothic rock",
+                "play_count": 151
+            },
+            {
+                "genre": "electronic dance music",
+                "play_count": 151
+            },
+            {
+                "genre": "twee pop",
+                "play_count": 149
+            },
+            {
+                "genre": "symphonic rock",
+                "play_count": 137
+            },
+            {
+                "genre": "symphonic metal",
+                "play_count": 136
+            },
+            {
+                "genre": "trance",
+                "play_count": 124
+            },
+            {
+                "genre": "avant folk",
+                "play_count": 122
+            },
+            {
+                "genre": "future house",
+                "play_count": 121
+            },
+            {
+                "genre": "indie r&b",
+                "play_count": 121
+            },
+            {
+                "genre": "rap rock",
+                "play_count": 119
+            },
+            {
+                "genre": "country rock",
+                "play_count": 117
+            },
+            {
+                "genre": "hypnagogic pop",
+                "play_count": 114
+            },
+            {
+                "genre": "avant garde hip hop",
+                "play_count": 112
+            },
+            {
+                "genre": "roots rock",
+                "play_count": 111
+            },
+            {
+                "genre": "mafioso rap",
+                "play_count": 107
+            },
+            {
+                "genre": "afro jazz",
+                "play_count": 106
+            },
+            {
+                "genre": "new york drill",
+                "play_count": 106
+            },
+            {
+                "genre": "pluggnb",
+                "play_count": 101
+            },
+            {
+                "genre": "classical",
+                "play_count": 101
+            },
+            {
+                "genre": "dubstep",
+                "play_count": 100
+            },
+            {
+                "genre": "moombahton",
+                "play_count": 98
+            },
+            {
+                "genre": "metalcore",
+                "play_count": 93
+            },
+            {
+                "genre": "chicago blues",
+                "play_count": 92
+            },
+            {
+                "genre": "delta blues",
+                "play_count": 92
+            },
+            {
+                "genre": "uk drill",
+                "play_count": 91
+            },
+            {
+                "genre": "anisong",
+                "play_count": 89
+            },
+            {
+                "genre": "heavy metal",
+                "play_count": 89
+            },
+            {
+                "genre": "operatic pop",
+                "play_count": 87
+            },
+            {
+                "genre": "neoclassical pop",
+                "play_count": 87
+            },
+            {
+                "genre": "video game music",
+                "play_count": 85
+            },
+            {
+                "genre": "americana",
+                "play_count": 82
+            },
+            {
+                "genre": "grime",
+                "play_count": 82
+            },
+            {
+                "genre": "nerdcore",
+                "play_count": 75
+            },
+            {
+                "genre": "industrial",
+                "play_count": 75
+            },
+            {
+                "genre": "pop reggae",
+                "play_count": 71
+            },
+            {
+                "genre": "reggae fusion",
+                "play_count": 70
+            },
+            {
+                "genre": "synthwave",
+                "play_count": 69
+            },
+            {
+                "genre": "metal",
+                "play_count": 69
+            },
+            {
+                "genre": "symphonic prog",
+                "play_count": 65
+            },
+            {
+                "genre": "phonk",
+                "play_count": 64
+            },
+            {
+                "genre": "visual kei",
+                "play_count": 63
+            },
+            {
+                "genre": "trap edm",
+                "play_count": 62
+            },
+            {
+                "genre": "soft pop",
+                "play_count": 59
+            },
+            {
+                "genre": "bass music",
+                "play_count": 58
+            },
+            {
+                "genre": "uk garage",
+                "play_count": 57
+            },
+            {
+                "genre": "deep house",
+                "play_count": 56
+            },
+            {
+                "genre": "rockabilly",
+                "play_count": 51
+            },
+            {
+                "genre": "synth rock",
+                "play_count": 49
+            },
+            {
+                "genre": "chillhop",
+                "play_count": 48
+            },
+            {
+                "genre": "bossa nova",
+                "play_count": 43
+            },
+            {
+                "genre": "shibuya kei",
+                "play_count": 43
+            },
+            {
+                "genre": "british pop",
+                "play_count": 42
+            },
+            {
+                "genre": "folk pop",
+                "play_count": 39
+            },
+            {
+                "genre": "chillout",
+                "play_count": 38
+            },
+            {
+                "genre": "ethereal wave",
+                "play_count": 38
+            },
+            {
+                "genre": "latin trap",
+                "play_count": 37
+            },
+            {
+                "genre": "big room",
+                "play_count": 36
+            },
+            {
+                "genre": "uk bass",
+                "play_count": 36
+            },
+            {
+                "genre": "teen pop",
+                "play_count": 35
+            },
+            {
+                "genre": "slacker rock",
+                "play_count": 35
+            },
+            {
+                "genre": "uk hip hop",
+                "play_count": 32
+            },
+            {
+                "genre": "psychedelic folk",
+                "play_count": 32
+            },
+            {
+                "genre": "psychedelia",
+                "play_count": 29
+            },
+            {
+                "genre": "future bounce",
+                "play_count": 28
+            },
+            {
+                "genre": "doo wop",
+                "play_count": 27
+            },
+            {
+                "genre": "contemporary jazz",
+                "play_count": 27
+            },
+            {
+                "genre": "techno",
+                "play_count": 26
+            },
+            {
+                "genre": "dance rock",
+                "play_count": 26
+            },
+            {
+                "genre": "alternative country",
+                "play_count": 25
+            },
+            {
+                "genre": "industrial rock",
+                "play_count": 24
+            },
+            {
+                "genre": "emo",
+                "play_count": 24
+            },
+            {
+                "genre": "ambient techno",
+                "play_count": 21
+            },
+            {
+                "genre": "electro",
+                "play_count": 20
+            },
+            {
+                "genre": "acoustic",
+                "play_count": 20
+            },
+            {
+                "genre": "emo pop",
+                "play_count": 20
+            },
+            {
+                "genre": "chopped and screwed",
+                "play_count": 19
+            },
+            {
+                "genre": "hip hop soul",
+                "play_count": 19
+            },
+            {
+                "genre": "math rock",
+                "play_count": 19
+            },
+            {
+                "genre": "contemporary folk",
+                "play_count": 18
+            },
+            {
+                "genre": "dark pop",
+                "play_count": 18
+            },
+            {
+                "genre": "classic rock",
+                "play_count": 17
+            },
+            {
+                "genre": "tech house",
+                "play_count": 17
+            },
+            {
+                "genre": "easy listening",
+                "play_count": 17
+            },
+            {
+                "genre": "post hardcore",
+                "play_count": 16
+            },
+            {
+                "genre": "progressive soul",
+                "play_count": 16
+            },
+            {
+                "genre": "nu jazz",
+                "play_count": 16
+            },
+            {
+                "genre": "hardcore punk",
+                "play_count": 15
+            },
+            {
+                "genre": "city pop",
+                "play_count": 15
+            },
+            {
+                "genre": "retro soul",
+                "play_count": 15
+            },
+            {
+                "genre": "arena rock",
+                "play_count": 13
+            },
+            {
+                "genre": "melodic hardcore",
+                "play_count": 13
+            },
+            {
+                "genre": "heartland rock",
+                "play_count": 12
+            },
+            {
+                "genre": "motown",
+                "play_count": 12
+            },
+            {
+                "genre": "flamenco",
+                "play_count": 12
+            },
+            {
+                "genre": "acid jazz",
+                "play_count": 12
+            },
+            {
+                "genre": "glitchcore",
+                "play_count": 12
+            },
+            {
+                "genre": "afrobeats",
+                "play_count": 11
+            },
+            {
+                "genre": "brostep",
+                "play_count": 11
+            },
+            {
+                "genre": "children's music",
+                "play_count": 11
+            },
+            {
+                "genre": "traditional pop",
+                "play_count": 11
+            },
+            {
+                "genre": "k pop",
+                "play_count": 11
+            },
+            {
+                "genre": "zouk",
+                "play_count": 10
+            },
+            {
+                "genre": "disco house",
+                "play_count": 10
+            },
+            {
+                "genre": "funk pop",
+                "play_count": 10
+            },
+            {
+                "genre": "instrumental rock",
+                "play_count": 10
+            },
+            {
+                "genre": "kompa",
+                "play_count": 10
+            },
+            {
+                "genre": "noise",
+                "play_count": 10
+            },
+            {
+                "genre": "pop funk",
+                "play_count": 10
+            },
+            {
+                "genre": "reggae",
+                "play_count": 10
+            },
+            {
+                "genre": "latin hip hop",
+                "play_count": 9
+            },
+            {
+                "genre": "indie dance",
+                "play_count": 9
+            },
+            {
+                "genre": "jazz funk",
+                "play_count": 9
+            },
+            {
+                "genre": "soul jazz",
+                "play_count": 9
+            },
+            {
+                "genre": "acid techno",
+                "play_count": 9
+            },
+            {
+                "genre": "glam rock",
+                "play_count": 9
+            },
+            {
+                "genre": "progressive techno",
+                "play_count": 9
+            },
+            {
+                "genre": "breakbeat",
+                "play_count": 9
+            },
+            {
+                "genre": "indie electronic",
+                "play_count": 9
+            },
+            {
+                "genre": "christian hip hop",
+                "play_count": 8
+            },
+            {
+                "genre": "bounce",
+                "play_count": 8
+            },
+            {
+                "genre": "thai funk",
+                "play_count": 8
+            },
+            {
+                "genre": "snap",
+                "play_count": 8
+            },
+            {
+                "genre": "industrial metal",
+                "play_count": 7
+            },
+            {
+                "genre": "afropop",
+                "play_count": 7
+            },
+            {
+                "genre": "alternative dance",
+                "play_count": 7
+            },
+            {
+                "genre": "canadian hip hop",
+                "play_count": 7
+            },
+            {
+                "genre": "electro hop",
+                "play_count": 7
+            },
+            {
+                "genre": "indie soul",
+                "play_count": 7
+            },
+            {
+                "genre": "drumstep",
+                "play_count": 7
+            },
+            {
+                "genre": "houston rap",
+                "play_count": 7
+            },
+            {
+                "genre": "comedy",
+                "play_count": 6
+            },
+            {
+                "genre": "experimental electronic",
+                "play_count": 6
+            },
+            {
+                "genre": "avant garde metal",
+                "play_count": 6
+            },
+            {
+                "genre": "electronica",
+                "play_count": 6
+            },
+            {
+                "genre": "gospel hip hop",
+                "play_count": 6
+            },
+            {
+                "genre": "acid rock",
+                "play_count": 6
+            },
+            {
+                "genre": "afro house",
+                "play_count": 6
+            },
+            {
+                "genre": "philly soul",
+                "play_count": 6
+            },
+            {
+                "genre": "industrial techno",
+                "play_count": 5
+            },
+            {
+                "genre": "hyphy",
+                "play_count": 5
+            },
+            {
+                "genre": "yacht rock",
+                "play_count": 5
+            },
+            {
+                "genre": "blue eyed soul",
+                "play_count": 5
+            },
+            {
+                "genre": "ambient pop",
+                "play_count": 5
+            },
+            {
+                "genre": "roots reggae",
+                "play_count": 5
+            },
+            {
+                "genre": "skate punk",
+                "play_count": 5
+            },
+            {
+                "genre": "dark electro",
+                "play_count": 5
+            },
+            {
+                "genre": "bubblegum pop",
+                "play_count": 4
+            },
+            {
+                "genre": "sunshine pop",
+                "play_count": 4
+            },
+            {
+                "genre": "technical death metal",
+                "play_count": 4
+            },
+            {
+                "genre": "southern rock",
+                "play_count": 4
+            },
+            {
+                "genre": "boy band",
+                "play_count": 4
+            },
+            {
+                "genre": "surf rock",
+                "play_count": 4
+            },
+            {
+                "genre": "smooth jazz",
+                "play_count": 3
+            },
+            {
+                "genre": "dixieland",
+                "play_count": 3
+            },
+            {
+                "genre": "detroit techno",
+                "play_count": 3
+            },
+            {
+                "genre": "death metal",
+                "play_count": 3
+            },
+            {
+                "genre": "cuban jazz",
+                "play_count": 3
+            },
+            {
+                "genre": "christian rock",
+                "play_count": 3
+            },
+            {
+                "genre": "big room house",
+                "play_count": 3
+            },
+            {
+                "genre": "hip house",
+                "play_count": 3
+            },
+            {
+                "genre": "grindcore",
+                "play_count": 3
+            },
+            {
+                "genre": "glam metal",
+                "play_count": 3
+            },
+            {
+                "genre": "melbourne bounce",
+                "play_count": 3
+            },
+            {
+                "genre": "romantic",
+                "play_count": 3
+            },
+            {
+                "genre": "french hip hop",
+                "play_count": 3
+            },
+            {
+                "genre": "neurofunk",
+                "play_count": 3
+            },
+            {
+                "genre": "latin rock",
+                "play_count": 3
+            },
+            {
+                "genre": "latin house",
+                "play_count": 3
+            },
+            {
+                "genre": "electro punk",
+                "play_count": 3
+            },
+            {
+                "genre": "future pop",
+                "play_count": 2
+            },
+            {
+                "genre": "pc music",
+                "play_count": 2
+            },
+            {
+                "genre": "melodic dubstep",
+                "play_count": 2
+            },
+            {
+                "genre": "melodic death metal",
+                "play_count": 2
+            },
+            {
+                "genre": "post metal",
+                "play_count": 2
+            },
+            {
+                "genre": "mall punk",
+                "play_count": 2
+            },
+            {
+                "genre": "latin soul",
+                "play_count": 2
+            },
+            {
+                "genre": "japanese hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "italo house",
+                "play_count": 2
+            },
+            {
+                "genre": "italo dance",
+                "play_count": 2
+            },
+            {
+                "genre": "indie jazz",
+                "play_count": 2
+            },
+            {
+                "genre": "hybrid trap",
+                "play_count": 2
+            },
+            {
+                "genre": "a cappella",
+                "play_count": 2
+            },
+            {
+                "genre": "reggae rock",
+                "play_count": 2
+            },
+            {
+                "genre": "future rave",
+                "play_count": 2
+            },
+            {
+                "genre": "experimental indie",
+                "play_count": 2
+            },
+            {
+                "genre": "euro pop",
+                "play_count": 2
+            },
+            {
+                "genre": "euro house",
+                "play_count": 2
+            },
+            {
+                "genre": "euro dance",
+                "play_count": 2
+            },
+            {
+                "genre": "electronic jazz",
+                "play_count": 2
+            },
+            {
+                "genre": "dub reggae",
+                "play_count": 2
+            },
+            {
+                "genre": "doom metal",
+                "play_count": 2
+            },
+            {
+                "genre": "swamp rock",
+                "play_count": 2
+            },
+            {
+                "genre": "dark ambient",
+                "play_count": 2
+            },
+            {
+                "genre": "college rock",
+                "play_count": 2
+            },
+            {
+                "genre": "chinese hip hop",
+                "play_count": 2
+            },
+            {
+                "genre": "chamber jazz",
+                "play_count": 2
+            },
+            {
+                "genre": "black metal",
+                "play_count": 2
+            },
+            {
+                "genre": "bachata",
+                "play_count": 2
+            },
+            {
+                "genre": "afro trap",
+                "play_count": 2
+            },
+            {
+                "genre": "afro cuban jazz",
+                "play_count": 2
+            },
+            {
+                "genre": "adult contemporary",
+                "play_count": 2
+            },
+            {
+                "genre": "zamrock",
+                "play_count": 2
+            },
+            {
+                "genre": "pop folk",
+                "play_count": 2
+            },
+            {
+                "genre": "afroswing",
+                "play_count": 1
+            },
+            {
+                "genre": "riot grrrl",
+                "play_count": 1
+            },
+            {
+                "genre": "german hip hop",
+                "play_count": 1
+            },
+            {
+                "genre": "garage punk",
+                "play_count": 1
+            },
+            {
+                "genre": "glitch pop",
+                "play_count": 1
+            },
+            {
+                "genre": "chicago rap",
+                "play_count": 1
+            },
+            {
+                "genre": "k hip hop",
+                "play_count": 1
+            },
+            {
+                "genre": "dark plugg",
+                "play_count": 1
+            },
+            {
+                "genre": "ambient trap",
+                "play_count": 1
+            },
+            {
+                "genre": "footwork",
+                "play_count": 1
+            },
+            {
+                "genre": "future funk",
+                "play_count": 1
+            }
+        ],
+        "stats": {
+            "median": 62,
+            "variance": 273384.7178126053,
+            "q1": 7,
+            "q3": 337,
+            "iqr": 330,
+            "range": 2326,
+            "skewness": 2.009524975879794,
+            "mean": 317.6811594202899,
+            "modes": [
+                2
+            ],
+            "std": 522.8620447236588
+        }
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "Anthony": {
+        "n_discovered_artists": 3,
+        "genres": [
+            {
+                "genre": "trap",
+                "n_artists": 3,
+                "total_plays": 187
+            },
+            {
+                "genre": "gospel hip hop",
+                "n_artists": 2,
+                "total_plays": 154
+            },
+            {
+                "genre": "hip hop",
+                "n_artists": 2,
+                "total_plays": 154
+            },
+            {
+                "genre": "crunk",
+                "n_artists": 1,
+                "total_plays": 33
+            },
+            {
+                "genre": "southern hip hop",
+                "n_artists": 1,
+                "total_plays": 33
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_artists": 1,
+                "total_plays": 51
+            },
+            {
+                "genre": "experimental",
+                "n_artists": 1,
+                "total_plays": 103
+            }
+        ]
+    },
+    "Alexandra": {
+        "n_discovered_artists": 3,
+        "genres": [
+            {
+                "genre": "metalcore",
+                "n_artists": 2,
+                "total_plays": 149
+            },
+            {
+                "genre": "alternative rock",
+                "n_artists": 1,
+                "total_plays": 119
+            },
+            {
+                "genre": "hip hop",
+                "n_artists": 1,
+                "total_plays": 72
+            },
+            {
+                "genre": "melodic rap",
+                "n_artists": 1,
+                "total_plays": 72
+            },
+            {
+                "genre": "hard rock",
+                "n_artists": 1,
+                "total_plays": 30
+            },
+            {
+                "genre": "post hardcore",
+                "n_artists": 1,
+                "total_plays": 119
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_artists": 1,
+                "total_plays": 72
+            },
+            {
+                "genre": "electronicore",
+                "n_artists": 1,
+                "total_plays": 119
+            },
+            {
+                "genre": "pop rap",
+                "n_artists": 1,
+                "total_plays": 72
+            },
+            {
+                "genre": "trap",
+                "n_artists": 1,
+                "total_plays": 72
+            }
+        ]
+    },
+    "Koren": {
+        "n_discovered_artists": 7,
+        "genres": [
+            {
+                "genre": "trap",
+                "n_artists": 4,
+                "total_plays": 489
+            },
+            {
+                "genre": "underground trap",
+                "n_artists": 3,
+                "total_plays": 552
+            },
+            {
+                "genre": "jerk",
+                "n_artists": 3,
+                "total_plays": 552
+            },
+            {
+                "genre": "cloud rap",
+                "n_artists": 2,
+                "total_plays": 195
+            },
+            {
+                "genre": "experimental hip hop",
+                "n_artists": 1,
+                "total_plays": 290
+            },
+            {
+                "genre": "math rock",
+                "n_artists": 1,
+                "total_plays": 93
+            },
+            {
+                "genre": "experimental",
+                "n_artists": 1,
+                "total_plays": 93
+            },
+            {
+                "genre": "post rock",
+                "n_artists": 1,
+                "total_plays": 93
+            },
+            {
+                "genre": "rage",
+                "n_artists": 1,
+                "total_plays": 42
+            },
+            {
+                "genre": "hip hop",
+                "n_artists": 1,
+                "total_plays": 123
+            },
+            {
+                "genre": "hyperpop",
+                "n_artists": 1,
+                "total_plays": 153
+            }
+        ]
+    },
+    "Alan": {
+        "n_discovered_artists": 11,
+        "genres": [
+            {
+                "genre": "soundtrack",
+                "n_artists": 4,
+                "total_plays": 246
+            },
+            {
+                "genre": "pop rock",
+                "n_artists": 3,
+                "total_plays": 370
+            },
+            {
+                "genre": "art rock",
+                "n_artists": 2,
+                "total_plays": 335
+            },
+            {
+                "genre": "progressive rock",
+                "n_artists": 2,
+                "total_plays": 335
+            },
+            {
+                "genre": "indietronica",
+                "n_artists": 1,
+                "total_plays": 160
+            },
+            {
+                "genre": "gangsta rap",
+                "n_artists": 1,
+                "total_plays": 74
+            },
+            {
+                "genre": "synth pop",
+                "n_artists": 1,
+                "total_plays": 37
+            },
+            {
+                "genre": "digicore",
+                "n_artists": 1,
+                "total_plays": 394
+            },
+            {
+                "genre": "mafioso rap",
+                "n_artists": 1,
+                "total_plays": 74
+            },
+            {
+                "genre": "anime",
+                "n_artists": 1,
+                "total_plays": 50
+            },
+            {
+                "genre": "pop",
+                "n_artists": 1,
+                "total_plays": 34
+            },
+            {
+                "genre": "contemporary r&b",
+                "n_artists": 1,
+                "total_plays": 35
+            },
+            {
+                "genre": "symphonic prog",
+                "n_artists": 1,
+                "total_plays": 60
+            },
+            {
+                "genre": "folk",
+                "n_artists": 1,
+                "total_plays": 35
+            },
+            {
+                "genre": "electronic rock",
+                "n_artists": 1,
+                "total_plays": 160
+            },
+            {
+                "genre": "gospel",
+                "n_artists": 1,
+                "total_plays": 34
+            },
+            {
+                "genre": "alternative pop",
+                "n_artists": 1,
+                "total_plays": 35
+            },
+            {
+                "genre": "country",
+                "n_artists": 1,
+                "total_plays": 34
+            },
+            {
+                "genre": "orchestral",
+                "n_artists": 1,
+                "total_plays": 37
+            },
+            {
+                "genre": "pop punk",
+                "n_artists": 1,
+                "total_plays": 394
+            },
+            {
+                "genre": "midwest emo",
+                "n_artists": 1,
+                "total_plays": 394
+            },
+            {
+                "genre": "electronic",
+                "n_artists": 1,
+                "total_plays": 37
+            },
+            {
+                "genre": "hyperpop",
+                "n_artists": 1,
+                "total_plays": 394
+            },
+            {
+                "genre": "southern hip hop",
+                "n_artists": 1,
+                "total_plays": 74
+            },
+            {
+                "genre": "dance punk",
+                "n_artists": 1,
+                "total_plays": 160
+            },
+            {
+                "genre": "indie pop",
+                "n_artists": 1,
+                "total_plays": 160
+            }
+        ]
+    }
+}

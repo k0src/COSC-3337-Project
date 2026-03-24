@@ -1,0 +1,262 @@
+{
+    "Anthony": {
+        "pearson_r": 0.4606193176124961,
+        "months": [
+            {
+                "month": "2025-01",
+                "genre_entropy": 4.252380274164432,
+                "new_artist_rate": 0.023696682464454975
+            },
+            {
+                "month": "2025-02",
+                "genre_entropy": 4.623086354947093,
+                "new_artist_rate": 0.021860701576004067
+            },
+            {
+                "month": "2025-03",
+                "genre_entropy": 4.542937277502308,
+                "new_artist_rate": 0.021026592455163882
+            },
+            {
+                "month": "2025-04",
+                "genre_entropy": 4.7422707524724315,
+                "new_artist_rate": 0.013215859030837005
+            },
+            {
+                "month": "2025-05",
+                "genre_entropy": 4.7557300416040444,
+                "new_artist_rate": 0.03803486529318542
+            },
+            {
+                "month": "2025-06",
+                "genre_entropy": 4.630799146681455,
+                "new_artist_rate": 0.07424593967517401
+            },
+            {
+                "month": "2025-07",
+                "genre_entropy": 4.641719458019103,
+                "new_artist_rate": 0.0057306590257879654
+            },
+            {
+                "month": "2025-08",
+                "genre_entropy": 4.444559200757278,
+                "new_artist_rate": 0.0097442143727162
+            },
+            {
+                "month": "2025-09",
+                "genre_entropy": 3.757784761094111,
+                "new_artist_rate": 0
+            },
+            {
+                "month": "2025-10",
+                "genre_entropy": 4.217253666310786,
+                "new_artist_rate": 0.0049382716049382715
+            },
+            {
+                "month": "2025-11",
+                "genre_entropy": 4.4843421479915255,
+                "new_artist_rate": 0
+            },
+            {
+                "month": "2025-12",
+                "genre_entropy": 4.169088196043791,
+                "new_artist_rate": 0.004434589800443459
+            }
+        ]
+    },
+    "Alexandra": {
+        "pearson_r": -0.22458525802421264,
+        "months": [
+            {
+                "month": "2025-01",
+                "genre_entropy": 5.188918066068574,
+                "new_artist_rate": 0.13727560718057022
+            },
+            {
+                "month": "2025-02",
+                "genre_entropy": 5.237624322305768,
+                "new_artist_rate": 0.007177033492822967
+            },
+            {
+                "month": "2025-03",
+                "genre_entropy": 5.403114580832255,
+                "new_artist_rate": 0.026957637997432605
+            },
+            {
+                "month": "2025-04",
+                "genre_entropy": 5.369866044542612,
+                "new_artist_rate": 0.021628498727735368
+            },
+            {
+                "month": "2025-05",
+                "genre_entropy": 5.3428600514145135,
+                "new_artist_rate": 0.00099601593625498
+            },
+            {
+                "month": "2025-06",
+                "genre_entropy": 5.379769951446484,
+                "new_artist_rate": 0.025793650793650792
+            },
+            {
+                "month": "2025-07",
+                "genre_entropy": 5.192000187338505,
+                "new_artist_rate": 0.021568627450980392
+            },
+            {
+                "month": "2025-08",
+                "genre_entropy": 5.27743828493984,
+                "new_artist_rate": 0.00667779632721202
+            },
+            {
+                "month": "2025-09",
+                "genre_entropy": 5.273368921847983,
+                "new_artist_rate": 0.014975041597337771
+            },
+            {
+                "month": "2025-10",
+                "genre_entropy": 5.333097774716627,
+                "new_artist_rate": 0.005865102639296188
+            },
+            {
+                "month": "2025-11",
+                "genre_entropy": 5.267391748584757,
+                "new_artist_rate": 0
+            },
+            {
+                "month": "2025-12",
+                "genre_entropy": 5.13010283701811,
+                "new_artist_rate": 0.0031645569620253164
+            }
+        ]
+    },
+    "Koren": {
+        "pearson_r": 0.21965739927281533,
+        "months": [
+            {
+                "month": "2025-01",
+                "genre_entropy": 5.560393459031758,
+                "new_artist_rate": 0.039918809201623814
+            },
+            {
+                "month": "2025-02",
+                "genre_entropy": 5.046191049785261,
+                "new_artist_rate": 0.09201060204468005
+            },
+            {
+                "month": "2025-03",
+                "genre_entropy": 5.1417317219867025,
+                "new_artist_rate": 0.025868440502586843
+            },
+            {
+                "month": "2025-04",
+                "genre_entropy": 4.517531001784877,
+                "new_artist_rate": 0.004889975550122249
+            },
+            {
+                "month": "2025-05",
+                "genre_entropy": 4.82493788668898,
+                "new_artist_rate": 0.01762114537444934
+            },
+            {
+                "month": "2025-06",
+                "genre_entropy": 5.666350276865693,
+                "new_artist_rate": 0.031578947368421054
+            },
+            {
+                "month": "2025-07",
+                "genre_entropy": 5.343170805605128,
+                "new_artist_rate": 0.09695603156708005
+            },
+            {
+                "month": "2025-08",
+                "genre_entropy": 5.852946282871204,
+                "new_artist_rate": 0.03064699205448354
+            },
+            {
+                "month": "2025-09",
+                "genre_entropy": 4.912268575807535,
+                "new_artist_rate": 0.04541701073492981
+            },
+            {
+                "month": "2025-10",
+                "genre_entropy": 5.7701107315884785,
+                "new_artist_rate": 0.050072568940493466
+            },
+            {
+                "month": "2025-11",
+                "genre_entropy": 5.599837294990345,
+                "new_artist_rate": 0.0654627539503386
+            },
+            {
+                "month": "2025-12",
+                "genre_entropy": 5.578608588271263,
+                "new_artist_rate": 0.03290246768507638
+            }
+        ]
+    },
+    "Alan": {
+        "pearson_r": -0.15746042797429335,
+        "months": [
+            {
+                "month": "2025-01",
+                "genre_entropy": 5.900501919237715,
+                "new_artist_rate": 0.0464078536367693
+            },
+            {
+                "month": "2025-02",
+                "genre_entropy": 6.153299318976142,
+                "new_artist_rate": 0.03421186011150532
+            },
+            {
+                "month": "2025-03",
+                "genre_entropy": 6.034217003912537,
+                "new_artist_rate": 0.0023507287259050304
+            },
+            {
+                "month": "2025-04",
+                "genre_entropy": 5.839425261803002,
+                "new_artist_rate": 0.01004566210045662
+            },
+            {
+                "month": "2025-05",
+                "genre_entropy": 5.8516201538115205,
+                "new_artist_rate": 0.16289198606271776
+            },
+            {
+                "month": "2025-06",
+                "genre_entropy": 6.060225399911152,
+                "new_artist_rate": 0.005678884873515746
+            },
+            {
+                "month": "2025-07",
+                "genre_entropy": 6.129901897378364,
+                "new_artist_rate": 0.049805110437418795
+            },
+            {
+                "month": "2025-08",
+                "genre_entropy": 5.906161301954545,
+                "new_artist_rate": 0.001702127659574468
+            },
+            {
+                "month": "2025-09",
+                "genre_entropy": 5.87362262860092,
+                "new_artist_rate": 0.007124352331606218
+            },
+            {
+                "month": "2025-10",
+                "genre_entropy": 5.891717767491815,
+                "new_artist_rate": 0.022222222222222223
+            },
+            {
+                "month": "2025-11",
+                "genre_entropy": 5.976915182426515,
+                "new_artist_rate": 0.0006199628022318661
+            },
+            {
+                "month": "2025-12",
+                "genre_entropy": 5.919598724690901,
+                "new_artist_rate": 0.0016825574873808188
+            }
+        ]
+    }
+}

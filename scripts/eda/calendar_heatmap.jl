@@ -5,6 +5,10 @@ using DataFrames
 using CairoMakie
 using Dates
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "calendar_heatmap")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -13,8 +17,6 @@ const NAMES = Dict(
 )
 
 const USER_ORDER = sort(collect(keys(NAMES)))
-
-# Data
 
 function get_daily_plays(year)
   conn = get_connection()
@@ -34,8 +36,6 @@ function get_daily_plays(year)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_calendar_heatmap(df, year)
   nrow(df) == 0 && return
@@ -80,7 +80,7 @@ function plot_calendar_heatmap(df, year)
     max_count = isempty(vals) ? 1 : max(1, maximum(vals))
 
     fig = Figure(size=(1400, 270))
-    Label(fig[0, 1], "Daily Play Count — $display_name — $year",
+    Label(fig[0, 1], "Daily Play Count - $display_name - $year",
       fontsize=15, font=:bold, tellwidth=false)
 
     ax = Axis(fig[1, 1],
@@ -119,13 +119,11 @@ function plot_calendar_heatmap(df, year)
 
     colsize!(fig.layout, 1, Relative(0.93))
 
-    fname = "calendar_heatmap_$(lowercase(display_name))_$(year).png"
+    fname = joinpath(PLOTS_DIR, "calendar_heatmap_$(lowercase(display_name))_$(year).png")
     save(fname, fig)
     println("Saved $fname")
   end
 end
-
-# Main
 
 function main()
   year = 2025
@@ -145,7 +143,7 @@ function main()
     json_data[display_name] = user_data
   end
 
-  save_json("calendar_heatmap_2025.json", json_data)
+  save_json(joinpath(DATA_DIR, "calendar_heatmap_2025.json"), json_data)
 end
 
 main()

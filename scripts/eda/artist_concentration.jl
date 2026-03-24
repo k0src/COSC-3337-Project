@@ -4,6 +4,10 @@ include(joinpath(@__DIR__, "..", "utils.jl"))
 using DataFrames
 using CairoMakie
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "artist_concentration")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -16,8 +20,6 @@ const PERIODS = [
   (2024, "2024"),
   (2025, "2025"),
 ]
-
-# Stats
 
 function gini(vals)
   n = length(vals)
@@ -39,8 +41,6 @@ function concentration(counts, k)
   sum(counts[1:min(k, length(counts))]) / sum(counts)
 end
 
-# Data
-
 function get_user_plays_per_artist(; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
@@ -60,8 +60,6 @@ function get_user_plays_per_artist(; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_artist_concentration(df, year_label)
   nrow(df) == 0 && return
@@ -104,12 +102,10 @@ function plot_artist_concentration(df, year_label)
   elems = [PolyElement(polycolor=conc_colors[i]) for i in 1:3]
   Legend(fig[1, 2], elems, ["Top 1", "Top 5", "Top 10"])
 
-  fname = "artist_concentration_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "artist_concentration_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   for (year, year_label) in PERIODS
@@ -139,7 +135,7 @@ function main()
     end
 
     plot_artist_concentration(df, year_label)
-    save_json("artist_concentration_$(year_label).json", period_data)
+    save_json(joinpath(DATA_DIR, "artist_concentration_$(year_label).json"), period_data)
   end
 end
 

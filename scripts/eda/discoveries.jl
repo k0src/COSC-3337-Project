@@ -11,11 +11,9 @@ const NAMES = Dict(
 )
 
 const YEAR = 2025
-const MIN_PLAYS_D = 30 # minimum plays for discovered
-const MIN_PLAYS_R = 20 # minimum plays for rediscovered
+const MIN_PLAYS_D = 30
+const MIN_PLAYS_R = 20
 const REDISCOVERY_GAP_PCT = 0.50
-
-# Data
 
 function get_user_spans()
   conn = get_connection()
@@ -139,8 +137,6 @@ function get_album_status(username)
   return df
 end
 
-# Helpers
-
 function classify(df, threshold_days)
   discovered = filter(r -> ismissing(r.gap_days) && Int(r.plays) >= MIN_PLAYS_D, df)
   rediscovered = filter(
@@ -179,8 +175,6 @@ function serialize_albums(df, include_gap)
     for r in eachrow(df)
   ]
 end
-
-# Main
 
 function main()
   spans_df = get_user_spans()

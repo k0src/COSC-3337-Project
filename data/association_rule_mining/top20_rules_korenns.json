@@ -1,0 +1,298 @@
+[
+  {
+    "antecedents": [
+      "Roni Size"
+    ],
+    "consequents": [
+      "LTJ Bukem"
+    ],
+    "support": 0.0407,
+    "confidence": 0.6215,
+    "lift": 5.9155,
+    "leverage": 0.033834,
+    "conviction": 2.364,
+    "english": "When listening to \"Roni Size\", also listen to \"LTJ Bukem\" (support=0.041, confidence=0.621, lift=5.92, conviction=2.36)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Travis Scott"
+    ],
+    "consequents": [
+      "21 Savage"
+    ],
+    "support": 0.0414,
+    "confidence": 0.5358,
+    "lift": 4.063,
+    "leverage": 0.031201,
+    "conviction": 1.87,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Travis Scott\", also listen to \"21 Savage\" (support=0.041, confidence=0.536, lift=4.06, conviction=1.87)"
+  },
+  {
+    "antecedents": [
+      "21 Savage",
+      "Lil Uzi Vert"
+    ],
+    "consequents": [
+      "Travis Scott"
+    ],
+    "support": 0.0414,
+    "confidence": 0.5335,
+    "lift": 4.0301,
+    "leverage": 0.031118,
+    "conviction": 1.86,
+    "english": "When listening to \"21 Savage\" + \"Lil Uzi Vert\", also listen to \"Travis Scott\" (support=0.041, confidence=0.533, lift=4.03, conviction=1.86)"
+  },
+  {
+    "antecedents": [
+      "Young Thug"
+    ],
+    "consequents": [
+      "Tee Grizzley"
+    ],
+    "support": 0.0439,
+    "confidence": 0.5293,
+    "lift": 3.5855,
+    "leverage": 0.031657,
+    "conviction": 1.811,
+    "english": "When listening to \"Young Thug\", also listen to \"Tee Grizzley\" (support=0.044, confidence=0.529, lift=3.59, conviction=1.81)"
+  },
+  {
+    "antecedents": [
+      "Cdot Honcho",
+      "Chief Keef"
+    ],
+    "consequents": [
+      "G Herbo"
+    ],
+    "support": 0.0405,
+    "confidence": 0.6065,
+    "lift": 3.5839,
+    "leverage": 0.029235,
+    "conviction": 2.111,
+    "english": "When listening to \"Cdot Honcho\" + \"Chief Keef\", also listen to \"G Herbo\" (support=0.041, confidence=0.607, lift=3.58, conviction=2.11)"
+  },
+  {
+    "antecedents": [
+      "Smokepurpp"
+    ],
+    "consequents": [
+      "Tee Grizzley"
+    ],
+    "support": 0.0457,
+    "confidence": 0.527,
+    "lift": 3.5701,
+    "leverage": 0.032931,
+    "conviction": 1.802,
+    "english": "When listening to \"Smokepurpp\", also listen to \"Tee Grizzley\" (support=0.046, confidence=0.527, lift=3.57, conviction=1.80)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Tay-K"
+    ],
+    "consequents": [
+      "Tee Grizzley"
+    ],
+    "support": 0.0404,
+    "confidence": 0.515,
+    "lift": 3.4884,
+    "leverage": 0.028806,
+    "conviction": 1.757,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Tay-K\", also listen to \"Tee Grizzley\" (support=0.040, confidence=0.515, lift=3.49, conviction=1.76)"
+  },
+  {
+    "antecedents": [
+      "Playboi Carti",
+      "Travis Scott"
+    ],
+    "consequents": [
+      "Chief Keef"
+    ],
+    "support": 0.0404,
+    "confidence": 0.6639,
+    "lift": 3.4484,
+    "leverage": 0.028672,
+    "conviction": 2.403,
+    "english": "When listening to \"Playboi Carti\" + \"Travis Scott\", also listen to \"Chief Keef\" (support=0.040, confidence=0.664, lift=3.45, conviction=2.40)"
+  },
+  {
+    "antecedents": [
+      "G Herbo",
+      "Playboi Carti"
+    ],
+    "consequents": [
+      "Chief Keef"
+    ],
+    "support": 0.0437,
+    "confidence": 0.6558,
+    "lift": 3.4062,
+    "leverage": 0.030894,
+    "conviction": 2.346,
+    "english": "When listening to \"G Herbo\" + \"Playboi Carti\", also listen to \"Chief Keef\" (support=0.044, confidence=0.656, lift=3.41, conviction=2.35)"
+  },
+  {
+    "antecedents": [
+      "Cdot Honcho",
+      "G Herbo"
+    ],
+    "consequents": [
+      "Chief Keef"
+    ],
+    "support": 0.0405,
+    "confidence": 0.6541,
+    "lift": 3.3972,
+    "leverage": 0.028613,
+    "conviction": 2.334,
+    "english": "When listening to \"Cdot Honcho\" + \"G Herbo\", also listen to \"Chief Keef\" (support=0.041, confidence=0.654, lift=3.40, conviction=2.33)"
+  },
+  {
+    "antecedents": [
+      "Future",
+      "Playboi Carti"
+    ],
+    "consequents": [
+      "Chief Keef"
+    ],
+    "support": 0.0434,
+    "confidence": 0.6524,
+    "lift": 3.3886,
+    "leverage": 0.030591,
+    "conviction": 2.323,
+    "english": "When listening to \"Future\" + \"Playboi Carti\", also listen to \"Chief Keef\" (support=0.043, confidence=0.652, lift=3.39, conviction=2.32)"
+  },
+  {
+    "antecedents": [
+      "Playboi Carti",
+      "Tee Grizzley"
+    ],
+    "consequents": [
+      "Chief Keef"
+    ],
+    "support": 0.0407,
+    "confidence": 0.6279,
+    "lift": 3.2614,
+    "leverage": 0.028233,
+    "conviction": 2.17,
+    "english": "When listening to \"Playboi Carti\" + \"Tee Grizzley\", also listen to \"Chief Keef\" (support=0.041, confidence=0.628, lift=3.26, conviction=2.17)"
+  },
+  {
+    "antecedents": [
+      "Chief Keef",
+      "Tay-K"
+    ],
+    "consequents": [
+      "Playboi Carti"
+    ],
+    "support": 0.0416,
+    "confidence": 0.6966,
+    "lift": 3.2354,
+    "leverage": 0.028711,
+    "conviction": 2.587,
+    "english": "When listening to \"Chief Keef\" + \"Tay-K\", also listen to \"Playboi Carti\" (support=0.042, confidence=0.697, lift=3.24, conviction=2.59)"
+  },
+  {
+    "antecedents": [
+      "G Herbo",
+      "Lil Uzi Vert"
+    ],
+    "consequents": [
+      "Chief Keef"
+    ],
+    "support": 0.0513,
+    "confidence": 0.6194,
+    "lift": 3.2174,
+    "leverage": 0.035337,
+    "conviction": 2.122,
+    "english": "When listening to \"G Herbo\" + \"Lil Uzi Vert\", also listen to \"Chief Keef\" (support=0.051, confidence=0.619, lift=3.22, conviction=2.12)"
+  },
+  {
+    "antecedents": [
+      "YoungBoy Never Broke Again"
+    ],
+    "consequents": [
+      "G Herbo"
+    ],
+    "support": 0.0464,
+    "confidence": 0.5442,
+    "lift": 3.2157,
+    "leverage": 0.03198,
+    "conviction": 1.823,
+    "english": "When listening to \"YoungBoy Never Broke Again\", also listen to \"G Herbo\" (support=0.046, confidence=0.544, lift=3.22, conviction=1.82)"
+  },
+  {
+    "antecedents": [
+      "Playboi Carti",
+      "Travis Scott"
+    ],
+    "consequents": [
+      "Lil Uzi Vert"
+    ],
+    "support": 0.0501,
+    "confidence": 0.8237,
+    "lift": 3.2025,
+    "leverage": 0.034456,
+    "conviction": 4.213,
+    "english": "When listening to \"Playboi Carti\" + \"Travis Scott\", also listen to \"Lil Uzi Vert\" (support=0.050, confidence=0.824, lift=3.20, conviction=4.21)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Tay-K"
+    ],
+    "consequents": [
+      "Playboi Carti"
+    ],
+    "support": 0.054,
+    "confidence": 0.688,
+    "lift": 3.1955,
+    "leverage": 0.03707,
+    "conviction": 2.515,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Tay-K\", also listen to \"Playboi Carti\" (support=0.054, confidence=0.688, lift=3.20, conviction=2.52)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Travis Scott"
+    ],
+    "consequents": [
+      "Chief Keef"
+    ],
+    "support": 0.0471,
+    "confidence": 0.6095,
+    "lift": 3.166,
+    "leverage": 0.032213,
+    "conviction": 2.068,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Travis Scott\", also listen to \"Chief Keef\" (support=0.047, confidence=0.610, lift=3.17, conviction=2.07)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Trippie Redd"
+    ],
+    "consequents": [
+      "Playboi Carti"
+    ],
+    "support": 0.0481,
+    "confidence": 0.6706,
+    "lift": 3.1143,
+    "leverage": 0.032648,
+    "conviction": 2.382,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Trippie Redd\", also listen to \"Playboi Carti\" (support=0.048, confidence=0.671, lift=3.11, conviction=2.38)"
+  },
+  {
+    "antecedents": [
+      "Chief Keef",
+      "Lil Uzi Vert"
+    ],
+    "consequents": [
+      "Playboi Carti"
+    ],
+    "support": 0.0695,
+    "confidence": 0.6694,
+    "lift": 3.1087,
+    "leverage": 0.047169,
+    "conviction": 2.373,
+    "english": "When listening to \"Chief Keef\" + \"Lil Uzi Vert\", also listen to \"Playboi Carti\" (support=0.070, confidence=0.669, lift=3.11, conviction=2.37)"
+  }
+]

@@ -1,58 +1,58 @@
 {
-  "Anthony": {
-    "shuffle_on": {
-      "total": 8435,
-      "skip_rate": 0.388737403675163,
-      "completed": 5156,
-      "skipped": 3279
+    "Anthony": {
+        "shuffle_on": {
+            "total": 8433,
+            "skip_rate": 0.3888295980078264,
+            "completed": 5154,
+            "skipped": 3279
+        },
+        "shuffle_off": {
+            "total": 5270,
+            "skip_rate": 0.20721062618595826,
+            "completed": 4178,
+            "skipped": 1092
+        }
     },
-    "shuffle_off": {
-      "total": 5271,
-      "skip_rate": 0.20717131474103587,
-      "completed": 4179,
-      "skipped": 1092
-    }
-  },
-  "Alexandra": {
-    "shuffle_on": {
-      "total": 8344,
-      "skip_rate": 0.26030680728667305,
-      "completed": 6172,
-      "skipped": 2172
+    "Alexandra": {
+        "shuffle_on": {
+            "total": 8343,
+            "skip_rate": 0.26033800791082345,
+            "completed": 6171,
+            "skipped": 2172
+        },
+        "shuffle_off": {
+            "total": 368,
+            "skip_rate": 0.33695652173913043,
+            "completed": 244,
+            "skipped": 124
+        }
     },
-    "shuffle_off": {
-      "total": 368,
-      "skip_rate": 0.33695652173913043,
-      "completed": 244,
-      "skipped": 124
-    }
-  },
-  "Koren": {
-    "shuffle_on": {
-      "total": 13141,
-      "skip_rate": 0.478426299368389,
-      "completed": 6854,
-      "skipped": 6287
+    "Koren": {
+        "shuffle_on": {
+            "total": 13118,
+            "skip_rate": 0.47880774508309193,
+            "completed": 6837,
+            "skipped": 6281
+        },
+        "shuffle_off": {
+            "total": 4007,
+            "skip_rate": 0.7891190416770651,
+            "completed": 845,
+            "skipped": 3162
+        }
     },
-    "shuffle_off": {
-      "total": 4019,
-      "skip_rate": 0.7892510574769843,
-      "completed": 847,
-      "skipped": 3172
+    "Alan": {
+        "shuffle_on": {
+            "total": 14565,
+            "skip_rate": 0.8308959835221421,
+            "completed": 2463,
+            "skipped": 12102
+        },
+        "shuffle_off": {
+            "total": 14747,
+            "skip_rate": 0.7750728961822744,
+            "completed": 3317,
+            "skipped": 11430
+        }
     }
-  },
-  "Alan": {
-    "shuffle_on": {
-      "total": 14588,
-      "skip_rate": 0.8301343570057581,
-      "completed": 2478,
-      "skipped": 12110
-    },
-    "shuffle_off": {
-      "total": 14830,
-      "skip_rate": 0.7743088334457181,
-      "completed": 3347,
-      "skipped": 11483
-    }
-  }
 }

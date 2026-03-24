@@ -1,0 +1,162 @@
+{
+  "Anthony": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "skip_rate": 0.4582723279648609
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "skip_rate": 0.32431052093973445
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "skip_rate": 0.3592814371257485
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "skip_rate": 0.28741496598639454
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "skip_rate": 0.24307836696386673
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "skip_rate": 0.2376847290640394
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "skip_rate": 0.2969004893964111
+      }
+    ],
+    "peak_day": "Mon"
+  },
+  "Alexandra": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "skip_rate": 0.2384737678855326
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "skip_rate": 0.27266483516483514
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "skip_rate": 0.2568218298555377
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "skip_rate": 0.2575957727873184
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "skip_rate": 0.3216280925778133
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "skip_rate": 0.26422764227642276
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "skip_rate": 0.226
+      }
+    ],
+    "peak_day": "Fri"
+  },
+  "Koren": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "skip_rate": 0.6073985680190931
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "skip_rate": 0.5543910372244308
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "skip_rate": 0.5189628482972136
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "skip_rate": 0.6208924247665167
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "skip_rate": 0.5312
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "skip_rate": 0.42672858617131065
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "skip_rate": 0.5677618069815195
+      }
+    ],
+    "peak_day": "Thu"
+  },
+  "Alan": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "skip_rate": 0.7903335602450646
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "skip_rate": 0.8091622374082511
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "skip_rate": 0.8099790160876661
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "skip_rate": 0.7941933973308358
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "skip_rate": 0.8216380182002022
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "skip_rate": 0.8139595225739491
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "skip_rate": 0.774937482634065
+      }
+    ],
+    "peak_day": "Fri"
+  }
+}

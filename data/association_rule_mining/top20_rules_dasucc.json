@@ -1,0 +1,322 @@
+[
+  {
+    "antecedents": [
+      "XXXTENTACION",
+      "Young Thug"
+    ],
+    "consequents": [
+      "Juice WRLD",
+      "Kanye West"
+    ],
+    "support": 0.0516,
+    "confidence": 0.6842,
+    "lift": 5.0868,
+    "leverage": 0.041493,
+    "conviction": 2.741,
+    "english": "When listening to \"XXXTENTACION\" + \"Young Thug\", also listen to \"Juice WRLD\" + \"Kanye West\" (support=0.052, confidence=0.684, lift=5.09, conviction=2.74)"
+  },
+  {
+    "antecedents": [
+      "Chief Keef",
+      "Young Thug"
+    ],
+    "consequents": [
+      "A$AP Rocky",
+      "Migos"
+    ],
+    "support": 0.0533,
+    "confidence": 0.5663,
+    "lift": 4.964,
+    "leverage": 0.042601,
+    "conviction": 2.043,
+    "english": "When listening to \"Chief Keef\" + \"Young Thug\", also listen to \"A$AP Rocky\" + \"Migos\" (support=0.053, confidence=0.566, lift=4.96, conviction=2.04)"
+  },
+  {
+    "antecedents": [
+      "Juice WRLD",
+      "Kanye West",
+      "Young Thug"
+    ],
+    "consequents": [
+      "XXXTENTACION"
+    ],
+    "support": 0.0516,
+    "confidence": 0.5141,
+    "lift": 4.8443,
+    "leverage": 0.040985,
+    "conviction": 1.84,
+    "english": "When listening to \"Juice WRLD\" + \"Kanye West\" + \"Young Thug\", also listen to \"XXXTENTACION\" (support=0.052, confidence=0.514, lift=4.84, conviction=1.84)"
+  },
+  {
+    "antecedents": [
+      "A$AP Rocky",
+      "Juice WRLD"
+    ],
+    "consequents": [
+      "A Boogie Wit da Hoodie",
+      "Kendrick Lamar"
+    ],
+    "support": 0.0505,
+    "confidence": 0.5329,
+    "lift": 4.8404,
+    "leverage": 0.040075,
+    "conviction": 1.905,
+    "english": "When listening to \"A$AP Rocky\" + \"Juice WRLD\", also listen to \"A Boogie Wit da Hoodie\" + \"Kendrick Lamar\" (support=0.051, confidence=0.533, lift=4.84, conviction=1.91)"
+  },
+  {
+    "antecedents": [
+      "Drake",
+      "Frank Ocean"
+    ],
+    "consequents": [
+      "Kanye West",
+      "The Weeknd"
+    ],
+    "support": 0.0585,
+    "confidence": 0.7203,
+    "lift": 4.7356,
+    "leverage": 0.046112,
+    "conviction": 3.031,
+    "english": "When listening to \"Drake\" + \"Frank Ocean\", also listen to \"Kanye West\" + \"The Weeknd\" (support=0.058, confidence=0.720, lift=4.74, conviction=3.03)"
+  },
+  {
+    "antecedents": [
+      "Chief Keef",
+      "Kanye West"
+    ],
+    "consequents": [
+      "A$AP Rocky",
+      "Migos"
+    ],
+    "support": 0.0528,
+    "confidence": 0.5345,
+    "lift": 4.6854,
+    "leverage": 0.041516,
+    "conviction": 1.903,
+    "english": "When listening to \"Chief Keef\" + \"Kanye West\", also listen to \"A$AP Rocky\" + \"Migos\" (support=0.053, confidence=0.534, lift=4.69, conviction=1.90)"
+  },
+  {
+    "antecedents": [
+      "Drake",
+      "XXXTENTACION"
+    ],
+    "consequents": [
+      "Juice WRLD",
+      "Kanye West"
+    ],
+    "support": 0.0551,
+    "confidence": 0.6299,
+    "lift": 4.6828,
+    "leverage": 0.043295,
+    "conviction": 2.338,
+    "english": "When listening to \"Drake\" + \"XXXTENTACION\", also listen to \"Juice WRLD\" + \"Kanye West\" (support=0.055, confidence=0.630, lift=4.68, conviction=2.34)"
+  },
+  {
+    "antecedents": [
+      "Chief Keef",
+      "Young Thug"
+    ],
+    "consequents": [
+      "Future",
+      "Migos"
+    ],
+    "support": 0.0556,
+    "confidence": 0.5904,
+    "lift": 4.6646,
+    "leverage": 0.043695,
+    "conviction": 2.132,
+    "english": "When listening to \"Chief Keef\" + \"Young Thug\", also listen to \"Future\" + \"Migos\" (support=0.056, confidence=0.590, lift=4.66, conviction=2.13)"
+  },
+  {
+    "antecedents": [
+      "Kanye West",
+      "XXXTENTACION"
+    ],
+    "consequents": [
+      "Juice WRLD",
+      "Young Thug"
+    ],
+    "support": 0.0516,
+    "confidence": 0.5796,
+    "lift": 4.6422,
+    "leverage": 0.040521,
+    "conviction": 2.082,
+    "english": "When listening to \"Kanye West\" + \"XXXTENTACION\", also listen to \"Juice WRLD\" + \"Young Thug\" (support=0.052, confidence=0.580, lift=4.64, conviction=2.08)"
+  },
+  {
+    "antecedents": [
+      "Kendrick Lamar",
+      "Migos"
+    ],
+    "consequents": [
+      "A Boogie Wit da Hoodie",
+      "A$AP Rocky"
+    ],
+    "support": 0.0545,
+    "confidence": 0.5549,
+    "lift": 4.6339,
+    "leverage": 0.042726,
+    "conviction": 1.978,
+    "english": "When listening to \"Kendrick Lamar\" + \"Migos\", also listen to \"A Boogie Wit da Hoodie\" + \"A$AP Rocky\" (support=0.054, confidence=0.555, lift=4.63, conviction=1.98)"
+  },
+  {
+    "antecedents": [
+      "Drake",
+      "XXXTENTACION"
+    ],
+    "consequents": [
+      "Juice WRLD",
+      "Young Thug"
+    ],
+    "support": 0.0505,
+    "confidence": 0.5779,
+    "lift": 4.6286,
+    "leverage": 0.039598,
+    "conviction": 2.073,
+    "english": "When listening to \"Drake\" + \"XXXTENTACION\", also listen to \"Juice WRLD\" + \"Young Thug\" (support=0.051, confidence=0.578, lift=4.63, conviction=2.07)"
+  },
+  {
+    "antecedents": [
+      "Chief Keef",
+      "Kanye West"
+    ],
+    "consequents": [
+      "A Boogie Wit da Hoodie",
+      "A$AP Rocky"
+    ],
+    "support": 0.0545,
+    "confidence": 0.5517,
+    "lift": 4.6073,
+    "leverage": 0.042658,
+    "conviction": 1.964,
+    "english": "When listening to \"Chief Keef\" + \"Kanye West\", also listen to \"A Boogie Wit da Hoodie\" + \"A$AP Rocky\" (support=0.054, confidence=0.552, lift=4.61, conviction=1.96)"
+  },
+  {
+    "antecedents": [
+      "Chief Keef",
+      "Young Thug"
+    ],
+    "consequents": [
+      "A Boogie Wit da Hoodie",
+      "A$AP Rocky"
+    ],
+    "support": 0.0516,
+    "confidence": 0.5482,
+    "lift": 4.5778,
+    "leverage": 0.040364,
+    "conviction": 1.948,
+    "english": "When listening to \"Chief Keef\" + \"Young Thug\", also listen to \"A Boogie Wit da Hoodie\" + \"A$AP Rocky\" (support=0.052, confidence=0.548, lift=4.58, conviction=1.95)"
+  },
+  {
+    "antecedents": [
+      "Drake",
+      "YNW Melly"
+    ],
+    "consequents": [
+      "Juice WRLD",
+      "Kanye West"
+    ],
+    "support": 0.0516,
+    "confidence": 0.6107,
+    "lift": 4.5406,
+    "leverage": 0.040272,
+    "conviction": 2.223,
+    "english": "When listening to \"Drake\" + \"YNW Melly\", also listen to \"Juice WRLD\" + \"Kanye West\" (support=0.052, confidence=0.611, lift=4.54, conviction=2.22)"
+  },
+  {
+    "antecedents": [
+      "A Boogie Wit da Hoodie",
+      "The Weeknd"
+    ],
+    "consequents": [
+      "Drake",
+      "Young Dolph"
+    ],
+    "support": 0.0516,
+    "confidence": 0.5833,
+    "lift": 4.4303,
+    "leverage": 0.039988,
+    "conviction": 2.084,
+    "english": "When listening to \"A Boogie Wit da Hoodie\" + \"The Weeknd\", also listen to \"Drake\" + \"Young Dolph\" (support=0.052, confidence=0.583, lift=4.43, conviction=2.08)"
+  },
+  {
+    "antecedents": [
+      "Frank Ocean"
+    ],
+    "consequents": [
+      "Drake",
+      "Kanye West",
+      "The Weeknd"
+    ],
+    "support": 0.0585,
+    "confidence": 0.5754,
+    "lift": 4.4082,
+    "leverage": 0.045196,
+    "conviction": 2.048,
+    "english": "When listening to \"Frank Ocean\", also listen to \"Drake\" + \"Kanye West\" + \"The Weeknd\" (support=0.058, confidence=0.575, lift=4.41, conviction=2.05)"
+  },
+  {
+    "antecedents": [
+      "Kendrick Lamar",
+      "Migos"
+    ],
+    "consequents": [
+      "A$AP Rocky",
+      "J. Cole"
+    ],
+    "support": 0.0528,
+    "confidence": 0.5376,
+    "lift": 4.4056,
+    "leverage": 0.0408,
+    "conviction": 1.899,
+    "english": "When listening to \"Kendrick Lamar\" + \"Migos\", also listen to \"A$AP Rocky\" + \"J. Cole\" (support=0.053, confidence=0.538, lift=4.41, conviction=1.90)"
+  },
+  {
+    "antecedents": [
+      "A Boogie Wit da Hoodie",
+      "Kendrick Lamar"
+    ],
+    "consequents": [
+      "A$AP Rocky",
+      "J. Cole"
+    ],
+    "support": 0.059,
+    "confidence": 0.5361,
+    "lift": 4.3934,
+    "leverage": 0.045589,
+    "conviction": 1.893,
+    "english": "When listening to \"A Boogie Wit da Hoodie\" + \"Kendrick Lamar\", also listen to \"A$AP Rocky\" + \"J. Cole\" (support=0.059, confidence=0.536, lift=4.39, conviction=1.89)"
+  },
+  {
+    "antecedents": [
+      "A$AP Rocky",
+      "Chief Keef"
+    ],
+    "consequents": [
+      "Kanye West",
+      "Migos"
+    ],
+    "support": 0.0528,
+    "confidence": 0.6078,
+    "lift": 4.3894,
+    "leverage": 0.040756,
+    "conviction": 2.197,
+    "english": "When listening to \"A$AP Rocky\" + \"Chief Keef\", also listen to \"Kanye West\" + \"Migos\" (support=0.053, confidence=0.608, lift=4.39, conviction=2.20)"
+  },
+  {
+    "antecedents": [
+      "XXXTENTACION"
+    ],
+    "consequents": [
+      "Drake",
+      "Juice WRLD",
+      "Kanye West"
+    ],
+    "support": 0.0551,
+    "confidence": 0.5187,
+    "lift": 4.3731,
+    "leverage": 0.042463,
+    "conviction": 1.831,
+    "english": "When listening to \"XXXTENTACION\", also listen to \"Drake\" + \"Juice WRLD\" + \"Kanye West\" (support=0.055, confidence=0.519, lift=4.37, conviction=1.83)"
+  }
+]

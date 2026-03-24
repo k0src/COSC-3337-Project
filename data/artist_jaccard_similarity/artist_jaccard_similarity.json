@@ -1,0 +1,290 @@
+{
+    "2025": {
+        "users": [
+            "Alan",
+            "Alexandra",
+            "Anthony",
+            "Koren"
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0.09090909090909091,
+                0.02572347266881029
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0.09090909090909091,
+                0.0,
+                1.0,
+                0.05963302752293578
+            ],
+            [
+                0.02572347266881029,
+                0.0,
+                0.05963302752293578,
+                1.0
+            ]
+        ],
+        "artist_set_sizes": {
+            "Anthony": 88,
+            "Alexandra": 70,
+            "Koren": 143,
+            "Alan": 176
+        },
+        "pairs": [
+            {
+                "users": [
+                    "Alan",
+                    "Alexandra"
+                ],
+                "union": 246,
+                "jaccard": 0,
+                "intersection": 0
+            },
+            {
+                "users": [
+                    "Alan",
+                    "Anthony"
+                ],
+                "union": 242,
+                "jaccard": 0.09090909090909091,
+                "intersection": 22
+            },
+            {
+                "users": [
+                    "Alan",
+                    "Koren"
+                ],
+                "union": 311,
+                "jaccard": 0.02572347266881029,
+                "intersection": 8
+            },
+            {
+                "users": [
+                    "Alexandra",
+                    "Anthony"
+                ],
+                "union": 158,
+                "jaccard": 0,
+                "intersection": 0
+            },
+            {
+                "users": [
+                    "Alexandra",
+                    "Koren"
+                ],
+                "union": 213,
+                "jaccard": 0,
+                "intersection": 0
+            },
+            {
+                "users": [
+                    "Anthony",
+                    "Koren"
+                ],
+                "union": 218,
+                "jaccard": 0.05963302752293578,
+                "intersection": 13
+            }
+        ]
+    },
+    "alltime": {
+        "users": [
+            "Alan",
+            "Alexandra",
+            "Anthony",
+            "Koren"
+        ],
+        "matrix": [
+            [
+                1,
+                0.024175824175824177,
+                0.24295774647887325,
+                0.14551333872271624
+            ],
+            [
+                0.024175824175824177,
+                1.0,
+                0.014120667522464698,
+                0.019008825526137134
+            ],
+            [
+                0.24295774647887325,
+                0.014120667522464698,
+                1.0,
+                0.1633211678832117
+            ],
+            [
+                0.14551333872271624,
+                0.019008825526137134,
+                0.1633211678832117,
+                1.0
+            ]
+        ],
+        "artist_set_sizes": {
+            "Anthony": 282,
+            "Alexandra": 508,
+            "Koren": 993,
+            "Alan": 424
+        },
+        "pairs": [
+            {
+                "users": [
+                    "Alan",
+                    "Alexandra"
+                ],
+                "union": 910,
+                "jaccard": 0.024175824175824177,
+                "intersection": 22
+            },
+            {
+                "users": [
+                    "Alan",
+                    "Anthony"
+                ],
+                "union": 568,
+                "jaccard": 0.24295774647887325,
+                "intersection": 138
+            },
+            {
+                "users": [
+                    "Alan",
+                    "Koren"
+                ],
+                "union": 1237,
+                "jaccard": 0.14551333872271624,
+                "intersection": 180
+            },
+            {
+                "users": [
+                    "Alexandra",
+                    "Anthony"
+                ],
+                "union": 779,
+                "jaccard": 0.014120667522464698,
+                "intersection": 11
+            },
+            {
+                "users": [
+                    "Alexandra",
+                    "Koren"
+                ],
+                "union": 1473,
+                "jaccard": 0.019008825526137134,
+                "intersection": 28
+            },
+            {
+                "users": [
+                    "Anthony",
+                    "Koren"
+                ],
+                "union": 1096,
+                "jaccard": 0.1633211678832117,
+                "intersection": 179
+            }
+        ]
+    },
+    "2024": {
+        "users": [
+            "Alan",
+            "Alexandra",
+            "Anthony",
+            "Koren"
+        ],
+        "matrix": [
+            [
+                1,
+                0.0035335689045936395,
+                0.0916030534351145,
+                0.017857142857142856
+            ],
+            [
+                0.0035335689045936395,
+                1.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0916030534351145,
+                0.0,
+                1.0,
+                0.02857142857142857
+            ],
+            [
+                0.017857142857142856,
+                0.0,
+                0.02857142857142857,
+                1.0
+            ]
+        ],
+        "artist_set_sizes": {
+            "Anthony": 80,
+            "Alexandra": 78,
+            "Koren": 136,
+            "Alan": 206
+        },
+        "pairs": [
+            {
+                "users": [
+                    "Alan",
+                    "Alexandra"
+                ],
+                "union": 283,
+                "jaccard": 0.0035335689045936395,
+                "intersection": 1
+            },
+            {
+                "users": [
+                    "Alan",
+                    "Anthony"
+                ],
+                "union": 262,
+                "jaccard": 0.0916030534351145,
+                "intersection": 24
+            },
+            {
+                "users": [
+                    "Alan",
+                    "Koren"
+                ],
+                "union": 336,
+                "jaccard": 0.017857142857142856,
+                "intersection": 6
+            },
+            {
+                "users": [
+                    "Alexandra",
+                    "Anthony"
+                ],
+                "union": 158,
+                "jaccard": 0,
+                "intersection": 0
+            },
+            {
+                "users": [
+                    "Alexandra",
+                    "Koren"
+                ],
+                "union": 214,
+                "jaccard": 0,
+                "intersection": 0
+            },
+            {
+                "users": [
+                    "Anthony",
+                    "Koren"
+                ],
+                "union": 210,
+                "jaccard": 0.02857142857142857,
+                "intersection": 6
+            }
+        ]
+    }
+}

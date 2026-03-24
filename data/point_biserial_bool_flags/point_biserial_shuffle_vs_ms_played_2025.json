@@ -1,0 +1,42 @@
+{
+    "Anthony": {
+        "n_shuffle_false": 5270,
+        "n_shuffle_true": 8433,
+        "mean_minutes_shuffle_false": 2.762954696394687,
+        "t": -18.876824296176462,
+        "p_value": 1.7474751295794612e-78,
+        "r_pb": -0.15921260342966584,
+        "mean_minutes_shuffle_true": 2.212019583778015,
+        "n": 13703
+    },
+    "Alexandra": {
+        "n_shuffle_false": 368,
+        "n_shuffle_true": 8343,
+        "mean_minutes_shuffle_false": 1.4721479619565214,
+        "t": 12.06442784502893,
+        "p_value": 2.9951395742181147e-33,
+        "r_pb": 0.12821046423636728,
+        "mean_minutes_shuffle_true": 2.4302758600023973,
+        "n": 8711
+    },
+    "Koren": {
+        "n_shuffle_false": 4017,
+        "n_shuffle_true": 13125,
+        "mean_minutes_shuffle_false": 0.8218706289934445,
+        "t": 44.538128902470866,
+        "p_value": 0,
+        "r_pb": 0.3220672997788573,
+        "mean_minutes_shuffle_true": 2.9820217536507934,
+        "n": 17142
+    },
+    "Alan": {
+        "n_shuffle_false": 14750,
+        "n_shuffle_true": 14566,
+        "mean_minutes_shuffle_false": 1.7048398395480224,
+        "t": -19.734725092723828,
+        "p_value": 3.9381953272614904e-86,
+        "r_pb": -0.11450582103467669,
+        "mean_minutes_shuffle_true": 1.2957665373701315,
+        "n": 29316
+    }
+}

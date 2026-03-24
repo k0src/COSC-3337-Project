@@ -1,0 +1,100 @@
+{
+    "kruskal_wallis": {
+        "groups": [
+            {
+                "mean_rank": 39751.215281325254,
+                "median_min": 2.719316666666667,
+                "mean_min": 2.4239022403853165,
+                "user": "Anthony",
+                "n": 13703
+            },
+            {
+                "mean_rank": 29719.577261563652,
+                "median_min": 0.6737166666666666,
+                "mean_min": 1.5015869496748078,
+                "user": "Alan",
+                "n": 29316
+            },
+            {
+                "mean_rank": 40566.896337963495,
+                "median_min": 2.888333333333333,
+                "mean_min": 2.3897993284353114,
+                "user": "Alexandra",
+                "n": 8711
+            },
+            {
+                "mean_rank": 35139.561544743905,
+                "median_min": 1.210375,
+                "mean_min": 2.4758190312293396,
+                "user": "Koren",
+                "n": 17142
+            }
+        ],
+        "df": 3,
+        "p_value": 0,
+        "H": 3478.9315160161646
+    },
+    "year": 2025,
+    "dunn_bonferroni": [
+        {
+            "p_bonferroni": 0,
+            "mean_rank_1": 39751.215281325254,
+            "p_raw": 0,
+            "group2": "Alan",
+            "significant": true,
+            "mean_rank_2": 29719.577261563652,
+            "z": 48.75812228930453,
+            "group1": "Anthony"
+        },
+        {
+            "p_bonferroni": 0.01652231638668123,
+            "mean_rank_1": 39751.215281325254,
+            "p_raw": 0.0027537193977802054,
+            "group2": "Alexandra",
+            "significant": true,
+            "mean_rank_2": 40566.896337963495,
+            "z": -2.993971196118609,
+            "group1": "Anthony"
+        },
+        {
+            "p_bonferroni": 2.520143945264213e-90,
+            "mean_rank_1": 39751.215281325254,
+            "p_raw": 4.2002399087736885e-91,
+            "group2": "Koren",
+            "significant": true,
+            "mean_rank_2": 35139.561544743905,
+            "z": 20.241745845692243,
+            "group1": "Anthony"
+        },
+        {
+            "p_bonferroni": 0,
+            "mean_rank_1": 29719.577261563652,
+            "p_raw": 0,
+            "group2": "Alexandra",
+            "significant": true,
+            "mean_rank_2": 40566.896337963495,
+            "z": -44.7103259270558,
+            "group1": "Alan"
+        },
+        {
+            "p_bonferroni": 4.63820417953675e-176,
+            "mean_rank_1": 29719.577261563652,
+            "p_raw": 7.730340299227917e-177,
+            "group2": "Koren",
+            "significant": true,
+            "mean_rank_2": 35139.561544743905,
+            "z": -28.3528006126552,
+            "group1": "Alan"
+        },
+        {
+            "p_bonferroni": 7.941219265793388e-95,
+            "mean_rank_1": 40566.896337963495,
+            "p_raw": 1.323536544298898e-95,
+            "group2": "Koren",
+            "significant": true,
+            "mean_rank_2": 35139.561544743905,
+            "z": 20.746315645469274,
+            "group1": "Alexandra"
+        }
+    ]
+}

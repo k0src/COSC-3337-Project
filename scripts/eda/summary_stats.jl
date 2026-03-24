@@ -11,19 +11,21 @@ const NAMES = Dict(
 
 function get_user_summary(; year=nothing)
   conn = get_connection()
-  year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
+  year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM lh.timestamp) = $year"
 
   query = """
     SELECT
-      username,
+      lh.username,
       COUNT(*) AS total_events,
-      COUNT(DISTINCT track_id) AS unique_tracks,
-      COUNT(DISTINCT artist_name) AS unique_artists,
-      COUNT(DISTINCT album_name) AS unique_albums
-    FROM listening_history
+      COUNT(DISTINCT lh.track_id) AS unique_tracks,
+      COUNT(DISTINCT lh.artist_name) AS unique_artists,
+      COUNT(DISTINCT lh.album_name) AS unique_albums,
+      COUNT(DISTINCT ag.genre) AS unique_genres
+    FROM listening_history lh
+    LEFT JOIN artist_genres ag ON lh.artist_name = ag.artist_name
     $year_filter
-    GROUP BY username
-    ORDER BY username
+    GROUP BY lh.username
+    ORDER BY lh.username
   """
 
   df = DataFrame(execute(conn, query))
@@ -50,7 +52,8 @@ function print_summary(; year=nothing)
     println("  Total events: $(row.total_events)")
     println("  Unique tracks: $(row.unique_tracks)")
     println("  Unique artists: $(row.unique_artists)")
-    println("  Unique albums: $(row.unique_albums)\n")
+    println("  Unique albums: $(row.unique_albums)")
+    println("  Unique genres: $(row.unique_genres)\n")
   end
 
   for (username, display_name) in NAMES

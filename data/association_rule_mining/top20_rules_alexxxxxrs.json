@@ -1,0 +1,318 @@
+[
+  {
+    "antecedents": [
+      "Beartooth",
+      "State Champs"
+    ],
+    "consequents": [
+      "Wage War"
+    ],
+    "support": 0.0615,
+    "confidence": 0.5121,
+    "lift": 3.1214,
+    "leverage": 0.041765,
+    "conviction": 1.713,
+    "english": "When listening to \"Beartooth\" + \"State Champs\", also listen to \"Wage War\" (support=0.061, confidence=0.512, lift=3.12, conviction=1.71)"
+  },
+  {
+    "antecedents": [
+      "Neck Deep",
+      "Wage War"
+    ],
+    "consequents": [
+      "Beartooth"
+    ],
+    "support": 0.0644,
+    "confidence": 0.7011,
+    "lift": 2.6836,
+    "leverage": 0.040382,
+    "conviction": 2.471,
+    "english": "When listening to \"Neck Deep\" + \"Wage War\", also listen to \"Beartooth\" (support=0.064, confidence=0.701, lift=2.68, conviction=2.47)"
+  },
+  {
+    "antecedents": [
+      "My Chemical Romance",
+      "blink-182"
+    ],
+    "consequents": [
+      "Neck Deep",
+      "Panic! At The Disco"
+    ],
+    "support": 0.0505,
+    "confidence": 0.6246,
+    "lift": 2.6829,
+    "leverage": 0.031691,
+    "conviction": 2.044,
+    "english": "When listening to \"My Chemical Romance\" + \"blink-182\", also listen to \"Neck Deep\" + \"Panic! At The Disco\" (support=0.051, confidence=0.625, lift=2.68, conviction=2.04)"
+  },
+  {
+    "antecedents": [
+      "State Champs",
+      "Wage War"
+    ],
+    "consequents": [
+      "Beartooth"
+    ],
+    "support": 0.0615,
+    "confidence": 0.6989,
+    "lift": 2.6754,
+    "leverage": 0.038483,
+    "conviction": 2.454,
+    "english": "When listening to \"State Champs\" + \"Wage War\", also listen to \"Beartooth\" (support=0.061, confidence=0.699, lift=2.68, conviction=2.45)"
+  },
+  {
+    "antecedents": [
+      "My Chemical Romance",
+      "blink-182"
+    ],
+    "consequents": [
+      "Panic! At The Disco",
+      "State Champs"
+    ],
+    "support": 0.0508,
+    "confidence": 0.6276,
+    "lift": 2.6639,
+    "leverage": 0.031708,
+    "conviction": 2.053,
+    "english": "When listening to \"My Chemical Romance\" + \"blink-182\", also listen to \"Panic! At The Disco\" + \"State Champs\" (support=0.051, confidence=0.628, lift=2.66, conviction=2.05)"
+  },
+  {
+    "antecedents": [
+      "Neck Deep",
+      "Panic! At The Disco",
+      "blink-182"
+    ],
+    "consequents": [
+      "My Chemical Romance"
+    ],
+    "support": 0.0505,
+    "confidence": 0.5266,
+    "lift": 2.6519,
+    "leverage": 0.031471,
+    "conviction": 1.693,
+    "english": "When listening to \"Neck Deep\" + \"Panic! At The Disco\" + \"blink-182\", also listen to \"My Chemical Romance\" (support=0.051, confidence=0.527, lift=2.65, conviction=1.69)"
+  },
+  {
+    "antecedents": [
+      "Panic! At The Disco",
+      "State Champs",
+      "blink-182"
+    ],
+    "consequents": [
+      "My Chemical Romance"
+    ],
+    "support": 0.0508,
+    "confidence": 0.5173,
+    "lift": 2.6053,
+    "leverage": 0.03128,
+    "conviction": 1.66,
+    "english": "When listening to \"Panic! At The Disco\" + \"State Champs\" + \"blink-182\", also listen to \"My Chemical Romance\" (support=0.051, confidence=0.517, lift=2.61, conviction=1.66)"
+  },
+  {
+    "antecedents": [
+      "My Chemical Romance",
+      "Neck Deep",
+      "Panic! At The Disco"
+    ],
+    "consequents": [
+      "blink-182"
+    ],
+    "support": 0.0505,
+    "confidence": 0.5675,
+    "lift": 2.5606,
+    "leverage": 0.030791,
+    "conviction": 1.8,
+    "english": "When listening to \"My Chemical Romance\" + \"Neck Deep\" + \"Panic! At The Disco\", also listen to \"blink-182\" (support=0.051, confidence=0.568, lift=2.56, conviction=1.80)"
+  },
+  {
+    "antecedents": [
+      "Bring Me The Horizon",
+      "My Chemical Romance"
+    ],
+    "consequents": [
+      "Neck Deep",
+      "Panic! At The Disco"
+    ],
+    "support": 0.0544,
+    "confidence": 0.595,
+    "lift": 2.5555,
+    "leverage": 0.033118,
+    "conviction": 1.894,
+    "english": "When listening to \"Bring Me The Horizon\" + \"My Chemical Romance\", also listen to \"Neck Deep\" + \"Panic! At The Disco\" (support=0.054, confidence=0.595, lift=2.56, conviction=1.89)"
+  },
+  {
+    "antecedents": [
+      "My Chemical Romance",
+      "Panic! At The Disco",
+      "State Champs"
+    ],
+    "consequents": [
+      "blink-182"
+    ],
+    "support": 0.0508,
+    "confidence": 0.5664,
+    "lift": 2.5555,
+    "leverage": 0.0309,
+    "conviction": 1.795,
+    "english": "When listening to \"My Chemical Romance\" + \"Panic! At The Disco\" + \"State Champs\", also listen to \"blink-182\" (support=0.051, confidence=0.566, lift=2.56, conviction=1.80)"
+  },
+  {
+    "antecedents": [
+      "Fall Out Boy",
+      "blink-182"
+    ],
+    "consequents": [
+      "Panic! At The Disco",
+      "State Champs"
+    ],
+    "support": 0.0522,
+    "confidence": 0.5907,
+    "lift": 2.507,
+    "leverage": 0.031391,
+    "conviction": 1.867,
+    "english": "When listening to \"Fall Out Boy\" + \"blink-182\", also listen to \"Panic! At The Disco\" + \"State Champs\" (support=0.052, confidence=0.591, lift=2.51, conviction=1.87)"
+  },
+  {
+    "antecedents": [
+      "Bring Me The Horizon",
+      "blink-182"
+    ],
+    "consequents": [
+      "Neck Deep",
+      "Panic! At The Disco"
+    ],
+    "support": 0.0568,
+    "confidence": 0.5835,
+    "lift": 2.5065,
+    "leverage": 0.034161,
+    "conviction": 1.842,
+    "english": "When listening to \"Bring Me The Horizon\" + \"blink-182\", also listen to \"Neck Deep\" + \"Panic! At The Disco\" (support=0.057, confidence=0.584, lift=2.51, conviction=1.84)"
+  },
+  {
+    "antecedents": [
+      "Bring Me The Horizon",
+      "blink-182"
+    ],
+    "consequents": [
+      "Panic! At The Disco",
+      "State Champs"
+    ],
+    "support": 0.0571,
+    "confidence": 0.586,
+    "lift": 2.4873,
+    "leverage": 0.034132,
+    "conviction": 1.847,
+    "english": "When listening to \"Bring Me The Horizon\" + \"blink-182\", also listen to \"Panic! At The Disco\" + \"State Champs\" (support=0.057, confidence=0.586, lift=2.49, conviction=1.85)"
+  },
+  {
+    "antecedents": [
+      "Bring Me The Horizon",
+      "My Chemical Romance"
+    ],
+    "consequents": [
+      "Panic! At The Disco",
+      "State Champs"
+    ],
+    "support": 0.0533,
+    "confidence": 0.583,
+    "lift": 2.4744,
+    "leverage": 0.031769,
+    "conviction": 1.833,
+    "english": "When listening to \"Bring Me The Horizon\" + \"My Chemical Romance\", also listen to \"Panic! At The Disco\" + \"State Champs\" (support=0.053, confidence=0.583, lift=2.47, conviction=1.83)"
+  },
+  {
+    "antecedents": [
+      "Fall Out Boy",
+      "blink-182"
+    ],
+    "consequents": [
+      "Neck Deep",
+      "Panic! At The Disco"
+    ],
+    "support": 0.0508,
+    "confidence": 0.5742,
+    "lift": 2.4662,
+    "leverage": 0.030181,
+    "conviction": 1.802,
+    "english": "When listening to \"Fall Out Boy\" + \"blink-182\", also listen to \"Neck Deep\" + \"Panic! At The Disco\" (support=0.051, confidence=0.574, lift=2.47, conviction=1.80)"
+  },
+  {
+    "antecedents": [
+      "Bring Me The Horizon",
+      "Fall Out Boy"
+    ],
+    "consequents": [
+      "Neck Deep",
+      "Panic! At The Disco"
+    ],
+    "support": 0.0598,
+    "confidence": 0.5681,
+    "lift": 2.4403,
+    "leverage": 0.035266,
+    "conviction": 1.776,
+    "english": "When listening to \"Bring Me The Horizon\" + \"Fall Out Boy\", also listen to \"Neck Deep\" + \"Panic! At The Disco\" (support=0.060, confidence=0.568, lift=2.44, conviction=1.78)"
+  },
+  {
+    "antecedents": [
+      "Fall Out Boy",
+      "Panic! At The Disco",
+      "State Champs"
+    ],
+    "consequents": [
+      "blink-182"
+    ],
+    "support": 0.0522,
+    "confidence": 0.5348,
+    "lift": 2.413,
+    "leverage": 0.030581,
+    "conviction": 1.673,
+    "english": "When listening to \"Fall Out Boy\" + \"Panic! At The Disco\" + \"State Champs\", also listen to \"blink-182\" (support=0.052, confidence=0.535, lift=2.41, conviction=1.67)"
+  },
+  {
+    "antecedents": [
+      "Ashnikko",
+      "Neck Deep"
+    ],
+    "consequents": [
+      "Beartooth"
+    ],
+    "support": 0.055,
+    "confidence": 0.6274,
+    "lift": 2.4018,
+    "leverage": 0.032109,
+    "conviction": 1.983,
+    "english": "When listening to \"Ashnikko\" + \"Neck Deep\", also listen to \"Beartooth\" (support=0.055, confidence=0.627, lift=2.40, conviction=1.98)"
+  },
+  {
+    "antecedents": [
+      "Bring Me The Horizon",
+      "Fall Out Boy"
+    ],
+    "consequents": [
+      "Panic! At The Disco",
+      "State Champs"
+    ],
+    "support": 0.0595,
+    "confidence": 0.5658,
+    "lift": 2.4015,
+    "leverage": 0.03473,
+    "conviction": 1.761,
+    "english": "When listening to \"Bring Me The Horizon\" + \"Fall Out Boy\", also listen to \"Panic! At The Disco\" + \"State Champs\" (support=0.060, confidence=0.566, lift=2.40, conviction=1.76)"
+  },
+  {
+    "antecedents": [
+      "My Chemical Romance",
+      "State Champs"
+    ],
+    "consequents": [
+      "Neck Deep",
+      "Panic! At The Disco"
+    ],
+    "support": 0.07,
+    "confidence": 0.5507,
+    "lift": 2.3653,
+    "leverage": 0.040378,
+    "conviction": 1.707,
+    "english": "When listening to \"My Chemical Romance\" + \"State Champs\", also listen to \"Neck Deep\" + \"Panic! At The Disco\" (support=0.070, confidence=0.551, lift=2.37, conviction=1.71)"
+  }
+]

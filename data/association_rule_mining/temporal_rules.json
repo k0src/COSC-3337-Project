@@ -1,0 +1,109 @@
+{
+  "Alan": {
+    "n_stable": 12755,
+    "n_new": 41160,
+    "n_dissolved": 132626,
+    "n_pre2022": 153912,
+    "n_2022_2024": 113310,
+    "n_2025": 91628,
+    "stable_examples": [
+      "A Tribe Called Quest + Big K.R.I.T. + Danny Brown → Freddie Gibbs",
+      "A Tribe Called Quest + Big K.R.I.T. + Danny Brown → Joey Bada$$",
+      "A Tribe Called Quest + Big K.R.I.T. + Danny Brown → Kendrick Lamar",
+      "A Tribe Called Quest + Big K.R.I.T. + Danny Brown → Nas",
+      "A Tribe Called Quest + Big K.R.I.T. + Danny Brown → Outkast"
+    ],
+    "new_examples": [
+      "A Tribe Called Quest + Big K.R.I.T. + DJ Shadow → Danny Brown",
+      "A Tribe Called Quest + Big K.R.I.T. + DJ Shadow → Denzel Curry",
+      "A Tribe Called Quest + Big K.R.I.T. + DJ Shadow → Freddie Gibbs",
+      "A Tribe Called Quest + Big K.R.I.T. + DJ Shadow → J Dilla",
+      "A Tribe Called Quest + Big K.R.I.T. + DJ Shadow → JID"
+    ],
+    "dissolved_examples": [
+      "21 Savage + 6ix9ine → A Boogie Wit da Hoodie + Lil Yachty",
+      "21 Savage + 6ix9ine → A Boogie Wit da Hoodie",
+      "21 Savage + 6ix9ine → A Boogie Wit da Hoodie + Cordae",
+      "21 Savage + 6ix9ine → Cordae + Juice WRLD",
+      "21 Savage + 6ix9ine → Cordae + Kanye West"
+    ]
+  },
+  "Alexandra": {
+    "n_stable": 2,
+    "n_new": 26,
+    "n_dissolved": 2354,
+    "n_pre2022": 2427,
+    "n_2022_2024": 3205,
+    "n_2025": 90,
+    "stable_examples": [
+      "State Champs + YUNGBLUD → Neck Deep",
+      "Bring Me The Horizon + mgk → Neck Deep"
+    ],
+    "new_examples": [
+      "Beartooth + I Prevail → Neck Deep",
+      "Beartooth + I Prevail → State Champs",
+      "Bring Me The Horizon + I Prevail → Neck Deep",
+      "Bring Me The Horizon + I Prevail → State Champs",
+      "I Prevail + WSTR → Beartooth"
+    ],
+    "dissolved_examples": [
+      "Guns N' Roses + Neck Deep → Panic! At The Disco + State Champs",
+      "Guns N' Roses → Neck Deep + Panic! At The Disco",
+      "Guns N' Roses → Neck Deep + State Champs",
+      "Guns N' Roses → Panic! At The Disco + State Champs",
+      "The Mowgli's → Panic! At The Disco"
+    ]
+  },
+  "Anthony": {
+    "n_stable": 5350,
+    "n_new": 18092,
+    "n_dissolved": 2043280,
+    "n_pre2022": 2091207,
+    "n_2022_2024": 92094,
+    "n_2025": 31749,
+    "stable_examples": [
+      "21 Savage + A Boogie Wit da Hoodie → A$AP Rocky",
+      "21 Savage + A Boogie Wit da Hoodie → Drake + Future",
+      "21 Savage + A Boogie Wit da Hoodie → Future",
+      "21 Savage + A Boogie Wit da Hoodie → Kanye West",
+      "21 Savage + A Boogie Wit da Hoodie → Drake + Kodak Black"
+    ],
+    "new_examples": [
+      "1900Rugrat → Kendrick Lamar",
+      "21 Savage + 310babii → Don Toliver",
+      "21 Savage + 310babii → Drake",
+      "21 Savage + 310babii → Future",
+      "21 Savage + 310babii → Drake + Lil Baby"
+    ],
+    "dissolved_examples": [
+      "$NOT + 21 Savage + A Boogie Wit da Hoodie → Polo G",
+      "$NOT + 21 Savage + DaBaby → Polo G",
+      "$NOT + 21 Savage + Future → Polo G",
+      "$NOT + 21 Savage + Future → Pooh Shiesty",
+      "$NOT + 21 Savage + Future → Roddy Ricch"
+    ]
+  },
+  "Koren": {
+    "n_stable": 0,
+    "n_new": 2195,
+    "n_dissolved": 689,
+    "n_pre2022": 809,
+    "n_2022_2024": 22542,
+    "n_2025": 2240,
+    "stable_examples": [],
+    "new_examples": [
+      "Adam F + Roni Size → LTJ Bukem",
+      "Adam F + Roni Size → Mint",
+      "Adam F → LTJ Bukem",
+      "Adam F → Mint",
+      "Adam F → Roni Size"
+    ],
+    "dissolved_examples": [
+      "2 Chainz → Lil Uzi Vert",
+      "21 Savage + Chief Keef → Tee Grizzley",
+      "21 Savage + Kodak Black + Lil Uzi Vert → Tee Grizzley",
+      "21 Savage + Kodak Black + Tee Grizzley → Lil Uzi Vert",
+      "21 Savage + Kodak Black → Lil Uzi Vert + Tee Grizzley"
+    ]
+  }
+}

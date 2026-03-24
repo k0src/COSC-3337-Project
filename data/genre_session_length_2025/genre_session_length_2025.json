@@ -1,0 +1,493 @@
+{
+    "Anthony": [
+        {
+            "genre": "trap",
+            "avg_session_min": 30.427861904761905,
+            "n_sessions": 203,
+            "std_session_min": 77.8177588521013,
+            "total_session_min": 6176.855966666667
+        },
+        {
+            "genre": "contemporary r&b",
+            "avg_session_min": 18.47734117647059,
+            "n_sessions": 34,
+            "std_session_min": 25.043026316177286,
+            "total_session_min": 628.2296
+        },
+        {
+            "genre": "cloud rap",
+            "avg_session_min": 18.098947222222222,
+            "n_sessions": 6,
+            "std_session_min": 21.68690889562799,
+            "total_session_min": 108.59368333333333
+        },
+        {
+            "genre": "hyphy",
+            "avg_session_min": 15.993294444444444,
+            "n_sessions": 6,
+            "std_session_min": 7.361612203780626,
+            "total_session_min": 95.95976666666667
+        },
+        {
+            "genre": "gangsta rap",
+            "avg_session_min": 12.89463,
+            "n_sessions": 10,
+            "std_session_min": 7.958250153646362,
+            "total_session_min": 128.9463
+        },
+        {
+            "genre": "hip hop",
+            "avg_session_min": 11.65874623015873,
+            "n_sessions": 84,
+            "std_session_min": 16.72755148967699,
+            "total_session_min": 979.3346833333334
+        },
+        {
+            "genre": "pop rap",
+            "avg_session_min": 7.03838908045977,
+            "n_sessions": 29,
+            "std_session_min": 11.339821935091786,
+            "total_session_min": 204.11328333333333
+        },
+        {
+            "genre": "southern hip hop",
+            "avg_session_min": 5.196886904761905,
+            "n_sessions": 14,
+            "std_session_min": 9.149336908961372,
+            "total_session_min": 72.75641666666667
+        },
+        {
+            "genre": "melodic rap",
+            "avg_session_min": 0.9829944444444444,
+            "n_sessions": 3,
+            "std_session_min": 0.9223058094817053,
+            "total_session_min": 2.9489833333333335
+        }
+    ],
+    "Alexandra": [
+        {
+            "genre": "hard rock",
+            "avg_session_min": 7.402139583333334,
+            "n_sessions": 24,
+            "std_session_min": 14.328588616026998,
+            "total_session_min": 177.65135
+        },
+        {
+            "genre": "trap",
+            "avg_session_min": 6.855611111111111,
+            "n_sessions": 3,
+            "std_session_min": 3.93477240808486,
+            "total_session_min": 20.566833333333335
+        },
+        {
+            "genre": "metalcore",
+            "avg_session_min": 6.601831818181818,
+            "n_sessions": 55,
+            "std_session_min": 10.213664615919415,
+            "total_session_min": 363.10075
+        },
+        {
+            "genre": "nu metal",
+            "avg_session_min": 6.306416666666666,
+            "n_sessions": 7,
+            "std_session_min": 4.1433903587744645,
+            "total_session_min": 44.14491666666667
+        },
+        {
+            "genre": "pop punk",
+            "avg_session_min": 5.948281848184818,
+            "n_sessions": 101,
+            "std_session_min": 7.537509821823746,
+            "total_session_min": 600.7764666666667
+        },
+        {
+            "genre": "post hardcore",
+            "avg_session_min": 5.862326126126126,
+            "n_sessions": 37,
+            "std_session_min": 11.663527306516414,
+            "total_session_min": 216.90606666666667
+        },
+        {
+            "genre": "alternative pop",
+            "avg_session_min": 5.696366666666667,
+            "n_sessions": 4,
+            "std_session_min": 4.026377550672013,
+            "total_session_min": 22.785466666666668
+        },
+        {
+            "genre": "metal",
+            "avg_session_min": 5.674027777777778,
+            "n_sessions": 3,
+            "std_session_min": 5.414383061740208,
+            "total_session_min": 17.022083333333335
+        },
+        {
+            "genre": "heavy metal",
+            "avg_session_min": 5.298272222222222,
+            "n_sessions": 3,
+            "std_session_min": 2.944461028795014,
+            "total_session_min": 15.894816666666667
+        },
+        {
+            "genre": "indie pop",
+            "avg_session_min": 5.213403333333333,
+            "n_sessions": 5,
+            "std_session_min": 2.2383535915687873,
+            "total_session_min": 26.067016666666667
+        },
+        {
+            "genre": "alternative metal",
+            "avg_session_min": 4.434380555555555,
+            "n_sessions": 6,
+            "std_session_min": 2.122624016516053,
+            "total_session_min": 26.606283333333334
+        },
+        {
+            "genre": "rock",
+            "avg_session_min": 4.280502380952381,
+            "n_sessions": 7,
+            "std_session_min": 3.531161334743023,
+            "total_session_min": 29.963516666666667
+        },
+        {
+            "genre": "slam",
+            "avg_session_min": 4.18781,
+            "n_sessions": 5,
+            "std_session_min": 3.6510598374650067,
+            "total_session_min": 20.93905
+        },
+        {
+            "genre": "alternative rock",
+            "avg_session_min": 4.1113912568306015,
+            "n_sessions": 61,
+            "std_session_min": 3.694920842609996,
+            "total_session_min": 250.79486666666668
+        },
+        {
+            "genre": "pop",
+            "avg_session_min": 3.983414814814815,
+            "n_sessions": 9,
+            "std_session_min": 1.5906853085149522,
+            "total_session_min": 35.85073333333333
+        },
+        {
+            "genre": "electro pop",
+            "avg_session_min": 3.6184357142857144,
+            "n_sessions": 7,
+            "std_session_min": 2.2814844764820497,
+            "total_session_min": 25.32905
+        },
+        {
+            "genre": "deathcore",
+            "avg_session_min": 3.415110416666667,
+            "n_sessions": 16,
+            "std_session_min": 2.4622412347957914,
+            "total_session_min": 54.64176666666667
+        },
+        {
+            "genre": "pop rock",
+            "avg_session_min": 3.2158011904761903,
+            "n_sessions": 28,
+            "std_session_min": 2.533198440040583,
+            "total_session_min": 90.04243333333334
+        },
+        {
+            "genre": "punk rock",
+            "avg_session_min": 2.7869186274509805,
+            "n_sessions": 17,
+            "std_session_min": 2.3144171060013083,
+            "total_session_min": 47.37761666666667
+        },
+        {
+            "genre": "emo",
+            "avg_session_min": 2.6737604166666666,
+            "n_sessions": 8,
+            "std_session_min": 2.0409204778286774,
+            "total_session_min": 21.390083333333333
+        }
+    ],
+    "Koren": [
+        {
+            "genre": "math rock",
+            "avg_session_min": 71.99855222222222,
+            "n_sessions": 60,
+            "std_session_min": 131.85572083539688,
+            "total_session_min": 4319.9131333333335
+        },
+        {
+            "genre": "drum and bass",
+            "avg_session_min": 68.66558255707763,
+            "n_sessions": 365,
+            "std_session_min": 92.75769768078068,
+            "total_session_min": 25062.937633333335
+        },
+        {
+            "genre": "post rock",
+            "avg_session_min": 61.344847863247864,
+            "n_sessions": 39,
+            "std_session_min": 155.99864369422536,
+            "total_session_min": 2392.4490666666666
+        },
+        {
+            "genre": "minimal techno",
+            "avg_session_min": 47.6398,
+            "n_sessions": 3,
+            "std_session_min": 35.814188272263145,
+            "total_session_min": 142.9194
+        },
+        {
+            "genre": "dub techno",
+            "avg_session_min": 40.365743333333334,
+            "n_sessions": 10,
+            "std_session_min": 64.65797986214487,
+            "total_session_min": 403.65743333333336
+        },
+        {
+            "genre": "ambient techno",
+            "avg_session_min": 35.3972625,
+            "n_sessions": 4,
+            "std_session_min": 38.06511234621631,
+            "total_session_min": 141.58905
+        },
+        {
+            "genre": "liquid funk",
+            "avg_session_min": 33.4474313172043,
+            "n_sessions": 124,
+            "std_session_min": 39.228916169857534,
+            "total_session_min": 4147.481483333333
+        },
+        {
+            "genre": "jungle",
+            "avg_session_min": 21.413909349593496,
+            "n_sessions": 82,
+            "std_session_min": 32.43687819593911,
+            "total_session_min": 1755.9405666666667
+        },
+        {
+            "genre": "trap",
+            "avg_session_min": 10.35972786885246,
+            "n_sessions": 61,
+            "std_session_min": 16.61412673822779,
+            "total_session_min": 631.9434
+        },
+        {
+            "genre": "hip hop",
+            "avg_session_min": 8.918081140350877,
+            "n_sessions": 38,
+            "std_session_min": 17.931805891396696,
+            "total_session_min": 338.88708333333335
+        },
+        {
+            "genre": "ambient",
+            "avg_session_min": 7.4542,
+            "n_sessions": 3,
+            "std_session_min": 9.28692445759688,
+            "total_session_min": 22.3626
+        },
+        {
+            "genre": "instrumental hip hop",
+            "avg_session_min": 7.095595238095238,
+            "n_sessions": 7,
+            "std_session_min": 4.781630458498462,
+            "total_session_min": 49.66916666666667
+        },
+        {
+            "genre": "gangsta rap",
+            "avg_session_min": 6.529883333333333,
+            "n_sessions": 4,
+            "std_session_min": 5.932126075728106,
+            "total_session_min": 26.119533333333333
+        },
+        {
+            "genre": "experimental",
+            "avg_session_min": 5.560416666666667,
+            "n_sessions": 5,
+            "std_session_min": 8.605718843651134,
+            "total_session_min": 27.802083333333332
+        },
+        {
+            "genre": "contemporary r&b",
+            "avg_session_min": 4.702993333333334,
+            "n_sessions": 5,
+            "std_session_min": 4.8184694933718895,
+            "total_session_min": 23.514966666666666
+        },
+        {
+            "genre": "underground trap",
+            "avg_session_min": 4.355473931623932,
+            "n_sessions": 39,
+            "std_session_min": 4.6879913713121315,
+            "total_session_min": 169.86348333333333
+        },
+        {
+            "genre": "pluggnb",
+            "avg_session_min": 4.150195,
+            "n_sessions": 10,
+            "std_session_min": 5.205752013700925,
+            "total_session_min": 41.50195
+        },
+        {
+            "genre": "techno",
+            "avg_session_min": 4.058258333333334,
+            "n_sessions": 6,
+            "std_session_min": 2.3697736308852138,
+            "total_session_min": 24.34955
+        },
+        {
+            "genre": "jazz funk",
+            "avg_session_min": 3.674166666666667,
+            "n_sessions": 3,
+            "std_session_min": 1.8241629096961465,
+            "total_session_min": 11.0225
+        },
+        {
+            "genre": "rage",
+            "avg_session_min": 3.411026666666667,
+            "n_sessions": 5,
+            "std_session_min": 3.457337177868572,
+            "total_session_min": 17.055133333333334
+        }
+    ],
+    "Alan": [
+        {
+            "genre": "hard rock",
+            "avg_session_min": 29.353775,
+            "n_sessions": 4,
+            "std_session_min": 32.704816019369886,
+            "total_session_min": 117.4151
+        },
+        {
+            "genre": "stoner rock",
+            "avg_session_min": 29.353775,
+            "n_sessions": 4,
+            "std_session_min": 32.704816019369886,
+            "total_session_min": 117.4151
+        },
+        {
+            "genre": "conscious hip hop",
+            "avg_session_min": 20.565236936936937,
+            "n_sessions": 37,
+            "std_session_min": 29.866527569628232,
+            "total_session_min": 760.9137666666667
+        },
+        {
+            "genre": "alternative rock",
+            "avg_session_min": 20.143844871794872,
+            "n_sessions": 13,
+            "std_session_min": 23.7905785806572,
+            "total_session_min": 261.8699833333333
+        },
+        {
+            "genre": "mafioso rap",
+            "avg_session_min": 19.371686666666665,
+            "n_sessions": 5,
+            "std_session_min": 15.637340832196431,
+            "total_session_min": 96.85843333333334
+        },
+        {
+            "genre": "abstract hip hop",
+            "avg_session_min": 17.72347361111111,
+            "n_sessions": 12,
+            "std_session_min": 22.17395732393999,
+            "total_session_min": 212.68168333333332
+        },
+        {
+            "genre": "soundtrack",
+            "avg_session_min": 16.2702375,
+            "n_sessions": 24,
+            "std_session_min": 20.00339066562165,
+            "total_session_min": 390.4857
+        },
+        {
+            "genre": "progressive rock",
+            "avg_session_min": 16.008361904761905,
+            "n_sessions": 7,
+            "std_session_min": 12.857913807618257,
+            "total_session_min": 112.05853333333333
+        },
+        {
+            "genre": "pop rock",
+            "avg_session_min": 16.008361904761905,
+            "n_sessions": 7,
+            "std_session_min": 12.857913807618257,
+            "total_session_min": 112.05853333333333
+        },
+        {
+            "genre": "pop rap",
+            "avg_session_min": 15.423456190476191,
+            "n_sessions": 35,
+            "std_session_min": 23.193511521365913,
+            "total_session_min": 539.8209666666667
+        },
+        {
+            "genre": "contemporary r&b",
+            "avg_session_min": 14.045183333333334,
+            "n_sessions": 8,
+            "std_session_min": 12.882894851091727,
+            "total_session_min": 112.36146666666667
+        },
+        {
+            "genre": "hardcore hip hop",
+            "avg_session_min": 13.324152777777778,
+            "n_sessions": 18,
+            "std_session_min": 20.030718044994796,
+            "total_session_min": 239.83475
+        },
+        {
+            "genre": "southern hip hop",
+            "avg_session_min": 12.639775,
+            "n_sessions": 8,
+            "std_session_min": 15.061574381686642,
+            "total_session_min": 101.1182
+        },
+        {
+            "genre": "trap",
+            "avg_session_min": 11.797443055555556,
+            "n_sessions": 48,
+            "std_session_min": 18.235941489751653,
+            "total_session_min": 566.2772666666667
+        },
+        {
+            "genre": "boom bap",
+            "avg_session_min": 11.425235648148147,
+            "n_sessions": 36,
+            "std_session_min": 15.261097975447013,
+            "total_session_min": 411.30848333333336
+        },
+        {
+            "genre": "art rock",
+            "avg_session_min": 11.42213787878788,
+            "n_sessions": 11,
+            "std_session_min": 12.062996313271634,
+            "total_session_min": 125.64351666666667
+        },
+        {
+            "genre": "drum and bass",
+            "avg_session_min": 11.04827,
+            "n_sessions": 5,
+            "std_session_min": 8.416124155068518,
+            "total_session_min": 55.24135
+        },
+        {
+            "genre": "gangsta rap",
+            "avg_session_min": 10.401628787878789,
+            "n_sessions": 11,
+            "std_session_min": 13.23746729976255,
+            "total_session_min": 114.41791666666667
+        },
+        {
+            "genre": "east coast hip hop",
+            "avg_session_min": 9.445415873015873,
+            "n_sessions": 21,
+            "std_session_min": 16.039162776118296,
+            "total_session_min": 198.35373333333334
+        },
+        {
+            "genre": "experimental hip hop",
+            "avg_session_min": 9.31765909090909,
+            "n_sessions": 11,
+            "std_session_min": 16.8983783670478,
+            "total_session_min": 102.49425
+        }
+    ]
+}

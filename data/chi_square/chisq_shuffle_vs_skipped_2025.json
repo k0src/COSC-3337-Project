@@ -1,0 +1,82 @@
+{
+  "pooled": {
+    "row_labels": ["shuffle=false", "shuffle=true"],
+    "expected": [
+      [10351.359914043443, 14053.640085956557],
+      [18860.64008595656, 25606.35991404344]
+    ],
+    "chi2": 811.6100964170024,
+    "df": 1,
+    "p_value": 1.6137628427631296e-178,
+    "observed": [
+      [8584, 15821],
+      [20628, 23839]
+    ],
+    "col_labels": ["skipped=false", "skipped=true"],
+    "n": 68872
+  },
+  "Anthony": {
+    "row_labels": ["shuffle=false", "shuffle=true"],
+    "expected": [
+      [3588.968838940378, 1681.031161059622],
+      [5743.031161059622, 2689.968838940378]
+    ],
+    "chi2": 492.46487746532205,
+    "df": 1,
+    "p_value": 4.144628192434463e-109,
+    "observed": [
+      [4178, 1092],
+      [5154, 3279]
+    ],
+    "col_labels": ["skipped=false", "skipped=true"],
+    "n": 13703
+  },
+  "Alexandra": {
+    "row_labels": ["shuffle=false", "shuffle=true"],
+    "expected": [
+      [271.0044770979222, 96.99552290207784],
+      [6143.995522902078, 2199.004477097922]
+    ],
+    "chi2": 10.65950355998666,
+    "df": 1,
+    "p_value": 0.0010950678111022228,
+    "observed": [
+      [244, 124],
+      [6171, 2172]
+    ],
+    "col_labels": ["skipped=false", "skipped=true"],
+    "n": 8711
+  },
+  "Koren": {
+    "row_labels": ["shuffle=false", "shuffle=true"],
+    "expected": [
+      [1800.6433321666084, 2216.356667833392],
+      [5883.356667833392, 7241.643332166608]
+    ],
+    "chi2": 1200.5723319020449,
+    "df": 1,
+    "p_value": 4.5805272537428784e-263,
+    "observed": [
+      [845, 3172],
+      [6839, 6286]
+    ],
+    "col_labels": ["skipped=false", "skipped=true"],
+    "n": 17142
+  },
+  "Alan": {
+    "row_labels": ["shuffle=false", "shuffle=true"],
+    "expected": [
+      [2908.642038477282, 11841.357961522717],
+      [2872.357961522718, 11693.642038477283]
+    ],
+    "chi2": 143.72975838442758,
+    "df": 1,
+    "p_value": 4.070759742707703e-33,
+    "observed": [
+      [3317, 11433],
+      [2464, 12102]
+    ],
+    "col_labels": ["skipped=false", "skipped=true"],
+    "n": 29316
+  }
+}

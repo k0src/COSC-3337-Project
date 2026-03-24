@@ -1,0 +1,1259 @@
+{
+  "shared_antecedent_artists": 35,
+  "mean_jaccard_matrix": {
+    "Alan": {
+      "Alan": 0.0,
+      "Alexandra": 0.0,
+      "Anthony": 0.74,
+      "Koren": 0.928
+    },
+    "Alexandra": {
+      "Alan": 0.0,
+      "Alexandra": 0.0,
+      "Anthony": 0.0,
+      "Koren": 0.0
+    },
+    "Anthony": {
+      "Alan": 0.74,
+      "Alexandra": 0.0,
+      "Anthony": 0.0,
+      "Koren": 0.936
+    },
+    "Koren": {
+      "Alan": 0.928,
+      "Alexandra": 0.0,
+      "Anthony": 0.936,
+      "Koren": 0.0
+    }
+  },
+  "top_divergent_pairs": [
+    {
+      "artist": "Lil Yachty",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 1.0,
+      "cons_u1": [
+        "21 Savage",
+        "Drake",
+        "Future",
+        "Gunna",
+        "Lil Baby"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Trippie Redd",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 1.0,
+      "cons_u1": [
+        "21 Savage",
+        "Future",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "XXXTENTACION",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 1.0,
+      "cons_u1": [
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 1.0,
+      "cons_u1": [
+        "A Tribe Called Quest",
+        "A$AP Rocky",
+        "Big K.R.I.T.",
+        "Common",
+        "Danny Brown",
+        "Deltron 3030",
+        "Denzel Curry",
+        "Drake",
+        "Freddie Gibbs",
+        "GZA",
+        "J. Cole",
+        "JAY-Z",
+        "JID",
+        "Joey Bada$$",
+        "KIDS SEE GHOSTS",
+        "Kanye West",
+        "Madvillain",
+        "Nas",
+        "Outkast",
+        "Playboi Carti",
+        "Pusha T",
+        "Saba",
+        "The Roots",
+        "Travis Scott",
+        "Tyler, The Creator"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Kodak Black",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 1.0,
+      "cons_u1": [
+        "Travis Scott"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Kanye West",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.976,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A Tribe Called Quest",
+        "A$AP Rocky",
+        "Big K.R.I.T.",
+        "Cordae",
+        "Danny Brown",
+        "Deltron 3030",
+        "Denzel Curry",
+        "Drake",
+        "Frank Ocean",
+        "Freddie Gibbs",
+        "Future",
+        "GZA",
+        "J. Cole",
+        "JAY-Z",
+        "JID",
+        "Joey Bada$$",
+        "Juice WRLD",
+        "KIDS SEE GHOSTS",
+        "Kendrick Lamar",
+        "Kid Cudi",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Madvillain",
+        "Metro Boomin",
+        "Nas",
+        "Outkast",
+        "Playboi Carti",
+        "Pusha T",
+        "Saba",
+        "Ski Mask The Slump God",
+        "The Roots",
+        "Travis Scott",
+        "Trippie Redd",
+        "Tyler, The Creator",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Denzel Curry",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.967,
+      "cons_u1": [
+        "21 Savage",
+        "A Tribe Called Quest",
+        "A$AP Rocky",
+        "Big K.R.I.T.",
+        "Cordae",
+        "Danny Brown",
+        "Drake",
+        "Freddie Gibbs",
+        "Future",
+        "J. Cole",
+        "JAY-Z",
+        "JID",
+        "Joey Bada$$",
+        "Juice WRLD",
+        "KIDS SEE GHOSTS",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kid Cudi",
+        "Lil Uzi Vert",
+        "Metro Boomin",
+        "Nas",
+        "Outkast",
+        "Playboi Carti",
+        "Pusha T",
+        "Saba",
+        "The Roots",
+        "Travis Scott",
+        "Trippie Redd",
+        "Tyler, The Creator",
+        "Young Thug"
+      ],
+      "cons_u2": [
+        "Drake"
+      ]
+    },
+    {
+      "artist": "Young Thug",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.962,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Chief Keef",
+        "Drake",
+        "Future",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "King Von",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "XXXTENTACION",
+        "Young Dolph",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert",
+        "Tee Grizzley"
+      ]
+    },
+    {
+      "artist": "Kanye West",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.962,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Chief Keef",
+        "Drake",
+        "Future",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "JAY-Z",
+        "Juice WRLD",
+        "Kendrick Lamar",
+        "King Von",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "XXXTENTACION",
+        "Young Dolph",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Drake",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.958,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Chief Keef",
+        "Future",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "King Von",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Dolph",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "YoungBoy Never Broke Again",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.957,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Dolph",
+        "Young Thug"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "G Herbo",
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Drake",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.957,
+      "cons_u1": [
+        "21 Savage",
+        "A$AP Rocky",
+        "Big K.R.I.T.",
+        "Danny Brown",
+        "Denzel Curry",
+        "Freddie Gibbs",
+        "Future",
+        "J. Cole",
+        "JID",
+        "Joey Bada$$",
+        "KIDS SEE GHOSTS",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Lil Uzi Vert",
+        "Metro Boomin",
+        "Nas",
+        "Outkast",
+        "Playboi Carti",
+        "Pusha T",
+        "Saba",
+        "Travis Scott",
+        "Tyler, The Creator",
+        "Young Thug"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Playboi Carti",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.955,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Cordae",
+        "Denzel Curry",
+        "Drake",
+        "Future",
+        "Juice WRLD",
+        "KIDS SEE GHOSTS",
+        "Kanye West",
+        "Kid Cudi",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.955,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gunna",
+        "J. Cole",
+        "JAY-Z",
+        "Juice WRLD",
+        "Kanye West",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Dolph",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Playboi Carti",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.952,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Kodak Black",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.95,
+      "cons_u1": [
+        "Travis Scott"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "Travis Scott",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ]
+    },
+    {
+      "artist": "Kodak Black",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.95,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "Travis Scott",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Chief Keef",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.95,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Travis Scott",
+        "Young Dolph",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "G Herbo",
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Ski Mask The Slump God",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.944,
+      "cons_u1": [
+        "21 Savage",
+        "6ix9ine",
+        "A Boogie Wit da Hoodie",
+        "Cordae",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Young Thug",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.944,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "Cordae",
+        "Denzel Curry",
+        "Drake",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert",
+        "Tee Grizzley"
+      ]
+    },
+    {
+      "artist": "YoungBoy Never Broke Again",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.941,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "G Herbo",
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Lil Yachty",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.938,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "Denzel Curry",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert"
+      ]
+    },
+    {
+      "artist": "Gunna",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.929,
+      "cons_u1": [
+        "Travis Scott"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "J. Cole",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Playboi Carti",
+        "Travis Scott",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ]
+    },
+    {
+      "artist": "6ix9ine",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.909,
+      "cons_u1": [
+        "Juice WRLD",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Metro Boomin",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Lil Yachty",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.895,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "Denzel Curry",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "Drake",
+        "Future",
+        "Gunna",
+        "Lil Baby"
+      ]
+    },
+    {
+      "artist": "Trippie Redd",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.895,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "Cordae",
+        "Denzel Curry",
+        "Drake",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Travis Scott",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.893,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Cordae",
+        "Denzel Curry",
+        "Drake",
+        "Frank Ocean",
+        "Future",
+        "JID",
+        "Juice WRLD",
+        "KIDS SEE GHOSTS",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kid Cudi",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Pusha T",
+        "Ski Mask The Slump God",
+        "Trippie Redd",
+        "Tyler, The Creator",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Offset",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.889,
+      "cons_u1": [
+        "Travis Scott"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "Drake",
+        "Future",
+        "Gunna",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Travis Scott",
+        "Young Thug"
+      ]
+    },
+    {
+      "artist": "Tee Grizzley",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.889,
+      "cons_u1": [
+        "21 Savage",
+        "Drake",
+        "Future",
+        "Gunna",
+        "Kodak Black",
+        "Lil Uzi Vert",
+        "Young Thug"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "XXXTENTACION",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.882,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "Cordae",
+        "Denzel Curry",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Future",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.882,
+      "cons_u1": [
+        "21 Savage",
+        "Denzel Curry",
+        "Drake",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.875,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Cordae",
+        "Denzel Curry",
+        "Drake",
+        "Future",
+        "Juice WRLD",
+        "KIDS SEE GHOSTS",
+        "Kanye West",
+        "Kid Cudi",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "Chief Keef",
+        "Playboi Carti",
+        "Tee Grizzley",
+        "Travis Scott"
+      ]
+    },
+    {
+      "artist": "Future",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.87,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Chief Keef",
+        "Drake",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Dolph",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "21 Savage",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.864,
+      "cons_u1": [
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti",
+        "Travis Scott"
+      ]
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.864,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gucci Mane",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "Roddy Ricch",
+        "Travis Scott",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "Chief Keef",
+        "Playboi Carti",
+        "Tee Grizzley",
+        "Travis Scott"
+      ]
+    },
+    {
+      "artist": "21 Savage",
+      "user1": "Alan",
+      "user2": "Koren",
+      "jaccard": 0.857,
+      "cons_u1": [
+        "A Boogie Wit da Hoodie",
+        "Cordae",
+        "Denzel Curry",
+        "Drake",
+        "Future",
+        "Juice WRLD",
+        "KIDS SEE GHOSTS",
+        "Kanye West",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "Trippie Redd",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti",
+        "Travis Scott"
+      ]
+    },
+    {
+      "artist": "Travis Scott",
+      "user1": "Anthony",
+      "user2": "Koren",
+      "jaccard": 0.85,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "Gunna",
+        "J. Cole",
+        "Juice WRLD",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Lil Wayne",
+        "Migos",
+        "Playboi Carti",
+        "The Weeknd",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "Chief Keef",
+        "Lil Uzi Vert",
+        "Playboi Carti"
+      ]
+    },
+    {
+      "artist": "Meek Mill",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.846,
+      "cons_u1": [
+        "Juice WRLD",
+        "Kanye West",
+        "Travis Scott"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "J. Cole",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Kodak Black",
+        "Lil Baby",
+        "Lil Uzi Vert",
+        "Travis Scott",
+        "Young Thug"
+      ]
+    },
+    {
+      "artist": "Trippie Redd",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.842,
+      "cons_u1": [
+        "21 Savage",
+        "A Boogie Wit da Hoodie",
+        "Cordae",
+        "Denzel Curry",
+        "Drake",
+        "Future",
+        "Juice WRLD",
+        "Kanye West",
+        "Lil Baby",
+        "Lil Skies",
+        "Lil Uzi Vert",
+        "Lil Yachty",
+        "Metro Boomin",
+        "Playboi Carti",
+        "Ski Mask The Slump God",
+        "Travis Scott",
+        "XXXTENTACION",
+        "Young Thug",
+        "YoungBoy Never Broke Again"
+      ],
+      "cons_u2": [
+        "21 Savage",
+        "Future",
+        "YoungBoy Never Broke Again"
+      ]
+    },
+    {
+      "artist": "JAY-Z",
+      "user1": "Alan",
+      "user2": "Anthony",
+      "jaccard": 0.826,
+      "cons_u1": [
+        "A Tribe Called Quest",
+        "A$AP Rocky",
+        "Big K.R.I.T.",
+        "Danny Brown",
+        "Denzel Curry",
+        "Drake",
+        "Freddie Gibbs",
+        "JID",
+        "Joey Bada$$",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Nas",
+        "Outkast",
+        "Pusha T",
+        "The Roots",
+        "Tyler, The Creator"
+      ],
+      "cons_u2": [
+        "A Boogie Wit da Hoodie",
+        "A$AP Rocky",
+        "Drake",
+        "Future",
+        "J. Cole",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Migos",
+        "The Weeknd",
+        "Travis Scott",
+        "Young Thug"
+      ]
+    }
+  ]
+}

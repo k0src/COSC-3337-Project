@@ -1,0 +1,418 @@
+{
+  "Anthony": {
+    "genre_colors": {
+      "hip hop": "#0072B2",
+      "trap": "#E69F00"
+    },
+    "months": [
+      {
+        "top_genre": "trap",
+        "month": 1,
+        "month_name": "Jan",
+        "top_genre_plays": 1442,
+        "total_plays": 1899,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 2,
+        "month_name": "Feb",
+        "top_genre_plays": 1194,
+        "total_plays": 1967,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "trap",
+        "month": 3,
+        "month_name": "Mar",
+        "top_genre_plays": 1203,
+        "total_plays": 1617,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 4,
+        "month_name": "Apr",
+        "top_genre_plays": 1589,
+        "total_plays": 2270,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 5,
+        "month_name": "May",
+        "top_genre_plays": 846,
+        "total_plays": 1262,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 6,
+        "month_name": "Jun",
+        "top_genre_plays": 908,
+        "total_plays": 1293,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 7,
+        "month_name": "Jul",
+        "top_genre_plays": 783,
+        "total_plays": 1047,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 8,
+        "month_name": "Aug",
+        "top_genre_plays": 532,
+        "total_plays": 821,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "trap",
+        "month": 9,
+        "month_name": "Sep",
+        "top_genre_plays": 211,
+        "total_plays": 250,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 10,
+        "month_name": "Oct",
+        "top_genre_plays": 288,
+        "total_plays": 405,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 11,
+        "month_name": "Nov",
+        "top_genre_plays": 302,
+        "total_plays": 421,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 12,
+        "month_name": "Dec",
+        "top_genre_plays": 391,
+        "total_plays": 451,
+        "color": "#E69F00"
+      }
+    ]
+  },
+  "Alexandra": {
+    "genre_colors": {
+      "metalcore": "#009E73",
+      "pop punk": "#CC79A7"
+    },
+    "months": [
+      {
+        "top_genre": "metalcore",
+        "month": 1,
+        "month_name": "Jan",
+        "top_genre_plays": 384,
+        "total_plays": 947,
+        "color": "#009E73"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 2,
+        "month_name": "Feb",
+        "top_genre_plays": 324,
+        "total_plays": 836,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 3,
+        "month_name": "Mar",
+        "top_genre_plays": 274,
+        "total_plays": 779,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 4,
+        "month_name": "Apr",
+        "top_genre_plays": 272,
+        "total_plays": 786,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 5,
+        "month_name": "May",
+        "top_genre_plays": 377,
+        "total_plays": 1004,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 6,
+        "month_name": "Jun",
+        "top_genre_plays": 172,
+        "total_plays": 504,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "metalcore",
+        "month": 7,
+        "month_name": "Jul",
+        "top_genre_plays": 185,
+        "total_plays": 510,
+        "color": "#009E73"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 8,
+        "month_name": "Aug",
+        "top_genre_plays": 222,
+        "total_plays": 599,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 9,
+        "month_name": "Sep",
+        "top_genre_plays": 214,
+        "total_plays": 601,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 10,
+        "month_name": "Oct",
+        "top_genre_plays": 235,
+        "total_plays": 682,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 11,
+        "month_name": "Nov",
+        "top_genre_plays": 305,
+        "total_plays": 831,
+        "color": "#CC79A7"
+      },
+      {
+        "top_genre": "pop punk",
+        "month": 12,
+        "month_name": "Dec",
+        "top_genre_plays": 276,
+        "total_plays": 632,
+        "color": "#CC79A7"
+      }
+    ]
+  },
+  "Koren": {
+    "genre_colors": {
+      "math rock": "#56B4E9",
+      "drum and bass": "#D55E00",
+      "trap": "#E69F00"
+    },
+    "months": [
+      {
+        "top_genre": "trap",
+        "month": 1,
+        "month_name": "Jan",
+        "top_genre_plays": 585,
+        "total_plays": 1478,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "math rock",
+        "month": 2,
+        "month_name": "Feb",
+        "top_genre_plays": 783,
+        "total_plays": 2641,
+        "color": "#56B4E9"
+      },
+      {
+        "top_genre": "drum and bass",
+        "month": 3,
+        "month_name": "Mar",
+        "top_genre_plays": 1777,
+        "total_plays": 4059,
+        "color": "#D55E00"
+      },
+      {
+        "top_genre": "drum and bass",
+        "month": 4,
+        "month_name": "Apr",
+        "top_genre_plays": 1047,
+        "total_plays": 2045,
+        "color": "#D55E00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 5,
+        "month_name": "May",
+        "top_genre_plays": 403,
+        "total_plays": 681,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "drum and bass",
+        "month": 6,
+        "month_name": "Jun",
+        "top_genre_plays": 185,
+        "total_plays": 570,
+        "color": "#D55E00"
+      },
+      {
+        "top_genre": "drum and bass",
+        "month": 7,
+        "month_name": "Jul",
+        "top_genre_plays": 366,
+        "total_plays": 887,
+        "color": "#D55E00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 8,
+        "month_name": "Aug",
+        "top_genre_plays": 333,
+        "total_plays": 881,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "drum and bass",
+        "month": 9,
+        "month_name": "Sep",
+        "top_genre_plays": 772,
+        "total_plays": 1211,
+        "color": "#D55E00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 10,
+        "month_name": "Oct",
+        "top_genre_plays": 441,
+        "total_plays": 1378,
+        "color": "#E69F00"
+      },
+      {
+        "top_genre": "drum and bass",
+        "month": 11,
+        "month_name": "Nov",
+        "top_genre_plays": 151,
+        "total_plays": 443,
+        "color": "#D55E00"
+      },
+      {
+        "top_genre": "trap",
+        "month": 12,
+        "month_name": "Dec",
+        "top_genre_plays": 311,
+        "total_plays": 851,
+        "color": "#E69F00"
+      }
+    ]
+  },
+  "Alan": {
+    "genre_colors": {
+      "hip hop": "#0072B2"
+    },
+    "months": [
+      {
+        "top_genre": "hip hop",
+        "month": 1,
+        "month_name": "Jan",
+        "top_genre_plays": 691,
+        "total_plays": 2241,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 2,
+        "month_name": "Feb",
+        "top_genre_plays": 1256,
+        "total_plays": 3946,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 3,
+        "month_name": "Mar",
+        "top_genre_plays": 1508,
+        "total_plays": 4254,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 4,
+        "month_name": "Apr",
+        "top_genre_plays": 374,
+        "total_plays": 1095,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 5,
+        "month_name": "May",
+        "top_genre_plays": 314,
+        "total_plays": 1148,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 6,
+        "month_name": "Jun",
+        "top_genre_plays": 615,
+        "total_plays": 1937,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 7,
+        "month_name": "Jul",
+        "top_genre_plays": 667,
+        "total_plays": 2309,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 8,
+        "month_name": "Aug",
+        "top_genre_plays": 810,
+        "total_plays": 2350,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 9,
+        "month_name": "Sep",
+        "top_genre_plays": 1190,
+        "total_plays": 3088,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 10,
+        "month_name": "Oct",
+        "top_genre_plays": 459,
+        "total_plays": 1935,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 11,
+        "month_name": "Nov",
+        "top_genre_plays": 1171,
+        "total_plays": 3226,
+        "color": "#0072B2"
+      },
+      {
+        "top_genre": "hip hop",
+        "month": 12,
+        "month_name": "Dec",
+        "top_genre_plays": 622,
+        "total_plays": 1783,
+        "color": "#0072B2"
+      }
+    ]
+  }
+}

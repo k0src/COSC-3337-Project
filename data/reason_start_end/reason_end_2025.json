@@ -1,195 +1,195 @@
 {
-  "Anthony": [
-    {
-      "proportion": 0.6395009484897125,
-      "count": 8765,
-      "category": "trackdone"
-    },
-    {
-      "proportion": 0.24368889537428864,
-      "count": 3340,
-      "category": "fwdbtn"
-    },
-    {
-      "proportion": 0.06559171165912739,
-      "count": 899,
-      "category": "endplay"
-    },
-    {
-      "proportion": 0.023347439077776158,
-      "count": 320,
-      "category": "unexpected-exit-while-paused"
-    },
-    {
-      "proportion": 0.013716620458193492,
-      "count": 188,
-      "category": "logout"
-    },
-    {
-      "proportion": 0.009630818619582664,
-      "count": 132,
-      "category": "backbtn"
-    },
-    {
-      "proportion": 0.002553626149131767,
-      "count": 35,
-      "category": "remote"
-    },
-    {
-      "proportion": 0.0012403327010068583,
-      "count": 17,
-      "category": "unexpected-exit"
-    },
-    {
-      "proportion": 0.0007296074711805049,
-      "count": 10,
-      "category": "trackerror"
-    }
-  ],
-  "Alexandra": [
-    {
-      "proportion": 0.6456611570247934,
-      "count": 5625,
-      "category": "trackdone"
-    },
-    {
-      "proportion": 0.22164830119375573,
-      "count": 1931,
-      "category": "fwdbtn"
-    },
-    {
-      "proportion": 0.08321854912764004,
-      "count": 725,
-      "category": "unexpected-exit-while-paused"
-    },
-    {
-      "proportion": 0.023530762167125803,
-      "count": 205,
-      "category": "endplay"
-    },
-    {
-      "proportion": 0.018365472910927456,
-      "count": 160,
-      "category": "backbtn"
-    },
-    {
-      "proportion": 0.006198347107438017,
-      "count": 54,
-      "category": "logout"
-    },
-    {
-      "proportion": 0.0006887052341597796,
-      "count": 6,
-      "category": "trackerror"
-    },
-    {
-      "proportion": 0.0003443526170798898,
-      "count": 3,
-      "category": "remote"
-    },
-    {
-      "proportion": 0.0003443526170798898,
-      "count": 3,
-      "category": "unexpected-exit"
-    }
-  ],
-  "Koren": [
-    {
-      "proportion": 0.42290209790209793,
-      "count": 7257,
-      "category": "fwdbtn"
-    },
-    {
-      "proportion": 0.41631701631701634,
-      "count": 7144,
-      "category": "trackdone"
-    },
-    {
-      "proportion": 0.10303030303030303,
-      "count": 1768,
-      "category": "endplay"
-    },
-    {
-      "proportion": 0.02529137529137529,
-      "count": 434,
-      "category": "backbtn"
-    },
-    {
-      "proportion": 0.014627039627039626,
-      "count": 251,
-      "category": "unexpected-exit-while-paused"
-    },
-    {
-      "proportion": 0.008508158508158508,
-      "count": 146,
-      "category": "remote"
-    },
-    {
-      "proportion": 0.006934731934731935,
-      "count": 119,
-      "category": "logout"
-    },
-    {
-      "proportion": 0.0012237762237762239,
-      "count": 21,
-      "category": "unexpected-exit"
-    },
-    {
-      "proportion": 0.0011072261072261073,
-      "count": 19,
-      "category": "trackerror"
-    },
-    {
-      "proportion": 5.8275058275058275e-5,
-      "count": 1,
-      "category": "unknown"
-    }
-  ],
-  "Alan": [
-    {
-      "proportion": 0.3976476986878782,
-      "count": 11698,
-      "category": "fwdbtn"
-    },
-    {
-      "proportion": 0.37915561900877015,
-      "count": 11154,
-      "category": "endplay"
-    },
-    {
-      "proportion": 0.17326126861105445,
-      "count": 5097,
-      "category": "trackdone"
-    },
-    {
-      "proportion": 0.025188660004079134,
-      "count": 741,
-      "category": "backbtn"
-    },
-    {
-      "proportion": 0.014582908423414236,
-      "count": 429,
-      "category": "unexpected-exit-while-paused"
-    },
-    {
-      "proportion": 0.004928955061526956,
-      "count": 145,
-      "category": "logout"
-    },
-    {
-      "proportion": 0.003671221700999388,
-      "count": 108,
-      "category": "remote"
-    },
-    {
-      "proportion": 0.0010537765993609354,
-      "count": 31,
-      "category": "trackerror"
-    },
-    {
-      "proportion": 0.0005098919029165817,
-      "count": 15,
-      "category": "unexpected-exit"
-    }
-  ]
+    "Anthony": [
+        {
+            "proportion": 0.6394220243742246,
+            "count": 8762,
+            "category": "trackdone"
+        },
+        {
+            "proportion": 0.24374224622345472,
+            "count": 3340,
+            "category": "fwdbtn"
+        },
+        {
+            "proportion": 0.06560607166313946,
+            "count": 899,
+            "category": "endplay"
+        },
+        {
+            "proportion": 0.023352550536378896,
+            "count": 320,
+            "category": "unexpected-exit-while-paused"
+        },
+        {
+            "proportion": 0.0137196234401226,
+            "count": 188,
+            "category": "logout"
+        },
+        {
+            "proportion": 0.009632927096256294,
+            "count": 132,
+            "category": "backbtn"
+        },
+        {
+            "proportion": 0.0025541852149164415,
+            "count": 35,
+            "category": "remote"
+        },
+        {
+            "proportion": 0.0012406042472451289,
+            "count": 17,
+            "category": "unexpected-exit"
+        },
+        {
+            "proportion": 0.0007297672042618405,
+            "count": 10,
+            "category": "trackerror"
+        }
+    ],
+    "Alexandra": [
+        {
+            "proportion": 0.6456204798530594,
+            "count": 5624,
+            "category": "trackdone"
+        },
+        {
+            "proportion": 0.2216737458385949,
+            "count": 1931,
+            "category": "fwdbtn"
+        },
+        {
+            "proportion": 0.0832281023992653,
+            "count": 725,
+            "category": "unexpected-exit-while-paused"
+        },
+        {
+            "proportion": 0.023533463437033636,
+            "count": 205,
+            "category": "endplay"
+        },
+        {
+            "proportion": 0.018367581219148204,
+            "count": 160,
+            "category": "backbtn"
+        },
+        {
+            "proportion": 0.006199058661462519,
+            "count": 54,
+            "category": "logout"
+        },
+        {
+            "proportion": 0.0006887842957180576,
+            "count": 6,
+            "category": "trackerror"
+        },
+        {
+            "proportion": 0.0003443921478590288,
+            "count": 3,
+            "category": "remote"
+        },
+        {
+            "proportion": 0.0003443921478590288,
+            "count": 3,
+            "category": "unexpected-exit"
+        }
+    ],
+    "Koren": [
+        {
+            "proportion": 0.42347445255474453,
+            "count": 7252,
+            "category": "fwdbtn"
+        },
+        {
+            "proportion": 0.4161167883211679,
+            "count": 7126,
+            "category": "trackdone"
+        },
+        {
+            "proportion": 0.1025985401459854,
+            "count": 1757,
+            "category": "endplay"
+        },
+        {
+            "proportion": 0.025343065693430658,
+            "count": 434,
+            "category": "backbtn"
+        },
+        {
+            "proportion": 0.014656934306569343,
+            "count": 251,
+            "category": "unexpected-exit-while-paused"
+        },
+        {
+            "proportion": 0.008467153284671533,
+            "count": 145,
+            "category": "remote"
+        },
+        {
+            "proportion": 0.0069489051094890515,
+            "count": 119,
+            "category": "logout"
+        },
+        {
+            "proportion": 0.0012262773722627738,
+            "count": 21,
+            "category": "unexpected-exit"
+        },
+        {
+            "proportion": 0.0011094890510948904,
+            "count": 19,
+            "category": "trackerror"
+        },
+        {
+            "proportion": 5.839416058394161e-5,
+            "count": 1,
+            "category": "unknown"
+        }
+    ],
+    "Alan": [
+        {
+            "proportion": 0.39888100436681223,
+            "count": 11692,
+            "category": "fwdbtn"
+        },
+        {
+            "proportion": 0.3787186135371179,
+            "count": 11101,
+            "category": "endplay"
+        },
+        {
+            "proportion": 0.1726255458515284,
+            "count": 5060,
+            "category": "trackdone"
+        },
+        {
+            "proportion": 0.02521151746724891,
+            "count": 739,
+            "category": "backbtn"
+        },
+        {
+            "proportion": 0.014430949781659388,
+            "count": 423,
+            "category": "unexpected-exit-while-paused"
+        },
+        {
+            "proportion": 0.0049126637554585155,
+            "count": 144,
+            "category": "logout"
+        },
+        {
+            "proportion": 0.003650382096069869,
+            "count": 107,
+            "category": "remote"
+        },
+        {
+            "proportion": 0.0010575873362445416,
+            "count": 31,
+            "category": "trackerror"
+        },
+        {
+            "proportion": 0.000511735807860262,
+            "count": 15,
+            "category": "unexpected-exit"
+        }
+    ]
 }

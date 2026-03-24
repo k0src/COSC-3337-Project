@@ -1,50 +1,50 @@
 {
-  "Anthony": {
-    "offline_false": 72151,
-    "offline_rate": 0.004014734489466496,
-    "skipped_true": 24721,
-    "total": 72483,
-    "skip_rate": 0.34105928286632725,
-    "shuffle_false": 33472,
-    "shuffle_rate": 0.5382089593421906,
-    "offline_true": 291,
-    "shuffle_true": 39011,
-    "skipped_false": 47762
-  },
-  "Alexandra": {
-    "offline_false": 132596,
-    "offline_rate": 0.04977031840104342,
-    "skipped_true": 16393,
-    "total": 139541,
-    "skip_rate": 0.11747801721357881,
-    "shuffle_false": 9361,
-    "shuffle_rate": 0.9329157738585792,
-    "offline_true": 6945,
-    "shuffle_true": 130180,
-    "skipped_false": 123148
-  },
-  "Koren": {
-    "offline_false": 180249,
-    "offline_rate": 0.008847562383837939,
-    "skipped_true": 50062,
-    "total": 181858,
-    "skip_rate": 0.2752807135237383,
-    "shuffle_false": 63435,
-    "shuffle_rate": 0.6511838907279306,
-    "offline_true": 1609,
-    "shuffle_true": 118423,
-    "skipped_false": 131796
-  },
-  "Alan": {
-    "offline_false": 449696,
-    "offline_rate": 0.001303624609412303,
-    "skipped_true": 116983,
-    "total": 450283,
-    "skip_rate": 0.2597988376198968,
-    "shuffle_false": 165174,
-    "shuffle_rate": 0.6331773573508216,
-    "offline_true": 587,
-    "shuffle_true": 285109,
-    "skipped_false": 333300
-  }
+    "Anthony": {
+        "offline_false": 72127,
+        "offline_rate": 0.004016064257028112,
+        "skipped_true": 24715,
+        "total": 72459,
+        "skip_rate": 0.3410894436853945,
+        "shuffle_false": 33457,
+        "shuffle_rate": 0.538263017706565,
+        "offline_true": 291,
+        "shuffle_true": 39002,
+        "skipped_false": 47744
+    },
+    "Alexandra": {
+        "offline_false": 132552,
+        "offline_rate": 0.049779205138498595,
+        "skipped_true": 16385,
+        "total": 139496,
+        "skip_rate": 0.11745856512014681,
+        "shuffle_false": 9351,
+        "shuffle_rate": 0.9329658198084533,
+        "offline_true": 6944,
+        "shuffle_true": 130145,
+        "skipped_false": 123111
+    },
+    "Koren": {
+        "offline_false": 179765,
+        "offline_rate": 0.008865707685267378,
+        "skipped_true": 49916,
+        "total": 181373,
+        "skip_rate": 0.2752118562299791,
+        "shuffle_false": 63217,
+        "shuffle_rate": 0.6514530828734155,
+        "offline_true": 1608,
+        "shuffle_true": 118156,
+        "skipped_false": 131457
+    },
+    "Alan": {
+        "offline_false": 448585,
+        "offline_rate": 0.0013046256325541944,
+        "skipped_true": 116773,
+        "total": 449171,
+        "skip_rate": 0.25997448633148623,
+        "shuffle_false": 164442,
+        "shuffle_rate": 0.6338988937398007,
+        "offline_true": 586,
+        "shuffle_true": 284729,
+        "skipped_false": 332398
+    }
 }

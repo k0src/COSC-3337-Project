@@ -1,0 +1,106 @@
+{
+  "alanjzamora": [
+    {
+      "support": 0.05,
+      "n_rules": 14835
+    },
+    {
+      "support": 0.04,
+      "n_rules": 36147
+    },
+    {
+      "support": 0.03,
+      "n_rules": 82161
+    },
+    {
+      "support": 0.02,
+      "n_rules": 202599
+    },
+    {
+      "support": 0.015,
+      "n_rules": 341680
+    },
+    {
+      "support": 0.01,
+      "n_rules": 657858
+    }
+  ],
+  "alexxxxxrs": [
+    {
+      "support": 0.05,
+      "n_rules": 201
+    },
+    {
+      "support": 0.04,
+      "n_rules": 441
+    },
+    {
+      "support": 0.03,
+      "n_rules": 1139
+    },
+    {
+      "support": 0.02,
+      "n_rules": 3642
+    },
+    {
+      "support": 0.015,
+      "n_rules": 7516
+    },
+    {
+      "support": 0.01,
+      "n_rules": 19874
+    }
+  ],
+  "dasucc": [
+    {
+      "support": 0.05,
+      "n_rules": 13058
+    },
+    {
+      "support": 0.04,
+      "n_rules": 27990
+    },
+    {
+      "support": 0.03,
+      "n_rules": 65139
+    },
+    {
+      "support": 0.02,
+      "n_rules": 183987
+    },
+    {
+      "support": 0.015,
+      "n_rules": 377614
+    },
+    {
+      "support": 0.01,
+      "n_rules": 1034940
+    }
+  ],
+  "korenns": [
+    {
+      "support": 0.05,
+      "n_rules": 31
+    },
+    {
+      "support": 0.04,
+      "n_rules": 85
+    },
+    {
+      "support": 0.03,
+      "n_rules": 288
+    },
+    {
+      "support": 0.02,
+      "n_rules": 1991
+    },
+    {
+      "support": 0.015,
+      "n_rules": 7364
+    },
+    {
+      "support": 0.01,
+      "n_rules": 36366
+    }
+  ]
+}

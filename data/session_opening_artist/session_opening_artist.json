@@ -1,0 +1,1268 @@
+{
+    "2025": {
+        "Anthony": {
+            "artists": [
+                {
+                    "opens": 96,
+                    "artist": "Kanye West",
+                    "share": 0.20600858369098712
+                },
+                {
+                    "opens": 40,
+                    "artist": "Young Thug",
+                    "share": 0.08583690987124463
+                },
+                {
+                    "opens": 36,
+                    "artist": "Playboi Carti",
+                    "share": 0.07725321888412018
+                },
+                {
+                    "opens": 29,
+                    "artist": "Lil Wayne",
+                    "share": 0.06223175965665236
+                },
+                {
+                    "opens": 29,
+                    "artist": "Drake",
+                    "share": 0.06223175965665236
+                },
+                {
+                    "opens": 23,
+                    "artist": "Travis Scott",
+                    "share": 0.04935622317596566
+                },
+                {
+                    "opens": 23,
+                    "artist": "Ken Carson",
+                    "share": 0.04935622317596566
+                },
+                {
+                    "opens": 22,
+                    "artist": "Kodak Black",
+                    "share": 0.04721030042918455
+                },
+                {
+                    "opens": 21,
+                    "artist": "Kendrick Lamar",
+                    "share": 0.045064377682403435
+                },
+                {
+                    "opens": 19,
+                    "artist": "Future",
+                    "share": 0.0407725321888412
+                },
+                {
+                    "opens": 19,
+                    "artist": "1900Rugrat",
+                    "share": 0.0407725321888412
+                },
+                {
+                    "opens": 18,
+                    "artist": "The Weeknd",
+                    "share": 0.03862660944206009
+                },
+                {
+                    "opens": 15,
+                    "artist": "Jeezy",
+                    "share": 0.032188841201716736
+                },
+                {
+                    "opens": 14,
+                    "artist": "Gunna",
+                    "share": 0.030042918454935622
+                },
+                {
+                    "opens": 13,
+                    "artist": "21 Savage",
+                    "share": 0.027896995708154508
+                },
+                {
+                    "opens": 12,
+                    "artist": "Bryson Tiller",
+                    "share": 0.02575107296137339
+                },
+                {
+                    "opens": 10,
+                    "artist": "Lil Baby",
+                    "share": 0.02145922746781116
+                },
+                {
+                    "opens": 9,
+                    "artist": "DONDA",
+                    "share": 0.019313304721030045
+                },
+                {
+                    "opens": 9,
+                    "artist": "Ye",
+                    "share": 0.019313304721030045
+                },
+                {
+                    "opens": 9,
+                    "artist": "King Von",
+                    "share": 0.019313304721030045
+                }
+            ],
+            "total_sessions": 466
+        },
+        "Alexandra": {
+            "artists": [
+                {
+                    "opens": 89,
+                    "artist": "Beartooth",
+                    "share": 0.15265866209262435
+                },
+                {
+                    "opens": 60,
+                    "artist": "Neck Deep",
+                    "share": 0.10291595197255575
+                },
+                {
+                    "opens": 50,
+                    "artist": "Bring Me The Horizon",
+                    "share": 0.08576329331046312
+                },
+                {
+                    "opens": 48,
+                    "artist": "State Champs",
+                    "share": 0.0823327615780446
+                },
+                {
+                    "opens": 47,
+                    "artist": "Wage War",
+                    "share": 0.08061749571183534
+                },
+                {
+                    "opens": 36,
+                    "artist": "Ashnikko",
+                    "share": 0.06174957118353345
+                },
+                {
+                    "opens": 31,
+                    "artist": "WSTR",
+                    "share": 0.05317324185248713
+                },
+                {
+                    "opens": 28,
+                    "artist": "I Prevail",
+                    "share": 0.048027444253859346
+                },
+                {
+                    "opens": 23,
+                    "artist": "Panic! At The Disco",
+                    "share": 0.03945111492281304
+                },
+                {
+                    "opens": 21,
+                    "artist": "YUNGBLUD",
+                    "share": 0.036020583190394515
+                },
+                {
+                    "opens": 21,
+                    "artist": "mgk",
+                    "share": 0.036020583190394515
+                },
+                {
+                    "opens": 19,
+                    "artist": "Falling In Reverse",
+                    "share": 0.032590051457975985
+                },
+                {
+                    "opens": 17,
+                    "artist": "Kayzo",
+                    "share": 0.029159519725557463
+                },
+                {
+                    "opens": 17,
+                    "artist": "Three Days Grace",
+                    "share": 0.029159519725557463
+                },
+                {
+                    "opens": 16,
+                    "artist": "My Chemical Romance",
+                    "share": 0.0274442538593482
+                },
+                {
+                    "opens": 14,
+                    "artist": "Belmont",
+                    "share": 0.024013722126929673
+                },
+                {
+                    "opens": 12,
+                    "artist": "Woe, Is Me",
+                    "share": 0.02058319039451115
+                },
+                {
+                    "opens": 12,
+                    "artist": "Kim Dracula",
+                    "share": 0.02058319039451115
+                },
+                {
+                    "opens": 11,
+                    "artist": "A Day To Remember",
+                    "share": 0.018867924528301886
+                },
+                {
+                    "opens": 11,
+                    "artist": "Brand of Sacrifice",
+                    "share": 0.018867924528301886
+                }
+            ],
+            "total_sessions": 583
+        },
+        "Koren": {
+            "artists": [
+                {
+                    "opens": 56,
+                    "artist": "Playboi Carti",
+                    "share": 0.16422287390029325
+                },
+                {
+                    "opens": 38,
+                    "artist": "LTJ Bukem",
+                    "share": 0.11143695014662756
+                },
+                {
+                    "opens": 27,
+                    "artist": "Mint",
+                    "share": 0.07917888563049853
+                },
+                {
+                    "opens": 19,
+                    "artist": "toe",
+                    "share": 0.05571847507331378
+                },
+                {
+                    "opens": 19,
+                    "artist": "Roni Size",
+                    "share": 0.05571847507331378
+                },
+                {
+                    "opens": 19,
+                    "artist": "Lil Uzi Vert",
+                    "share": 0.05571847507331378
+                },
+                {
+                    "opens": 15,
+                    "artist": "ark762",
+                    "share": 0.04398826979472141
+                },
+                {
+                    "opens": 15,
+                    "artist": "Ken Carson",
+                    "share": 0.04398826979472141
+                },
+                {
+                    "opens": 14,
+                    "artist": "J Majik",
+                    "share": 0.04105571847507331
+                },
+                {
+                    "opens": 13,
+                    "artist": "Drake",
+                    "share": 0.03812316715542522
+                },
+                {
+                    "opens": 13,
+                    "artist": "tenkay",
+                    "share": 0.03812316715542522
+                },
+                {
+                    "opens": 11,
+                    "artist": "Big Bud",
+                    "share": 0.03225806451612903
+                },
+                {
+                    "opens": 11,
+                    "artist": "Wax Doctor",
+                    "share": 0.03225806451612903
+                },
+                {
+                    "opens": 11,
+                    "artist": "Alex Reece",
+                    "share": 0.03225806451612903
+                },
+                {
+                    "opens": 10,
+                    "artist": "Nuito",
+                    "share": 0.02932551319648094
+                },
+                {
+                    "opens": 10,
+                    "artist": "Pi’erre Bourne",
+                    "share": 0.02932551319648094
+                },
+                {
+                    "opens": 10,
+                    "artist": "M-Beat",
+                    "share": 0.02932551319648094
+                },
+                {
+                    "opens": 10,
+                    "artist": "fakemink",
+                    "share": 0.02932551319648094
+                },
+                {
+                    "opens": 10,
+                    "artist": "JMJ & Richie",
+                    "share": 0.02932551319648094
+                },
+                {
+                    "opens": 10,
+                    "artist": "Omni Trio",
+                    "share": 0.02932551319648094
+                }
+            ],
+            "total_sessions": 341
+        },
+        "Alan": {
+            "artists": [
+                {
+                    "opens": 68,
+                    "artist": "Jessie Ware",
+                    "share": 0.11683848797250859
+                },
+                {
+                    "opens": 59,
+                    "artist": "Kanye West",
+                    "share": 0.1013745704467354
+                },
+                {
+                    "opens": 43,
+                    "artist": "JPEGMAFIA",
+                    "share": 0.07388316151202749
+                },
+                {
+                    "opens": 41,
+                    "artist": "Fiona Apple",
+                    "share": 0.070446735395189
+                },
+                {
+                    "opens": 36,
+                    "artist": "Kendrick Lamar",
+                    "share": 0.061855670103092786
+                },
+                {
+                    "opens": 34,
+                    "artist": "Denzel Curry",
+                    "share": 0.058419243986254296
+                },
+                {
+                    "opens": 33,
+                    "artist": "underscores",
+                    "share": 0.05670103092783505
+                },
+                {
+                    "opens": 29,
+                    "artist": "JID",
+                    "share": 0.04982817869415808
+                },
+                {
+                    "opens": 28,
+                    "artist": "Logic",
+                    "share": 0.048109965635738834
+                },
+                {
+                    "opens": 24,
+                    "artist": "Danny Brown",
+                    "share": 0.041237113402061855
+                },
+                {
+                    "opens": 21,
+                    "artist": "Danger Mouse",
+                    "share": 0.03608247422680412
+                },
+                {
+                    "opens": 21,
+                    "artist": "Freddie Gibbs",
+                    "share": 0.03608247422680412
+                },
+                {
+                    "opens": 21,
+                    "artist": "Tyler, The Creator",
+                    "share": 0.03608247422680412
+                },
+                {
+                    "opens": 20,
+                    "artist": "Fleet Foxes",
+                    "share": 0.03436426116838488
+                },
+                {
+                    "opens": 19,
+                    "artist": "Lianne La Havas",
+                    "share": 0.03264604810996564
+                },
+                {
+                    "opens": 18,
+                    "artist": "Nas",
+                    "share": 0.030927835051546393
+                },
+                {
+                    "opens": 18,
+                    "artist": "The Avalanches",
+                    "share": 0.030927835051546393
+                },
+                {
+                    "opens": 17,
+                    "artist": "The Notorious B.I.G.",
+                    "share": 0.029209621993127148
+                },
+                {
+                    "opens": 16,
+                    "artist": "The Roots",
+                    "share": 0.027491408934707903
+                },
+                {
+                    "opens": 16,
+                    "artist": "Lupe Fiasco",
+                    "share": 0.027491408934707903
+                }
+            ],
+            "total_sessions": 582
+        }
+    },
+    "alltime": {
+        "Anthony": {
+            "artists": [
+                {
+                    "opens": 301,
+                    "artist": "Kanye West",
+                    "share": 0.2053206002728513
+                },
+                {
+                    "opens": 179,
+                    "artist": "Drake",
+                    "share": 0.12210095497953616
+                },
+                {
+                    "opens": 110,
+                    "artist": "Young Thug",
+                    "share": 0.07503410641200546
+                },
+                {
+                    "opens": 106,
+                    "artist": "Future",
+                    "share": 0.0723055934515689
+                },
+                {
+                    "opens": 88,
+                    "artist": "Kendrick Lamar",
+                    "share": 0.06002728512960437
+                },
+                {
+                    "opens": 74,
+                    "artist": "Travis Scott",
+                    "share": 0.0504774897680764
+                },
+                {
+                    "opens": 60,
+                    "artist": "Playboi Carti",
+                    "share": 0.040927694406548434
+                },
+                {
+                    "opens": 59,
+                    "artist": "Lil Wayne",
+                    "share": 0.04024556616643929
+                },
+                {
+                    "opens": 56,
+                    "artist": "The Weeknd",
+                    "share": 0.03819918144611187
+                },
+                {
+                    "opens": 48,
+                    "artist": "Kodak Black",
+                    "share": 0.03274215552523874
+                },
+                {
+                    "opens": 47,
+                    "artist": "Juice WRLD",
+                    "share": 0.032060027285129605
+                },
+                {
+                    "opens": 45,
+                    "artist": "A$AP Rocky",
+                    "share": 0.030695770804911322
+                },
+                {
+                    "opens": 44,
+                    "artist": "21 Savage",
+                    "share": 0.030013642564802184
+                },
+                {
+                    "opens": 41,
+                    "artist": "Young Dolph",
+                    "share": 0.02796725784447476
+                },
+                {
+                    "opens": 39,
+                    "artist": "YoungBoy Never Broke Again",
+                    "share": 0.02660300136425648
+                },
+                {
+                    "opens": 35,
+                    "artist": "Migos",
+                    "share": 0.023874488403819918
+                },
+                {
+                    "opens": 34,
+                    "artist": "Lil Uzi Vert",
+                    "share": 0.023192360163710776
+                },
+                {
+                    "opens": 34,
+                    "artist": "King Von",
+                    "share": 0.023192360163710776
+                },
+                {
+                    "opens": 33,
+                    "artist": "Gunna",
+                    "share": 0.022510231923601638
+                },
+                {
+                    "opens": 33,
+                    "artist": "Roddy Ricch",
+                    "share": 0.022510231923601638
+                }
+            ],
+            "total_sessions": 1466
+        },
+        "Alexandra": {
+            "artists": [
+                {
+                    "opens": 808,
+                    "artist": "Neck Deep",
+                    "share": 0.16054043314126765
+                },
+                {
+                    "opens": 632,
+                    "artist": "State Champs",
+                    "share": 0.1255712298827737
+                },
+                {
+                    "opens": 580,
+                    "artist": "Beartooth",
+                    "share": 0.11523941982912776
+                },
+                {
+                    "opens": 465,
+                    "artist": "Panic! At The Disco",
+                    "share": 0.09239022451818
+                },
+                {
+                    "opens": 367,
+                    "artist": "Bring Me The Horizon",
+                    "share": 0.07291873634015497
+                },
+                {
+                    "opens": 236,
+                    "artist": "Fall Out Boy",
+                    "share": 0.04689052255116233
+                },
+                {
+                    "opens": 219,
+                    "artist": "Wage War",
+                    "share": 0.04351281541823962
+                },
+                {
+                    "opens": 172,
+                    "artist": "My Chemical Romance",
+                    "share": 0.03417444863898272
+                },
+                {
+                    "opens": 167,
+                    "artist": "YUNGBLUD",
+                    "share": 0.03318100536459368
+                },
+                {
+                    "opens": 157,
+                    "artist": "Ashnikko",
+                    "share": 0.031194118815815616
+                },
+                {
+                    "opens": 153,
+                    "artist": "mgk",
+                    "share": 0.03039936419630439
+                },
+                {
+                    "opens": 142,
+                    "artist": "blink-182",
+                    "share": 0.02821378899264852
+                },
+                {
+                    "opens": 134,
+                    "artist": "WSTR",
+                    "share": 0.02662427975362607
+                },
+                {
+                    "opens": 131,
+                    "artist": "Krewella",
+                    "share": 0.026028213788992647
+                },
+                {
+                    "opens": 126,
+                    "artist": "Neon Trees",
+                    "share": 0.025034770514603615
+                },
+                {
+                    "opens": 121,
+                    "artist": "Green Day",
+                    "share": 0.024041327240214582
+                },
+                {
+                    "opens": 116,
+                    "artist": "Seether",
+                    "share": 0.02304788396582555
+                },
+                {
+                    "opens": 111,
+                    "artist": "I Prevail",
+                    "share": 0.02205444069143652
+                },
+                {
+                    "opens": 101,
+                    "artist": "Catfish and the Bottlemen",
+                    "share": 0.020067554142658456
+                },
+                {
+                    "opens": 95,
+                    "artist": "Papa Roach",
+                    "share": 0.018875422213391616
+                }
+            ],
+            "total_sessions": 5033
+        },
+        "Koren": {
+            "artists": [
+                {
+                    "opens": 281,
+                    "artist": "Lil Uzi Vert",
+                    "share": 0.10921103769918383
+                },
+                {
+                    "opens": 250,
+                    "artist": "Mint",
+                    "share": 0.0971628449280995
+                },
+                {
+                    "opens": 225,
+                    "artist": "Playboi Carti",
+                    "share": 0.08744656043528955
+                },
+                {
+                    "opens": 176,
+                    "artist": "A Tribe Called Quest",
+                    "share": 0.06840264282938205
+                },
+                {
+                    "opens": 161,
+                    "artist": "G Herbo",
+                    "share": 0.06257287213369607
+                },
+                {
+                    "opens": 160,
+                    "artist": "Cdot Honcho",
+                    "share": 0.06218422075398368
+                },
+                {
+                    "opens": 125,
+                    "artist": "Pi’erre Bourne",
+                    "share": 0.04858142246404975
+                },
+                {
+                    "opens": 121,
+                    "artist": "Chief Keef",
+                    "share": 0.04702681694520015
+                },
+                {
+                    "opens": 120,
+                    "artist": "LTJ Bukem",
+                    "share": 0.046638165565487756
+                },
+                {
+                    "opens": 106,
+                    "artist": "Young Nudy",
+                    "share": 0.04119704624951419
+                },
+                {
+                    "opens": 104,
+                    "artist": "Drake",
+                    "share": 0.04041974349008939
+                },
+                {
+                    "opens": 98,
+                    "artist": "Tee Grizzley",
+                    "share": 0.038087835211815003
+                },
+                {
+                    "opens": 91,
+                    "artist": "Duwap Kaine",
+                    "share": 0.035367275553828216
+                },
+                {
+                    "opens": 89,
+                    "artist": "Thouxanbanfauni",
+                    "share": 0.03458997279440342
+                },
+                {
+                    "opens": 88,
+                    "artist": "Lancey Foux",
+                    "share": 0.034201321414691024
+                },
+                {
+                    "opens": 85,
+                    "artist": "Travis Scott",
+                    "share": 0.033035367275553826
+                },
+                {
+                    "opens": 83,
+                    "artist": "21 Savage",
+                    "share": 0.03225806451612903
+                },
+                {
+                    "opens": 71,
+                    "artist": "Future",
+                    "share": 0.027594247959580258
+                },
+                {
+                    "opens": 70,
+                    "artist": "Pop Smoke",
+                    "share": 0.027205596579867857
+                },
+                {
+                    "opens": 69,
+                    "artist": "D. Savage",
+                    "share": 0.02681694520015546
+                }
+            ],
+            "total_sessions": 2573
+        },
+        "Alan": {
+            "artists": [
+                {
+                    "opens": 1625,
+                    "artist": "Kanye West",
+                    "share": 0.22861564434440068
+                },
+                {
+                    "opens": 813,
+                    "artist": "Travis Scott",
+                    "share": 0.11437816544738323
+                },
+                {
+                    "opens": 538,
+                    "artist": "Kendrick Lamar",
+                    "share": 0.07568936409679235
+                },
+                {
+                    "opens": 443,
+                    "artist": "Denzel Curry",
+                    "share": 0.062324141812042766
+                },
+                {
+                    "opens": 347,
+                    "artist": "Freddie Gibbs",
+                    "share": 0.0488182329769274
+                },
+                {
+                    "opens": 308,
+                    "artist": "Pusha T",
+                    "share": 0.04333145751266179
+                },
+                {
+                    "opens": 291,
+                    "artist": "Drake",
+                    "share": 0.04093978615644345
+                },
+                {
+                    "opens": 258,
+                    "artist": "Juice WRLD",
+                    "share": 0.03629712999437254
+                },
+                {
+                    "opens": 252,
+                    "artist": "Future",
+                    "share": 0.03545301069217783
+                },
+                {
+                    "opens": 245,
+                    "artist": "JID",
+                    "share": 0.03446820483961733
+                },
+                {
+                    "opens": 236,
+                    "artist": "Nas",
+                    "share": 0.033202025886325266
+                },
+                {
+                    "opens": 229,
+                    "artist": "Playboi Carti",
+                    "share": 0.032217220033764774
+                },
+                {
+                    "opens": 222,
+                    "artist": "Lil Uzi Vert",
+                    "share": 0.031232414181204277
+                },
+                {
+                    "opens": 201,
+                    "artist": "A Tribe Called Quest",
+                    "share": 0.028277996623522792
+                },
+                {
+                    "opens": 200,
+                    "artist": "Danny Brown",
+                    "share": 0.028137310073157007
+                },
+                {
+                    "opens": 194,
+                    "artist": "A$AP Rocky",
+                    "share": 0.027293190770962296
+                },
+                {
+                    "opens": 185,
+                    "artist": "Radiohead",
+                    "share": 0.02602701181767023
+                },
+                {
+                    "opens": 176,
+                    "artist": "Logic",
+                    "share": 0.024760832864378166
+                },
+                {
+                    "opens": 175,
+                    "artist": "21 Savage",
+                    "share": 0.02462014631401238
+                },
+                {
+                    "opens": 170,
+                    "artist": "Metro Boomin",
+                    "share": 0.023916713562183455
+                }
+            ],
+            "total_sessions": 7108
+        }
+    },
+    "2024": {
+        "Anthony": {
+            "artists": [
+                {
+                    "opens": 56,
+                    "artist": "Kendrick Lamar",
+                    "share": 0.16326530612244897
+                },
+                {
+                    "opens": 49,
+                    "artist": "Future",
+                    "share": 0.14285714285714285
+                },
+                {
+                    "opens": 30,
+                    "artist": "Kanye West",
+                    "share": 0.08746355685131195
+                },
+                {
+                    "opens": 28,
+                    "artist": "Young Thug",
+                    "share": 0.08163265306122448
+                },
+                {
+                    "opens": 21,
+                    "artist": "¥$",
+                    "share": 0.061224489795918366
+                },
+                {
+                    "opens": 18,
+                    "artist": "Drake",
+                    "share": 0.052478134110787174
+                },
+                {
+                    "opens": 17,
+                    "artist": "Travis Scott",
+                    "share": 0.04956268221574344
+                },
+                {
+                    "opens": 14,
+                    "artist": "Playboi Carti",
+                    "share": 0.04081632653061224
+                },
+                {
+                    "opens": 12,
+                    "artist": "BigXthaPlug",
+                    "share": 0.03498542274052478
+                },
+                {
+                    "opens": 12,
+                    "artist": "Young Dolph",
+                    "share": 0.03498542274052478
+                },
+                {
+                    "opens": 11,
+                    "artist": "Gunna",
+                    "share": 0.03206997084548105
+                },
+                {
+                    "opens": 10,
+                    "artist": "Tyler, The Creator",
+                    "share": 0.029154518950437316
+                },
+                {
+                    "opens": 10,
+                    "artist": "21 Savage",
+                    "share": 0.029154518950437316
+                },
+                {
+                    "opens": 9,
+                    "artist": "Shoreline Mafia",
+                    "share": 0.026239067055393587
+                },
+                {
+                    "opens": 9,
+                    "artist": "Kodak Black",
+                    "share": 0.026239067055393587
+                },
+                {
+                    "opens": 8,
+                    "artist": "Denzel Curry",
+                    "share": 0.023323615160349854
+                },
+                {
+                    "opens": 8,
+                    "artist": "Eminem",
+                    "share": 0.023323615160349854
+                },
+                {
+                    "opens": 7,
+                    "artist": "YoungBoy Never Broke Again",
+                    "share": 0.02040816326530612
+                },
+                {
+                    "opens": 7,
+                    "artist": "$uicideboy$",
+                    "share": 0.02040816326530612
+                },
+                {
+                    "opens": 7,
+                    "artist": "Juice WRLD",
+                    "share": 0.02040816326530612
+                }
+            ],
+            "total_sessions": 343
+        },
+        "Alexandra": {
+            "artists": [
+                {
+                    "opens": 111,
+                    "artist": "Beartooth",
+                    "share": 0.17563291139240506
+                },
+                {
+                    "opens": 75,
+                    "artist": "Neck Deep",
+                    "share": 0.11867088607594936
+                },
+                {
+                    "opens": 68,
+                    "artist": "Bring Me The Horizon",
+                    "share": 0.10759493670886076
+                },
+                {
+                    "opens": 54,
+                    "artist": "Falling In Reverse",
+                    "share": 0.08544303797468354
+                },
+                {
+                    "opens": 53,
+                    "artist": "Wage War",
+                    "share": 0.08386075949367089
+                },
+                {
+                    "opens": 32,
+                    "artist": "I Prevail",
+                    "share": 0.05063291139240506
+                },
+                {
+                    "opens": 26,
+                    "artist": "Ashnikko",
+                    "share": 0.04113924050632911
+                },
+                {
+                    "opens": 24,
+                    "artist": "State Champs",
+                    "share": 0.0379746835443038
+                },
+                {
+                    "opens": 22,
+                    "artist": "Panic! At The Disco",
+                    "share": 0.03481012658227848
+                },
+                {
+                    "opens": 18,
+                    "artist": "mgk",
+                    "share": 0.028481012658227847
+                },
+                {
+                    "opens": 18,
+                    "artist": "Diamond Construct",
+                    "share": 0.028481012658227847
+                },
+                {
+                    "opens": 18,
+                    "artist": "Kim Dracula",
+                    "share": 0.028481012658227847
+                },
+                {
+                    "opens": 16,
+                    "artist": "Fall Out Boy",
+                    "share": 0.02531645569620253
+                },
+                {
+                    "opens": 15,
+                    "artist": "Gorepig",
+                    "share": 0.023734177215189875
+                },
+                {
+                    "opens": 15,
+                    "artist": "Kayzo",
+                    "share": 0.023734177215189875
+                },
+                {
+                    "opens": 15,
+                    "artist": "YUNGBLUD",
+                    "share": 0.023734177215189875
+                },
+                {
+                    "opens": 14,
+                    "artist": "Motionless In White",
+                    "share": 0.022151898734177215
+                },
+                {
+                    "opens": 14,
+                    "artist": "WSTR",
+                    "share": 0.022151898734177215
+                },
+                {
+                    "opens": 12,
+                    "artist": "All Time Low",
+                    "share": 0.0189873417721519
+                },
+                {
+                    "opens": 12,
+                    "artist": "Slipknot",
+                    "share": 0.0189873417721519
+                }
+            ],
+            "total_sessions": 632
+        },
+        "Koren": {
+            "artists": [
+                {
+                    "opens": 52,
+                    "artist": "Mint",
+                    "share": 0.14092140921409213
+                },
+                {
+                    "opens": 45,
+                    "artist": "LTJ Bukem",
+                    "share": 0.12195121951219512
+                },
+                {
+                    "opens": 31,
+                    "artist": "Nookie",
+                    "share": 0.08401084010840108
+                },
+                {
+                    "opens": 25,
+                    "artist": "Hidden Agenda",
+                    "share": 0.06775067750677506
+                },
+                {
+                    "opens": 22,
+                    "artist": "Wax Doctor",
+                    "share": 0.05962059620596206
+                },
+                {
+                    "opens": 21,
+                    "artist": "M-Beat",
+                    "share": 0.056910569105691054
+                },
+                {
+                    "opens": 17,
+                    "artist": "Lonnie Liston Smith",
+                    "share": 0.04607046070460705
+                },
+                {
+                    "opens": 16,
+                    "artist": "Alex Reece",
+                    "share": 0.04336043360433604
+                },
+                {
+                    "opens": 15,
+                    "artist": "Goldie",
+                    "share": 0.04065040650406504
+                },
+                {
+                    "opens": 14,
+                    "artist": "Peshay",
+                    "share": 0.037940379403794036
+                },
+                {
+                    "opens": 14,
+                    "artist": "LAZER DIM 700",
+                    "share": 0.037940379403794036
+                },
+                {
+                    "opens": 13,
+                    "artist": "Big Bud",
+                    "share": 0.03523035230352303
+                },
+                {
+                    "opens": 12,
+                    "artist": "Aquasky",
+                    "share": 0.032520325203252036
+                },
+                {
+                    "opens": 11,
+                    "artist": "Roni Size",
+                    "share": 0.02981029810298103
+                },
+                {
+                    "opens": 11,
+                    "artist": "mouse on the keys",
+                    "share": 0.02981029810298103
+                },
+                {
+                    "opens": 10,
+                    "artist": "Omni Trio",
+                    "share": 0.02710027100271003
+                },
+                {
+                    "opens": 10,
+                    "artist": "toe",
+                    "share": 0.02710027100271003
+                },
+                {
+                    "opens": 10,
+                    "artist": "Seba",
+                    "share": 0.02710027100271003
+                },
+                {
+                    "opens": 10,
+                    "artist": "J Laze",
+                    "share": 0.02710027100271003
+                },
+                {
+                    "opens": 10,
+                    "artist": "Tayla",
+                    "share": 0.02710027100271003
+                }
+            ],
+            "total_sessions": 369
+        },
+        "Alan": {
+            "artists": [
+                {
+                    "opens": 85,
+                    "artist": "Kanye West",
+                    "share": 0.1349206349206349
+                },
+                {
+                    "opens": 54,
+                    "artist": "Kendrick Lamar",
+                    "share": 0.08571428571428572
+                },
+                {
+                    "opens": 39,
+                    "artist": "The Roots",
+                    "share": 0.06190476190476191
+                },
+                {
+                    "opens": 38,
+                    "artist": "Denzel Curry",
+                    "share": 0.06031746031746032
+                },
+                {
+                    "opens": 36,
+                    "artist": "Freddie Gibbs",
+                    "share": 0.05714285714285714
+                },
+                {
+                    "opens": 35,
+                    "artist": "Jessie Ware",
+                    "share": 0.05555555555555555
+                },
+                {
+                    "opens": 31,
+                    "artist": "Danny Brown",
+                    "share": 0.049206349206349205
+                },
+                {
+                    "opens": 31,
+                    "artist": "Fiona Apple",
+                    "share": 0.049206349206349205
+                },
+                {
+                    "opens": 28,
+                    "artist": "Nas",
+                    "share": 0.044444444444444446
+                },
+                {
+                    "opens": 26,
+                    "artist": "The Avalanches",
+                    "share": 0.04126984126984127
+                },
+                {
+                    "opens": 25,
+                    "artist": "MGMT",
+                    "share": 0.03968253968253968
+                },
+                {
+                    "opens": 24,
+                    "artist": "Black Star",
+                    "share": 0.0380952380952381
+                },
+                {
+                    "opens": 24,
+                    "artist": "Bruno Pernadas",
+                    "share": 0.0380952380952381
+                },
+                {
+                    "opens": 24,
+                    "artist": "Pusha T",
+                    "share": 0.0380952380952381
+                },
+                {
+                    "opens": 23,
+                    "artist": "Gorillaz",
+                    "share": 0.03650793650793651
+                },
+                {
+                    "opens": 23,
+                    "artist": "Mobb Deep",
+                    "share": 0.03650793650793651
+                },
+                {
+                    "opens": 23,
+                    "artist": "A$AP Rocky",
+                    "share": 0.03650793650793651
+                },
+                {
+                    "opens": 21,
+                    "artist": "The Weeknd",
+                    "share": 0.03333333333333333
+                },
+                {
+                    "opens": 20,
+                    "artist": "DJ Shadow",
+                    "share": 0.031746031746031744
+                },
+                {
+                    "opens": 20,
+                    "artist": "Danger Mouse",
+                    "share": 0.031746031746031744
+                }
+            ],
+            "total_sessions": 630
+        }
+    }
+}

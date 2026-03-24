@@ -4,6 +4,10 @@ include(joinpath(@__DIR__, "..", "utils.jl"))
 using DataFrames
 using CairoMakie
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "skip_by_shuffle")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -16,8 +20,6 @@ const PERIODS = [
   (2024, "2024"),
   (2025, "2025"),
 ]
-
-# Data
 
 function get_user_skip_by_shuffle(; year=nothing)
   conn = get_connection()
@@ -39,8 +41,6 @@ function get_user_skip_by_shuffle(; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_skip_by_shuffle_users(df, year_label)
   nrow(df) == 0 && return
@@ -83,12 +83,10 @@ function plot_skip_by_shuffle_users(df, year_label)
   elems = [PolyElement(polycolor=shuffle_colors[i]) for i in 1:2]
   Legend(fig[1, 2], elems, ["Shuffle On", "Shuffle Off"], "Shuffle")
 
-  fname = "skip_by_shuffle_users_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "skip_by_shuffle_users_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   for (year, year_label) in PERIODS
@@ -121,7 +119,7 @@ function main()
     end
 
     plot_skip_by_shuffle_users(df, year_label)
-    save_json("skip_by_shuffle_$(year_label).json", period_data)
+    save_json(joinpath(DATA_DIR, "skip_by_shuffle_$(year_label).json"), period_data)
   end
 end
 

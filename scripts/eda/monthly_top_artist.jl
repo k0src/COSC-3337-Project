@@ -5,6 +5,10 @@ using DataFrames
 using CairoMakie
 using Colors
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "monthly_top_artist")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -38,8 +42,6 @@ function get_monthly_top_artist(year)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_monthly_top_artist(df, year)
   nrow(df) == 0 && return
@@ -105,13 +107,11 @@ function plot_monthly_top_artist(df, year)
     elems = [PolyElement(polycolor=artist_color[a]) for a in user_unique_artists]
     Legend(fig[1, 2], elems, user_unique_artists, "Top Artist")
 
-    fname = "monthly_top_artist_$(lowercase(display_name))_$(year).png"
+    fname = joinpath(PLOTS_DIR, "monthly_top_artist_$(lowercase(display_name))_$(year).png")
     save(fname, fig)
     println("Plot saved to $fname")
   end
 end
-
-# Main
 
 function main()
   for year in [2024, 2025]
@@ -141,7 +141,7 @@ function main()
       json_data[display_name] = user_data
     end
 
-    save_json("monthly_top_artist_$(year).json", json_data)
+    save_json(joinpath(DATA_DIR, "monthly_top_artist_$(year).json"), json_data)
   end
 end
 

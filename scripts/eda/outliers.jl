@@ -5,6 +5,11 @@ using DataFrames
 using CairoMakie
 using Statistics
 using StatsBase
+using Colors
+
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "outliers")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
 
 const NAMES = Dict(
   "dasucc" => "Anthony",
@@ -13,13 +18,20 @@ const NAMES = Dict(
   "korenns" => "Koren",
 )
 
+const USER_ORDER = ["alanjzamora", "alexxxxxrs", "dasucc", "korenns"]
+
+const USER_COLORS = Dict(
+  "alanjzamora" => colorant"#4C72B0",
+  "alexxxxxrs" => colorant"#DD8452",
+  "dasucc" => colorant"#55A868",
+  "korenns" => colorant"#C44E52",
+)
+
 const PERIODS = [
   (nothing, "alltime"),
   (2024, "2024"),
   (2025, "2025"),
 ]
-
-# Stats
 
 function compute_stats(values)
   vals = Float64.(collect(skipmissing(values)))
@@ -47,12 +59,19 @@ function compute_stats(values)
   )
 end
 
-# Data
+function n_bins_fd(vals::Vector{Float64})
+  n = length(vals)
+  n < 4 && return 10
+  iqr_val = quantile(vals, 0.75) - quantile(vals, 0.25)
+  rng = maximum(vals) - minimum(vals)
+  (iqr_val ≈ 0 || rng ≈ 0) && return 20
+  bw = 2.0 * iqr_val / n^(1.0 / 3.0)
+  clamp(round(Int, rng / bw), 10, 60)
+end
 
 function get_user_daily_play_counts(username; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM timestamp) = $year"
-
   query = """
     SELECT
       DATE_TRUNC('day', timestamp)::DATE::TEXT AS date,
@@ -63,7 +82,6 @@ function get_user_daily_play_counts(username; year=nothing)
     GROUP BY date
     ORDER BY date
   """
-
   df = DataFrame(execute(conn, query))
   close(conn)
   return df
@@ -72,19 +90,14 @@ end
 function get_user_plays_per_track(username; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM timestamp) = $year"
-
   query = """
-    SELECT
-      track_name,
-      artist_name,
-      COUNT(*) AS play_count
+    SELECT track_name, artist_name, COUNT(*) AS play_count
     FROM listening_history
     WHERE username = '$username'
     $year_filter
     GROUP BY track_name, artist_name
     ORDER BY play_count DESC
   """
-
   df = DataFrame(execute(conn, query))
   close(conn)
   return df
@@ -93,18 +106,14 @@ end
 function get_user_plays_per_artist(username; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM timestamp) = $year"
-
   query = """
-    SELECT
-      artist_name,
-      COUNT(*) AS play_count
+    SELECT artist_name, COUNT(*) AS play_count
     FROM listening_history
     WHERE username = '$username'
     $year_filter
     GROUP BY artist_name
     ORDER BY play_count DESC
   """
-
   df = DataFrame(execute(conn, query))
   close(conn)
   return df
@@ -113,19 +122,31 @@ end
 function get_user_plays_per_album(username; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM timestamp) = $year"
-
   query = """
-    SELECT
-      album_name,
-      artist_name,
-      COUNT(*) AS play_count
+    SELECT album_name, artist_name, COUNT(*) AS play_count
     FROM listening_history
     WHERE username = '$username'
     $year_filter
     GROUP BY album_name, artist_name
     ORDER BY play_count DESC
   """
+  df = DataFrame(execute(conn, query))
+  close(conn)
+  return df
+end
 
+function get_user_plays_per_genre(username; year=nothing)
+  conn = get_connection()
+  year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM lh.timestamp) = $year"
+  query = """
+    SELECT ag.genre, COUNT(*) AS play_count
+    FROM listening_history lh
+    JOIN artist_genres ag ON lh.artist_name = ag.artist_name
+    WHERE lh.username = '$username'
+    $year_filter
+    GROUP BY ag.genre
+    ORDER BY play_count DESC
+  """
   df = DataFrame(execute(conn, query))
   close(conn)
   return df
@@ -134,7 +155,6 @@ end
 function get_user_session_lengths(username; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM timestamp) = $year"
-
   query = """
     WITH session_boundaries AS (
       SELECT
@@ -170,13 +190,12 @@ function get_user_session_lengths(username; year=nothing)
     FROM session_lengths
     ORDER BY session_length_minutes
   """
-
   df = DataFrame(execute(conn, query))
   close(conn)
   return df
 end
 
-# Helpers
+# ── Serialization ─────────────────────────────────────────────────────────────
 
 function serialize_row(key, row)
   if key == "daily_play_count"
@@ -187,12 +206,12 @@ function serialize_row(key, row)
     Dict{String,Any}("artist_name" => String(row.artist_name), "play_count" => Int(row.play_count))
   elseif key == "plays_per_album"
     Dict{String,Any}("album_name" => string(coalesce(row.album_name, "Unknown")), "artist_name" => String(row.artist_name), "play_count" => Int(row.play_count))
+  elseif key == "plays_per_genre"
+    Dict{String,Any}("genre" => String(row.genre), "play_count" => Int(row.play_count))
   else
     Dict{String,Any}("session_length_minutes" => Float64(row.session_length_minutes))
   end
 end
-
-# Print
 
 function print_stats(stats)
   if isempty(stats)
@@ -211,7 +230,81 @@ function print_stats(stats)
   println("    iqr:      $(round(stats["iqr"];      digits=4))")
 end
 
-# Main
+function plot_boxplot(vals_dict, key, year_label)
+  all(isempty(v) for v in values(vals_dict)) && return
+
+  display_names = [NAMES[u] for u in USER_ORDER]
+  n = length(USER_ORDER)
+
+  fig = Figure(size=(800, 600))
+  ax = Axis(fig[1, 1],
+    ylabel="Value (log scale)",
+    yscale=log10,
+  )
+  ax.xticks = (1:n, display_names)
+
+  for (i, username) in enumerate(USER_ORDER)
+    vals = filter(v -> v > 0, get(vals_dict, username, Float64[]))
+    isempty(vals) && continue
+    boxplot!(ax, fill(i, length(vals)), vals,
+      show_outliers=true,
+      color=(USER_COLORS[username], 0.75))
+  end
+
+  fname = joinpath(PLOTS_DIR, "boxplot_$(key)_$(year_label).png")
+  save(fname, fig)
+  println("Plot saved to $fname")
+end
+
+const LOG_TRANSFORM_KEYS = Set([
+  "plays_per_track", "plays_per_artist", "plays_per_album",
+  "plays_per_genre", "session_length",
+])
+
+function plot_histogram(clean_vals_dict, key, year_label)
+  use_log = key in LOG_TRANSFORM_KEYS
+
+  for username in USER_ORDER
+    raw_vals = get(clean_vals_dict, username, Float64[])
+
+    if use_log
+      plot_vals = log10.(filter(v -> v > 0, raw_vals))
+    else
+      plot_vals = filter(v -> isfinite(v), raw_vals)
+    end
+
+    isempty(plot_vals) && continue
+
+    fig = Figure(size=(800, 500))
+    ax = Axis(fig[1, 1],
+      xlabel=use_log ? "log₁₀(plays)" : key,
+      ylabel="Density",
+    )
+
+    if use_log
+      lo = floor(Int, minimum(plot_vals))
+      hi = ceil(Int, maximum(plot_vals))
+      tick_pos = Float64.(lo:hi)
+      tick_labels = [v == 0 ? "1" : "10^$v" for v in lo:hi]
+      ax.xticks = (tick_pos, tick_labels)
+    end
+
+    nbins = n_bins_fd(plot_vals)
+    hist!(ax, plot_vals,
+      bins=nbins,
+      normalization=:pdf,
+      color=(USER_COLORS[username], 0.55))
+
+    density!(ax, plot_vals,
+      color=(:black, 0.0),
+      strokecolor=USER_COLORS[username],
+      strokewidth=2.5)
+
+    fname = joinpath(PLOTS_DIR, "histogram_$(key)_$(username)_$(year_label).png")
+    save(fname, fig)
+    println("Plot saved to $fname")
+  end
+end
 
 function main()
   for (year, year_label) in PERIODS
@@ -222,12 +315,14 @@ function main()
     track_dfs = Dict(u => get_user_plays_per_track(u, year=year) for u in keys(NAMES))
     artist_dfs = Dict(u => get_user_plays_per_artist(u, year=year) for u in keys(NAMES))
     album_dfs = Dict(u => get_user_plays_per_album(u, year=year) for u in keys(NAMES))
+    genre_dfs = Dict(u => get_user_plays_per_genre(u, year=year) for u in keys(NAMES))
     session_dfs = Dict(u => get_user_session_lengths(u, year=year) for u in keys(NAMES))
 
     daily_vals = Dict(u => Float64.(collect(skipmissing(df.play_count))) for (u, df) in daily_dfs)
     track_vals = Dict(u => Float64.(collect(skipmissing(df.play_count))) for (u, df) in track_dfs)
     artist_vals = Dict(u => Float64.(collect(skipmissing(df.play_count))) for (u, df) in artist_dfs)
     album_vals = Dict(u => Float64.(collect(skipmissing(df.play_count))) for (u, df) in album_dfs)
+    genre_vals = Dict(u => Float64.(collect(skipmissing(df.play_count))) for (u, df) in genre_dfs)
     session_vals = Dict(u => Float64.(collect(skipmissing(df.session_length_minutes))) for (u, df) in session_dfs)
 
     attrs = [
@@ -235,6 +330,7 @@ function main()
       ("Plays per Track", "plays_per_track", track_vals, track_dfs),
       ("Plays per Artist", "plays_per_artist", artist_vals, artist_dfs),
       ("Plays per Album", "plays_per_album", album_vals, album_dfs),
+      ("Plays per Genre", "plays_per_genre", genre_vals, genre_dfs),
       ("Session Length", "session_length", session_vals, session_dfs),
     ]
 
@@ -279,7 +375,6 @@ function main()
         println()
 
         clean_data = [serialize_row(key, r) for r in eachrow(clean_df)]
-
         outlier_data = [
           merge(serialize_row(key, r), Dict{String,Any}("z_score" => (v - mu) / sigma))
           for (r, v) in zip(eachrow(outlier_df), outlier_vals)
@@ -292,7 +387,9 @@ function main()
         )
       end
 
-      save_json("outliers_$(key)_$(year_label).json", attr_json)
+      plot_boxplot(vals_dict, key, year_label)
+      plot_histogram(clean_vals_dict, key, year_label)
+      save_json(joinpath(DATA_DIR, "outliers_$(key)_$(year_label).json"), attr_json)
     end
   end
 end

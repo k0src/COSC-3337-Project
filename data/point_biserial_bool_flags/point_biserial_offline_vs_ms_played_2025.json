@@ -1,0 +1,42 @@
+{
+    "Anthony": {
+        "n_offline_false": 13639,
+        "mean_minutes_offline_false": 2.4240346579661267,
+        "t": -0.134406303887397,
+        "n_offline_true": 64,
+        "p_value": 0.8930832713081198,
+        "r_pb": -0.0011482678858587034,
+        "mean_minutes_offline_true": 2.3956828125,
+        "n": 13703
+    },
+    "Alexandra": {
+        "n_offline_false": 8591,
+        "mean_minutes_offline_false": 2.378333121871726,
+        "t": 6.035656707487959,
+        "n_offline_true": 120,
+        "p_value": 1.6478727537315853e-9,
+        "r_pb": 0.06454074398024916,
+        "mean_minutes_offline_true": 3.2106841666666663,
+        "n": 8711
+    },
+    "Koren": {
+        "n_offline_false": 17005,
+        "mean_minutes_offline_false": 2.4909787983926295,
+        "t": -7.796832160398479,
+        "n_offline_true": 137,
+        "p_value": 6.710549405177454e-15,
+        "r_pb": -0.05944892162088341,
+        "mean_minutes_offline_true": 0.5941267639902676,
+        "n": 17142
+    },
+    "Alan": {
+        "n_offline_false": 29281,
+        "mean_minutes_offline_false": 1.5011552411689038,
+        "t": 1.196913231467784,
+        "n_offline_true": 35,
+        "p_value": 0.23135005578107504,
+        "r_pb": 0.006990600992567069,
+        "mean_minutes_offline_true": 1.8627542857142856,
+        "n": 29316
+    }
+}

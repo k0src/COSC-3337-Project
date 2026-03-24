@@ -4,6 +4,10 @@ include(joinpath(@__DIR__, "..", "utils.jl"))
 using DataFrames
 using CairoMakie
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "listening_times")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -16,8 +20,6 @@ const PERIODS = [
   (2024, "2024"),
   (2025, "2025"),
 ]
-
-# Data
 
 function get_hourly_counts(username; year=nothing)
   conn = get_connection()
@@ -38,8 +40,6 @@ function get_hourly_counts(username; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_listening_times(username, df, year_label)
   display_name = get(NAMES, username, username)
@@ -102,12 +102,10 @@ function plot_listening_times(username, df, year_label)
   Colorbar(fig[1, 2], colormap=:inferno, limits=(0, max_count),
     label="Events", height=Relative(0.6))
 
-  fname = "listening_times_$(username)_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "listening_times_$(username)_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   for (year, year_label) in PERIODS
@@ -132,7 +130,7 @@ function main()
       )
     end
 
-    save_json("listening_times_$(year_label).json", period_data)
+    save_json(joinpath(DATA_DIR, "listening_times_$(year_label).json"), period_data)
   end
 end
 

@@ -4,6 +4,10 @@ include(joinpath(@__DIR__, "..", "utils.jl"))
 using DataFrames
 using CairoMakie
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "top_20")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -16,6 +20,11 @@ const PERIODS = [
   (2024, "2024"),
   (2025, "2025"),
 ]
+
+const COLOR_TRACKS = "#4C72B0"
+const COLOR_ARTISTS = "#DD8452"
+const COLOR_ALBUMS = "#55A868"
+const COLOR_GENRES = "#C44E52"
 
 # Data
 
@@ -85,7 +94,27 @@ function get_user_top_albums(username; year=nothing)
   return df
 end
 
-# Helpers
+function get_user_top_genres(username; year=nothing)
+  conn = get_connection()
+  year_filter = year === nothing ? "" : "AND EXTRACT(YEAR FROM lh.timestamp) = $year"
+
+  query = """
+    SELECT
+      ag.genre,
+      COUNT(*) AS play_count
+    FROM listening_history lh
+    JOIN artist_genres ag ON lh.artist_name = ag.artist_name
+    WHERE lh.username = '$username'
+    $year_filter
+    GROUP BY ag.genre
+    ORDER BY play_count DESC
+    LIMIT 20
+  """
+
+  df = DataFrame(execute(conn, query))
+  close(conn)
+  return df
+end
 
 function truncate(s, maxlen=30)
   length(s) <= maxlen && return s
@@ -95,8 +124,6 @@ end
 function two_line_label(name, artist)
   "$(truncate(name))\n$(truncate(artist))"
 end
-
-# Plots
 
 function plot_top_tracks(df, username, display_name, year_label)
   nrow(df) == 0 && return
@@ -111,12 +138,11 @@ function plot_top_tracks(df, username, display_name, year_label)
   fig = Figure(size=(1000, 600))
   ax = Axis(fig[1, 1],
     title="Top 10 Tracks - $display_name - $(year_label == "alltime" ? "All-Time" : year_label)",
-    xlabel="Play Count",
   )
   ax.yticks = (1:n, labels)
-  barplot!(ax, 1:n, counts, direction=:x)
+  barplot!(ax, 1:n, counts, direction=:x, color=COLOR_TRACKS)
 
-  fname = "top10_tracks_$(username)_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "top10_tracks_$(username)_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
@@ -131,12 +157,11 @@ function plot_top_artists(df, username, display_name, year_label)
   fig = Figure(size=(1000, 600))
   ax = Axis(fig[1, 1],
     title="Top 10 Artists - $display_name - $(year_label == "alltime" ? "All-Time" : year_label)",
-    xlabel="Play Count",
   )
   ax.yticks = (1:n, labels)
-  barplot!(ax, 1:n, counts, direction=:x)
+  barplot!(ax, 1:n, counts, direction=:x, color=COLOR_ARTISTS)
 
-  fname = "top10_artists_$(username)_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "top10_artists_$(username)_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
@@ -154,17 +179,33 @@ function plot_top_albums(df, username, display_name, year_label)
   fig = Figure(size=(1000, 600))
   ax = Axis(fig[1, 1],
     title="Top 10 Albums - $display_name - $(year_label == "alltime" ? "All-Time" : year_label)",
-    xlabel="Play Count",
   )
   ax.yticks = (1:n, labels)
-  barplot!(ax, 1:n, counts, direction=:x)
+  barplot!(ax, 1:n, counts, direction=:x, color=COLOR_ALBUMS)
 
-  fname = "top10_albums_$(username)_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "top10_albums_$(username)_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
 
-# Main
+function plot_top_genres(df, username, display_name, year_label)
+  nrow(df) == 0 && return
+  n = min(10, nrow(df))
+
+  counts = reverse(Int.(df.play_count[1:n]))
+  labels = reverse([truncate(String(df.genre[i])) for i in 1:n])
+
+  fig = Figure(size=(1000, 600))
+  ax = Axis(fig[1, 1],
+    title="Top 10 Genres - $display_name - $(year_label == "alltime" ? "All-Time" : year_label)",
+  )
+  ax.yticks = (1:n, labels)
+  barplot!(ax, 1:n, counts, direction=:x, color=COLOR_GENRES)
+
+  fname = joinpath(PLOTS_DIR, "top10_genres_$(username)_$(year_label).png")
+  save(fname, fig)
+  println("Plot saved to $fname")
+end
 
 function main()
   all_data = Dict{String,Any}()
@@ -176,6 +217,7 @@ function main()
       tracks_df = get_user_top_tracks(username, year=year)
       artists_df = get_user_top_artists(username, year=year)
       albums_df = get_user_top_albums(username, year=year)
+      genres_df = get_user_top_genres(username, year=year)
 
       period_data[display_name] = Dict{String,Any}(
         "tracks" => [
@@ -202,17 +244,25 @@ function main()
           )
           for row in eachrow(albums_df)
         ],
+        "genres" => [
+          Dict{String,Any}(
+            "genre" => String(row.genre),
+            "play_count" => Int(row.play_count),
+          )
+          for row in eachrow(genres_df)
+        ],
       )
 
       plot_top_tracks(tracks_df, username, display_name, year_label)
       plot_top_artists(artists_df, username, display_name, year_label)
       plot_top_albums(albums_df, username, display_name, year_label)
+      plot_top_genres(genres_df, username, display_name, year_label)
     end
 
     all_data[year_label] = period_data
   end
 
-  save_json("top_20.json", all_data)
+  save_json(joinpath(DATA_DIR, "top_20.json"), all_data)
 end
 
 main()

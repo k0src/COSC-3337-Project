@@ -19,8 +19,6 @@ const PERIODS = [
 
 const USER_ORDER = sort(collect(keys(NAMES)))
 
-# Data
-
 function get_repeat_vs_new(; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
@@ -48,8 +46,6 @@ function get_repeat_vs_new(; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function draw_donut!(ax, fracs, colors; inner_r=0.35, outer_r=0.85, arc_steps=200)
   angle = π / 2
@@ -113,8 +109,6 @@ function plot_repeat_vs_new(df, year_label)
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   for (year, year_label) in PERIODS

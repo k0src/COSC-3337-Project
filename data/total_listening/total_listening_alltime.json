@@ -1,22 +1,22 @@
 {
-  "Anthony": {
-    "total_minutes": 111125.19961666666,
-    "play_count": 72483,
-    "total_hours": 1852.0866602777778
-  },
-  "Alexandra": {
-    "total_minutes": 292826.90723333333,
-    "play_count": 139541,
-    "total_hours": 4880.448453888889
-  },
-  "Koren": {
-    "total_minutes": 218405.78233333334,
-    "play_count": 181858,
-    "total_hours": 3640.0963722222223
-  },
-  "Alan": {
-    "total_minutes": 443300.79415,
-    "play_count": 450283,
-    "total_hours": 7388.346569166666
-  }
+    "Anthony": {
+        "total_minutes": 110963.30666666667,
+        "play_count": 72459,
+        "total_hours": 1849.3884444444445
+    },
+    "Alexandra": {
+        "total_minutes": 292424.8141,
+        "play_count": 139496,
+        "total_hours": 4873.746901666667
+    },
+    "Koren": {
+        "total_minutes": 216588.57238333335,
+        "play_count": 181373,
+        "total_hours": 3609.8095397222223
+    },
+    "Alan": {
+        "total_minutes": 427018.2581,
+        "play_count": 449171,
+        "total_hours": 7116.970968333333
+    }
 }

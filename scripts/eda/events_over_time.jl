@@ -5,6 +5,10 @@ using DataFrames
 using CairoMakie
 using OrderedCollections
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "events_over_time_moving_avg")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -17,8 +21,6 @@ const PERIODS = [
   (2024, "2024"),
   (2025, "2025"),
 ]
-
-# Data
 
 function get_events_over_time(; year=nothing)
   conn = get_connection()
@@ -40,7 +42,14 @@ function get_events_over_time(; year=nothing)
   return df
 end
 
-# Plots
+function moving_avg(v::Vector{<:Real}, w::Int=3)
+  n = length(v)
+  out = fill(NaN, n)
+  for i in w:n
+    out[i] = sum(v[i-w+1:i]) / w
+  end
+  return out
+end
 
 function plot_events_over_time(df, year_label; year=nothing)
   nrow(df) == 0 && return
@@ -71,13 +80,16 @@ function plot_events_over_time(df, year_label; year=nothing)
       end
       lines!(ax, 1:12, month_totals, label=display_name, color=colors[i])
       scatter!(ax, 1:12, month_totals, color=colors[i])
+      ma = moving_avg(Float64.(month_totals))
+      valid = .!isnan.(ma)
+      lines!(ax, (1:12)[valid], ma[valid], color=colors[i], linestyle=:dash, linewidth=1.5)
     end
   else
-    all_dates = sort(unique(String.(df.date)))
-    date_index = Dict(d => i for (i, d) in enumerate(all_dates))
+    all_months = sort(unique([String(d)[1:7] for d in df.date]))
+    month_index = Dict(m => i for (i, m) in enumerate(all_months))
 
-    jan_positions = [date_index[d] for d in all_dates if endswith(d, "-01-01")]
-    jan_labels = [d[1:4] for d in all_dates if endswith(d, "-01-01")]
+    jan_positions = [month_index[m] for m in all_months if endswith(m, "-01")]
+    jan_labels = [m[1:4] for m in all_months if endswith(m, "-01")]
 
     ax = Axis(fig[1, 1],
       title="Listening Events Over Time - $title_label",
@@ -88,21 +100,26 @@ function plot_events_over_time(df, year_label; year=nothing)
 
     for (i, (username, display_name)) in enumerate(NAMES)
       user_df = filter(row -> row.username == username, df)
-      sort!(user_df, :date)
-      xs = [date_index[d] for d in String.(user_df.date)]
-      ys = Int.(user_df.events)
-      lines!(ax, xs, ys, label=display_name, color=colors[i])
+      monthly = Dict{String,Int}()
+      for row in eachrow(user_df)
+        m = String(row.date)[1:7]
+        monthly[m] = get(monthly, m, 0) + Int(row.events)
+      end
+      xs = [month_index[m] for m in all_months if haskey(monthly, m)]
+      ys = [monthly[m] for m in all_months if haskey(monthly, m)]
+      lines!(ax, xs, ys, label=display_name, color=colors[i], alpha=0.4)
+      ma = moving_avg(Float64.(ys))
+      valid = .!isnan.(ma)
+      lines!(ax, xs[valid], ma[valid], color=colors[i], linestyle=:dash, linewidth=2.0)
     end
   end
 
   axislegend(ax, position=:rt)
 
-  fname = "events_over_time_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "events_over_time_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   for (year, year_label) in PERIODS
@@ -118,7 +135,7 @@ function main()
     end
 
     plot_events_over_time(df, year_label, year=year)
-    save_json("events_over_time_$(year_label).json", period_data)
+    save_json(joinpath(DATA_DIR, "events_over_time_$(year_label).json"), period_data)
   end
 end
 

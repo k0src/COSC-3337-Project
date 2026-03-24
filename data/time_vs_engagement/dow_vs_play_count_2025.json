@@ -1,0 +1,162 @@
+{
+  "Anthony": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "play_count": 2049
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "play_count": 1958
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "play_count": 2338
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "play_count": 1764
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "play_count": 2131
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "play_count": 1624
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "play_count": 1839
+      }
+    ],
+    "peak_day": "Wed"
+  },
+  "Alexandra": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "play_count": 1258
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "play_count": 1456
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "play_count": 1246
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "play_count": 1514
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "play_count": 1253
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "play_count": 984
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "play_count": 1000
+      }
+    ],
+    "peak_day": "Thu"
+  },
+  "Koren": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "play_count": 2514
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "play_count": 2767
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "play_count": 2584
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "play_count": 2891
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "play_count": 2500
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "play_count": 1938
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "play_count": 1948
+      }
+    ],
+    "peak_day": "Thu"
+  },
+  "Alan": {
+    "points": [
+      {
+        "dow_index": 1,
+        "dow": "Mon",
+        "play_count": 4407
+      },
+      {
+        "dow_index": 2,
+        "dow": "Tue",
+        "play_count": 3951
+      },
+      {
+        "dow_index": 3,
+        "dow": "Wed",
+        "play_count": 4289
+      },
+      {
+        "dow_index": 4,
+        "dow": "Thu",
+        "play_count": 4271
+      },
+      {
+        "dow_index": 5,
+        "dow": "Fri",
+        "play_count": 4945
+      },
+      {
+        "dow_index": 6,
+        "dow": "Sat",
+        "play_count": 3854
+      },
+      {
+        "dow_index": 7,
+        "dow": "Sun",
+        "play_count": 3599
+      }
+    ],
+    "peak_day": "Fri"
+  }
+}

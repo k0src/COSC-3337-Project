@@ -1,0 +1,266 @@
+{
+    "Anthony": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 1899,
+                "entropy": 6.320629006496162
+            },
+            {
+                "month": 2,
+                "play_count": 1967,
+                "entropy": 6.211459551249781
+            },
+            {
+                "month": 3,
+                "play_count": 1617,
+                "entropy": 5.870343223730869
+            },
+            {
+                "month": 4,
+                "play_count": 2270,
+                "entropy": 6.678262334385933
+            },
+            {
+                "month": 5,
+                "play_count": 1262,
+                "entropy": 6.428040021358624
+            },
+            {
+                "month": 6,
+                "play_count": 1293,
+                "entropy": 5.800573156428953
+            },
+            {
+                "month": 7,
+                "play_count": 1047,
+                "entropy": 6.1920672744403085
+            },
+            {
+                "month": 8,
+                "play_count": 821,
+                "entropy": 5.517168611819612
+            },
+            {
+                "month": 9,
+                "play_count": 250,
+                "entropy": 4.949883993497226
+            },
+            {
+                "month": 10,
+                "play_count": 405,
+                "entropy": 5.846882327159355
+            },
+            {
+                "month": 11,
+                "play_count": 421,
+                "entropy": 6.004081976660773
+            },
+            {
+                "month": 12,
+                "play_count": 451,
+                "entropy": 5.053568051783814
+            }
+        ],
+        "correlation": 0.747443464127764,
+        "n_months": 12
+    },
+    "Alexandra": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 947,
+                "entropy": 6.455320256586498
+            },
+            {
+                "month": 2,
+                "play_count": 836,
+                "entropy": 6.7020807167088154
+            },
+            {
+                "month": 3,
+                "play_count": 779,
+                "entropy": 6.978180590968966
+            },
+            {
+                "month": 4,
+                "play_count": 786,
+                "entropy": 6.784897138661962
+            },
+            {
+                "month": 5,
+                "play_count": 1004,
+                "entropy": 6.982903837945694
+            },
+            {
+                "month": 6,
+                "play_count": 504,
+                "entropy": 6.602265879588752
+            },
+            {
+                "month": 7,
+                "play_count": 510,
+                "entropy": 6.587984845631388
+            },
+            {
+                "month": 8,
+                "play_count": 599,
+                "entropy": 6.648847708099241
+            },
+            {
+                "month": 9,
+                "play_count": 601,
+                "entropy": 6.525642536546471
+            },
+            {
+                "month": 10,
+                "play_count": 682,
+                "entropy": 6.517338614669013
+            },
+            {
+                "month": 11,
+                "play_count": 831,
+                "entropy": 6.51374204897625
+            },
+            {
+                "month": 12,
+                "play_count": 632,
+                "entropy": 6.27296597093806
+            }
+        ],
+        "correlation": 0.39515048783092577,
+        "n_months": 12
+    },
+    "Koren": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 1479,
+                "entropy": 7.581501280043538
+            },
+            {
+                "month": 2,
+                "play_count": 2641,
+                "entropy": 7.260935711388028
+            },
+            {
+                "month": 3,
+                "play_count": 4059,
+                "entropy": 7.868342341932342
+            },
+            {
+                "month": 4,
+                "play_count": 2045,
+                "entropy": 6.606809905111848
+            },
+            {
+                "month": 5,
+                "play_count": 681,
+                "entropy": 6.3686099388666015
+            },
+            {
+                "month": 6,
+                "play_count": 570,
+                "entropy": 7.363739875769042
+            },
+            {
+                "month": 7,
+                "play_count": 891,
+                "entropy": 7.487420197771154
+            },
+            {
+                "month": 8,
+                "play_count": 881,
+                "entropy": 7.516709026356493
+            },
+            {
+                "month": 9,
+                "play_count": 1211,
+                "entropy": 7.4753945486230675
+            },
+            {
+                "month": 10,
+                "play_count": 1384,
+                "entropy": 7.708564859714807
+            },
+            {
+                "month": 11,
+                "play_count": 446,
+                "entropy": 7.376496472815052
+            },
+            {
+                "month": 12,
+                "play_count": 854,
+                "entropy": 7.962713131647852
+            }
+        ],
+        "correlation": 0.17593138458546165,
+        "n_months": 12
+    },
+    "Alan": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 2242,
+                "entropy": 6.596577923691404
+            },
+            {
+                "month": 2,
+                "play_count": 3946,
+                "entropy": 6.87253781156755
+            },
+            {
+                "month": 3,
+                "play_count": 4255,
+                "entropy": 6.899434243500156
+            },
+            {
+                "month": 4,
+                "play_count": 1095,
+                "entropy": 6.647483485829293
+            },
+            {
+                "month": 5,
+                "play_count": 1148,
+                "entropy": 5.974148348442453
+            },
+            {
+                "month": 6,
+                "play_count": 1937,
+                "entropy": 6.672339648944432
+            },
+            {
+                "month": 7,
+                "play_count": 2309,
+                "entropy": 6.154336624694212
+            },
+            {
+                "month": 8,
+                "play_count": 2351,
+                "entropy": 6.417756690819826
+            },
+            {
+                "month": 9,
+                "play_count": 3088,
+                "entropy": 6.407123226864849
+            },
+            {
+                "month": 10,
+                "play_count": 1935,
+                "entropy": 5.957180095198094
+            },
+            {
+                "month": 11,
+                "play_count": 3227,
+                "entropy": 6.543955935663128
+            },
+            {
+                "month": 12,
+                "play_count": 1783,
+                "entropy": 6.392631661041112
+            }
+        ],
+        "correlation": 0.5933231831776972,
+        "n_months": 12
+    }
+}

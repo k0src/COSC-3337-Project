@@ -3,7 +3,7 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-SOURCE_FOLDER = Path(r"C:\Users\clips\!Code\COSC-3337\data\listening_times\plots")
+SOURCE_FOLDER = Path(r"C:\Users\clips\!Code\COSC-3337\data\user_self_drift\plots")
 
 TOLERANCE = 10
 
@@ -11,7 +11,6 @@ IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".webp"}
 
 
 def autocrop_image(image: Image.Image, tolerance: int = TOLERANCE) -> Image.Image:
-    """Crop away uniform borders using row/column variance."""
     img_array = np.array(image.convert("RGB"))
 
     row_variance = np.var(img_array, axis=(1, 2))
@@ -33,8 +32,6 @@ def autocrop_image(image: Image.Image, tolerance: int = TOLERANCE) -> Image.Imag
 
 def main() -> None:
     source = SOURCE_FOLDER
-    output_dir = source / "cropped"
-    output_dir.mkdir(parents=True, exist_ok=True)
 
     image_paths = [
         p
@@ -49,11 +46,10 @@ def main() -> None:
     for image_path in image_paths:
         with Image.open(image_path) as img:
             cropped = autocrop_image(img)
-            output_path = output_dir / image_path.name
-            cropped.save(output_path)
-            print(f"Cropped: {image_path.name} -> {output_path}")
+            fmt = img.format
+            cropped.save(image_path, format=fmt)
 
-    print(f"Cropped images saved to: {output_dir}")
+            print(f"Cropped: {image_path}")
 
 
 if __name__ == "__main__":

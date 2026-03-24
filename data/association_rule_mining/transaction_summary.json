@@ -1,0 +1,30 @@
+{
+  "alanjzamora": {
+    "n_sessions": 11192,
+    "vocab_size": 525,
+    "mean_size": 15.16,
+    "username": "alanjzamora",
+    "display": "Alan"
+  },
+  "alexxxxxrs": {
+    "n_sessions": 8234,
+    "vocab_size": 648,
+    "mean_size": 11.4,
+    "username": "alexxxxxrs",
+    "display": "Alexandra"
+  },
+  "dasucc": {
+    "n_sessions": 1762,
+    "vocab_size": 387,
+    "mean_size": 18.07,
+    "username": "dasucc",
+    "display": "Anthony"
+  },
+  "korenns": {
+    "n_sessions": 5968,
+    "vocab_size": 1419,
+    "mean_size": 15.94,
+    "username": "korenns",
+    "display": "Koren"
+  }
+}

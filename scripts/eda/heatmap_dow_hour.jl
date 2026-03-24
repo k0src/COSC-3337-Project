@@ -17,8 +17,6 @@ const PERIODS = [
   (2025, "2025"),
 ]
 
-# Data
-
 function get_dow_hour_counts(; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
@@ -39,8 +37,6 @@ function get_dow_hour_counts(; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_dow_hour_heatmap(df, username, year_label)
   display_name = get(NAMES, username, username)
@@ -71,8 +67,6 @@ function plot_dow_hour_heatmap(df, username, year_label)
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   for (year, year_label) in PERIODS

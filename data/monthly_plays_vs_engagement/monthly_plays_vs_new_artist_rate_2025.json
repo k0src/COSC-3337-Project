@@ -1,0 +1,266 @@
+{
+    "Anthony": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 1899,
+                "new_artist_rate": 0.023696682464454975
+            },
+            {
+                "month": 2,
+                "play_count": 1967,
+                "new_artist_rate": 0.021860701576004067
+            },
+            {
+                "month": 3,
+                "play_count": 1617,
+                "new_artist_rate": 0.021026592455163882
+            },
+            {
+                "month": 4,
+                "play_count": 2270,
+                "new_artist_rate": 0.013215859030837005
+            },
+            {
+                "month": 5,
+                "play_count": 1262,
+                "new_artist_rate": 0.03803486529318542
+            },
+            {
+                "month": 6,
+                "play_count": 1293,
+                "new_artist_rate": 0.07424593967517401
+            },
+            {
+                "month": 7,
+                "play_count": 1047,
+                "new_artist_rate": 0.0057306590257879654
+            },
+            {
+                "month": 8,
+                "play_count": 821,
+                "new_artist_rate": 0.0097442143727162
+            },
+            {
+                "month": 9,
+                "play_count": 250,
+                "new_artist_rate": 0
+            },
+            {
+                "month": 10,
+                "play_count": 405,
+                "new_artist_rate": 0.0049382716049382715
+            },
+            {
+                "month": 11,
+                "play_count": 421,
+                "new_artist_rate": 0
+            },
+            {
+                "month": 12,
+                "play_count": 451,
+                "new_artist_rate": 0.004434589800443459
+            }
+        ],
+        "correlation": 0.4152450897856886,
+        "n_months": 12
+    },
+    "Alexandra": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 947,
+                "new_artist_rate": 0.13727560718057022
+            },
+            {
+                "month": 2,
+                "play_count": 836,
+                "new_artist_rate": 0.007177033492822967
+            },
+            {
+                "month": 3,
+                "play_count": 779,
+                "new_artist_rate": 0.026957637997432605
+            },
+            {
+                "month": 4,
+                "play_count": 786,
+                "new_artist_rate": 0.021628498727735368
+            },
+            {
+                "month": 5,
+                "play_count": 1004,
+                "new_artist_rate": 0.00099601593625498
+            },
+            {
+                "month": 6,
+                "play_count": 504,
+                "new_artist_rate": 0.025793650793650792
+            },
+            {
+                "month": 7,
+                "play_count": 510,
+                "new_artist_rate": 0.021568627450980392
+            },
+            {
+                "month": 8,
+                "play_count": 599,
+                "new_artist_rate": 0.00667779632721202
+            },
+            {
+                "month": 9,
+                "play_count": 601,
+                "new_artist_rate": 0.014975041597337771
+            },
+            {
+                "month": 10,
+                "play_count": 682,
+                "new_artist_rate": 0.005865102639296188
+            },
+            {
+                "month": 11,
+                "play_count": 831,
+                "new_artist_rate": 0
+            },
+            {
+                "month": 12,
+                "play_count": 632,
+                "new_artist_rate": 0.0031645569620253164
+            }
+        ],
+        "correlation": 0.30482533773935677,
+        "n_months": 12
+    },
+    "Koren": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 1479,
+                "new_artist_rate": 0.03989181879648411
+            },
+            {
+                "month": 2,
+                "play_count": 2641,
+                "new_artist_rate": 0.09201060204468005
+            },
+            {
+                "month": 3,
+                "play_count": 4059,
+                "new_artist_rate": 0.025868440502586843
+            },
+            {
+                "month": 4,
+                "play_count": 2045,
+                "new_artist_rate": 0.004889975550122249
+            },
+            {
+                "month": 5,
+                "play_count": 681,
+                "new_artist_rate": 0.01762114537444934
+            },
+            {
+                "month": 6,
+                "play_count": 570,
+                "new_artist_rate": 0.031578947368421054
+            },
+            {
+                "month": 7,
+                "play_count": 891,
+                "new_artist_rate": 0.09988776655443322
+            },
+            {
+                "month": 8,
+                "play_count": 881,
+                "new_artist_rate": 0.03064699205448354
+            },
+            {
+                "month": 9,
+                "play_count": 1211,
+                "new_artist_rate": 0.04541701073492981
+            },
+            {
+                "month": 10,
+                "play_count": 1384,
+                "new_artist_rate": 0.054190751445086706
+            },
+            {
+                "month": 11,
+                "play_count": 446,
+                "new_artist_rate": 0.06502242152466367
+            },
+            {
+                "month": 12,
+                "play_count": 854,
+                "new_artist_rate": 0.0351288056206089
+            }
+        ],
+        "correlation": -0.06858551740255844,
+        "n_months": 12
+    },
+    "Alan": {
+        "points": [
+            {
+                "month": 1,
+                "play_count": 2242,
+                "new_artist_rate": 0.04683318465655665
+            },
+            {
+                "month": 2,
+                "play_count": 3946,
+                "new_artist_rate": 0.03421186011150532
+            },
+            {
+                "month": 3,
+                "play_count": 4255,
+                "new_artist_rate": 0.0023501762632197414
+            },
+            {
+                "month": 4,
+                "play_count": 1095,
+                "new_artist_rate": 0.01004566210045662
+            },
+            {
+                "month": 5,
+                "play_count": 1148,
+                "new_artist_rate": 0.16289198606271776
+            },
+            {
+                "month": 6,
+                "play_count": 1937,
+                "new_artist_rate": 0.005678884873515746
+            },
+            {
+                "month": 7,
+                "play_count": 2309,
+                "new_artist_rate": 0.049805110437418795
+            },
+            {
+                "month": 8,
+                "play_count": 2351,
+                "new_artist_rate": 0.0017014036580178648
+            },
+            {
+                "month": 9,
+                "play_count": 3088,
+                "new_artist_rate": 0.007124352331606218
+            },
+            {
+                "month": 10,
+                "play_count": 1935,
+                "new_artist_rate": 0.022222222222222223
+            },
+            {
+                "month": 11,
+                "play_count": 3227,
+                "new_artist_rate": 0.0006197706848466068
+            },
+            {
+                "month": 12,
+                "play_count": 1783,
+                "new_artist_rate": 0.0016825574873808188
+            }
+        ],
+        "correlation": -0.3855320253472674,
+        "n_months": 12
+    }
+}

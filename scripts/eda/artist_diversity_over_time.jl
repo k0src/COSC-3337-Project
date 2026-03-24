@@ -13,8 +13,6 @@ const NAMES = Dict(
 
 const YEAR_RANGE = 2020:2025
 
-# Stats
-
 function gini(vals)
   n = length(vals)
   n <= 1 && return 0.0
@@ -30,8 +28,6 @@ function shannon_entropy(vals)
   probs = Float64.(vals) ./ total
   return -sum(p * log2(p) for p in probs if p > 0.0)
 end
-
-# Data
 
 function get_yearly_plays_per_artist()
   conn = get_connection()
@@ -52,8 +48,6 @@ function get_yearly_plays_per_artist()
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_gini_over_time(stats_dict, year_range)
   colors = Makie.wong_colors()
@@ -108,8 +102,6 @@ function plot_entropy_over_time(stats_dict, year_range)
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   df = get_yearly_plays_per_artist()

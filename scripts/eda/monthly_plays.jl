@@ -18,8 +18,6 @@ const PERIODS = [
   (2025, "2025"),
 ]
 
-# Data
-
 function get_monthly_plays(; year=nothing)
   conn = get_connection()
   year_filter = year === nothing ? "" : "WHERE EXTRACT(YEAR FROM timestamp) = $year"
@@ -39,8 +37,6 @@ function get_monthly_plays(; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_monthly_plays(df, year_label; year=nothing)
   nrow(df) == 0 && return
@@ -100,8 +96,6 @@ function plot_monthly_plays(df, year_label; year=nothing)
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Main
 
 function main()
   for (year, year_label) in PERIODS

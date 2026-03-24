@@ -1,0 +1,4073 @@
+{
+    "sync_days": [
+        "2025-01-01",
+        "2025-01-16",
+        "2025-01-19",
+        "2025-01-23",
+        "2025-02-10",
+        "2025-02-15",
+        "2025-02-16",
+        "2025-02-17",
+        "2025-02-18",
+        "2025-02-20",
+        "2025-02-21",
+        "2025-02-22",
+        "2025-02-23",
+        "2025-02-24",
+        "2025-02-27",
+        "2025-03-04",
+        "2025-03-10",
+        "2025-03-18",
+        "2025-03-20",
+        "2025-03-25",
+        "2025-03-26",
+        "2025-03-27",
+        "2025-05-16",
+        "2025-05-22",
+        "2025-07-04",
+        "2025-07-19",
+        "2025-07-30",
+        "2025-10-06",
+        "2025-11-13",
+        "2025-12-08"
+    ],
+    "monthly_counts": {
+        "Mar": 7,
+        "Aug": 0,
+        "Sep": 0,
+        "May": 2,
+        "Jun": 0,
+        "Jul": 3,
+        "Dec": 1,
+        "Apr": 0,
+        "Jan": 4,
+        "Oct": 1,
+        "Nov": 1,
+        "Feb": 11
+    },
+    "threshold": "plays > per_user_median (zeros included)",
+    "daily_series": [
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-01-01",
+            "plays": {
+                "Anthony": 32,
+                "Alexandra": 57,
+                "Koren": 29,
+                "Alan": 93
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-02",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 21,
+                "Koren": 14,
+                "Alan": 96
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-01-03",
+            "plays": {
+                "Anthony": 69,
+                "Alexandra": 81,
+                "Koren": 9,
+                "Alan": 119
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-01-04",
+            "plays": {
+                "Anthony": 4,
+                "Alexandra": 11,
+                "Koren": 2,
+                "Alan": 94
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-05",
+            "plays": {
+                "Anthony": 87,
+                "Alexandra": 42,
+                "Koren": 2,
+                "Alan": 20
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-06",
+            "plays": {
+                "Anthony": 36,
+                "Alexandra": 30,
+                "Koren": 0,
+                "Alan": 7
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-07",
+            "plays": {
+                "Anthony": 37,
+                "Alexandra": 33,
+                "Koren": 1,
+                "Alan": 46
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-01-08",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 32,
+                "Koren": 0,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-01-09",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 29,
+                "Koren": 2,
+                "Alan": 33
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-01-10",
+            "plays": {
+                "Anthony": 20,
+                "Alexandra": 11,
+                "Koren": 0,
+                "Alan": 162
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-11",
+            "plays": {
+                "Anthony": 41,
+                "Alexandra": 12,
+                "Koren": 0,
+                "Alan": 136
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-01-12",
+            "plays": {
+                "Anthony": 34,
+                "Alexandra": 0,
+                "Koren": 0,
+                "Alan": 29
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-01-13",
+            "plays": {
+                "Anthony": 96,
+                "Alexandra": 32,
+                "Koren": 71,
+                "Alan": 5
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-14",
+            "plays": {
+                "Anthony": 88,
+                "Alexandra": 128,
+                "Koren": 13,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-01-15",
+            "plays": {
+                "Anthony": 80,
+                "Alexandra": 94,
+                "Koren": 0,
+                "Alan": 203
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-01-16",
+            "plays": {
+                "Anthony": 49,
+                "Alexandra": 56,
+                "Koren": 46,
+                "Alan": 85
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-17",
+            "plays": {
+                "Anthony": 69,
+                "Alexandra": 15,
+                "Koren": 9,
+                "Alan": 80
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-18",
+            "plays": {
+                "Anthony": 94,
+                "Alexandra": 10,
+                "Koren": 26,
+                "Alan": 101
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-01-19",
+            "plays": {
+                "Anthony": 76,
+                "Alexandra": 22,
+                "Koren": 62,
+                "Alan": 92
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-01-20",
+            "plays": {
+                "Anthony": 58,
+                "Alexandra": 12,
+                "Koren": 11,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-21",
+            "plays": {
+                "Anthony": 26,
+                "Alexandra": 1,
+                "Koren": 1,
+                "Alan": 122
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-22",
+            "plays": {
+                "Anthony": 1,
+                "Alexandra": 6,
+                "Koren": 44,
+                "Alan": 101
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-01-23",
+            "plays": {
+                "Anthony": 24,
+                "Alexandra": 51,
+                "Koren": 53,
+                "Alan": 180
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-01-24",
+            "plays": {
+                "Anthony": 54,
+                "Alexandra": 7,
+                "Koren": 87,
+                "Alan": 75
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-25",
+            "plays": {
+                "Anthony": 59,
+                "Alexandra": 15,
+                "Koren": 54,
+                "Alan": 56
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-26",
+            "plays": {
+                "Anthony": 61,
+                "Alexandra": 15,
+                "Koren": 28,
+                "Alan": 18
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-01-27",
+            "plays": {
+                "Anthony": 301,
+                "Alexandra": 22,
+                "Koren": 95,
+                "Alan": 45
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-28",
+            "plays": {
+                "Anthony": 69,
+                "Alexandra": 16,
+                "Koren": 133,
+                "Alan": 40
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-01-29",
+            "plays": {
+                "Anthony": 294,
+                "Alexandra": 18,
+                "Koren": 155,
+                "Alan": 162
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-01-30",
+            "plays": {
+                "Anthony": 33,
+                "Alexandra": 47,
+                "Koren": 380,
+                "Alan": 40
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-01-31",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 21,
+                "Koren": 151,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-02-01",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 14,
+                "Koren": 281,
+                "Alan": 179
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-02-02",
+            "plays": {
+                "Anthony": 20,
+                "Alexandra": 11,
+                "Koren": 73,
+                "Alan": 13
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-03",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 25,
+                "Koren": 148,
+                "Alan": 247
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-04",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 40,
+                "Koren": 182,
+                "Alan": 7
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-05",
+            "plays": {
+                "Anthony": 102,
+                "Alexandra": 17,
+                "Koren": 58,
+                "Alan": 79
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-02-06",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 37,
+                "Koren": 27,
+                "Alan": 120
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-07",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 22,
+                "Koren": 164,
+                "Alan": 92
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-02-08",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 25,
+                "Koren": 21,
+                "Alan": 104
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-02-09",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 14,
+                "Koren": 73,
+                "Alan": 145
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-10",
+            "plays": {
+                "Anthony": 46,
+                "Alexandra": 44,
+                "Koren": 30,
+                "Alan": 123
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-11",
+            "plays": {
+                "Anthony": 68,
+                "Alexandra": 53,
+                "Koren": 2,
+                "Alan": 90
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-02-12",
+            "plays": {
+                "Anthony": 131,
+                "Alexandra": 17,
+                "Koren": 0,
+                "Alan": 206
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-02-13",
+            "plays": {
+                "Anthony": 41,
+                "Alexandra": 48,
+                "Koren": 0,
+                "Alan": 62
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-02-14",
+            "plays": {
+                "Anthony": 92,
+                "Alexandra": 6,
+                "Koren": 7,
+                "Alan": 184
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-15",
+            "plays": {
+                "Anthony": 125,
+                "Alexandra": 32,
+                "Koren": 86,
+                "Alan": 103
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-16",
+            "plays": {
+                "Anthony": 101,
+                "Alexandra": 33,
+                "Koren": 84,
+                "Alan": 226
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-17",
+            "plays": {
+                "Anthony": 117,
+                "Alexandra": 36,
+                "Koren": 153,
+                "Alan": 126
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-18",
+            "plays": {
+                "Anthony": 46,
+                "Alexandra": 32,
+                "Koren": 124,
+                "Alan": 246
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-19",
+            "plays": {
+                "Anthony": 87,
+                "Alexandra": 10,
+                "Koren": 37,
+                "Alan": 82
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-20",
+            "plays": {
+                "Anthony": 151,
+                "Alexandra": 45,
+                "Koren": 53,
+                "Alan": 108
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-21",
+            "plays": {
+                "Anthony": 101,
+                "Alexandra": 53,
+                "Koren": 28,
+                "Alan": 220
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-22",
+            "plays": {
+                "Anthony": 164,
+                "Alexandra": 31,
+                "Koren": 102,
+                "Alan": 183
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-23",
+            "plays": {
+                "Anthony": 185,
+                "Alexandra": 36,
+                "Koren": 107,
+                "Alan": 166
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-24",
+            "plays": {
+                "Anthony": 157,
+                "Alexandra": 59,
+                "Koren": 157,
+                "Alan": 210
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-25",
+            "plays": {
+                "Anthony": 22,
+                "Alexandra": 16,
+                "Koren": 117,
+                "Alan": 295
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-26",
+            "plays": {
+                "Anthony": 69,
+                "Alexandra": 17,
+                "Koren": 149,
+                "Alan": 98
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-02-27",
+            "plays": {
+                "Anthony": 33,
+                "Alexandra": 46,
+                "Koren": 178,
+                "Alan": 98
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-02-28",
+            "plays": {
+                "Anthony": 60,
+                "Alexandra": 17,
+                "Koren": 200,
+                "Alan": 134
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-01",
+            "plays": {
+                "Anthony": 52,
+                "Alexandra": 31,
+                "Koren": 130,
+                "Alan": 30
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-03-02",
+            "plays": {
+                "Anthony": 3,
+                "Alexandra": 15,
+                "Koren": 147,
+                "Alan": 94
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-03-03",
+            "plays": {
+                "Anthony": 19,
+                "Alexandra": 12,
+                "Koren": 200,
+                "Alan": 101
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-03-04",
+            "plays": {
+                "Anthony": 30,
+                "Alexandra": 68,
+                "Koren": 336,
+                "Alan": 201
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-03-05",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 12,
+                "Koren": 194,
+                "Alan": 187
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-06",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 24,
+                "Koren": 184,
+                "Alan": 131
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-03-07",
+            "plays": {
+                "Anthony": 15,
+                "Alexandra": 15,
+                "Koren": 264,
+                "Alan": 597
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-03-08",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 8,
+                "Koren": 166,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-09",
+            "plays": {
+                "Anthony": 3,
+                "Alexandra": 40,
+                "Koren": 198,
+                "Alan": 443
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-03-10",
+            "plays": {
+                "Anthony": 41,
+                "Alexandra": 63,
+                "Koren": 75,
+                "Alan": 176
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-11",
+            "plays": {
+                "Anthony": 27,
+                "Alexandra": 9,
+                "Koren": 78,
+                "Alan": 81
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-03-12",
+            "plays": {
+                "Anthony": 49,
+                "Alexandra": 6,
+                "Koren": 34,
+                "Alan": 29
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-13",
+            "plays": {
+                "Anthony": 80,
+                "Alexandra": 17,
+                "Koren": 262,
+                "Alan": 128
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-14",
+            "plays": {
+                "Anthony": 66,
+                "Alexandra": 14,
+                "Koren": 110,
+                "Alan": 132
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-03-15",
+            "plays": {
+                "Anthony": 20,
+                "Alexandra": 17,
+                "Koren": 79,
+                "Alan": 130
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-16",
+            "plays": {
+                "Anthony": 41,
+                "Alexandra": 12,
+                "Koren": 43,
+                "Alan": 107
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-17",
+            "plays": {
+                "Anthony": 67,
+                "Alexandra": 11,
+                "Koren": 148,
+                "Alan": 96
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-03-18",
+            "plays": {
+                "Anthony": 98,
+                "Alexandra": 67,
+                "Koren": 49,
+                "Alan": 132
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-03-19",
+            "plays": {
+                "Anthony": 88,
+                "Alexandra": 7,
+                "Koren": 69,
+                "Alan": 47
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-03-20",
+            "plays": {
+                "Anthony": 33,
+                "Alexandra": 51,
+                "Koren": 49,
+                "Alan": 84
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-21",
+            "plays": {
+                "Anthony": 53,
+                "Alexandra": 18,
+                "Koren": 36,
+                "Alan": 155
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-22",
+            "plays": {
+                "Anthony": 34,
+                "Alexandra": 10,
+                "Koren": 39,
+                "Alan": 123
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-23",
+            "plays": {
+                "Anthony": 118,
+                "Alexandra": 15,
+                "Koren": 60,
+                "Alan": 157
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-24",
+            "plays": {
+                "Anthony": 111,
+                "Alexandra": 13,
+                "Koren": 139,
+                "Alan": 191
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-03-25",
+            "plays": {
+                "Anthony": 102,
+                "Alexandra": 52,
+                "Koren": 240,
+                "Alan": 162
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-03-26",
+            "plays": {
+                "Anthony": 104,
+                "Alexandra": 51,
+                "Koren": 184,
+                "Alan": 72
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-03-27",
+            "plays": {
+                "Anthony": 79,
+                "Alexandra": 35,
+                "Koren": 111,
+                "Alan": 111
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-28",
+            "plays": {
+                "Anthony": 37,
+                "Alexandra": 64,
+                "Koren": 144,
+                "Alan": 47
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-29",
+            "plays": {
+                "Anthony": 96,
+                "Alexandra": 10,
+                "Koren": 86,
+                "Alan": 75
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-30",
+            "plays": {
+                "Anthony": 51,
+                "Alexandra": 8,
+                "Koren": 146,
+                "Alan": 94
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-03-31",
+            "plays": {
+                "Anthony": 76,
+                "Alexandra": 4,
+                "Koren": 59,
+                "Alan": 133
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-01",
+            "plays": {
+                "Anthony": 191,
+                "Alexandra": 7,
+                "Koren": 106,
+                "Alan": 42
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-02",
+            "plays": {
+                "Anthony": 119,
+                "Alexandra": 20,
+                "Koren": 89,
+                "Alan": 25
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-03",
+            "plays": {
+                "Anthony": 89,
+                "Alexandra": 27,
+                "Koren": 209,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-04",
+            "plays": {
+                "Anthony": 141,
+                "Alexandra": 10,
+                "Koren": 90,
+                "Alan": 135
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-05",
+            "plays": {
+                "Anthony": 273,
+                "Alexandra": 25,
+                "Koren": 48,
+                "Alan": 59
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-06",
+            "plays": {
+                "Anthony": 235,
+                "Alexandra": 15,
+                "Koren": 29,
+                "Alan": 171
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-07",
+            "plays": {
+                "Anthony": 46,
+                "Alexandra": 6,
+                "Koren": 106,
+                "Alan": 190
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-08",
+            "plays": {
+                "Anthony": 44,
+                "Alexandra": 24,
+                "Koren": 93,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-09",
+            "plays": {
+                "Anthony": 59,
+                "Alexandra": 21,
+                "Koren": 105,
+                "Alan": 31
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-10",
+            "plays": {
+                "Anthony": 61,
+                "Alexandra": 40,
+                "Koren": 106,
+                "Alan": 48
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-04-11",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 11,
+                "Koren": 93,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-04-12",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 42,
+                "Koren": 20,
+                "Alan": 60
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-13",
+            "plays": {
+                "Anthony": 138,
+                "Alexandra": 28,
+                "Koren": 7,
+                "Alan": 20
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-14",
+            "plays": {
+                "Anthony": 59,
+                "Alexandra": 6,
+                "Koren": 18,
+                "Alan": 81
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-15",
+            "plays": {
+                "Anthony": 186,
+                "Alexandra": 40,
+                "Koren": 103,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-16",
+            "plays": {
+                "Anthony": 62,
+                "Alexandra": 29,
+                "Koren": 37,
+                "Alan": 3
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-17",
+            "plays": {
+                "Anthony": 18,
+                "Alexandra": 30,
+                "Koren": 30,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-18",
+            "plays": {
+                "Anthony": 53,
+                "Alexandra": 17,
+                "Koren": 68,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-19",
+            "plays": {
+                "Anthony": 25,
+                "Alexandra": 8,
+                "Koren": 40,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-20",
+            "plays": {
+                "Anthony": 22,
+                "Alexandra": 89,
+                "Koren": 24,
+                "Alan": 92
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-21",
+            "plays": {
+                "Anthony": 103,
+                "Alexandra": 29,
+                "Koren": 45,
+                "Alan": 24
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-22",
+            "plays": {
+                "Anthony": 56,
+                "Alexandra": 51,
+                "Koren": 85,
+                "Alan": 11
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-23",
+            "plays": {
+                "Anthony": 60,
+                "Alexandra": 19,
+                "Koren": 56,
+                "Alan": 5
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-24",
+            "plays": {
+                "Anthony": 47,
+                "Alexandra": 46,
+                "Koren": 52,
+                "Alan": 49
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-25",
+            "plays": {
+                "Anthony": 58,
+                "Alexandra": 14,
+                "Koren": 33,
+                "Alan": 10
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-04-26",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 11,
+                "Koren": 99,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-27",
+            "plays": {
+                "Anthony": 34,
+                "Alexandra": 17,
+                "Koren": 73,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-28",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 31,
+                "Koren": 97,
+                "Alan": 21
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-04-29",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 21,
+                "Koren": 45,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-04-30",
+            "plays": {
+                "Anthony": 56,
+                "Alexandra": 52,
+                "Koren": 39,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-01",
+            "plays": {
+                "Anthony": 19,
+                "Alexandra": 32,
+                "Koren": 0,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-02",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 53,
+                "Koren": 104,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-03",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 22,
+                "Koren": 2,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-04",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 37,
+                "Koren": 3,
+                "Alan": 7
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-05",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 30,
+                "Koren": 1,
+                "Alan": 64
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-06",
+            "plays": {
+                "Anthony": 26,
+                "Alexandra": 21,
+                "Koren": 0,
+                "Alan": 33
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-07",
+            "plays": {
+                "Anthony": 25,
+                "Alexandra": 32,
+                "Koren": 0,
+                "Alan": 60
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-08",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 14,
+                "Koren": 53,
+                "Alan": 69
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-09",
+            "plays": {
+                "Anthony": 1,
+                "Alexandra": 28,
+                "Koren": 14,
+                "Alan": 27
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-10",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 5,
+                "Koren": 53,
+                "Alan": 160
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-11",
+            "plays": {
+                "Anthony": 97,
+                "Alexandra": 9,
+                "Koren": 1,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-12",
+            "plays": {
+                "Anthony": 30,
+                "Alexandra": 35,
+                "Koren": 0,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-13",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 85,
+                "Koren": 0,
+                "Alan": 23
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-14",
+            "plays": {
+                "Anthony": 4,
+                "Alexandra": 0,
+                "Koren": 19,
+                "Alan": 104
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-15",
+            "plays": {
+                "Anthony": 13,
+                "Alexandra": 32,
+                "Koren": 11,
+                "Alan": 49
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-05-16",
+            "plays": {
+                "Anthony": 155,
+                "Alexandra": 42,
+                "Koren": 53,
+                "Alan": 249
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-17",
+            "plays": {
+                "Anthony": 80,
+                "Alexandra": 48,
+                "Koren": 0,
+                "Alan": 3
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-18",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 43,
+                "Koren": 9,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-19",
+            "plays": {
+                "Anthony": 2,
+                "Alexandra": 49,
+                "Koren": 39,
+                "Alan": 31
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-20",
+            "plays": {
+                "Anthony": 14,
+                "Alexandra": 83,
+                "Koren": 1,
+                "Alan": 29
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-05-21",
+            "plays": {
+                "Anthony": 226,
+                "Alexandra": 35,
+                "Koren": 76,
+                "Alan": 65
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-05-22",
+            "plays": {
+                "Anthony": 162,
+                "Alexandra": 33,
+                "Koren": 58,
+                "Alan": 72
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-23",
+            "plays": {
+                "Anthony": 315,
+                "Alexandra": 50,
+                "Koren": 19,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-24",
+            "plays": {
+                "Anthony": 55,
+                "Alexandra": 23,
+                "Koren": 11,
+                "Alan": 52
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-05-25",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 6,
+                "Koren": 0,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-26",
+            "plays": {
+                "Anthony": 13,
+                "Alexandra": 26,
+                "Koren": 4,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-27",
+            "plays": {
+                "Anthony": 4,
+                "Alexandra": 36,
+                "Koren": 5,
+                "Alan": 34
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-05-28",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 53,
+                "Koren": 65,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-05-29",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 15,
+                "Koren": 18,
+                "Alan": 6
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-30",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 8,
+                "Koren": 62,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-05-31",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 19,
+                "Koren": 0,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-06-01",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 1,
+                "Koren": 6,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-02",
+            "plays": {
+                "Anthony": 38,
+                "Alexandra": 0,
+                "Koren": 56,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-03",
+            "plays": {
+                "Anthony": 142,
+                "Alexandra": 4,
+                "Koren": 9,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-04",
+            "plays": {
+                "Anthony": 200,
+                "Alexandra": 22,
+                "Koren": 13,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-05",
+            "plays": {
+                "Anthony": 81,
+                "Alexandra": 37,
+                "Koren": 1,
+                "Alan": 37
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-06-06",
+            "plays": {
+                "Anthony": 187,
+                "Alexandra": 31,
+                "Koren": 70,
+                "Alan": 54
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-07",
+            "plays": {
+                "Anthony": 74,
+                "Alexandra": 30,
+                "Koren": 26,
+                "Alan": 11
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-08",
+            "plays": {
+                "Anthony": 32,
+                "Alexandra": 16,
+                "Koren": 20,
+                "Alan": 26
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-09",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 31,
+                "Koren": 0,
+                "Alan": 42
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-10",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 24,
+                "Koren": 2,
+                "Alan": 50
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-06-11",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 6,
+                "Koren": 13,
+                "Alan": 5
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-12",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 13,
+                "Koren": 0,
+                "Alan": 180
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-13",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 24,
+                "Koren": 55,
+                "Alan": 6
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-06-14",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 0,
+                "Koren": 0,
+                "Alan": 53
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-06-15",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 0,
+                "Koren": 15,
+                "Alan": 38
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-16",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 8,
+                "Koren": 8,
+                "Alan": 127
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-17",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 13,
+                "Koren": 0,
+                "Alan": 207
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-18",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 10,
+                "Koren": 10,
+                "Alan": 96
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-19",
+            "plays": {
+                "Anthony": 58,
+                "Alexandra": 12,
+                "Koren": 141,
+                "Alan": 27
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-06-20",
+            "plays": {
+                "Anthony": 78,
+                "Alexandra": 20,
+                "Koren": 15,
+                "Alan": 76
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-21",
+            "plays": {
+                "Anthony": 30,
+                "Alexandra": 12,
+                "Koren": 24,
+                "Alan": 205
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-22",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 17,
+                "Koren": 26,
+                "Alan": 25
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-06-23",
+            "plays": {
+                "Anthony": 114,
+                "Alexandra": 25,
+                "Koren": 27,
+                "Alan": 102
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-06-24",
+            "plays": {
+                "Anthony": 66,
+                "Alexandra": 22,
+                "Koren": 25,
+                "Alan": 87
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-25",
+            "plays": {
+                "Anthony": 71,
+                "Alexandra": 10,
+                "Koren": 1,
+                "Alan": 150
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-26",
+            "plays": {
+                "Anthony": 13,
+                "Alexandra": 18,
+                "Koren": 0,
+                "Alan": 176
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-06-27",
+            "plays": {
+                "Anthony": 27,
+                "Alexandra": 18,
+                "Koren": 1,
+                "Alan": 80
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-28",
+            "plays": {
+                "Anthony": 5,
+                "Alexandra": 31,
+                "Koren": 5,
+                "Alan": 50
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-29",
+            "plays": {
+                "Anthony": 27,
+                "Alexandra": 16,
+                "Koren": 0,
+                "Alan": 16
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-06-30",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 33,
+                "Koren": 1,
+                "Alan": 11
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-01",
+            "plays": {
+                "Anthony": 8,
+                "Alexandra": 21,
+                "Koren": 1,
+                "Alan": 103
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-02",
+            "plays": {
+                "Anthony": 8,
+                "Alexandra": 25,
+                "Koren": 0,
+                "Alan": 140
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-03",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 21,
+                "Koren": 18,
+                "Alan": 138
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-07-04",
+            "plays": {
+                "Anthony": 21,
+                "Alexandra": 23,
+                "Koren": 61,
+                "Alan": 131
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-07-05",
+            "plays": {
+                "Anthony": 40,
+                "Alexandra": 32,
+                "Koren": 43,
+                "Alan": 59
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-06",
+            "plays": {
+                "Anthony": 24,
+                "Alexandra": 16,
+                "Koren": 83,
+                "Alan": 67
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-07",
+            "plays": {
+                "Anthony": 44,
+                "Alexandra": 7,
+                "Koren": 21,
+                "Alan": 65
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-07-08",
+            "plays": {
+                "Anthony": 21,
+                "Alexandra": 2,
+                "Koren": 38,
+                "Alan": 81
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-07-09",
+            "plays": {
+                "Anthony": 4,
+                "Alexandra": 9,
+                "Koren": 0,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-10",
+            "plays": {
+                "Anthony": 148,
+                "Alexandra": 1,
+                "Koren": 7,
+                "Alan": 18
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-11",
+            "plays": {
+                "Anthony": 3,
+                "Alexandra": 34,
+                "Koren": 2,
+                "Alan": 40
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-07-12",
+            "plays": {
+                "Anthony": 18,
+                "Alexandra": 14,
+                "Koren": 2,
+                "Alan": 32
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-13",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 8,
+                "Koren": 8,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-14",
+            "plays": {
+                "Anthony": 73,
+                "Alexandra": 17,
+                "Koren": 7,
+                "Alan": 3
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-15",
+            "plays": {
+                "Anthony": 20,
+                "Alexandra": 19,
+                "Koren": 12,
+                "Alan": 32
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-16",
+            "plays": {
+                "Anthony": 34,
+                "Alexandra": 17,
+                "Koren": 1,
+                "Alan": 31
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-07-17",
+            "plays": {
+                "Anthony": 55,
+                "Alexandra": 13,
+                "Koren": 33,
+                "Alan": 99
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-18",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 43,
+                "Koren": 8,
+                "Alan": 67
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-07-19",
+            "plays": {
+                "Anthony": 27,
+                "Alexandra": 24,
+                "Koren": 113,
+                "Alan": 158
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-20",
+            "plays": {
+                "Anthony": 61,
+                "Alexandra": 1,
+                "Koren": 48,
+                "Alan": 31
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-21",
+            "plays": {
+                "Anthony": 69,
+                "Alexandra": 1,
+                "Koren": 12,
+                "Alan": 105
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-07-22",
+            "plays": {
+                "Anthony": 85,
+                "Alexandra": 13,
+                "Koren": 82,
+                "Alan": 169
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-23",
+            "plays": {
+                "Anthony": 18,
+                "Alexandra": 8,
+                "Koren": 74,
+                "Alan": 145
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-24",
+            "plays": {
+                "Anthony": 47,
+                "Alexandra": 12,
+                "Koren": 1,
+                "Alan": 205
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-07-25",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 28,
+                "Koren": 0,
+                "Alan": 41
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-07-26",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 22,
+                "Koren": 68,
+                "Alan": 70
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-27",
+            "plays": {
+                "Anthony": 45,
+                "Alexandra": 0,
+                "Koren": 27,
+                "Alan": 82
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-28",
+            "plays": {
+                "Anthony": 12,
+                "Alexandra": 22,
+                "Koren": 29,
+                "Alan": 56
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-07-29",
+            "plays": {
+                "Anthony": 42,
+                "Alexandra": 11,
+                "Koren": 42,
+                "Alan": 54
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-07-30",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 34,
+                "Koren": 46,
+                "Alan": 69
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-07-31",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 12,
+                "Koren": 0,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-08-01",
+            "plays": {
+                "Anthony": 36,
+                "Alexandra": 12,
+                "Koren": 0,
+                "Alan": 32
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-08-02",
+            "plays": {
+                "Anthony": 24,
+                "Alexandra": 8,
+                "Koren": 1,
+                "Alan": 25
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-03",
+            "plays": {
+                "Anthony": 12,
+                "Alexandra": 22,
+                "Koren": 24,
+                "Alan": 122
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-08-04",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 15,
+                "Koren": 1,
+                "Alan": 61
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-08-05",
+            "plays": {
+                "Anthony": 70,
+                "Alexandra": 13,
+                "Koren": 23,
+                "Alan": 49
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-06",
+            "plays": {
+                "Anthony": 12,
+                "Alexandra": 6,
+                "Koren": 111,
+                "Alan": 111
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-08-07",
+            "plays": {
+                "Anthony": 69,
+                "Alexandra": 6,
+                "Koren": 29,
+                "Alan": 92
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-08",
+            "plays": {
+                "Anthony": 27,
+                "Alexandra": 18,
+                "Koren": 64,
+                "Alan": 62
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-08-09",
+            "plays": {
+                "Anthony": 59,
+                "Alexandra": 7,
+                "Koren": 12,
+                "Alan": 62
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-08-10",
+            "plays": {
+                "Anthony": 55,
+                "Alexandra": 15,
+                "Koren": 2,
+                "Alan": 10
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-11",
+            "plays": {
+                "Anthony": 29,
+                "Alexandra": 8,
+                "Koren": 0,
+                "Alan": 128
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-08-12",
+            "plays": {
+                "Anthony": 30,
+                "Alexandra": 11,
+                "Koren": 106,
+                "Alan": 98
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-08-13",
+            "plays": {
+                "Anthony": 15,
+                "Alexandra": 27,
+                "Koren": 75,
+                "Alan": 76
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-14",
+            "plays": {
+                "Anthony": 26,
+                "Alexandra": 57,
+                "Koren": 7,
+                "Alan": 45
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-15",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 31,
+                "Koren": 3,
+                "Alan": 81
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-16",
+            "plays": {
+                "Anthony": 50,
+                "Alexandra": 14,
+                "Koren": 0,
+                "Alan": 88
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-08-17",
+            "plays": {
+                "Anthony": 32,
+                "Alexandra": 43,
+                "Koren": 0,
+                "Alan": 99
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-18",
+            "plays": {
+                "Anthony": 1,
+                "Alexandra": 20,
+                "Koren": 51,
+                "Alan": 27
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-19",
+            "plays": {
+                "Anthony": 8,
+                "Alexandra": 12,
+                "Koren": 117,
+                "Alan": 166
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-08-20",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 24,
+                "Koren": 59,
+                "Alan": 247
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-08-21",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 18,
+                "Koren": 11,
+                "Alan": 24
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-22",
+            "plays": {
+                "Anthony": 26,
+                "Alexandra": 21,
+                "Koren": 5,
+                "Alan": 39
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-08-23",
+            "plays": {
+                "Anthony": 17,
+                "Alexandra": 24,
+                "Koren": 10,
+                "Alan": 49
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-08-24",
+            "plays": {
+                "Anthony": 11,
+                "Alexandra": 15,
+                "Koren": 0,
+                "Alan": 58
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-25",
+            "plays": {
+                "Anthony": 3,
+                "Alexandra": 41,
+                "Koren": 34,
+                "Alan": 31
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-08-26",
+            "plays": {
+                "Anthony": 4,
+                "Alexandra": 12,
+                "Koren": 0,
+                "Alan": 14
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-08-27",
+            "plays": {
+                "Anthony": 72,
+                "Alexandra": 44,
+                "Koren": 12,
+                "Alan": 111
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-28",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 6,
+                "Koren": 38,
+                "Alan": 61
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-08-29",
+            "plays": {
+                "Anthony": 38,
+                "Alexandra": 28,
+                "Koren": 12,
+                "Alan": 131
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-08-30",
+            "plays": {
+                "Anthony": 11,
+                "Alexandra": 6,
+                "Koren": 8,
+                "Alan": 77
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-08-31",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 15,
+                "Koren": 66,
+                "Alan": 74
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-01",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 10,
+                "Koren": 0,
+                "Alan": 84
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-09-02",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 0,
+                "Koren": 1,
+                "Alan": 45
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-03",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 15,
+                "Koren": 72,
+                "Alan": 94
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-04",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 23,
+                "Koren": 136,
+                "Alan": 116
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-05",
+            "plays": {
+                "Anthony": 3,
+                "Alexandra": 22,
+                "Koren": 56,
+                "Alan": 148
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-06",
+            "plays": {
+                "Anthony": 15,
+                "Alexandra": 23,
+                "Koren": 0,
+                "Alan": 79
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-07",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 1,
+                "Koren": 73,
+                "Alan": 108
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-08",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 17,
+                "Koren": 70,
+                "Alan": 69
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-09",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 18,
+                "Koren": 157,
+                "Alan": 93
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-10",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 18,
+                "Koren": 67,
+                "Alan": 77
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-11",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 55,
+                "Koren": 25,
+                "Alan": 77
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-12",
+            "plays": {
+                "Anthony": 5,
+                "Alexandra": 19,
+                "Koren": 89,
+                "Alan": 160
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-13",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 20,
+                "Koren": 62,
+                "Alan": 99
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-14",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 6,
+                "Koren": 0,
+                "Alan": 148
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-15",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 0,
+                "Koren": 58,
+                "Alan": 23
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-16",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 8,
+                "Koren": 33,
+                "Alan": 71
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-17",
+            "plays": {
+                "Anthony": 27,
+                "Alexandra": 16,
+                "Koren": 30,
+                "Alan": 114
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-18",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 26,
+                "Koren": 26,
+                "Alan": 264
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-19",
+            "plays": {
+                "Anthony": 4,
+                "Alexandra": 35,
+                "Koren": 34,
+                "Alan": 108
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-20",
+            "plays": {
+                "Anthony": 1,
+                "Alexandra": 12,
+                "Koren": 9,
+                "Alan": 182
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-21",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 15,
+                "Koren": 6,
+                "Alan": 179
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-22",
+            "plays": {
+                "Anthony": 21,
+                "Alexandra": 72,
+                "Koren": 0,
+                "Alan": 188
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-23",
+            "plays": {
+                "Anthony": 28,
+                "Alexandra": 66,
+                "Koren": 9,
+                "Alan": 4
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-24",
+            "plays": {
+                "Anthony": 11,
+                "Alexandra": 0,
+                "Koren": 110,
+                "Alan": 46
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-09-25",
+            "plays": {
+                "Anthony": 4,
+                "Alexandra": 24,
+                "Koren": 50,
+                "Alan": 123
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-26",
+            "plays": {
+                "Anthony": 3,
+                "Alexandra": 12,
+                "Koren": 31,
+                "Alan": 28
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-27",
+            "plays": {
+                "Anthony": 12,
+                "Alexandra": 39,
+                "Koren": 0,
+                "Alan": 58
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-09-28",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 1,
+                "Koren": 1,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-09-29",
+            "plays": {
+                "Anthony": 2,
+                "Alexandra": 11,
+                "Koren": 3,
+                "Alan": 185
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-09-30",
+            "plays": {
+                "Anthony": 28,
+                "Alexandra": 17,
+                "Koren": 3,
+                "Alan": 118
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-01",
+            "plays": {
+                "Anthony": 12,
+                "Alexandra": 35,
+                "Koren": 32,
+                "Alan": 22
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-02",
+            "plays": {
+                "Anthony": 23,
+                "Alexandra": 20,
+                "Koren": 0,
+                "Alan": 62
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-03",
+            "plays": {
+                "Anthony": 29,
+                "Alexandra": 21,
+                "Koren": 0,
+                "Alan": 175
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-04",
+            "plays": {
+                "Anthony": 3,
+                "Alexandra": 5,
+                "Koren": 80,
+                "Alan": 132
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-10-05",
+            "plays": {
+                "Anthony": 11,
+                "Alexandra": 12,
+                "Koren": 232,
+                "Alan": 52
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-10-06",
+            "plays": {
+                "Anthony": 44,
+                "Alexandra": 22,
+                "Koren": 42,
+                "Alan": 142
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-07",
+            "plays": {
+                "Anthony": 25,
+                "Alexandra": 16,
+                "Koren": 90,
+                "Alan": 110
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-08",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 41,
+                "Koren": 121,
+                "Alan": 56
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-09",
+            "plays": {
+                "Anthony": 11,
+                "Alexandra": 31,
+                "Koren": 165,
+                "Alan": 182
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-10-10",
+            "plays": {
+                "Anthony": 13,
+                "Alexandra": 14,
+                "Koren": 15,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-10-11",
+            "plays": {
+                "Anthony": 11,
+                "Alexandra": 12,
+                "Koren": 3,
+                "Alan": 118
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-12",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 22,
+                "Koren": 36,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-10-13",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 38,
+                "Koren": 2,
+                "Alan": 48
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-14",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 20,
+                "Koren": 131,
+                "Alan": 71
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-15",
+            "plays": {
+                "Anthony": 12,
+                "Alexandra": 29,
+                "Koren": 39,
+                "Alan": 55
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-16",
+            "plays": {
+                "Anthony": 39,
+                "Alexandra": 43,
+                "Koren": 30,
+                "Alan": 43
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-10-17",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 26,
+                "Koren": 23,
+                "Alan": 45
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-10-18",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 7,
+                "Koren": 80,
+                "Alan": 34
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-10-19",
+            "plays": {
+                "Anthony": 15,
+                "Alexandra": 40,
+                "Koren": 2,
+                "Alan": 6
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-20",
+            "plays": {
+                "Anthony": 22,
+                "Alexandra": 16,
+                "Koren": 28,
+                "Alan": 69
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-21",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 24,
+                "Koren": 0,
+                "Alan": 97
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-10-22",
+            "plays": {
+                "Anthony": 13,
+                "Alexandra": 15,
+                "Koren": 19,
+                "Alan": 57
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-10-23",
+            "plays": {
+                "Anthony": 11,
+                "Alexandra": 20,
+                "Koren": 30,
+                "Alan": 104
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-10-24",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 28,
+                "Koren": 1,
+                "Alan": 10
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-10-25",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 12,
+                "Koren": 13,
+                "Alan": 6
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-26",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 25,
+                "Koren": 46,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-10-27",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 11,
+                "Koren": 1,
+                "Alan": 46
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-10-28",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 18,
+                "Koren": 0,
+                "Alan": 28
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-10-29",
+            "plays": {
+                "Anthony": 18,
+                "Alexandra": 18,
+                "Koren": 19,
+                "Alan": 37
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-30",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 24,
+                "Koren": 68,
+                "Alan": 26
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-10-31",
+            "plays": {
+                "Anthony": 2,
+                "Alexandra": 17,
+                "Koren": 30,
+                "Alan": 98
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-11-01",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 18,
+                "Koren": 1,
+                "Alan": 18
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-11-02",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 15,
+                "Koren": 1,
+                "Alan": 16
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-11-03",
+            "plays": {
+                "Anthony": 10,
+                "Alexandra": 38,
+                "Koren": 25,
+                "Alan": 37
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-04",
+            "plays": {
+                "Anthony": 28,
+                "Alexandra": 34,
+                "Koren": 18,
+                "Alan": 9
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-05",
+            "plays": {
+                "Anthony": 15,
+                "Alexandra": 7,
+                "Koren": 40,
+                "Alan": 105
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-11-06",
+            "plays": {
+                "Anthony": 25,
+                "Alexandra": 39,
+                "Koren": 56,
+                "Alan": 48
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-11-07",
+            "plays": {
+                "Anthony": 40,
+                "Alexandra": 34,
+                "Koren": 31,
+                "Alan": 33
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-11-08",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 16,
+                "Koren": 5,
+                "Alan": 101
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-09",
+            "plays": {
+                "Anthony": 29,
+                "Alexandra": 10,
+                "Koren": 45,
+                "Alan": 57
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-11-10",
+            "plays": {
+                "Anthony": 15,
+                "Alexandra": 7,
+                "Koren": 1,
+                "Alan": 113
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-11",
+            "plays": {
+                "Anthony": 36,
+                "Alexandra": 18,
+                "Koren": 4,
+                "Alan": 122
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-12",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 9,
+                "Koren": 31,
+                "Alan": 98
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-11-13",
+            "plays": {
+                "Anthony": 38,
+                "Alexandra": 32,
+                "Koren": 64,
+                "Alan": 94
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-14",
+            "plays": {
+                "Anthony": 13,
+                "Alexandra": 27,
+                "Koren": 1,
+                "Alan": 163
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-11-15",
+            "plays": {
+                "Anthony": 2,
+                "Alexandra": 28,
+                "Koren": 0,
+                "Alan": 58
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-11-16",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 26,
+                "Koren": 0,
+                "Alan": 57
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-11-17",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 74,
+                "Koren": 46,
+                "Alan": 131
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-18",
+            "plays": {
+                "Anthony": 58,
+                "Alexandra": 18,
+                "Koren": 0,
+                "Alan": 117
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-19",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 44,
+                "Koren": 1,
+                "Alan": 124
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-11-20",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 14,
+                "Koren": 2,
+                "Alan": 98
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-21",
+            "plays": {
+                "Anthony": 7,
+                "Alexandra": 21,
+                "Koren": 1,
+                "Alan": 327
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-22",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 31,
+                "Koren": 1,
+                "Alan": 217
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-23",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 33,
+                "Koren": 0,
+                "Alan": 130
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-24",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 52,
+                "Koren": 19,
+                "Alan": 237
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-11-25",
+            "plays": {
+                "Anthony": 26,
+                "Alexandra": 45,
+                "Koren": 0,
+                "Alan": 134
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-26",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 74,
+                "Koren": 2,
+                "Alan": 102
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-27",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 14,
+                "Koren": 38,
+                "Alan": 147
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-11-28",
+            "plays": {
+                "Anthony": 9,
+                "Alexandra": 18,
+                "Koren": 2,
+                "Alan": 148
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-29",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 22,
+                "Koren": 8,
+                "Alan": 107
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-11-30",
+            "plays": {
+                "Anthony": 31,
+                "Alexandra": 13,
+                "Koren": 0,
+                "Alan": 78
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-01",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 13,
+                "Koren": 5,
+                "Alan": 99
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-12-02",
+            "plays": {
+                "Anthony": 2,
+                "Alexandra": 9,
+                "Koren": 64,
+                "Alan": 133
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-03",
+            "plays": {
+                "Anthony": 27,
+                "Alexandra": 6,
+                "Koren": 11,
+                "Alan": 64
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 3,
+            "date": "2025-12-04",
+            "plays": {
+                "Anthony": 40,
+                "Alexandra": 36,
+                "Koren": 12,
+                "Alan": 131
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-05",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 9,
+                "Koren": 17,
+                "Alan": 224
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-12-06",
+            "plays": {
+                "Anthony": 18,
+                "Alexandra": 11,
+                "Koren": 0,
+                "Alan": 29
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-07",
+            "plays": {
+                "Anthony": 1,
+                "Alexandra": 17,
+                "Koren": 8,
+                "Alan": 132
+            }
+        },
+        {
+            "synchronized": true,
+            "users_above": 4,
+            "date": "2025-12-08",
+            "plays": {
+                "Anthony": 67,
+                "Alexandra": 20,
+                "Koren": 32,
+                "Alan": 182
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-09",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 46,
+                "Koren": 10,
+                "Alan": 3
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-12-10",
+            "plays": {
+                "Anthony": 8,
+                "Alexandra": 16,
+                "Koren": 91,
+                "Alan": 96
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-11",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 23,
+                "Koren": 4,
+                "Alan": 57
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-12-12",
+            "plays": {
+                "Anthony": 76,
+                "Alexandra": 16,
+                "Koren": 48,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-13",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 50,
+                "Koren": 13,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-14",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 44,
+                "Koren": 2,
+                "Alan": 2
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-12-15",
+            "plays": {
+                "Anthony": 40,
+                "Alexandra": 32,
+                "Koren": 25,
+                "Alan": 58
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-16",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 12,
+                "Koren": 67,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-17",
+            "plays": {
+                "Anthony": 6,
+                "Alexandra": 12,
+                "Koren": 0,
+                "Alan": 148
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-12-18",
+            "plays": {
+                "Anthony": 30,
+                "Alexandra": 77,
+                "Koren": 0,
+                "Alan": 8
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-12-19",
+            "plays": {
+                "Anthony": 17,
+                "Alexandra": 10,
+                "Koren": 0,
+                "Alan": 13
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-12-20",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 12,
+                "Koren": 2,
+                "Alan": 10
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-21",
+            "plays": {
+                "Anthony": 32,
+                "Alexandra": 12,
+                "Koren": 0,
+                "Alan": 59
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-22",
+            "plays": {
+                "Anthony": 1,
+                "Alexandra": 12,
+                "Koren": 80,
+                "Alan": 46
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-23",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 15,
+                "Koren": 4,
+                "Alan": 79
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 2,
+            "date": "2025-12-24",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 13,
+                "Koren": 42,
+                "Alan": 124
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-12-25",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 11,
+                "Koren": 1,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-26",
+            "plays": {
+                "Anthony": 15,
+                "Alexandra": 16,
+                "Koren": 78,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-12-27",
+            "plays": {
+                "Anthony": 13,
+                "Alexandra": 13,
+                "Koren": 1,
+                "Alan": 1
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-12-28",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 16,
+                "Koren": 2,
+                "Alan": 20
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-29",
+            "plays": {
+                "Anthony": 0,
+                "Alexandra": 10,
+                "Koren": 231,
+                "Alan": 19
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 0,
+            "date": "2025-12-30",
+            "plays": {
+                "Anthony": 16,
+                "Alexandra": 12,
+                "Koren": 1,
+                "Alan": 0
+            }
+        },
+        {
+            "synchronized": false,
+            "users_above": 1,
+            "date": "2025-12-31",
+            "plays": {
+                "Anthony": 20,
+                "Alexandra": 31,
+                "Koren": 0,
+                "Alan": 27
+            }
+        }
+    ],
+    "user_medians": {
+        "Anthony": 20,
+        "Alexandra": 18,
+        "Koren": 27,
+        "Alan": 67
+    },
+    "n_sync_days": 30
+}

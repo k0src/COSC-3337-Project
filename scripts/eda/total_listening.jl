@@ -4,6 +4,10 @@ include(joinpath(@__DIR__, "..", "utils.jl"))
 using DataFrames
 using CairoMakie
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "total_listening")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -16,8 +20,6 @@ const PERIODS = [
   (2024, "2024"),
   (2025, "2025"),
 ]
-
-# Data
 
 function get_user_total_listening(; year=nothing)
   conn = get_connection()
@@ -38,8 +40,6 @@ function get_user_total_listening(; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_total_listening(df, year_label)
   nrow(df) == 0 && return
@@ -78,12 +78,10 @@ function plot_total_listening(df, year_label)
   elems = [PolyElement(polycolor=metric_colors[i]) for i in 1:2]
   Legend(fig[1, 2], elems, ["Play Count", "Total Minutes"])
 
-  fname = "total_listening_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "total_listening_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Helpers
 
 function build_json(df)
   period_data = Dict{String,Any}()
@@ -99,8 +97,6 @@ function build_json(df)
   return period_data
 end
 
-# Main
-
 function main()
   for (year, year_label) in PERIODS
     title_label = year_label == "alltime" ? "All-Time" : year_label
@@ -110,7 +106,7 @@ function main()
     nrow(df) == 0 && continue
 
     plot_total_listening(df, year_label)
-    save_json("total_listening_$(year_label).json", build_json(df))
+    save_json(joinpath(DATA_DIR, "total_listening_$(year_label).json"), build_json(df))
   end
 end
 

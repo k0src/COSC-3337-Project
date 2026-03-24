@@ -1,0 +1,992 @@
+{
+    "2025": {
+        "Anthony": [
+            {
+                "genre": "trap",
+                "n_sessions": 558
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 450
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 340
+            },
+            {
+                "genre": "contemporary r&b",
+                "n_sessions": 168
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 144
+            },
+            {
+                "genre": "abstract hip hop",
+                "n_sessions": 125
+            },
+            {
+                "genre": "gangsta rap",
+                "n_sessions": 110
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 109
+            },
+            {
+                "genre": "soul",
+                "n_sessions": 98
+            },
+            {
+                "genre": "chicago hip hop",
+                "n_sessions": 97
+            },
+            {
+                "genre": "southern hip hop",
+                "n_sessions": 79
+            },
+            {
+                "genre": "rage",
+                "n_sessions": 74
+            },
+            {
+                "genre": "alternative r&b",
+                "n_sessions": 47
+            },
+            {
+                "genre": "punk rap",
+                "n_sessions": 43
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_sessions": 42
+            },
+            {
+                "genre": "plugg",
+                "n_sessions": 40
+            },
+            {
+                "genre": "cloud rap",
+                "n_sessions": 39
+            },
+            {
+                "genre": "dance pop",
+                "n_sessions": 37
+            },
+            {
+                "genre": "conscious hip hop",
+                "n_sessions": 36
+            },
+            {
+                "genre": "melodic hip hop",
+                "n_sessions": 36
+            }
+        ],
+        "Alexandra": [
+            {
+                "genre": "pop punk",
+                "n_sessions": 433
+            },
+            {
+                "genre": "metalcore",
+                "n_sessions": 427
+            },
+            {
+                "genre": "alternative rock",
+                "n_sessions": 380
+            },
+            {
+                "genre": "post hardcore",
+                "n_sessions": 360
+            },
+            {
+                "genre": "punk rock",
+                "n_sessions": 204
+            },
+            {
+                "genre": "pop rock",
+                "n_sessions": 193
+            },
+            {
+                "genre": "hard rock",
+                "n_sessions": 181
+            },
+            {
+                "genre": "alternative metal",
+                "n_sessions": 140
+            },
+            {
+                "genre": "deathcore",
+                "n_sessions": 110
+            },
+            {
+                "genre": "metal",
+                "n_sessions": 106
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 99
+            },
+            {
+                "genre": "electro pop",
+                "n_sessions": 93
+            },
+            {
+                "genre": "emo",
+                "n_sessions": 86
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 80
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 69
+            },
+            {
+                "genre": "easycore",
+                "n_sessions": 68
+            },
+            {
+                "genre": "nu metal",
+                "n_sessions": 67
+            },
+            {
+                "genre": "emo pop",
+                "n_sessions": 62
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 61
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 58
+            }
+        ],
+        "Koren": [
+            {
+                "genre": "drum and bass",
+                "n_sessions": 470
+            },
+            {
+                "genre": "jungle",
+                "n_sessions": 305
+            },
+            {
+                "genre": "liquid funk",
+                "n_sessions": 294
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 270
+            },
+            {
+                "genre": "underground trap",
+                "n_sessions": 132
+            },
+            {
+                "genre": "rage",
+                "n_sessions": 127
+            },
+            {
+                "genre": "plugg",
+                "n_sessions": 115
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 99
+            },
+            {
+                "genre": "cloud rap",
+                "n_sessions": 87
+            },
+            {
+                "genre": "jazz fusion",
+                "n_sessions": 76
+            },
+            {
+                "genre": "punk rap",
+                "n_sessions": 76
+            },
+            {
+                "genre": "math rock",
+                "n_sessions": 75
+            },
+            {
+                "genre": "post rock",
+                "n_sessions": 70
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 59
+            },
+            {
+                "genre": "jerk",
+                "n_sessions": 55
+            },
+            {
+                "genre": "pluggnb",
+                "n_sessions": 42
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 37
+            },
+            {
+                "genre": "indie rock",
+                "n_sessions": 28
+            },
+            {
+                "genre": "hyperpop",
+                "n_sessions": 27
+            },
+            {
+                "genre": "techno",
+                "n_sessions": 27
+            }
+        ],
+        "Alan": [
+            {
+                "genre": "hip hop",
+                "n_sessions": 438
+            },
+            {
+                "genre": "conscious hip hop",
+                "n_sessions": 212
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_sessions": 207
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 206
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 194
+            },
+            {
+                "genre": "boom bap",
+                "n_sessions": 174
+            },
+            {
+                "genre": "alternative rock",
+                "n_sessions": 162
+            },
+            {
+                "genre": "abstract hip hop",
+                "n_sessions": 157
+            },
+            {
+                "genre": "contemporary r&b",
+                "n_sessions": 148
+            },
+            {
+                "genre": "jazz rap",
+                "n_sessions": 127
+            },
+            {
+                "genre": "experimental hip hop",
+                "n_sessions": 123
+            },
+            {
+                "genre": "east coast hip hop",
+                "n_sessions": 122
+            },
+            {
+                "genre": "dance pop",
+                "n_sessions": 118
+            },
+            {
+                "genre": "soul",
+                "n_sessions": 113
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 103
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 91
+            },
+            {
+                "genre": "nu disco",
+                "n_sessions": 91
+            },
+            {
+                "genre": "gangsta rap",
+                "n_sessions": 91
+            },
+            {
+                "genre": "indie pop",
+                "n_sessions": 90
+            },
+            {
+                "genre": "neo soul",
+                "n_sessions": 89
+            }
+        ]
+    },
+    "alltime": {
+        "Anthony": [
+            {
+                "genre": "trap",
+                "n_sessions": 2076
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 1929
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 1249
+            },
+            {
+                "genre": "contemporary r&b",
+                "n_sessions": 605
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 552
+            },
+            {
+                "genre": "abstract hip hop",
+                "n_sessions": 384
+            },
+            {
+                "genre": "gangsta rap",
+                "n_sessions": 346
+            },
+            {
+                "genre": "southern hip hop",
+                "n_sessions": 345
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 333
+            },
+            {
+                "genre": "chicago hip hop",
+                "n_sessions": 323
+            },
+            {
+                "genre": "soul",
+                "n_sessions": 306
+            },
+            {
+                "genre": "conscious hip hop",
+                "n_sessions": 173
+            },
+            {
+                "genre": "melodic rap",
+                "n_sessions": 166
+            },
+            {
+                "genre": "cloud rap",
+                "n_sessions": 163
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_sessions": 162
+            },
+            {
+                "genre": "west coast hip hop",
+                "n_sessions": 158
+            },
+            {
+                "genre": "alternative r&b",
+                "n_sessions": 148
+            },
+            {
+                "genre": "emo rap",
+                "n_sessions": 145
+            },
+            {
+                "genre": "rage",
+                "n_sessions": 143
+            },
+            {
+                "genre": "drill",
+                "n_sessions": 141
+            }
+        ],
+        "Alexandra": [
+            {
+                "genre": "pop punk",
+                "n_sessions": 4205
+            },
+            {
+                "genre": "alternative rock",
+                "n_sessions": 4041
+            },
+            {
+                "genre": "pop rock",
+                "n_sessions": 2352
+            },
+            {
+                "genre": "metalcore",
+                "n_sessions": 2325
+            },
+            {
+                "genre": "post hardcore",
+                "n_sessions": 2306
+            },
+            {
+                "genre": "punk rock",
+                "n_sessions": 1750
+            },
+            {
+                "genre": "electro pop",
+                "n_sessions": 1189
+            },
+            {
+                "genre": "hard rock",
+                "n_sessions": 1157
+            },
+            {
+                "genre": "alternative metal",
+                "n_sessions": 1086
+            },
+            {
+                "genre": "indie rock",
+                "n_sessions": 947
+            },
+            {
+                "genre": "emo",
+                "n_sessions": 740
+            },
+            {
+                "genre": "metal",
+                "n_sessions": 669
+            },
+            {
+                "genre": "deathcore",
+                "n_sessions": 669
+            },
+            {
+                "genre": "emo pop",
+                "n_sessions": 660
+            },
+            {
+                "genre": "power pop",
+                "n_sessions": 642
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 626
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 592
+            },
+            {
+                "genre": "rock",
+                "n_sessions": 501
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 490
+            },
+            {
+                "genre": "nu metal",
+                "n_sessions": 454
+            }
+        ],
+        "Koren": [
+            {
+                "genre": "trap",
+                "n_sessions": 5131
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 3761
+            },
+            {
+                "genre": "drum and bass",
+                "n_sessions": 1610
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 1515
+            },
+            {
+                "genre": "underground trap",
+                "n_sessions": 1303
+            },
+            {
+                "genre": "rage",
+                "n_sessions": 1156
+            },
+            {
+                "genre": "cloud rap",
+                "n_sessions": 1154
+            },
+            {
+                "genre": "liquid funk",
+                "n_sessions": 1106
+            },
+            {
+                "genre": "jungle",
+                "n_sessions": 1053
+            },
+            {
+                "genre": "plugg",
+                "n_sessions": 982
+            },
+            {
+                "genre": "drill",
+                "n_sessions": 777
+            },
+            {
+                "genre": "southern hip hop",
+                "n_sessions": 662
+            },
+            {
+                "genre": "gangsta rap",
+                "n_sessions": 643
+            },
+            {
+                "genre": "emo rap",
+                "n_sessions": 602
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_sessions": 530
+            },
+            {
+                "genre": "punk rap",
+                "n_sessions": 520
+            },
+            {
+                "genre": "east coast hip hop",
+                "n_sessions": 510
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 467
+            },
+            {
+                "genre": "melodic hip hop",
+                "n_sessions": 449
+            },
+            {
+                "genre": "pluggnb",
+                "n_sessions": 439
+            }
+        ],
+        "Alan": [
+            {
+                "genre": "hip hop",
+                "n_sessions": 7775
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 6222
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 5009
+            },
+            {
+                "genre": "abstract hip hop",
+                "n_sessions": 2903
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 2324
+            },
+            {
+                "genre": "conscious hip hop",
+                "n_sessions": 2301
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 2072
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_sessions": 2063
+            },
+            {
+                "genre": "soul",
+                "n_sessions": 1895
+            },
+            {
+                "genre": "jazz rap",
+                "n_sessions": 1828
+            },
+            {
+                "genre": "boom bap",
+                "n_sessions": 1718
+            },
+            {
+                "genre": "chicago hip hop",
+                "n_sessions": 1644
+            },
+            {
+                "genre": "contemporary r&b",
+                "n_sessions": 1299
+            },
+            {
+                "genre": "gangsta rap",
+                "n_sessions": 1280
+            },
+            {
+                "genre": "east coast hip hop",
+                "n_sessions": 1227
+            },
+            {
+                "genre": "melodic hip hop",
+                "n_sessions": 1173
+            },
+            {
+                "genre": "southern hip hop",
+                "n_sessions": 1045
+            },
+            {
+                "genre": "experimental hip hop",
+                "n_sessions": 908
+            },
+            {
+                "genre": "emo rap",
+                "n_sessions": 900
+            },
+            {
+                "genre": "alternative rock",
+                "n_sessions": 822
+            }
+        ]
+    },
+    "2024": {
+        "Anthony": [
+            {
+                "genre": "hip hop",
+                "n_sessions": 415
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 413
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 234
+            },
+            {
+                "genre": "contemporary r&b",
+                "n_sessions": 121
+            },
+            {
+                "genre": "southern hip hop",
+                "n_sessions": 83
+            },
+            {
+                "genre": "conscious hip hop",
+                "n_sessions": 77
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 70
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_sessions": 70
+            },
+            {
+                "genre": "west coast hip hop",
+                "n_sessions": 70
+            },
+            {
+                "genre": "jazz rap",
+                "n_sessions": 58
+            },
+            {
+                "genre": "gangsta rap",
+                "n_sessions": 49
+            },
+            {
+                "genre": "abstract hip hop",
+                "n_sessions": 48
+            },
+            {
+                "genre": "cloud rap",
+                "n_sessions": 38
+            },
+            {
+                "genre": "chicago hip hop",
+                "n_sessions": 37
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 35
+            },
+            {
+                "genre": "soul",
+                "n_sessions": 31
+            },
+            {
+                "genre": "rage",
+                "n_sessions": 26
+            },
+            {
+                "genre": "melodic hip hop",
+                "n_sessions": 25
+            },
+            {
+                "genre": "dance pop",
+                "n_sessions": 25
+            },
+            {
+                "genre": "melodic rap",
+                "n_sessions": 23
+            }
+        ],
+        "Alexandra": [
+            {
+                "genre": "metalcore",
+                "n_sessions": 532
+            },
+            {
+                "genre": "post hardcore",
+                "n_sessions": 440
+            },
+            {
+                "genre": "pop punk",
+                "n_sessions": 431
+            },
+            {
+                "genre": "alternative rock",
+                "n_sessions": 365
+            },
+            {
+                "genre": "punk rock",
+                "n_sessions": 207
+            },
+            {
+                "genre": "pop rock",
+                "n_sessions": 198
+            },
+            {
+                "genre": "alternative metal",
+                "n_sessions": 194
+            },
+            {
+                "genre": "hard rock",
+                "n_sessions": 170
+            },
+            {
+                "genre": "deathcore",
+                "n_sessions": 138
+            },
+            {
+                "genre": "metal",
+                "n_sessions": 131
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 118
+            },
+            {
+                "genre": "nu metal",
+                "n_sessions": 96
+            },
+            {
+                "genre": "emo",
+                "n_sessions": 91
+            },
+            {
+                "genre": "emo pop",
+                "n_sessions": 77
+            },
+            {
+                "genre": "electro pop",
+                "n_sessions": 71
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 57
+            },
+            {
+                "genre": "indie rock",
+                "n_sessions": 56
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 50
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 46
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 45
+            }
+        ],
+        "Koren": [
+            {
+                "genre": "drum and bass",
+                "n_sessions": 615
+            },
+            {
+                "genre": "liquid funk",
+                "n_sessions": 420
+            },
+            {
+                "genre": "jungle",
+                "n_sessions": 381
+            },
+            {
+                "genre": "jazz fusion",
+                "n_sessions": 106
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 101
+            },
+            {
+                "genre": "plugg",
+                "n_sessions": 78
+            },
+            {
+                "genre": "math rock",
+                "n_sessions": 75
+            },
+            {
+                "genre": "underground trap",
+                "n_sessions": 71
+            },
+            {
+                "genre": "hip hop",
+                "n_sessions": 71
+            },
+            {
+                "genre": "post rock",
+                "n_sessions": 69
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 61
+            },
+            {
+                "genre": "jazzstep",
+                "n_sessions": 47
+            },
+            {
+                "genre": "jazz funk",
+                "n_sessions": 46
+            },
+            {
+                "genre": "cloud rap",
+                "n_sessions": 42
+            },
+            {
+                "genre": "jazz",
+                "n_sessions": 39
+            },
+            {
+                "genre": "dub techno",
+                "n_sessions": 39
+            },
+            {
+                "genre": "techno",
+                "n_sessions": 38
+            },
+            {
+                "genre": "ambient",
+                "n_sessions": 37
+            },
+            {
+                "genre": "rage",
+                "n_sessions": 37
+            },
+            {
+                "genre": "ambient techno",
+                "n_sessions": 32
+            }
+        ],
+        "Alan": [
+            {
+                "genre": "hip hop",
+                "n_sessions": 614
+            },
+            {
+                "genre": "conscious hip hop",
+                "n_sessions": 286
+            },
+            {
+                "genre": "alternative hip hop",
+                "n_sessions": 281
+            },
+            {
+                "genre": "boom bap",
+                "n_sessions": 260
+            },
+            {
+                "genre": "pop rap",
+                "n_sessions": 259
+            },
+            {
+                "genre": "trap",
+                "n_sessions": 249
+            },
+            {
+                "genre": "abstract hip hop",
+                "n_sessions": 244
+            },
+            {
+                "genre": "jazz rap",
+                "n_sessions": 237
+            },
+            {
+                "genre": "east coast hip hop",
+                "n_sessions": 197
+            },
+            {
+                "genre": "alternative rock",
+                "n_sessions": 172
+            },
+            {
+                "genre": "contemporary r&b",
+                "n_sessions": 170
+            },
+            {
+                "genre": "soul",
+                "n_sessions": 155
+            },
+            {
+                "genre": "experimental hip hop",
+                "n_sessions": 145
+            },
+            {
+                "genre": "electronic",
+                "n_sessions": 138
+            },
+            {
+                "genre": "pop",
+                "n_sessions": 130
+            },
+            {
+                "genre": "neo soul",
+                "n_sessions": 127
+            },
+            {
+                "genre": "gangsta rap",
+                "n_sessions": 124
+            },
+            {
+                "genre": "indie pop",
+                "n_sessions": 121
+            },
+            {
+                "genre": "indie rock",
+                "n_sessions": 107
+            },
+            {
+                "genre": "dance pop",
+                "n_sessions": 104
+            }
+        ]
+    }
+}

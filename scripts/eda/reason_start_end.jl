@@ -4,6 +4,10 @@ include(joinpath(@__DIR__, "..", "utils.jl"))
 using DataFrames
 using CairoMakie
 
+const DATA_DIR = joinpath(@__DIR__, "..", "..", "data", "reason_start_end")
+const PLOTS_DIR = joinpath(DATA_DIR, "plots")
+mkpath(PLOTS_DIR)
+
 const NAMES = Dict(
   "dasucc" => "Anthony",
   "alanjzamora" => "Alan",
@@ -21,8 +25,6 @@ const COLORS = [
   :steelblue, :orangered, :seagreen, :goldenrod, :mediumpurple,
   :deeppink, :darkcyan, :coral, :slateblue, :olivedrab,
 ]
-
-# Data
 
 function get_user_reason_start(; year=nothing)
   conn = get_connection()
@@ -63,8 +65,6 @@ function get_user_reason_end(; year=nothing)
   close(conn)
   return df
 end
-
-# Plots
 
 function plot_reason_proportions_users(df, col, title_str, year_label)
   nrow(df) == 0 && return
@@ -108,12 +108,10 @@ function plot_reason_proportions_users(df, col, title_str, year_label)
   elems = [PolyElement(polycolor=COLORS[mod1(i, length(COLORS))]) for i in 1:n_cats]
   Legend(fig[1, 2], elems, all_cats, "Category")
 
-  fname = "$(col)_users_$(year_label).png"
+  fname = joinpath(PLOTS_DIR, "$(col)_users_$(year_label).png")
   save(fname, fig)
   println("Plot saved to $fname")
 end
-
-# Helpers
 
 function build_json(df, col)
   period_data = Dict{String,Any}()
@@ -133,8 +131,6 @@ function build_json(df, col)
   return period_data
 end
 
-# Main
-
 function main()
   for (year, year_label) in PERIODS
     title_label = year_label == "alltime" ? "All-Time" : year_label
@@ -146,8 +142,8 @@ function main()
     plot_reason_proportions_users(rs_df, :reason_start, "reason_start", year_label)
     plot_reason_proportions_users(re_df, :reason_end, "reason_end", year_label)
 
-    save_json("reason_start_$(year_label).json", build_json(rs_df, :reason_start))
-    save_json("reason_end_$(year_label).json", build_json(re_df, :reason_end))
+    save_json(joinpath(DATA_DIR, "reason_start_$(year_label).json"), build_json(rs_df, :reason_start))
+    save_json(joinpath(DATA_DIR, "reason_end_$(year_label).json"), build_json(re_df, :reason_end))
   end
 end
 

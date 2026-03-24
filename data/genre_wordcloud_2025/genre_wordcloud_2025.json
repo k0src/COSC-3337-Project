@@ -1,0 +1,810 @@
+{
+  "Anthony": [
+    {
+      "genre": "trap",
+      "plays": 9622
+    },
+    {
+      "genre": "hip hop",
+      "plays": 7419
+    },
+    {
+      "genre": "pop rap",
+      "plays": 6038
+    },
+    {
+      "genre": "contemporary r&b",
+      "plays": 2939
+    },
+    {
+      "genre": "pop",
+      "plays": 2077
+    },
+    {
+      "genre": "gangsta rap",
+      "plays": 1621
+    },
+    {
+      "genre": "southern hip hop",
+      "plays": 1544
+    },
+    {
+      "genre": "abstract hip hop",
+      "plays": 1520
+    },
+    {
+      "genre": "electronic",
+      "plays": 1419
+    },
+    {
+      "genre": "rage",
+      "plays": 1314
+    },
+    {
+      "genre": "chicago hip hop",
+      "plays": 1276
+    },
+    {
+      "genre": "soul",
+      "plays": 1239
+    },
+    {
+      "genre": "cloud rap",
+      "plays": 902
+    },
+    {
+      "genre": "punk rap",
+      "plays": 870
+    },
+    {
+      "genre": "alternative r&b",
+      "plays": 849
+    },
+    {
+      "genre": "plugg",
+      "plays": 745
+    },
+    {
+      "genre": "melodic rap",
+      "plays": 710
+    },
+    {
+      "genre": "alternative hip hop",
+      "plays": 651
+    },
+    {
+      "genre": "dance pop",
+      "plays": 623
+    },
+    {
+      "genre": "west coast hip hop",
+      "plays": 598
+    },
+    {
+      "genre": "conscious hip hop",
+      "plays": 590
+    },
+    {
+      "genre": "melodic hip hop",
+      "plays": 567
+    },
+    {
+      "genre": "emo rap",
+      "plays": 509
+    },
+    {
+      "genre": "east coast hip hop",
+      "plays": 435
+    },
+    {
+      "genre": "trap soul",
+      "plays": 421
+    },
+    {
+      "genre": "jazz rap",
+      "plays": 400
+    },
+    {
+      "genre": "electro pop",
+      "plays": 350
+    },
+    {
+      "genre": "hyperpop",
+      "plays": 320
+    },
+    {
+      "genre": "dirty south",
+      "plays": 286
+    },
+    {
+      "genre": "synth pop",
+      "plays": 283
+    },
+    {
+      "genre": "psychedelic hip hop",
+      "plays": 282
+    },
+    {
+      "genre": "neo soul",
+      "plays": 280
+    },
+    {
+      "genre": "florida rap",
+      "plays": 260
+    },
+    {
+      "genre": "drill",
+      "plays": 252
+    },
+    {
+      "genre": "memphis hip hop",
+      "plays": 227
+    },
+    {
+      "genre": "r&b",
+      "plays": 218
+    },
+    {
+      "genre": "detroit hip hop",
+      "plays": 201
+    },
+    {
+      "genre": "experimental hip hop",
+      "plays": 176
+    },
+    {
+      "genre": "underground trap",
+      "plays": 174
+    },
+    {
+      "genre": "gospel hip hop",
+      "plays": 154
+    },
+    {
+      "genre": "dubstep",
+      "plays": 135
+    },
+    {
+      "genre": "indie rock",
+      "plays": 131
+    },
+    {
+      "genre": "rap",
+      "plays": 129
+    },
+    {
+      "genre": "dancehall",
+      "plays": 126
+    },
+    {
+      "genre": "hyphy",
+      "plays": 116
+    },
+    {
+      "genre": "drum and bass",
+      "plays": 109
+    },
+    {
+      "genre": "experimental",
+      "plays": 104
+    },
+    {
+      "genre": "crunk",
+      "plays": 99
+    },
+    {
+      "genre": "bass house",
+      "plays": 94
+    },
+    {
+      "genre": "uk drill",
+      "plays": 84
+    }
+  ],
+  "Alexandra": [
+    {
+      "genre": "pop punk",
+      "plays": 3158
+    },
+    {
+      "genre": "metalcore",
+      "plays": 2873
+    },
+    {
+      "genre": "alternative rock",
+      "plays": 2725
+    },
+    {
+      "genre": "post hardcore",
+      "plays": 2479
+    },
+    {
+      "genre": "punk rock",
+      "plays": 1442
+    },
+    {
+      "genre": "pop rock",
+      "plays": 1368
+    },
+    {
+      "genre": "hard rock",
+      "plays": 1174
+    },
+    {
+      "genre": "alternative metal",
+      "plays": 1006
+    },
+    {
+      "genre": "deathcore",
+      "plays": 715
+    },
+    {
+      "genre": "hip hop",
+      "plays": 708
+    },
+    {
+      "genre": "metal",
+      "plays": 706
+    },
+    {
+      "genre": "electro pop",
+      "plays": 700
+    },
+    {
+      "genre": "emo",
+      "plays": 625
+    },
+    {
+      "genre": "trap",
+      "plays": 622
+    },
+    {
+      "genre": "nu metal",
+      "plays": 558
+    },
+    {
+      "genre": "pop rap",
+      "plays": 519
+    },
+    {
+      "genre": "emo pop",
+      "plays": 468
+    },
+    {
+      "genre": "easycore",
+      "plays": 439
+    },
+    {
+      "genre": "pop",
+      "plays": 396
+    },
+    {
+      "genre": "electronic",
+      "plays": 392
+    },
+    {
+      "genre": "power pop",
+      "plays": 348
+    },
+    {
+      "genre": "indie rock",
+      "plays": 325
+    },
+    {
+      "genre": "rap rock",
+      "plays": 320
+    },
+    {
+      "genre": "dubstep",
+      "plays": 303
+    },
+    {
+      "genre": "post grunge",
+      "plays": 283
+    },
+    {
+      "genre": "rock",
+      "plays": 246
+    },
+    {
+      "genre": "heavy metal",
+      "plays": 233
+    },
+    {
+      "genre": "trap metal",
+      "plays": 215
+    },
+    {
+      "genre": "post punk revival",
+      "plays": 184
+    },
+    {
+      "genre": "electronicore",
+      "plays": 176
+    },
+    {
+      "genre": "alternative hip hop",
+      "plays": 163
+    },
+    {
+      "genre": "electronic rock",
+      "plays": 156
+    },
+    {
+      "genre": "indie pop",
+      "plays": 148
+    },
+    {
+      "genre": "contemporary r&b",
+      "plays": 134
+    },
+    {
+      "genre": "industrial metal",
+      "plays": 129
+    },
+    {
+      "genre": "death metal",
+      "plays": 127
+    },
+    {
+      "genre": "dance pop",
+      "plays": 126
+    },
+    {
+      "genre": "avant garde metal",
+      "plays": 124
+    },
+    {
+      "genre": "djent",
+      "plays": 124
+    },
+    {
+      "genre": "progressive metal",
+      "plays": 121
+    },
+    {
+      "genre": "hardstyle",
+      "plays": 117
+    },
+    {
+      "genre": "blues rock",
+      "plays": 112
+    },
+    {
+      "genre": "progressive rock",
+      "plays": 110
+    },
+    {
+      "genre": "melodic hardcore",
+      "plays": 110
+    },
+    {
+      "genre": "synth pop",
+      "plays": 108
+    },
+    {
+      "genre": "screamo",
+      "plays": 93
+    },
+    {
+      "genre": "edm",
+      "plays": 84
+    },
+    {
+      "genre": "hardcore",
+      "plays": 83
+    },
+    {
+      "genre": "skate punk",
+      "plays": 78
+    },
+    {
+      "genre": "slam",
+      "plays": 76
+    }
+  ],
+  "Koren": [
+    {
+      "genre": "drum and bass",
+      "plays": 5875
+    },
+    {
+      "genre": "trap",
+      "plays": 5210
+    },
+    {
+      "genre": "liquid funk",
+      "plays": 3847
+    },
+    {
+      "genre": "jungle",
+      "plays": 3610
+    },
+    {
+      "genre": "underground trap",
+      "plays": 2576
+    },
+    {
+      "genre": "hip hop",
+      "plays": 2286
+    },
+    {
+      "genre": "plugg",
+      "plays": 2241
+    },
+    {
+      "genre": "rage",
+      "plays": 2181
+    },
+    {
+      "genre": "math rock",
+      "plays": 1450
+    },
+    {
+      "genre": "cloud rap",
+      "plays": 1432
+    },
+    {
+      "genre": "punk rap",
+      "plays": 1257
+    },
+    {
+      "genre": "jerk",
+      "plays": 1236
+    },
+    {
+      "genre": "post rock",
+      "plays": 1211
+    },
+    {
+      "genre": "jazz fusion",
+      "plays": 1122
+    },
+    {
+      "genre": "pop rap",
+      "plays": 1017
+    },
+    {
+      "genre": "pluggnb",
+      "plays": 671
+    },
+    {
+      "genre": "electronic",
+      "plays": 634
+    },
+    {
+      "genre": "underground hip hop",
+      "plays": 633
+    },
+    {
+      "genre": "indie rock",
+      "plays": 474
+    },
+    {
+      "genre": "experimental hip hop",
+      "plays": 467
+    },
+    {
+      "genre": "hyperpop",
+      "plays": 392
+    },
+    {
+      "genre": "gangsta rap",
+      "plays": 347
+    },
+    {
+      "genre": "contemporary r&b",
+      "plays": 345
+    },
+    {
+      "genre": "emo rap",
+      "plays": 318
+    },
+    {
+      "genre": "ambient",
+      "plays": 305
+    },
+    {
+      "genre": "jazz funk",
+      "plays": 301
+    },
+    {
+      "genre": "southern hip hop",
+      "plays": 295
+    },
+    {
+      "genre": "melodic hip hop",
+      "plays": 288
+    },
+    {
+      "genre": "techno",
+      "plays": 273
+    },
+    {
+      "genre": "pop",
+      "plays": 264
+    },
+    {
+      "genre": "breakbeat",
+      "plays": 257
+    },
+    {
+      "genre": "jazz",
+      "plays": 257
+    },
+    {
+      "genre": "jazzstep",
+      "plays": 245
+    },
+    {
+      "genre": "dark plugg",
+      "plays": 228
+    },
+    {
+      "genre": "alternative hip hop",
+      "plays": 218
+    },
+    {
+      "genre": "nu jazz",
+      "plays": 215
+    },
+    {
+      "genre": "breakbeat hardcore",
+      "plays": 204
+    },
+    {
+      "genre": "drill",
+      "plays": 204
+    },
+    {
+      "genre": "electro pop",
+      "plays": 196
+    },
+    {
+      "genre": "instrumental rock",
+      "plays": 183
+    },
+    {
+      "genre": "dancehall",
+      "plays": 176
+    },
+    {
+      "genre": "regalia",
+      "plays": 174
+    },
+    {
+      "genre": "experimental",
+      "plays": 173
+    },
+    {
+      "genre": "progressive rock",
+      "plays": 173
+    },
+    {
+      "genre": "dub techno",
+      "plays": 161
+    },
+    {
+      "genre": "east coast hip hop",
+      "plays": 155
+    },
+    {
+      "genre": "instrumental hip hop",
+      "plays": 154
+    },
+    {
+      "genre": "indie pop",
+      "plays": 152
+    },
+    {
+      "genre": "dub",
+      "plays": 148
+    },
+    {
+      "genre": "abstract hip hop",
+      "plays": 146
+    }
+  ],
+  "Alan": [
+    {
+      "genre": "hip hop",
+      "plays": 9677
+    },
+    {
+      "genre": "conscious hip hop",
+      "plays": 4847
+    },
+    {
+      "genre": "trap",
+      "plays": 4638
+    },
+    {
+      "genre": "alternative hip hop",
+      "plays": 4451
+    },
+    {
+      "genre": "boom bap",
+      "plays": 4413
+    },
+    {
+      "genre": "pop rap",
+      "plays": 4245
+    },
+    {
+      "genre": "abstract hip hop",
+      "plays": 3532
+    },
+    {
+      "genre": "jazz rap",
+      "plays": 3491
+    },
+    {
+      "genre": "experimental hip hop",
+      "plays": 3405
+    },
+    {
+      "genre": "east coast hip hop",
+      "plays": 3333
+    },
+    {
+      "genre": "alternative rock",
+      "plays": 2795
+    },
+    {
+      "genre": "soul",
+      "plays": 2329
+    },
+    {
+      "genre": "electronic",
+      "plays": 2283
+    },
+    {
+      "genre": "contemporary r&b",
+      "plays": 2150
+    },
+    {
+      "genre": "gangsta rap",
+      "plays": 2069
+    },
+    {
+      "genre": "indie pop",
+      "plays": 1940
+    },
+    {
+      "genre": "pop",
+      "plays": 1884
+    },
+    {
+      "genre": "dance pop",
+      "plays": 1769
+    },
+    {
+      "genre": "cloud rap",
+      "plays": 1677
+    },
+    {
+      "genre": "indie rock",
+      "plays": 1562
+    },
+    {
+      "genre": "art pop",
+      "plays": 1560
+    },
+    {
+      "genre": "neo soul",
+      "plays": 1541
+    },
+    {
+      "genre": "hardcore hip hop",
+      "plays": 1497
+    },
+    {
+      "genre": "west coast hip hop",
+      "plays": 1439
+    },
+    {
+      "genre": "industrial hip hop",
+      "plays": 1325
+    },
+    {
+      "genre": "trip hop",
+      "plays": 1307
+    },
+    {
+      "genre": "nu disco",
+      "plays": 1293
+    },
+    {
+      "genre": "art rock",
+      "plays": 1226
+    },
+    {
+      "genre": "chicago hip hop",
+      "plays": 1206
+    },
+    {
+      "genre": "glitch hop",
+      "plays": 1117
+    },
+    {
+      "genre": "southern hip hop",
+      "plays": 1106
+    },
+    {
+      "genre": "noise rap",
+      "plays": 1086
+    },
+    {
+      "genre": "indie folk",
+      "plays": 1081
+    },
+    {
+      "genre": "synth pop",
+      "plays": 1062
+    },
+    {
+      "genre": "jazz",
+      "plays": 970
+    },
+    {
+      "genre": "alternative r&b",
+      "plays": 887
+    },
+    {
+      "genre": "baroque pop",
+      "plays": 879
+    },
+    {
+      "genre": "neo psychedelia",
+      "plays": 865
+    },
+    {
+      "genre": "soundtrack",
+      "plays": 848
+    },
+    {
+      "genre": "pop soul",
+      "plays": 796
+    },
+    {
+      "genre": "electro pop",
+      "plays": 790
+    },
+    {
+      "genre": "singer songwriter",
+      "plays": 784
+    },
+    {
+      "genre": "trap metal",
+      "plays": 758
+    },
+    {
+      "genre": "chamber pop",
+      "plays": 736
+    },
+    {
+      "genre": "funk",
+      "plays": 734
+    },
+    {
+      "genre": "folk",
+      "plays": 665
+    },
+    {
+      "genre": "jazz pop",
+      "plays": 636
+    },
+    {
+      "genre": "piano rock",
+      "plays": 595
+    },
+    {
+      "genre": "pop punk",
+      "plays": 594
+    },
+    {
+      "genre": "instrumental hip hop",
+      "plays": 567
+    }
+  ]
+}

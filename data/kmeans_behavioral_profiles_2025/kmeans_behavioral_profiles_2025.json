@@ -1,0 +1,783 @@
+{
+    "observations": [
+        {
+            "month": "Jan",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0464078536367693,
+                "skip_rate": 0.78937974118697,
+                "shuffle_rate": 0.525211958946899,
+                "plays": 2241,
+                "entropy": 6.593911093754194
+            },
+            "pc2": 0.016739630027917035,
+            "pc1": -1.7178267679039487,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Feb",
+            "features": {
+                "offline_rate": 0.000506842372022301,
+                "new_rate": 0.0342118601115053,
+                "skip_rate": 0.828687278256462,
+                "shuffle_rate": 0.536999493157628,
+                "plays": 3946,
+                "entropy": 6.872537811567546
+            },
+            "pc2": -0.3894102738613766,
+            "pc1": -2.718189346192102,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Mar",
+            "features": {
+                "offline_rate": 0.000705218617771509,
+                "new_rate": 0.00235072872590503,
+                "skip_rate": 0.857545839210155,
+                "shuffle_rate": 0.512929007992478,
+                "plays": 4254,
+                "entropy": 6.897883224536537
+            },
+            "pc2": -0.0581258704627646,
+            "pc1": -2.8784795785629136,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Apr",
+            "features": {
+                "offline_rate": 0.00273972602739726,
+                "new_rate": 0.0100456621004566,
+                "skip_rate": 0.610958904109589,
+                "shuffle_rate": 0.51689497716895,
+                "plays": 1095,
+                "entropy": 6.6474834858292935
+            },
+            "pc2": 0.5282456876903658,
+            "pc1": -0.4813485377305294,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "May",
+            "features": {
+                "offline_rate": 0.00261324041811847,
+                "new_rate": 0.162891986062718,
+                "skip_rate": 0.837979094076655,
+                "shuffle_rate": 0.481707317073171,
+                "plays": 1148,
+                "entropy": 5.974148348442454
+            },
+            "pc2": -0.3210982752076756,
+            "pc1": -1.7103069639116297,
+            "user": "Alan",
+            "cluster": 2
+        },
+        {
+            "month": "Jun",
+            "features": {
+                "offline_rate": 0.00826019617965927,
+                "new_rate": 0.00567888487351575,
+                "skip_rate": 0.879710893133712,
+                "shuffle_rate": 0.523489932885906,
+                "plays": 1937,
+                "entropy": 6.672339648944435
+            },
+            "pc2": 0.3778697680514354,
+            "pc1": -1.54031422403392,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Jul",
+            "features": {
+                "offline_rate": 0.00043308791684712,
+                "new_rate": 0.0498051104374188,
+                "skip_rate": 0.693806842789086,
+                "shuffle_rate": 0.370723256821135,
+                "plays": 2309,
+                "entropy": 6.154336624694212
+            },
+            "pc2": 0.8602342204652617,
+            "pc1": -1.7941508596598514,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Aug",
+            "features": {
+                "offline_rate": 0.000425531914893617,
+                "new_rate": 0.00170212765957447,
+                "skip_rate": 0.754042553191489,
+                "shuffle_rate": 0.202127659574468,
+                "plays": 2350,
+                "entropy": 6.415108311966898
+            },
+            "pc2": 1.4246639227795528,
+            "pc1": -2.179189599296418,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Sep",
+            "features": {
+                "offline_rate": 0.000971502590673575,
+                "new_rate": 0.00712435233160622,
+                "skip_rate": 0.789183937823834,
+                "shuffle_rate": 0.490608808290155,
+                "plays": 3088,
+                "entropy": 6.4071232268648535
+            },
+            "pc2": 0.6577486544442639,
+            "pc1": -2.0496365741076934,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Oct",
+            "features": {
+                "offline_rate": 0.00103359173126615,
+                "new_rate": 0.0222222222222222,
+                "skip_rate": 0.778811369509044,
+                "shuffle_rate": 0.422222222222222,
+                "plays": 1935,
+                "entropy": 5.957180095198091
+            },
+            "pc2": 1.2976737472097961,
+            "pc1": -1.5300494501192596,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Nov",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.000619962802231866,
+                "skip_rate": 0.816181029138252,
+                "shuffle_rate": 0.627092374457533,
+                "plays": 3226,
+                "entropy": 6.541924164612414
+            },
+            "pc2": 0.24731431362411702,
+            "pc1": -1.8941473676601235,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Dec",
+            "features": {
+                "offline_rate": 0.000560852495793606,
+                "new_rate": 0.00168255748738082,
+                "skip_rate": 0.874369040942232,
+                "shuffle_rate": 0.711160964666293,
+                "plays": 1783,
+                "entropy": 6.392631661041116
+            },
+            "pc2": 0.35862049469363116,
+            "pc1": -1.0341865904882765,
+            "user": "Alan",
+            "cluster": 1
+        },
+        {
+            "month": "Jan",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.13727560718057,
+                "skip_rate": 0.275607180570222,
+                "shuffle_rate": 0.859556494192186,
+                "plays": 947,
+                "entropy": 6.455320256586493
+            },
+            "pc2": -1.2804403562565556,
+            "pc1": 0.6631598695765198,
+            "user": "Alexandra",
+            "cluster": 2
+        },
+        {
+            "month": "Feb",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.00717703349282297,
+                "skip_rate": 0.338516746411483,
+                "shuffle_rate": 0.990430622009569,
+                "plays": 836,
+                "entropy": 6.702080716708813
+            },
+            "pc2": -0.4502851275516941,
+            "pc1": 1.3777019851901884,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Mar",
+            "features": {
+                "offline_rate": 0.00128369704749679,
+                "new_rate": 0.0269576379974326,
+                "skip_rate": 0.210526315789474,
+                "shuffle_rate": 0.971758664955071,
+                "plays": 779,
+                "entropy": 6.978180590968969
+            },
+            "pc2": -0.9145258622093179,
+            "pc1": 1.5705720456221322,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Apr",
+            "features": {
+                "offline_rate": 0.00127226463104326,
+                "new_rate": 0.0216284987277354,
+                "skip_rate": 0.278625954198473,
+                "shuffle_rate": 0.969465648854962,
+                "plays": 786,
+                "entropy": 6.784897138661961
+            },
+            "pc2": -0.6396774025539076,
+            "pc1": 1.4453561160468746,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "May",
+            "features": {
+                "offline_rate": 0.109561752988048,
+                "new_rate": 0.00099601593625498,
+                "skip_rate": 0.241035856573705,
+                "shuffle_rate": 0.968127490039841,
+                "plays": 1004,
+                "entropy": 6.982903837945694
+            },
+            "pc2": -0.6611021577636494,
+            "pc1": 2.507361923967075,
+            "user": "Alexandra",
+            "cluster": 4
+        },
+        {
+            "month": "Jun",
+            "features": {
+                "offline_rate": 0.00198412698412698,
+                "new_rate": 0.0257936507936508,
+                "skip_rate": 0.25,
+                "shuffle_rate": 0.954365079365079,
+                "plays": 504,
+                "entropy": 6.602265879588753
+            },
+            "pc2": -0.39879697284378374,
+            "pc1": 1.6586666295791914,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Jul",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0215686274509804,
+                "skip_rate": 0.301960784313725,
+                "shuffle_rate": 0.907843137254902,
+                "plays": 510,
+                "entropy": 6.587984845631389
+            },
+            "pc2": -0.2474859358835667,
+            "pc1": 1.4226635985292657,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Aug",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.00667779632721202,
+                "skip_rate": 0.270450751252087,
+                "shuffle_rate": 0.993322203672788,
+                "plays": 599,
+                "entropy": 6.648847708099241
+            },
+            "pc2": -0.34652109359152666,
+            "pc1": 1.6973047529979788,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Sep",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0149750415973378,
+                "skip_rate": 0.29450915141431,
+                "shuffle_rate": 0.976705490848586,
+                "plays": 601,
+                "entropy": 6.525642536546476
+            },
+            "pc2": -0.2601100085038996,
+            "pc1": 1.5834435049681885,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Oct",
+            "features": {
+                "offline_rate": 0.00146627565982405,
+                "new_rate": 0.00586510263929619,
+                "skip_rate": 0.268328445747801,
+                "shuffle_rate": 0.986803519061584,
+                "plays": 682,
+                "entropy": 6.517338614669017
+            },
+            "pc2": -0.1746513374899071,
+            "pc1": 1.6821507057658112,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Nov",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0,
+                "skip_rate": 0.226233453670277,
+                "shuffle_rate": 0.990373044524669,
+                "plays": 831,
+                "entropy": 6.513742048976258
+            },
+            "pc2": -0.11847932025600168,
+            "pc1": 1.726231258576614,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Dec",
+            "features": {
+                "offline_rate": 0.00949367088607595,
+                "new_rate": 0.00316455696202532,
+                "skip_rate": 0.216772151898734,
+                "shuffle_rate": 0.930379746835443,
+                "plays": 632,
+                "entropy": 6.272965970938063
+            },
+            "pc2": 0.28781121092251405,
+            "pc1": 1.8437517876468197,
+            "user": "Alexandra",
+            "cluster": 3
+        },
+        {
+            "month": "Jan",
+            "features": {
+                "offline_rate": 0.00157977883096367,
+                "new_rate": 0.023696682464455,
+                "skip_rate": 0.546603475513428,
+                "shuffle_rate": 0.89362822538178,
+                "plays": 1899,
+                "entropy": 6.320629006496164
+            },
+            "pc2": -0.1238090509115415,
+            "pc1": 0.060719576644552666,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Feb",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0218607015760041,
+                "skip_rate": 0.207930859176411,
+                "shuffle_rate": 0.643111337061515,
+                "plays": 1967,
+                "entropy": 6.2114595512497734
+            },
+            "pc2": 0.6571653639095391,
+            "pc1": 0.33185442375647867,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Mar",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0210265924551639,
+                "skip_rate": 0.24860853432282,
+                "shuffle_rate": 0.579468150896722,
+                "plays": 1617,
+                "entropy": 5.870343223730871
+            },
+            "pc2": 1.2367957177936262,
+            "pc1": 0.34141890409298375,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Apr",
+            "features": {
+                "offline_rate": 0.00308370044052863,
+                "new_rate": 0.013215859030837,
+                "skip_rate": 0.225550660792952,
+                "shuffle_rate": 0.578854625550661,
+                "plays": 2270,
+                "entropy": 6.678262334385939
+            },
+            "pc2": 0.3020197851808129,
+            "pc1": -0.033819458553009954,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "May",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0380348652931854,
+                "skip_rate": 0.196513470681458,
+                "shuffle_rate": 0.606180665610143,
+                "plays": 1262,
+                "entropy": 6.428040021358621
+            },
+            "pc2": 0.37828518873213834,
+            "pc1": 0.5600675467476254,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Jun",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.074245939675174,
+                "skip_rate": 0.387470997679814,
+                "shuffle_rate": 0.525908739365816,
+                "plays": 1293,
+                "entropy": 5.800573156428952
+            },
+            "pc2": 0.8549130165094145,
+            "pc1": -0.16800989492206103,
+            "user": "Anthony",
+            "cluster": 1
+        },
+        {
+            "month": "Jul",
+            "features": {
+                "offline_rate": 0.0152817574021012,
+                "new_rate": 0.00573065902578797,
+                "skip_rate": 0.398280802292264,
+                "shuffle_rate": 0.528175740210124,
+                "plays": 1047,
+                "entropy": 6.1920672744403085
+            },
+            "pc2": 1.151824803145153,
+            "pc1": 0.3215691282188521,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Aug",
+            "features": {
+                "offline_rate": 0.00121802679658952,
+                "new_rate": 0.0097442143727162,
+                "skip_rate": 0.214372716199756,
+                "shuffle_rate": 0.254567600487211,
+                "plays": 821,
+                "entropy": 5.517168611819609
+            },
+            "pc2": 2.582948590724448,
+            "pc1": 0.2635295670056171,
+            "user": "Anthony",
+            "cluster": 1
+        },
+        {
+            "month": "Sep",
+            "features": {
+                "offline_rate": 0.04,
+                "new_rate": 0,
+                "skip_rate": 0.208,
+                "shuffle_rate": 0.516,
+                "plays": 250,
+                "entropy": 4.949883993497226
+            },
+            "pc2": 2.848035167619328,
+            "pc1": 1.6828072995463532,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Oct",
+            "features": {
+                "offline_rate": 0.054320987654321,
+                "new_rate": 0.00493827160493827,
+                "skip_rate": 0.241975308641975,
+                "shuffle_rate": 0.866666666666667,
+                "plays": 405,
+                "entropy": 5.846882327159359
+            },
+            "pc2": 0.9314608381126962,
+            "pc1": 2.255642141337911,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Nov",
+            "features": {
+                "offline_rate": 0.0118764845605701,
+                "new_rate": 0,
+                "skip_rate": 0.605700712589074,
+                "shuffle_rate": 0.895486935866983,
+                "plays": 421,
+                "entropy": 6.004081976660769
+            },
+            "pc2": 0.6400233833902276,
+            "pc1": 0.983167353453133,
+            "user": "Anthony",
+            "cluster": 3
+        },
+        {
+            "month": "Dec",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.00443458980044346,
+                "skip_rate": 0.583148558758315,
+                "shuffle_rate": 0.34589800443459,
+                "plays": 451,
+                "entropy": 5.053568051783812
+            },
+            "pc2": 2.9339633570257684,
+            "pc1": -0.17056001628901715,
+            "user": "Anthony",
+            "cluster": 1
+        },
+        {
+            "month": "Jan",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0399188092016238,
+                "skip_rate": 0.638024357239513,
+                "shuffle_rate": 0.870771312584574,
+                "plays": 1478,
+                "entropy": 7.5785302974579505
+            },
+            "pc2": -1.7283521566939968,
+            "pc1": -0.28593539706628956,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Feb",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.09201060204468,
+                "skip_rate": 0.436955698599016,
+                "shuffle_rate": 0.887921241953805,
+                "plays": 2641,
+                "entropy": 7.26093571138803
+            },
+            "pc2": -2.0204059046826908,
+            "pc1": -0.552556620910658,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Mar",
+            "features": {
+                "offline_rate": 0.000246366100024637,
+                "new_rate": 0.0258684405025868,
+                "skip_rate": 0.567627494456763,
+                "shuffle_rate": 0.833210150283321,
+                "plays": 4059,
+                "entropy": 7.868342341932333
+            },
+            "pc2": -2.078925758183465,
+            "pc1": -1.5976616423170806,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Apr",
+            "features": {
+                "offline_rate": 0.0039119804400978,
+                "new_rate": 0.00488997555012225,
+                "skip_rate": 0.423471882640587,
+                "shuffle_rate": 0.805867970660147,
+                "plays": 2045,
+                "entropy": 6.606809905111843
+            },
+            "pc2": -0.04968145416224299,
+            "pc1": 0.15133080551806596,
+            "user": "Koren",
+            "cluster": 3
+        },
+        {
+            "month": "May",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0176211453744493,
+                "skip_rate": 0.803230543318649,
+                "shuffle_rate": 0.682819383259912,
+                "plays": 681,
+                "entropy": 6.368609938866599
+            },
+            "pc2": 0.4050210500398936,
+            "pc1": -0.3816813335019651,
+            "user": "Koren",
+            "cluster": 1
+        },
+        {
+            "month": "Jun",
+            "features": {
+                "offline_rate": 0.00526315789473684,
+                "new_rate": 0.0315789473684211,
+                "skip_rate": 0.501754385964912,
+                "shuffle_rate": 0.564912280701754,
+                "plays": 570,
+                "entropy": 7.363739875769044
+            },
+            "pc2": -0.5833047238754505,
+            "pc1": 5.30854293822092e-5,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Jul",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.09695603156708,
+                "skip_rate": 0.519729425028185,
+                "shuffle_rate": 0.739571589627959,
+                "plays": 887,
+                "entropy": 7.472758131322586
+            },
+            "pc2": -1.8452628092008287,
+            "pc1": -0.18294386064908094,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Aug",
+            "features": {
+                "offline_rate": 0.112372304199773,
+                "new_rate": 0.0306469920544835,
+                "skip_rate": 0.76844494892168,
+                "shuffle_rate": 0.59477866061294,
+                "plays": 881,
+                "entropy": 7.516709026356496
+            },
+            "pc2": -0.9218882393894002,
+            "pc1": 0.22396655657122944,
+            "user": "Koren",
+            "cluster": 4
+        },
+        {
+            "month": "Sep",
+            "features": {
+                "offline_rate": 0.00247729149463253,
+                "new_rate": 0.0454170107349298,
+                "skip_rate": 0.312964492155244,
+                "shuffle_rate": 0.74318744838976,
+                "plays": 1211,
+                "entropy": 7.475394548623073
+            },
+            "pc2": -1.2745420161359367,
+            "pc1": 0.41441647047582403,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Oct",
+            "features": {
+                "offline_rate": 0.0166908563134978,
+                "new_rate": 0.0500725689404935,
+                "skip_rate": 0.663280116110305,
+                "shuffle_rate": 0.447024673439768,
+                "plays": 1378,
+                "entropy": 7.693329910582463
+            },
+            "pc2": -1.0406320896039616,
+            "pc1": -1.1402086117605743,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Nov",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0654627539503386,
+                "skip_rate": 0.672686230248307,
+                "shuffle_rate": 0.623024830699774,
+                "plays": 443,
+                "entropy": 7.361628061266204
+            },
+            "pc2": -1.10865575772565,
+            "pc1": -0.4284674101471094,
+            "user": "Koren",
+            "cluster": 2
+        },
+        {
+            "month": "Dec",
+            "features": {
+                "offline_rate": 0,
+                "new_rate": 0.0329024676850764,
+                "skip_rate": 0.721504112808461,
+                "shuffle_rate": 0.81903642773208,
+                "plays": 851,
+                "entropy": 7.953727689149411
+            },
+            "pc2": -1.9432079570911147,
+            "pc1": -0.29923693148115527,
+            "user": "Koren",
+            "cluster": 2
+        }
+    ],
+    "features": [
+        "plays",
+        "skip_rate",
+        "shuffle_rate",
+        "offline_rate",
+        "entropy",
+        "new_rate"
+    ],
+    "k": 4,
+    "cluster_profiles": [
+        {
+            "n": 15,
+            "means": {
+                "offline_rate": 0.0011236384428609284,
+                "new_rate": 0.01919314744075796,
+                "skip_rate": 0.7107266830164908,
+                "shuffle_rate": 0.48324362558207967,
+                "plays": 2094,
+                "entropy": 6.286158607193905
+            },
+            "cluster": 1
+        },
+        {
+            "n": 11,
+            "means": {
+                "offline_rate": 0.0024809920200918436,
+                "new_rate": 0.07094138411259256,
+                "skip_rate": 0.5589193261143257,
+                "shuffle_rate": 0.7154476151525592,
+                "plays": 1419.3636363636363,
+                "entropy": 7.314350470229095
+            },
+            "cluster": 2
+        },
+        {
+            "n": 20,
+            "means": {
+                "offline_rate": 0.007277736226857472,
+                "new_rate": 0.01336007764944937,
+                "skip_rate": 0.2979279730673666,
+                "shuffle_rate": 0.8292443737643698,
+                "plays": 997.15,
+                "entropy": 6.362120283243991
+            },
+            "cluster": 3
+        },
+        {
+            "n": 2,
+            "means": {
+                "offline_rate": 0.1109670285939105,
+                "new_rate": 0.01582150399536924,
+                "skip_rate": 0.5047404027476925,
+                "shuffle_rate": 0.7814530753263905,
+                "plays": 942.5,
+                "entropy": 7.249806432151095
+            },
+            "cluster": 4
+        }
+    ]
+}

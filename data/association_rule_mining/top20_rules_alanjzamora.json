@@ -1,0 +1,322 @@
+[
+  {
+    "antecedents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "consequents": [
+      "Lil Skies",
+      "Playboi Carti"
+    ],
+    "support": 0.0508,
+    "confidence": 0.6198,
+    "lift": 8.6068,
+    "leverage": 0.044933,
+    "conviction": 2.441,
+    "english": "When listening to \"Cordae\" + \"Juice WRLD\", also listen to \"Lil Skies\" + \"Playboi Carti\" (support=0.051, confidence=0.620, lift=8.61, conviction=2.44)"
+  },
+  {
+    "antecedents": [
+      "Lil Skies",
+      "Playboi Carti"
+    ],
+    "consequents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "support": 0.0508,
+    "confidence": 0.706,
+    "lift": 8.6068,
+    "leverage": 0.044933,
+    "conviction": 3.122,
+    "english": "When listening to \"Lil Skies\" + \"Playboi Carti\", also listen to \"Cordae\" + \"Juice WRLD\" (support=0.051, confidence=0.706, lift=8.61, conviction=3.12)"
+  },
+  {
+    "antecedents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "consequents": [
+      "21 Savage",
+      "Lil Skies"
+    ],
+    "support": 0.0504,
+    "confidence": 0.6144,
+    "lift": 8.2646,
+    "leverage": 0.044296,
+    "conviction": 2.4,
+    "english": "When listening to \"Cordae\" + \"Juice WRLD\", also listen to \"21 Savage\" + \"Lil Skies\" (support=0.050, confidence=0.614, lift=8.26, conviction=2.40)"
+  },
+  {
+    "antecedents": [
+      "21 Savage",
+      "Lil Skies"
+    ],
+    "consequents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "support": 0.0504,
+    "confidence": 0.6779,
+    "lift": 8.2646,
+    "leverage": 0.044296,
+    "conviction": 2.85,
+    "english": "When listening to \"21 Savage\" + \"Lil Skies\", also listen to \"Cordae\" + \"Juice WRLD\" (support=0.050, confidence=0.678, lift=8.26, conviction=2.85)"
+  },
+  {
+    "antecedents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "consequents": [
+      "Lil Skies",
+      "Ski Mask The Slump God"
+    ],
+    "support": 0.0519,
+    "confidence": 0.6329,
+    "lift": 8.1325,
+    "leverage": 0.045529,
+    "conviction": 2.512,
+    "english": "When listening to \"Cordae\" + \"Juice WRLD\", also listen to \"Lil Skies\" + \"Ski Mask The Slump God\" (support=0.052, confidence=0.633, lift=8.13, conviction=2.51)"
+  },
+  {
+    "antecedents": [
+      "Lil Skies",
+      "Ski Mask The Slump God"
+    ],
+    "consequents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "support": 0.0519,
+    "confidence": 0.667,
+    "lift": 8.1325,
+    "leverage": 0.045529,
+    "conviction": 2.757,
+    "english": "When listening to \"Lil Skies\" + \"Ski Mask The Slump God\", also listen to \"Cordae\" + \"Juice WRLD\" (support=0.052, confidence=0.667, lift=8.13, conviction=2.76)"
+  },
+  {
+    "antecedents": [
+      "Lil Skies",
+      "Metro Boomin"
+    ],
+    "consequents": [
+      "Lil Uzi Vert",
+      "Ski Mask The Slump God"
+    ],
+    "support": 0.0502,
+    "confidence": 0.6394,
+    "lift": 8.0221,
+    "leverage": 0.043955,
+    "conviction": 2.552,
+    "english": "When listening to \"Lil Skies\" + \"Metro Boomin\", also listen to \"Lil Uzi Vert\" + \"Ski Mask The Slump God\" (support=0.050, confidence=0.639, lift=8.02, conviction=2.55)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Ski Mask The Slump God"
+    ],
+    "consequents": [
+      "Lil Skies",
+      "Metro Boomin"
+    ],
+    "support": 0.0502,
+    "confidence": 0.63,
+    "lift": 8.0221,
+    "leverage": 0.043955,
+    "conviction": 2.491,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Ski Mask The Slump God\", also listen to \"Lil Skies\" + \"Metro Boomin\" (support=0.050, confidence=0.630, lift=8.02, conviction=2.49)"
+  },
+  {
+    "antecedents": [
+      "Lil Skies",
+      "Lil Uzi Vert"
+    ],
+    "consequents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "support": 0.0566,
+    "confidence": 0.6539,
+    "lift": 7.9725,
+    "leverage": 0.049464,
+    "conviction": 2.653,
+    "english": "When listening to \"Lil Skies\" + \"Lil Uzi Vert\", also listen to \"Cordae\" + \"Juice WRLD\" (support=0.057, confidence=0.654, lift=7.97, conviction=2.65)"
+  },
+  {
+    "antecedents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "consequents": [
+      "Lil Skies",
+      "Lil Uzi Vert"
+    ],
+    "support": 0.0566,
+    "confidence": 0.6895,
+    "lift": 7.9725,
+    "leverage": 0.049464,
+    "conviction": 2.942,
+    "english": "When listening to \"Cordae\" + \"Juice WRLD\", also listen to \"Lil Skies\" + \"Lil Uzi Vert\" (support=0.057, confidence=0.690, lift=7.97, conviction=2.94)"
+  },
+  {
+    "antecedents": [
+      "A Boogie Wit da Hoodie",
+      "Lil Skies"
+    ],
+    "consequents": [
+      "Juice WRLD",
+      "Ski Mask The Slump God"
+    ],
+    "support": 0.0505,
+    "confidence": 0.7513,
+    "lift": 7.9105,
+    "leverage": 0.044101,
+    "conviction": 3.639,
+    "english": "When listening to \"A Boogie Wit da Hoodie\" + \"Lil Skies\", also listen to \"Juice WRLD\" + \"Ski Mask The Slump God\" (support=0.050, confidence=0.751, lift=7.91, conviction=3.64)"
+  },
+  {
+    "antecedents": [
+      "Juice WRLD",
+      "Ski Mask The Slump God"
+    ],
+    "consequents": [
+      "A Boogie Wit da Hoodie",
+      "Lil Skies"
+    ],
+    "support": 0.0505,
+    "confidence": 0.5315,
+    "lift": 7.9105,
+    "leverage": 0.044101,
+    "conviction": 1.991,
+    "english": "When listening to \"Juice WRLD\" + \"Ski Mask The Slump God\", also listen to \"A Boogie Wit da Hoodie\" + \"Lil Skies\" (support=0.050, confidence=0.532, lift=7.91, conviction=1.99)"
+  },
+  {
+    "antecedents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "consequents": [
+      "Lil Skies",
+      "Trippie Redd"
+    ],
+    "support": 0.0535,
+    "confidence": 0.6525,
+    "lift": 7.895,
+    "leverage": 0.046741,
+    "conviction": 2.64,
+    "english": "When listening to \"Cordae\" + \"Juice WRLD\", also listen to \"Lil Skies\" + \"Trippie Redd\" (support=0.054, confidence=0.653, lift=7.89, conviction=2.64)"
+  },
+  {
+    "antecedents": [
+      "Lil Skies",
+      "Trippie Redd"
+    ],
+    "consequents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "support": 0.0535,
+    "confidence": 0.6476,
+    "lift": 7.895,
+    "leverage": 0.046741,
+    "conviction": 2.605,
+    "english": "When listening to \"Lil Skies\" + \"Trippie Redd\", also listen to \"Cordae\" + \"Juice WRLD\" (support=0.054, confidence=0.648, lift=7.89, conviction=2.60)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Ski Mask The Slump God"
+    ],
+    "consequents": [
+      "Lil Skies",
+      "Trippie Redd"
+    ],
+    "support": 0.052,
+    "confidence": 0.6525,
+    "lift": 7.8945,
+    "leverage": 0.045414,
+    "conviction": 2.64,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Ski Mask The Slump God\", also listen to \"Lil Skies\" + \"Trippie Redd\" (support=0.052, confidence=0.652, lift=7.89, conviction=2.64)"
+  },
+  {
+    "antecedents": [
+      "Lil Skies",
+      "Trippie Redd"
+    ],
+    "consequents": [
+      "Lil Uzi Vert",
+      "Ski Mask The Slump God"
+    ],
+    "support": 0.052,
+    "confidence": 0.6292,
+    "lift": 7.8945,
+    "leverage": 0.045414,
+    "conviction": 2.482,
+    "english": "When listening to \"Lil Skies\" + \"Trippie Redd\", also listen to \"Lil Uzi Vert\" + \"Ski Mask The Slump God\" (support=0.052, confidence=0.629, lift=7.89, conviction=2.48)"
+  },
+  {
+    "antecedents": [
+      "Juice WRLD",
+      "Young Thug"
+    ],
+    "consequents": [
+      "Lil Skies",
+      "Lil Uzi Vert"
+    ],
+    "support": 0.0522,
+    "confidence": 0.6799,
+    "lift": 7.8605,
+    "leverage": 0.045542,
+    "conviction": 2.853,
+    "english": "When listening to \"Juice WRLD\" + \"Young Thug\", also listen to \"Lil Skies\" + \"Lil Uzi Vert\" (support=0.052, confidence=0.680, lift=7.86, conviction=2.85)"
+  },
+  {
+    "antecedents": [
+      "Lil Skies",
+      "Lil Uzi Vert"
+    ],
+    "consequents": [
+      "Juice WRLD",
+      "Young Thug"
+    ],
+    "support": 0.0522,
+    "confidence": 0.6033,
+    "lift": 7.8605,
+    "leverage": 0.045542,
+    "conviction": 2.327,
+    "english": "When listening to \"Lil Skies\" + \"Lil Uzi Vert\", also listen to \"Juice WRLD\" + \"Young Thug\" (support=0.052, confidence=0.603, lift=7.86, conviction=2.33)"
+  },
+  {
+    "antecedents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "consequents": [
+      "Lil Uzi Vert",
+      "Ski Mask The Slump God"
+    ],
+    "support": 0.0514,
+    "confidence": 0.6264,
+    "lift": 7.859,
+    "leverage": 0.044839,
+    "conviction": 2.463,
+    "english": "When listening to \"Cordae\" + \"Juice WRLD\", also listen to \"Lil Uzi Vert\" + \"Ski Mask The Slump God\" (support=0.051, confidence=0.626, lift=7.86, conviction=2.46)"
+  },
+  {
+    "antecedents": [
+      "Lil Uzi Vert",
+      "Ski Mask The Slump God"
+    ],
+    "consequents": [
+      "Cordae",
+      "Juice WRLD"
+    ],
+    "support": 0.0514,
+    "confidence": 0.6446,
+    "lift": 7.859,
+    "leverage": 0.044839,
+    "conviction": 2.583,
+    "english": "When listening to \"Lil Uzi Vert\" + \"Ski Mask The Slump God\", also listen to \"Cordae\" + \"Juice WRLD\" (support=0.051, confidence=0.645, lift=7.86, conviction=2.58)"
+  }
+]
