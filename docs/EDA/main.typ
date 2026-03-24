@@ -570,7 +570,7 @@ Self-drift applies the same composite distance function between each user's 2024
     Group-wide events went from \~44k in 2018 to \~140k in 2019, peaked at \~130k in 2020-2021, and have declined to \~70k in 2025. This is largely Alan's trajectory, as his listening dropped post-2020, and no other user increased enough to compensate.
   ])],
   [#box(theme: "important", title: "Genre Space Has Three Distinct Poles", [
-    PCA on genre play-share vectors explains 87.2% of inter-user variance in two dimensions. PC1 is a clean rock-vs-rap axis (Alexandra alone on the rock side), and PC2 isolates drum & bass (Koren alone at the top). Alan and Anthony cluster tightly together in the rap region, confirming their genre profiles are nearly interchangeable.
+    PCA on genre play-share vectors explains 87.2% of inter-user variance in two dimensions. PC1 is a clean rock-vs-rap axis (Alexandra alone on the rock side), and PC2 isolates drum & bass (Koren alone at the top). Alan and Anthony are the closest to each other in the rap region, meaning their genre profiles are the most similar.
   ])],
   [#box(theme: "important", title: "Alexandra Listens Almost Entirely Through Playlists", [
     Alexandra's shuffle rate is 93.3%, far above the 53-65% range of the other three users. She shuffles playlists she has curated herself rather than selecting individual tracks. Combined with the lowest skip rate (11.7%), she rarely overrides what comes next, suggesting high confidence in her own playlists.
@@ -579,6 +579,6 @@ Self-drift applies the same composite distance function between each user's 2024
 
 #hr()
 
-#box(title: "AI Disclosure", [
+#box(theme: "info", title: "AI Disclosure", [
   The group collected and downloaded their personal Spotify Extended Streaming History data, wrote the data processing and import pipeline, structured all JSON outputs, and built the summary tables and visualizations used throughout this report. Claude was used to assist in writing the written analysis and drawing insights from the already-prepared data. Prompts provided to Claude included requests to identify trends, behavioral patterns, and cross-user comparisons based on the structured data files. All AI-generated analysis was reviewed and verified by group members against the underlying data.
 ])
