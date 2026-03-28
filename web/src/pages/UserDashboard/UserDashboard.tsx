@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import { SummaryStats } from "@components";
+import { SummaryStats, EventsOverTime } from "@components";
 import { USERNAME_TO_DISPLAY } from "@types";
 import type { Username, DisplayName } from "@types";
 import styles from "./UserDashboard.module.css";
@@ -23,6 +23,7 @@ export default function UserDashboard() {
         </div>
 
         <SummaryStats mainUser={displayName} />
+        <EventsOverTime mainUser={displayName} />
       </div>
     </>
   );

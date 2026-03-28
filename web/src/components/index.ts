@@ -4,3 +4,4 @@ export { default as TimePeriodSelector } from "./TimePeriodSelector/TimePeriodSe
 export { default as UserCompare } from "./UserCompare/UserCompare";
 export { default as StatCard } from "./StatCard/StatCard";
 export { default as SummaryStats } from "./SummaryStats/SummaryStats";
+export { default as EventsOverTime } from "./EventsOverTime/EventsOverTime";
