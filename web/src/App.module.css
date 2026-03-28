@@ -1,0 +1,10 @@
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
+  padding: var(--space-2xl);
+  padding-left: calc(var(--sidebar-width) + var(--space-2xl));
+}

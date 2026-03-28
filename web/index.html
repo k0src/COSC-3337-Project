@@ -1,26 +1,19 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
-    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Spotify Dashboard</title>
   </head>
   <body>
-    <pre id="output"></pre>
-
-    <script>
-      const db = supabase.createClient(
-        "https://blgoamaptspfvthzvavh.supabase.co",
-        "sb_publishable_erZbUMdhBvTL7hNl9dcgNw_-Rtajd95",
-      );
-
-      async function load() {
-        const { data } = await db.from("spotify_data").select("*");
-        document.getElementById("output").textContent = JSON.stringify(
-          data,
-          null,
-          2,
-        );
-      }
-      load();
-    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
