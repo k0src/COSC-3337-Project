@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import classNames from "classnames";
+import { ChevronDown, Check } from "lucide-react";
 import { USERS } from "@types";
 import type { DisplayName } from "@types";
 import styles from "./UserCompare.module.css";
@@ -53,13 +54,12 @@ export default function UserCompare({
         {selected.length > 0 && (
           <span className={styles.badge}>{selected.length}</span>
         )}
-        <span
+        <ChevronDown
+          size={14}
           className={classNames(styles.chevron, {
             [styles.chevronOpen]: open,
           })}
-        >
-          ▾
-        </span>
+        />
       </button>
 
       {open && (
@@ -77,7 +77,7 @@ export default function UserCompare({
                     [styles.checkboxChecked]: checked,
                   })}
                 >
-                  {checked && <span className={styles.checkmark}>✓</span>}
+                  {checked && <Check size={12} className={styles.checkmark} />}
                 </span>
                 <span
                   className={styles.dot}
