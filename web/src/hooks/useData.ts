@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { loadData } from "@lib";
 
 interface UseDataResult<T> {
@@ -11,6 +11,7 @@ export function useData<T = unknown>(path: string): UseDataResult<T> {
   const [data, setData] = useState<T | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const prevData = useRef<T | null>(null);
 
   useEffect(() => {
     let cancelled = false;
@@ -21,6 +22,7 @@ export function useData<T = unknown>(path: string): UseDataResult<T> {
     loadData<T>(path)
       .then((result) => {
         if (!cancelled) {
+          prevData.current = result;
           setData(result);
           setLoading(false);
         }
@@ -37,5 +39,6 @@ export function useData<T = unknown>(path: string): UseDataResult<T> {
     };
   }, [path]);
 
-  return { data, loading, error };
+  // Return previous data while loading to prevent layout collapse
+  return { data: data ?? prevData.current, loading, error };
 }

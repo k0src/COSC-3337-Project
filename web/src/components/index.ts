@@ -5,3 +5,5 @@ export { default as UserCompare } from "./UserCompare/UserCompare";
 export { default as StatCard } from "./StatCard/StatCard";
 export { default as SummaryStats } from "./SummaryStats/SummaryStats";
 export { default as EventsOverTime } from "./EventsOverTime/EventsOverTime";
+export { default as TopList } from "./TopList/TopList";
+export { default as TopSection } from "./TopSection/TopSection";
