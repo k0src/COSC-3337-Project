@@ -18,9 +18,6 @@ export default function Sidebar() {
         <NavLink to="/" className={linkClass}>
           Dashboard
         </NavLink>
-        <NavLink to="/group" className={linkClass}>
-          Group
-        </NavLink>
 
         <span className={styles.sectionLabel}>Users</span>
         {USERS.map((user) => (

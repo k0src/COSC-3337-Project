@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import { Sidebar } from "@components";
-import { Dashboard, UserDashboard, GroupDashboard } from "@pages";
+import { Dashboard, UserDashboard } from "@pages";
 import styles from "./App.module.css";
 
 export default function App() {
@@ -10,7 +10,6 @@ export default function App() {
       <main className={styles.main}>
         <Routes>
           <Route path="/" element={<Dashboard />} />
-          <Route path="/group" element={<GroupDashboard />} />
           <Route path="/user/:username" element={<UserDashboard />} />
         </Routes>
       </main>

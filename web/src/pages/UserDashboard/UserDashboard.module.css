@@ -26,3 +26,16 @@
   grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
   gap: var(--space-lg);
 }
+
+.halfGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-lg);
+  align-items: start;
+}
+
+@media (max-width: 1000px) {
+  .halfGrid {
+    grid-template-columns: 1fr;
+  }
+}
