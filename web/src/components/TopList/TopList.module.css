@@ -5,7 +5,19 @@
   padding: var(--space-md) var(--space-lg) var(--space-sm) var(--space-lg);
   display: flex;
   flex-direction: column;
+}
+
+.cardTop {
+  display: flex;
+  flex-direction: column;
   gap: var(--space-md);
+  padding-bottom: var(--space-md);
+}
+
+.expandedList {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--space-md);
 }
 
 .cardTitle {

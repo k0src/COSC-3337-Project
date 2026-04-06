@@ -202,34 +202,36 @@ function DiscoveryCard({
         [styles.cardNoToggle]: !hasToggle,
       })}
     >
-      <div className={styles.cardHeader}>
-        <span className={styles.cardLabel}>{label}</span>
-        <span className={styles.cardCount}>{items.length} total</span>
-      </div>
+      <div className={styles.cardTop}>
+        <div className={styles.cardHeader}>
+          <span className={styles.cardLabel}>{label}</span>
+          <span className={styles.cardCount}>{items.length} total</span>
+        </div>
 
-      <div className={styles.featured}>
-        {featured.image && (
-          <img
-            className={styles.featuredImage}
-            src={`/images/${featured.image}`}
-            alt={featured.name}
-          />
-        )}
-        <div className={styles.featuredInfo}>
-          <span className={styles.featuredName} title={featured.name}>
-            {featured.name}
-          </span>
-          {featured.subtitle && (
-            <span className={styles.featuredSub} title={featured.subtitle}>
-              {featured.subtitle}
-            </span>
+        <div className={styles.featured}>
+          {featured.image && (
+            <img
+              className={styles.featuredImage}
+              src={`/images/${featured.image}`}
+              alt={featured.name}
+            />
           )}
-          <span className={styles.featuredMeta}>{featured.meta}</span>
+          <div className={styles.featuredInfo}>
+            <span className={styles.featuredName} title={featured.name}>
+              {featured.name}
+            </span>
+            {featured.subtitle && (
+              <span className={styles.featuredSub} title={featured.subtitle}>
+                {featured.subtitle}
+              </span>
+            )}
+            <span className={styles.featuredMeta}>{featured.meta}</span>
+          </div>
         </div>
       </div>
 
       {expanded && (
-        <>
+        <div className={styles.expandedList}>
           <div className={styles.listHeader}>
             <span className={styles.listHeaderRank}>#</span>
             <span className={styles.listHeaderName}>
@@ -255,7 +257,7 @@ function DiscoveryCard({
               </div>
             ))}
           </div>
-        </>
+        </div>
       )}
 
       {hasToggle && (

@@ -81,7 +81,19 @@
   padding: var(--space-md) var(--space-lg) var(--space-sm) var(--space-lg);
   display: flex;
   flex-direction: column;
-  gap: var(--space-sm);
+}
+
+.cardTop {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+  padding-bottom: var(--space-md);
+}
+
+.expandedList {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--space-md);
 }
 
 .cardNoToggle {
@@ -190,7 +202,7 @@
   align-items: flex-start;
   gap: var(--space-sm);
   padding: var(--space-sm) 0;
-  border-top: 1px solid var(--color-border-subtle);
+  border-bottom: 1px solid var(--color-border-subtle);
 }
 
 .rank {
