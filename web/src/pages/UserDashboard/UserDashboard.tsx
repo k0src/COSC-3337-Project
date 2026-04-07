@@ -10,6 +10,7 @@ import {
   ArtistDiversityChart,
   GenreAvgChart,
   GenreShareDow,
+  SessionOpeningArtist,
 } from "@components";
 import { USERNAME_TO_DISPLAY } from "@types";
 import type { Username, DisplayName } from "@types";
@@ -46,6 +47,7 @@ export default function UserDashboard() {
           <GenreShareDow mainUser={displayName} />
           <ListeningClock mainUser={displayName} />
         </div>
+        <SessionOpeningArtist mainUser={displayName} />
       </div>
     </>
   );
