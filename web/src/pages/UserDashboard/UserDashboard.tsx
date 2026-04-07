@@ -9,6 +9,7 @@ import {
   CalendarHeatmap,
   ArtistDiversityChart,
   GenreAvgChart,
+  GenreShareDow,
 } from "@components";
 import { USERNAME_TO_DISPLAY } from "@types";
 import type { Username, DisplayName } from "@types";
@@ -42,6 +43,7 @@ export default function UserDashboard() {
         </div>
         <GenreAvgChart mainUser={displayName} />
         <div className={styles.halfGrid}>
+          <GenreShareDow mainUser={displayName} />
           <ListeningClock mainUser={displayName} />
         </div>
       </div>

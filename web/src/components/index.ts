@@ -12,3 +12,4 @@ export { default as ListeningClock } from "./ListeningClock/ListeningClock";
 export { default as CalendarHeatmap } from "./CalendarHeatmap/CalendarHeatmap";
 export { default as ArtistDiversityChart } from "./ArtistDiversityChart/ArtistDiversityChart";
 export { default as GenreAvgChart } from "./GenreAvgChart/GenreAvgChart";
+export { default as GenreShareDow } from "./GenreShareDow/GenreShareDow";

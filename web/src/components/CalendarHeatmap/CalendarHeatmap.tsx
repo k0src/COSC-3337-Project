@@ -1,6 +1,6 @@
 import { useState, useCallback, useMemo } from "react";
 import classNames from "classnames";
-import { TimePeriodSelector, UserCompare } from "@components";
+import { TimePeriodSelector } from "@components";
 import { useData } from "@hooks";
 import { USERS, DISPLAY_NAME_TO_USERNAME } from "@types";
 import type { DisplayName, TimePeriod, Username } from "@types";
@@ -20,18 +20,8 @@ const USER_HEX: Record<string, string> = {
 };
 
 const MONTH_NAMES = [
-  "Jan",
-  "Feb",
-  "Mar",
-  "Apr",
-  "May",
-  "Jun",
-  "Jul",
-  "Aug",
-  "Sep",
-  "Oct",
-  "Nov",
-  "Dec",
+  "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
 ];
 
 const CELL = 13;
@@ -45,12 +35,7 @@ function buildCalendarCells(year: number) {
   const totalDays = isLeap ? 366 : 365;
   const jan1Dow = new Date(year, 0, 1).getDay();
 
-  const cells: Array<{
-    date: string;
-    week: number;
-    dow: number;
-    month: number;
-  }> = [];
+  const cells: Array<{ date: string; week: number; dow: number }> = [];
   const monthStarts: Array<{ month: number; week: number }> = [];
   let lastMonth = -1;
 
@@ -68,8 +53,7 @@ function buildCalendarCells(year: number) {
       monthStarts.push({ month, week });
       lastMonth = month;
     }
-
-    cells.push({ date: dateStr, week, dow, month });
+    cells.push({ date: dateStr, week, dow });
   }
 
   const numWeeks = Math.ceil((totalDays + jan1Dow) / 7);
@@ -90,15 +74,9 @@ const CALENDAR_PERIODS: TimePeriod[] = ["2024", "2025"];
 
 export default function CalendarHeatmap({ mainUser }: CalendarHeatmapProps) {
   const [period, setPeriod] = useState<TimePeriod>("2025");
-  const [compareUsers, setCompareUsers] = useState<DisplayName[]>([]);
-  const [tooltip, setTooltip] = useState<{
-    date: string;
-    x: number;
-    y: number;
-  } | null>(null);
+  const [tooltip, setTooltip] = useState<{ date: string; x: number; y: number } | null>(null);
 
   const mainUserColor = USERS.find((u) => u.displayName === mainUser)?.color;
-
   const { data, loading } = useData<HeatmapData>(`calendar_heatmap/${period}`);
 
   const year = parseInt(period);
@@ -107,37 +85,24 @@ export default function CalendarHeatmap({ mainUser }: CalendarHeatmapProps) {
     [year],
   );
 
-  const visibleUsers = useMemo(
-    () => [mainUser, ...compareUsers],
-    [mainUser, compareUsers],
-  );
+  const username = DISPLAY_NAME_TO_USERNAME[mainUser] as Username;
+  const userDates = data?.[username] || {};
+  const userMax = useMemo(() => {
+    const vals = Object.values(userDates);
+    return vals.length > 0 ? Math.max(...vals) : 1;
+  }, [userDates]);
 
-  const maxByUser = useMemo(() => {
-    const map: Record<string, number> = {};
-    if (!data) return map;
-    for (const name of visibleUsers) {
-      const username = DISPLAY_NAME_TO_USERNAME[name];
-      const userDates = data[username] || {};
-      const vals = Object.values(userDates);
-      map[name] = vals.length > 0 ? Math.max(...vals) : 1;
-    }
-    return map;
-  }, [data, visibleUsers]);
-
+  const hex = USER_HEX[mainUser] || "#8b5cf6";
   const svgW = LABEL_W + numWeeks * STEP;
   const svgH = LABEL_H + 7 * STEP;
 
   const handleEnter = useCallback((date: string, e: React.MouseEvent) => {
     setTooltip({ date, x: e.clientX, y: e.clientY });
   }, []);
-
   const handleMove = useCallback((date: string, e: React.MouseEvent) => {
     setTooltip({ date, x: e.clientX, y: e.clientY });
   }, []);
-
-  const handleLeave = useCallback(() => {
-    setTooltip(null);
-  }, []);
+  const handleLeave = useCallback(() => setTooltip(null), []);
 
   if (loading || !data) {
     return (
@@ -157,94 +122,63 @@ export default function CalendarHeatmap({ mainUser }: CalendarHeatmapProps) {
         <h2 className={styles.toolbarTitle} style={{ color: mainUserColor }}>
           Play History
         </h2>
-        <div className={styles.toolbarControls}>
-          <TimePeriodSelector
-            value={period}
-            onChange={setPeriod}
-            periods={CALENDAR_PERIODS}
-          />
-          <UserCompare
-            mainUser={mainUser}
-            selected={compareUsers}
-            onChange={setCompareUsers}
-          />
-        </div>
+        <TimePeriodSelector
+          value={period}
+          onChange={setPeriod}
+          periods={CALENDAR_PERIODS}
+        />
       </div>
 
       <div className={styles.card}>
-        {visibleUsers.map((name) => {
-          const username = DISPLAY_NAME_TO_USERNAME[name];
-          const userDates = data[username] || {};
-          const userMax = maxByUser[name] || 1;
-          const hex = USER_HEX[name] || "#8b5cf6";
-          const user = USERS.find((u) => u.displayName === name);
-
-          return (
-            <div key={name} className={styles.heatmapRow}>
-              {visibleUsers.length > 1 && (
-                <span
-                  className={styles.userLabel}
-                  style={{ color: user?.color }}
-                >
-                  {name}
-                </span>
-              )}
-              <svg
-                viewBox={`0 0 ${svgW} ${svgH}`}
-                width="100%"
-                style={{ display: "block" }}
+        <div className={styles.heatmapRow}>
+          <svg viewBox={`0 0 ${svgW} ${svgH}`} width="100%" style={{ display: "block" }}>
+            {monthStarts.map(({ month, week }) => (
+              <text
+                key={month}
+                x={LABEL_W + week * STEP}
+                y={LABEL_H - 3}
+                fontSize="9"
+                fill="var(--color-text-muted)"
+                fontFamily="var(--font-family)"
               >
-                {monthStarts.map(({ month, week }) => (
-                  <text
-                    key={month}
-                    x={LABEL_W + week * STEP}
-                    y={LABEL_H - 3}
-                    fontSize="9"
-                    fill="var(--color-text-muted)"
-                    fontFamily="var(--font-family)"
-                  >
-                    {MONTH_NAMES[month]}
-                  </text>
-                ))}
+                {MONTH_NAMES[month]}
+              </text>
+            ))}
 
-                {[1, 3, 5].map((dow, i) => (
-                  <text
-                    key={dow}
-                    x={LABEL_W - 3}
-                    y={LABEL_H + dow * STEP + CELL / 2 + 3}
-                    fontSize="9"
-                    fill="var(--color-text-muted)"
-                    fontFamily="var(--font-family)"
-                    textAnchor="end"
-                  >
-                    {["M", "W", "F"][i]}
-                  </text>
-                ))}
+            {[1, 3, 5].map((dow, i) => (
+              <text
+                key={dow}
+                x={LABEL_W - 3}
+                y={LABEL_H + dow * STEP + CELL / 2 + 3}
+                fontSize="9"
+                fill="var(--color-text-muted)"
+                fontFamily="var(--font-family)"
+                textAnchor="end"
+              >
+                {["M", "W", "F"][i]}
+              </text>
+            ))}
 
-                {cells.map(({ date, week, dow }) => {
-                  const value = userDates[date] || 0;
-                  return (
-                    <rect
-                      key={date}
-                      x={LABEL_W + week * STEP}
-                      y={LABEL_H + dow * STEP}
-                      width={CELL}
-                      height={CELL}
-                      rx={2}
-                      fill={cellFill(hex, value, userMax)}
-                      className={classNames({
-                        [styles.cellHover]: value > 0,
-                      })}
-                      onMouseEnter={(e) => handleEnter(date, e)}
-                      onMouseMove={(e) => handleMove(date, e)}
-                      onMouseLeave={handleLeave}
-                    />
-                  );
-                })}
-              </svg>
-            </div>
-          );
-        })}
+            {cells.map(({ date, week, dow }) => {
+              const value = userDates[date] || 0;
+              return (
+                <rect
+                  key={date}
+                  x={LABEL_W + week * STEP}
+                  y={LABEL_H + dow * STEP}
+                  width={CELL}
+                  height={CELL}
+                  rx={2}
+                  fill={cellFill(hex, value, userMax)}
+                  className={classNames({ [styles.cellHover]: value > 0 })}
+                  onMouseEnter={(e) => handleEnter(date, e)}
+                  onMouseMove={(e) => handleMove(date, e)}
+                  onMouseLeave={handleLeave}
+                />
+              );
+            })}
+          </svg>
+        </div>
       </div>
 
       {tooltip && (
@@ -260,24 +194,16 @@ export default function CalendarHeatmap({ mainUser }: CalendarHeatmapProps) {
               year: "numeric",
             })}
           </span>
-          {visibleUsers.map((name) => {
-            const username = DISPLAY_NAME_TO_USERNAME[name];
-            const userDates = data[username] || {};
-            const count = userDates[tooltip.date] || 0;
-            const user = USERS.find((u) => u.displayName === name);
-            return (
-              <div key={name} className={styles.tooltipRow}>
-                <span
-                  className={styles.tooltipDot}
-                  style={{ backgroundColor: user?.color }}
-                />
-                <span>{name}</span>
-                <span className={styles.tooltipValue}>
-                  {count.toLocaleString()}
-                </span>
-              </div>
-            );
-          })}
+          <div className={styles.tooltipRow}>
+            <span
+              className={styles.tooltipDot}
+              style={{ backgroundColor: mainUserColor }}
+            />
+            <span>{mainUser}</span>
+            <span className={styles.tooltipValue}>
+              {(userDates[tooltip.date] || 0).toLocaleString()}
+            </span>
+          </div>
         </div>
       )}
     </div>
