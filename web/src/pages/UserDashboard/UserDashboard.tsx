@@ -6,6 +6,7 @@ import {
   TopSection,
   Discoveries,
   ListeningClock,
+  CalendarHeatmap,
 } from "@components";
 import { USERNAME_TO_DISPLAY } from "@types";
 import type { Username, DisplayName } from "@types";
@@ -32,6 +33,7 @@ export default function UserDashboard() {
         <EventsOverTime mainUser={displayName} />
         <TopSection mainUser={displayName} />
         <Discoveries mainUser={displayName} />
+        <CalendarHeatmap mainUser={displayName} />
         <div className={styles.halfGrid}>
           <ListeningClock mainUser={displayName} />
         </div>

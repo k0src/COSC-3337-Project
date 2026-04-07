@@ -9,3 +9,4 @@ export { default as TopList } from "./TopList/TopList";
 export { default as TopSection } from "./TopSection/TopSection";
 export { default as Discoveries } from "./Discoveries/Discoveries";
 export { default as ListeningClock } from "./ListeningClock/ListeningClock";
+export { default as CalendarHeatmap } from "./CalendarHeatmap/CalendarHeatmap";
