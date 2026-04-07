@@ -96,7 +96,6 @@ export default function EventsOverTime({ mainUser }: EventsOverTimeProps) {
       </div>
 
       <ChartCard
-        title={period === "alltime" ? "Monthly Events" : "Daily Events"}
         subtitle={
           period === "alltime"
             ? "Aggregated monthly listening events (2015\u20132025)"

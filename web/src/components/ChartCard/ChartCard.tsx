@@ -2,7 +2,7 @@ import type { ReactNode } from "react";
 import styles from "./ChartCard.module.css";
 
 interface ChartCardProps {
-  title: string;
+  title?: string;
   subtitle?: string;
   children: ReactNode;
   actions?: ReactNode;
