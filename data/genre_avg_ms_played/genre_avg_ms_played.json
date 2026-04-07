@@ -1,1270 +1,1270 @@
 {
-    "Anthony": {
-        "2025": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "horrorcore",
-                    "play_count": 56,
-                    "avg_min": 3.6647130952381
-                },
-                {
-                    "genre": "psychedelia",
-                    "play_count": 38,
-                    "avg_min": 3.58289210526315
-                },
-                {
-                    "genre": "synth pop",
-                    "play_count": 283,
-                    "avg_min": 3.2677203180211998
-                },
-                {
-                    "genre": "psychedelic rock",
-                    "play_count": 30,
-                    "avg_min": 3.2451738888888833
-                },
-                {
-                    "genre": "chicago hip hop",
-                    "play_count": 1276,
-                    "avg_min": 3.1196026645768002
-                },
-                {
-                    "genre": "soul",
-                    "play_count": 1239,
-                    "avg_min": 3.0984679580306667
-                },
-                {
-                    "genre": "electro pop",
-                    "play_count": 350,
-                    "avg_min": 3.0890216666666666
-                },
-                {
-                    "genre": "electronic",
-                    "play_count": 1419,
-                    "avg_min": 3.07263356824055
-                },
-                {
-                    "genre": "bass house",
-                    "play_count": 94,
-                    "avg_min": 3.0698078014184333
-                },
-                {
-                    "genre": "abstract hip hop",
-                    "play_count": 1520,
-                    "avg_min": 3.05174664473685
-                },
-                {
-                    "genre": "conscious hip hop",
-                    "play_count": 590,
-                    "avg_min": 2.967432994350283
-                },
-                {
-                    "genre": "riddim",
-                    "play_count": 38,
-                    "avg_min": 2.9424846491228
-                },
-                {
-                    "genre": "future bass",
-                    "play_count": 63,
-                    "avg_min": 2.9358050264550335
-                },
-                {
-                    "genre": "house",
-                    "play_count": 52,
-                    "avg_min": 2.9357246794871834
-                },
-                {
-                    "genre": "pop",
-                    "play_count": 2077,
-                    "avg_min": 2.9154450649976
-                },
-                {
-                    "genre": "jazz rap",
-                    "play_count": 400,
-                    "avg_min": 2.903958708333333
-                },
-                {
-                    "genre": "dirty south",
-                    "play_count": 286,
-                    "avg_min": 2.9015577505827497
-                },
-                {
-                    "genre": "indie rock",
-                    "play_count": 131,
-                    "avg_min": 2.8928090330788834
-                },
-                {
-                    "genre": "dance pop",
-                    "play_count": 623,
-                    "avg_min": 2.86775682182985
-                },
-                {
-                    "genre": "neo soul",
-                    "play_count": 280,
-                    "avg_min": 2.8644274999999997
-                }
-            ]
+  "Anthony": {
+    "2025": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "horrorcore",
+          "play_count": 56,
+          "avg_min": 3.6647130952381
         },
-        "alltime": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "bass house",
-                    "play_count": 145,
-                    "avg_min": 2.6492306896551683
-                },
-                {
-                    "genre": "riddim",
-                    "play_count": 49,
-                    "avg_min": 2.6203013605442123
-                },
-                {
-                    "genre": "houston rap",
-                    "play_count": 65,
-                    "avg_min": 2.419304358974361
-                },
-                {
-                    "genre": "melodic dubstep",
-                    "play_count": 71,
-                    "avg_min": 2.3906889671361498
-                },
-                {
-                    "genre": "drum and bass",
-                    "play_count": 175,
-                    "avg_min": 2.3214647619047626
-                },
-                {
-                    "genre": "chopped and screwed",
-                    "play_count": 36,
-                    "avg_min": 2.269360185185188
-                },
-                {
-                    "genre": "dubstep",
-                    "play_count": 257,
-                    "avg_min": 2.2190842412451355
-                },
-                {
-                    "genre": "house",
-                    "play_count": 115,
-                    "avg_min": 2.2079972463768134
-                },
-                {
-                    "genre": "uk garage",
-                    "play_count": 36,
-                    "avg_min": 2.1471717592592596
-                },
-                {
-                    "genre": "chicano rap",
-                    "play_count": 74,
-                    "avg_min": 2.1209319819819803
-                },
-                {
-                    "genre": "chicago hip hop",
-                    "play_count": 7341,
-                    "avg_min": 2.0924215002497393
-                },
-                {
-                    "genre": "soul",
-                    "play_count": 7000,
-                    "avg_min": 2.086299549999998
-                },
-                {
-                    "genre": "electronic",
-                    "play_count": 7538,
-                    "avg_min": 2.0775502984876613
-                },
-                {
-                    "genre": "abstract hip hop",
-                    "play_count": 8410,
-                    "avg_min": 2.0705731807372163
-                },
-                {
-                    "genre": "brostep",
-                    "play_count": 50,
-                    "avg_min": 2.069863666666667
-                },
-                {
-                    "genre": "coke rap",
-                    "play_count": 35,
-                    "avg_min": 2.0663833333333335
-                },
-                {
-                    "genre": "experimental",
-                    "play_count": 128,
-                    "avg_min": 2.0661884114583375
-                },
-                {
-                    "genre": "psychedelia",
-                    "play_count": 80,
-                    "avg_min": 2.055790624999996
-                },
-                {
-                    "genre": "electro house",
-                    "play_count": 289,
-                    "avg_min": 2.031893079584772
-                },
-                {
-                    "genre": "future bass",
-                    "play_count": 244,
-                    "avg_min": 1.9813835382513678
-                }
-            ]
+        {
+          "genre": "psychedelia",
+          "play_count": 38,
+          "avg_min": 3.58289210526315
         },
-        "2024": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "hardcore hip hop",
-                    "play_count": 125,
-                    "avg_min": 2.5749608
-                },
-                {
-                    "genre": "jazz rap",
-                    "play_count": 467,
-                    "avg_min": 2.54479521770165
-                },
-                {
-                    "genre": "progressive house",
-                    "play_count": 54,
-                    "avg_min": 2.4018074074074
-                },
-                {
-                    "genre": "electro house",
-                    "play_count": 91,
-                    "avg_min": 2.4004468864468835
-                },
-                {
-                    "genre": "conscious hip hop",
-                    "play_count": 836,
-                    "avg_min": 2.3203700757575834
-                },
-                {
-                    "genre": "alternative hip hop",
-                    "play_count": 702,
-                    "avg_min": 2.2210128917379
-                },
-                {
-                    "genre": "house",
-                    "play_count": 32,
-                    "avg_min": 2.2106828125
-                },
-                {
-                    "genre": "west coast hip hop",
-                    "play_count": 769,
-                    "avg_min": 2.1875174685739
-                },
-                {
-                    "genre": "neo soul",
-                    "play_count": 154,
-                    "avg_min": 2.1864021645021667
-                },
-                {
-                    "genre": "chicago hip hop",
-                    "play_count": 964,
-                    "avg_min": 2.102787845781467
-                },
-                {
-                    "genre": "abstract hip hop",
-                    "play_count": 1108,
-                    "avg_min": 2.0581119885679833
-                },
-                {
-                    "genre": "soul",
-                    "play_count": 907,
-                    "avg_min": 2.0491208011760333
-                },
-                {
-                    "genre": "electronic",
-                    "play_count": 1017,
-                    "avg_min": 2.040794083906917
-                },
-                {
-                    "genre": "trap metal",
-                    "play_count": 59,
-                    "avg_min": 2.0123420903954834
-                },
-                {
-                    "genre": "rap",
-                    "play_count": 141,
-                    "avg_min": 1.9934514184397167
-                },
-                {
-                    "genre": "psychedelic hip hop",
-                    "play_count": 266,
-                    "avg_min": 1.9832788847117833
-                },
-                {
-                    "genre": "edm",
-                    "play_count": 73,
-                    "avg_min": 1.9565844748858503
-                },
-                {
-                    "genre": "mafioso rap",
-                    "play_count": 27,
-                    "avg_min": 1.9299080246913498
-                },
-                {
-                    "genre": "bass house",
-                    "play_count": 44,
-                    "avg_min": 1.8996625
-                },
-                {
-                    "genre": "melodic hip hop",
-                    "play_count": 349,
-                    "avg_min": 1.8918913085004831
-                }
-            ]
+        {
+          "genre": "synth pop",
+          "play_count": 283,
+          "avg_min": 3.2677203180211998
+        },
+        {
+          "genre": "psychedelic rock",
+          "play_count": 30,
+          "avg_min": 3.2451738888888833
+        },
+        {
+          "genre": "chicago hip hop",
+          "play_count": 1276,
+          "avg_min": 3.1196026645768002
+        },
+        {
+          "genre": "soul",
+          "play_count": 1239,
+          "avg_min": 3.0984679580306667
+        },
+        {
+          "genre": "electro pop",
+          "play_count": 350,
+          "avg_min": 3.0890216666666666
+        },
+        {
+          "genre": "electronic",
+          "play_count": 1419,
+          "avg_min": 3.07263356824055
+        },
+        {
+          "genre": "bass house",
+          "play_count": 94,
+          "avg_min": 3.0698078014184333
+        },
+        {
+          "genre": "abstract hip hop",
+          "play_count": 1520,
+          "avg_min": 3.05174664473685
+        },
+        {
+          "genre": "conscious hip hop",
+          "play_count": 590,
+          "avg_min": 2.967432994350283
+        },
+        {
+          "genre": "riddim",
+          "play_count": 38,
+          "avg_min": 2.9424846491228
+        },
+        {
+          "genre": "future bass",
+          "play_count": 63,
+          "avg_min": 2.9358050264550335
+        },
+        {
+          "genre": "house",
+          "play_count": 52,
+          "avg_min": 2.9357246794871834
+        },
+        {
+          "genre": "pop",
+          "play_count": 2077,
+          "avg_min": 2.9154450649976
+        },
+        {
+          "genre": "jazz rap",
+          "play_count": 400,
+          "avg_min": 2.903958708333333
+        },
+        {
+          "genre": "dirty south",
+          "play_count": 286,
+          "avg_min": 2.9015577505827497
+        },
+        {
+          "genre": "indie rock",
+          "play_count": 131,
+          "avg_min": 2.8928090330788834
+        },
+        {
+          "genre": "dance pop",
+          "play_count": 623,
+          "avg_min": 2.86775682182985
+        },
+        {
+          "genre": "neo soul",
+          "play_count": 280,
+          "avg_min": 2.8644274999999997
         }
+      ]
     },
-    "Alexandra": {
-        "2025": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "folk metal",
-                    "play_count": 25,
-                    "avg_min": 3.7704666666666666
-                },
-                {
-                    "genre": "post rock",
-                    "play_count": 37,
-                    "avg_min": 3.4337400900900836
-                },
-                {
-                    "genre": "industrial metal",
-                    "play_count": 129,
-                    "avg_min": 3.209495090439283
-                },
-                {
-                    "genre": "brostep",
-                    "play_count": 54,
-                    "avg_min": 3.1558345679012327
-                },
-                {
-                    "genre": "heavy metal",
-                    "play_count": 233,
-                    "avg_min": 3.0671070815450667
-                },
-                {
-                    "genre": "future bass",
-                    "play_count": 30,
-                    "avg_min": 3.06285555555555
-                },
-                {
-                    "genre": "hardstyle",
-                    "play_count": 117,
-                    "avg_min": 3.0622150997150994
-                },
-                {
-                    "genre": "gothic metal",
-                    "play_count": 60,
-                    "avg_min": 3.0460197222222165
-                },
-                {
-                    "genre": "electro house",
-                    "play_count": 45,
-                    "avg_min": 3.022850370370367
-                },
-                {
-                    "genre": "electronic rock",
-                    "play_count": 156,
-                    "avg_min": 2.976389423076917
-                },
-                {
-                    "genre": "melodic metalcore",
-                    "play_count": 70,
-                    "avg_min": 2.9541538095238167
-                },
-                {
-                    "genre": "hardcore",
-                    "play_count": 83,
-                    "avg_min": 2.90428353413655
-                },
-                {
-                    "genre": "house",
-                    "play_count": 27,
-                    "avg_min": 2.8487703703703664
-                },
-                {
-                    "genre": "symphonic metal",
-                    "play_count": 54,
-                    "avg_min": 2.8406015432098837
-                },
-                {
-                    "genre": "dubstep",
-                    "play_count": 303,
-                    "avg_min": 2.82911452145215
-                },
-                {
-                    "genre": "glam rock",
-                    "play_count": 26,
-                    "avg_min": 2.81273205128205
-                },
-                {
-                    "genre": "progressive metalcore",
-                    "play_count": 48,
-                    "avg_min": 2.791455902777783
-                },
-                {
-                    "genre": "slam",
-                    "play_count": 76,
-                    "avg_min": 2.7561692982456165
-                },
-                {
-                    "genre": "deathcore",
-                    "play_count": 715,
-                    "avg_min": 2.7531413286713335
-                },
-                {
-                    "genre": "horror punk",
-                    "play_count": 58,
-                    "avg_min": 2.7334580459770166
-                }
-            ]
+    "alltime": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "bass house",
+          "play_count": 145,
+          "avg_min": 2.6492306896551683
         },
-        "alltime": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "folk metal",
-                    "play_count": 27,
-                    "avg_min": 3.824993209876543
-                },
-                {
-                    "genre": "blues",
-                    "play_count": 36,
-                    "avg_min": 3.747517592592595
-                },
-                {
-                    "genre": "melodic hip hop",
-                    "play_count": 84,
-                    "avg_min": 3.683671825396827
-                },
-                {
-                    "genre": "psychedelic hip hop",
-                    "play_count": 84,
-                    "avg_min": 3.683671825396827
-                },
-                {
-                    "genre": "abstract hip hop",
-                    "play_count": 87,
-                    "avg_min": 3.646222988505748
-                },
-                {
-                    "genre": "thrash metal",
-                    "play_count": 100,
-                    "avg_min": 3.2936175
-                },
-                {
-                    "genre": "riddim",
-                    "play_count": 71,
-                    "avg_min": 3.2755105633802826
-                },
-                {
-                    "genre": "melodic metalcore",
-                    "play_count": 460,
-                    "avg_min": 3.150513297101451
-                },
-                {
-                    "genre": "complextro",
-                    "play_count": 80,
-                    "avg_min": 3.1167931249999996
-                },
-                {
-                    "genre": "bass house",
-                    "play_count": 30,
-                    "avg_min": 3.089569444444445
-                },
-                {
-                    "genre": "glitch hop",
-                    "play_count": 71,
-                    "avg_min": 3.0507462441314517
-                },
-                {
-                    "genre": "future funk",
-                    "play_count": 71,
-                    "avg_min": 3.0507462441314517
-                },
-                {
-                    "genre": "electro soul",
-                    "play_count": 71,
-                    "avg_min": 3.0507462441314512
-                },
-                {
-                    "genre": "bluegrass",
-                    "play_count": 62,
-                    "avg_min": 3.0273752688172015
-                },
-                {
-                    "genre": "electronic dance music",
-                    "play_count": 63,
-                    "avg_min": 2.9928203703703677
-                },
-                {
-                    "genre": "nu disco",
-                    "play_count": 51,
-                    "avg_min": 2.961657843137255
-                },
-                {
-                    "genre": "industrial metal",
-                    "play_count": 980,
-                    "avg_min": 2.933371122448979
-                },
-                {
-                    "genre": "death metal",
-                    "play_count": 667,
-                    "avg_min": 2.9102509245377286
-                },
-                {
-                    "genre": "gothic metal",
-                    "play_count": 362,
-                    "avg_min": 2.906155064456722
-                },
-                {
-                    "genre": "rave",
-                    "play_count": 25,
-                    "avg_min": 2.8920066666666657
-                }
-            ]
+        {
+          "genre": "riddim",
+          "play_count": 49,
+          "avg_min": 2.6203013605442123
         },
-        "2024": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "blues",
-                    "play_count": 29,
-                    "avg_min": 3.7643609195402328
-                },
-                {
-                    "genre": "post rock",
-                    "play_count": 89,
-                    "avg_min": 3.4113992509363333
-                },
-                {
-                    "genre": "folk",
-                    "play_count": 52,
-                    "avg_min": 3.16753365384615
-                },
-                {
-                    "genre": "melodic dubstep",
-                    "play_count": 52,
-                    "avg_min": 3.1475717948718
-                },
-                {
-                    "genre": "electro house",
-                    "play_count": 66,
-                    "avg_min": 3.0916959595959668
-                },
-                {
-                    "genre": "industrial metal",
-                    "play_count": 204,
-                    "avg_min": 3.0855582516339832
-                },
-                {
-                    "genre": "future bass",
-                    "play_count": 62,
-                    "avg_min": 2.91852177419355
-                },
-                {
-                    "genre": "melodic metalcore",
-                    "play_count": 124,
-                    "avg_min": 2.88547849462365
-                },
-                {
-                    "genre": "soul",
-                    "play_count": 75,
-                    "avg_min": 2.88096644444445
-                },
-                {
-                    "genre": "hardcore",
-                    "play_count": 125,
-                    "avg_min": 2.8759541333333334
-                },
-                {
-                    "genre": "gothic metal",
-                    "play_count": 114,
-                    "avg_min": 2.8726067251461997
-                },
-                {
-                    "genre": "death metal",
-                    "play_count": 158,
-                    "avg_min": 2.8168407172995833
-                },
-                {
-                    "genre": "slam",
-                    "play_count": 104,
-                    "avg_min": 2.7973591346153834
-                },
-                {
-                    "genre": "symphonic metal",
-                    "play_count": 99,
-                    "avg_min": 2.780217676767683
-                },
-                {
-                    "genre": "heavy metal",
-                    "play_count": 378,
-                    "avg_min": 2.740877954144617
-                },
-                {
-                    "genre": "hardstyle",
-                    "play_count": 139,
-                    "avg_min": 2.7145358513189497
-                },
-                {
-                    "genre": "east coast hip hop",
-                    "play_count": 26,
-                    "avg_min": 2.70461474358975
-                },
-                {
-                    "genre": "underground hip hop",
-                    "play_count": 25,
-                    "avg_min": 2.675946
-                },
-                {
-                    "genre": "progressive metalcore",
-                    "play_count": 81,
-                    "avg_min": 2.671919341563783
-                },
-                {
-                    "genre": "progressive metal",
-                    "play_count": 173,
-                    "avg_min": 2.6434514450867
-                }
-            ]
+        {
+          "genre": "houston rap",
+          "play_count": 65,
+          "avg_min": 2.419304358974361
+        },
+        {
+          "genre": "melodic dubstep",
+          "play_count": 71,
+          "avg_min": 2.3906889671361498
+        },
+        {
+          "genre": "drum and bass",
+          "play_count": 175,
+          "avg_min": 2.3214647619047626
+        },
+        {
+          "genre": "chopped and screwed",
+          "play_count": 36,
+          "avg_min": 2.269360185185188
+        },
+        {
+          "genre": "dubstep",
+          "play_count": 257,
+          "avg_min": 2.2190842412451355
+        },
+        {
+          "genre": "house",
+          "play_count": 115,
+          "avg_min": 2.2079972463768134
+        },
+        {
+          "genre": "uk garage",
+          "play_count": 36,
+          "avg_min": 2.1471717592592596
+        },
+        {
+          "genre": "chicano rap",
+          "play_count": 74,
+          "avg_min": 2.1209319819819803
+        },
+        {
+          "genre": "chicago hip hop",
+          "play_count": 7341,
+          "avg_min": 2.0924215002497393
+        },
+        {
+          "genre": "soul",
+          "play_count": 7000,
+          "avg_min": 2.086299549999998
+        },
+        {
+          "genre": "electronic",
+          "play_count": 7538,
+          "avg_min": 2.0775502984876613
+        },
+        {
+          "genre": "abstract hip hop",
+          "play_count": 8410,
+          "avg_min": 2.0705731807372163
+        },
+        {
+          "genre": "brostep",
+          "play_count": 50,
+          "avg_min": 2.069863666666667
+        },
+        {
+          "genre": "coke rap",
+          "play_count": 35,
+          "avg_min": 2.0663833333333335
+        },
+        {
+          "genre": "experimental",
+          "play_count": 128,
+          "avg_min": 2.0661884114583375
+        },
+        {
+          "genre": "psychedelia",
+          "play_count": 80,
+          "avg_min": 2.055790624999996
+        },
+        {
+          "genre": "electro house",
+          "play_count": 289,
+          "avg_min": 2.031893079584772
+        },
+        {
+          "genre": "future bass",
+          "play_count": 244,
+          "avg_min": 1.9813835382513678
         }
+      ]
     },
-    "Koren": {
-        "2025": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "detroit techno",
-                    "play_count": 36,
-                    "avg_min": 6.118313425925934
-                },
-                {
-                    "genre": "jazzstep",
-                    "play_count": 245,
-                    "avg_min": 5.321126802721083
-                },
-                {
-                    "genre": "electro",
-                    "play_count": 30,
-                    "avg_min": 5.300418888888884
-                },
-                {
-                    "genre": "dub techno",
-                    "play_count": 161,
-                    "avg_min": 5.2106112836439
-                },
-                {
-                    "genre": "minimal techno",
-                    "play_count": 111,
-                    "avg_min": 5.09914864864865
-                },
-                {
-                    "genre": "techno",
-                    "play_count": 273,
-                    "avg_min": 5.055424175824183
-                },
-                {
-                    "genre": "liquid funk",
-                    "play_count": 3847,
-                    "avg_min": 5.052412615891167
-                },
-                {
-                    "genre": "industrial",
-                    "play_count": 47,
-                    "avg_min": 4.9283354609928995
-                },
-                {
-                    "genre": "drum and bass",
-                    "play_count": 5875,
-                    "avg_min": 4.830049449645384
-                },
-                {
-                    "genre": "jungle",
-                    "play_count": 3610,
-                    "avg_min": 4.782769662973217
-                },
-                {
-                    "genre": "techstep",
-                    "play_count": 64,
-                    "avg_min": 4.738545572916666
-                },
-                {
-                    "genre": "breakbeat hardcore",
-                    "play_count": 204,
-                    "avg_min": 4.680109313725483
-                },
-                {
-                    "genre": "ambient techno",
-                    "play_count": 145,
-                    "avg_min": 4.666721149425284
-                },
-                {
-                    "genre": "dub",
-                    "play_count": 148,
-                    "avg_min": 4.591152590090083
-                },
-                {
-                    "genre": "electronica",
-                    "play_count": 49,
-                    "avg_min": 4.543666326530616
-                },
-                {
-                    "genre": "rave",
-                    "play_count": 106,
-                    "avg_min": 4.512868553459117
-                },
-                {
-                    "genre": "happy hardcore",
-                    "play_count": 49,
-                    "avg_min": 4.397467687074833
-                },
-                {
-                    "genre": "future funk",
-                    "play_count": 28,
-                    "avg_min": 4.11805654761905
-                },
-                {
-                    "genre": "breakbeat",
-                    "play_count": 257,
-                    "avg_min": 4.041405382619966
-                },
-                {
-                    "genre": "ambient",
-                    "play_count": 305,
-                    "avg_min": 3.8982093989071
-                }
-            ]
+    "2024": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "hardcore hip hop",
+          "play_count": 125,
+          "avg_min": 2.5749608
         },
-        "alltime": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "ambient dub",
-                    "play_count": 25,
-                    "avg_min": 5.984622666666666
-                },
-                {
-                    "genre": "darkcore",
-                    "play_count": 33,
-                    "avg_min": 4.882095959595958
-                },
-                {
-                    "genre": "deep techno",
-                    "play_count": 40,
-                    "avg_min": 4.759420000000006
-                },
-                {
-                    "genre": "autonomic",
-                    "play_count": 29,
-                    "avg_min": 4.629932183908046
-                },
-                {
-                    "genre": "dub techno",
-                    "play_count": 706,
-                    "avg_min": 4.2424472143531675
-                },
-                {
-                    "genre": "breakbeat hardcore",
-                    "play_count": 369,
-                    "avg_min": 4.20129141824751
-                },
-                {
-                    "genre": "detroit techno",
-                    "play_count": 118,
-                    "avg_min": 4.159997316384184
-                },
-                {
-                    "genre": "mood music",
-                    "play_count": 35,
-                    "avg_min": 4.118792857142856
-                },
-                {
-                    "genre": "jazzstep",
-                    "play_count": 843,
-                    "avg_min": 4.032884242783705
-                },
-                {
-                    "genre": "deep tech",
-                    "play_count": 58,
-                    "avg_min": 3.7541494252873537
-                },
-                {
-                    "genre": "techstep",
-                    "play_count": 276,
-                    "avg_min": 3.6570702898550707
-                },
-                {
-                    "genre": "rave",
-                    "play_count": 276,
-                    "avg_min": 3.6540004830917856
-                },
-                {
-                    "genre": "electronic punk",
-                    "play_count": 34,
-                    "avg_min": 3.3988382352941224
-                },
-                {
-                    "genre": "liquid funk",
-                    "play_count": 14721,
-                    "avg_min": 3.266261176776941
-                },
-                {
-                    "genre": "chamber jazz",
-                    "play_count": 99,
-                    "avg_min": 3.248621885521885
-                },
-                {
-                    "genre": "drum and bass",
-                    "play_count": 21575,
-                    "avg_min": 3.2105586612591717
-                },
-                {
-                    "genre": "minimal techno",
-                    "play_count": 602,
-                    "avg_min": 3.2084493909191574
-                },
-                {
-                    "genre": "dub",
-                    "play_count": 454,
-                    "avg_min": 3.178714133627015
-                },
-                {
-                    "genre": "jungle",
-                    "play_count": 14082,
-                    "avg_min": 3.0657457120200724
-                },
-                {
-                    "genre": "jazz fusion",
-                    "play_count": 3911,
-                    "avg_min": 3.010294702974517
-                }
-            ]
+        {
+          "genre": "jazz rap",
+          "play_count": 467,
+          "avg_min": 2.54479521770165
         },
-        "2024": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "electro",
-                    "play_count": 40,
-                    "avg_min": 5.54459125
-                },
-                {
-                    "genre": "trance",
-                    "play_count": 58,
-                    "avg_min": 5.506869827586201
-                },
-                {
-                    "genre": "dub techno",
-                    "play_count": 344,
-                    "avg_min": 5.36072165697675
-                },
-                {
-                    "genre": "detroit techno",
-                    "play_count": 41,
-                    "avg_min": 4.881500406504067
-                },
-                {
-                    "genre": "acid techno",
-                    "play_count": 37,
-                    "avg_min": 4.692875675675683
-                },
-                {
-                    "genre": "minimal techno",
-                    "play_count": 210,
-                    "avg_min": 4.2496949206349175
-                },
-                {
-                    "genre": "ambient techno",
-                    "play_count": 252,
-                    "avg_min": 4.2426955026455
-                },
-                {
-                    "genre": "techno",
-                    "play_count": 368,
-                    "avg_min": 4.191845335144934
-                },
-                {
-                    "genre": "deep house",
-                    "play_count": 159,
-                    "avg_min": 4.126454507337534
-                },
-                {
-                    "genre": "rave",
-                    "play_count": 61,
-                    "avg_min": 4.116974316939883
-                },
-                {
-                    "genre": "tech house",
-                    "play_count": 35,
-                    "avg_min": 4.103161428571433
-                },
-                {
-                    "genre": "uk bass",
-                    "play_count": 50,
-                    "avg_min": 3.878338
-                },
-                {
-                    "genre": "jazzstep",
-                    "play_count": 339,
-                    "avg_min": 3.4852475909537834
-                },
-                {
-                    "genre": "liquid funk",
-                    "play_count": 4920,
-                    "avg_min": 3.4452137161246665
-                },
-                {
-                    "genre": "techstep",
-                    "play_count": 124,
-                    "avg_min": 3.4315241935483836
-                },
-                {
-                    "genre": "drum and bass",
-                    "play_count": 7372,
-                    "avg_min": 3.298384963374933
-                },
-                {
-                    "genre": "progressive house",
-                    "play_count": 54,
-                    "avg_min": 3.2497280864197493
-                },
-                {
-                    "genre": "jungle",
-                    "play_count": 4771,
-                    "avg_min": 3.2275870222874334
-                },
-                {
-                    "genre": "breakbeat hardcore",
-                    "play_count": 89,
-                    "avg_min": 3.1505074906367
-                },
-                {
-                    "genre": "jazz fusion",
-                    "play_count": 1481,
-                    "avg_min": 3.0474841886113
-                }
-            ]
+        {
+          "genre": "progressive house",
+          "play_count": 54,
+          "avg_min": 2.4018074074074
+        },
+        {
+          "genre": "electro house",
+          "play_count": 91,
+          "avg_min": 2.4004468864468835
+        },
+        {
+          "genre": "conscious hip hop",
+          "play_count": 836,
+          "avg_min": 2.3203700757575834
+        },
+        {
+          "genre": "alternative hip hop",
+          "play_count": 702,
+          "avg_min": 2.2210128917379
+        },
+        {
+          "genre": "house",
+          "play_count": 32,
+          "avg_min": 2.2106828125
+        },
+        {
+          "genre": "west coast hip hop",
+          "play_count": 769,
+          "avg_min": 2.1875174685739
+        },
+        {
+          "genre": "neo soul",
+          "play_count": 154,
+          "avg_min": 2.1864021645021667
+        },
+        {
+          "genre": "chicago hip hop",
+          "play_count": 964,
+          "avg_min": 2.102787845781467
+        },
+        {
+          "genre": "abstract hip hop",
+          "play_count": 1108,
+          "avg_min": 2.0581119885679833
+        },
+        {
+          "genre": "soul",
+          "play_count": 907,
+          "avg_min": 2.0491208011760333
+        },
+        {
+          "genre": "electronic",
+          "play_count": 1017,
+          "avg_min": 2.040794083906917
+        },
+        {
+          "genre": "trap metal",
+          "play_count": 59,
+          "avg_min": 2.0123420903954834
+        },
+        {
+          "genre": "rap",
+          "play_count": 141,
+          "avg_min": 1.9934514184397167
+        },
+        {
+          "genre": "psychedelic hip hop",
+          "play_count": 266,
+          "avg_min": 1.9832788847117833
+        },
+        {
+          "genre": "edm",
+          "play_count": 73,
+          "avg_min": 1.9565844748858503
+        },
+        {
+          "genre": "mafioso rap",
+          "play_count": 27,
+          "avg_min": 1.9299080246913498
+        },
+        {
+          "genre": "bass house",
+          "play_count": 44,
+          "avg_min": 1.8996625
+        },
+        {
+          "genre": "melodic hip hop",
+          "play_count": 349,
+          "avg_min": 1.8918913085004831
         }
-    },
-    "Alan": {
-        "2025": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "rockabilly",
-                    "play_count": 44,
-                    "avg_min": 2.98794015151515
-                },
-                {
-                    "genre": "punk rock",
-                    "play_count": 60,
-                    "avg_min": 2.95229444444445
-                },
-                {
-                    "genre": "grunge",
-                    "play_count": 60,
-                    "avg_min": 2.95229444444445
-                },
-                {
-                    "genre": "dance punk",
-                    "play_count": 159,
-                    "avg_min": 2.4958158280922498
-                },
-                {
-                    "genre": "lo fi hip hop",
-                    "play_count": 67,
-                    "avg_min": 2.4918114427860667
-                },
-                {
-                    "genre": "dark wave",
-                    "play_count": 78,
-                    "avg_min": 2.4892344017094
-                },
-                {
-                    "genre": "liquid funk",
-                    "play_count": 127,
-                    "avg_min": 2.4513255905511833
-                },
-                {
-                    "genre": "digicore",
-                    "play_count": 405,
-                    "avg_min": 2.41187802469135
-                },
-                {
-                    "genre": "electronic rock",
-                    "play_count": 253,
-                    "avg_min": 2.407631093544133
-                },
-                {
-                    "genre": "midwest emo",
-                    "play_count": 389,
-                    "avg_min": 2.4057764353041997
-                },
-                {
-                    "genre": "blues",
-                    "play_count": 214,
-                    "avg_min": 2.3896194704049836
-                },
-                {
-                    "genre": "downtempo",
-                    "play_count": 58,
-                    "avg_min": 2.362817528735633
-                },
-                {
-                    "genre": "new jack swing",
-                    "play_count": 74,
-                    "avg_min": 2.34467905405405
-                },
-                {
-                    "genre": "country pop",
-                    "play_count": 78,
-                    "avg_min": 2.3293433760683833
-                },
-                {
-                    "genre": "pop soul",
-                    "play_count": 796,
-                    "avg_min": 2.3055873743718664
-                },
-                {
-                    "genre": "vocal jazz",
-                    "play_count": 159,
-                    "avg_min": 2.25937672955975
-                },
-                {
-                    "genre": "indietronica",
-                    "play_count": 283,
-                    "avg_min": 2.2010557126030665
-                },
-                {
-                    "genre": "drum and bass",
-                    "play_count": 175,
-                    "avg_min": 2.198900190476183
-                },
-                {
-                    "genre": "gospel",
-                    "play_count": 363,
-                    "avg_min": 2.15681152433425
-                },
-                {
-                    "genre": "stoner rock",
-                    "play_count": 286,
-                    "avg_min": 2.1567733682983667
-                }
-            ]
-        },
-        "alltime": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "dance rock",
-                    "play_count": 26,
-                    "avg_min": 2.917882692307692
-                },
-                {
-                    "genre": "rockabilly",
-                    "play_count": 51,
-                    "avg_min": 2.7864957516339857
-                },
-                {
-                    "genre": "liquid funk",
-                    "play_count": 275,
-                    "avg_min": 2.514431575757578
-                },
-                {
-                    "genre": "digicore",
-                    "play_count": 457,
-                    "avg_min": 2.4360377826404016
-                },
-                {
-                    "genre": "roots rock",
-                    "play_count": 111,
-                    "avg_min": 2.413137237237233
-                },
-                {
-                    "genre": "midwest emo",
-                    "play_count": 448,
-                    "avg_min": 2.4016953869047626
-                },
-                {
-                    "genre": "dark wave",
-                    "play_count": 169,
-                    "avg_min": 2.369546252465482
-                },
-                {
-                    "genre": "dance punk",
-                    "play_count": 183,
-                    "avg_min": 2.3544361566484575
-                },
-                {
-                    "genre": "country rock",
-                    "play_count": 117,
-                    "avg_min": 2.3144111111111103
-                },
-                {
-                    "genre": "rap rock",
-                    "play_count": 119,
-                    "avg_min": 2.277145378151265
-                },
-                {
-                    "genre": "pop soul",
-                    "play_count": 1580,
-                    "avg_min": 2.249051613924052
-                },
-                {
-                    "genre": "alternative country",
-                    "play_count": 25,
-                    "avg_min": 2.20167666666667
-                },
-                {
-                    "genre": "soft pop",
-                    "play_count": 59,
-                    "avg_min": 2.1430644067796614
-                },
-                {
-                    "genre": "drum and bass",
-                    "play_count": 430,
-                    "avg_min": 2.108955077519375
-                },
-                {
-                    "genre": "chillhop",
-                    "play_count": 48,
-                    "avg_min": 2.077164236111117
-                },
-                {
-                    "genre": "vocal jazz",
-                    "play_count": 516,
-                    "avg_min": 2.07137332041344
-                },
-                {
-                    "genre": "blues",
-                    "play_count": 652,
-                    "avg_min": 2.068467816973412
-                },
-                {
-                    "genre": "chillout",
-                    "play_count": 38,
-                    "avg_min": 2.024798684210525
-                },
-                {
-                    "genre": "electronic rock",
-                    "play_count": 558,
-                    "avg_min": 2.0184231780167234
-                },
-                {
-                    "genre": "new jack swing",
-                    "play_count": 500,
-                    "avg_min": 1.9863424666666694
-                }
-            ]
-        },
-        "2024": {
-            "top_n": 20,
-            "genres": [
-                {
-                    "genre": "pop reggae",
-                    "play_count": 26,
-                    "avg_min": 3.117458974358967
-                },
-                {
-                    "genre": "roots rock",
-                    "play_count": 68,
-                    "avg_min": 2.7132433823529336
-                },
-                {
-                    "genre": "country rock",
-                    "play_count": 69,
-                    "avg_min": 2.6749809178744
-                },
-                {
-                    "genre": "rap rock",
-                    "play_count": 101,
-                    "avg_min": 2.5688478547854836
-                },
-                {
-                    "genre": "afro jazz",
-                    "play_count": 25,
-                    "avg_min": 2.5068293333333336
-                },
-                {
-                    "genre": "new age",
-                    "play_count": 62,
-                    "avg_min": 2.4442610215053837
-                },
-                {
-                    "genre": "pop soul",
-                    "play_count": 518,
-                    "avg_min": 2.424423037323033
-                },
-                {
-                    "genre": "dark wave",
-                    "play_count": 29,
-                    "avg_min": 2.3243396551724165
-                },
-                {
-                    "genre": "j pop",
-                    "play_count": 227,
-                    "avg_min": 2.1944291483113
-                },
-                {
-                    "genre": "nerdcore",
-                    "play_count": 35,
-                    "avg_min": 2.1710980952381003
-                },
-                {
-                    "genre": "chillhop",
-                    "play_count": 43,
-                    "avg_min": 2.159736821705433
-                },
-                {
-                    "genre": "sophisti pop",
-                    "play_count": 280,
-                    "avg_min": 2.1181392857142836
-                },
-                {
-                    "genre": "anime",
-                    "play_count": 35,
-                    "avg_min": 2.08706
-                },
-                {
-                    "genre": "quiet storm",
-                    "play_count": 297,
-                    "avg_min": 2.0563199775533167
-                },
-                {
-                    "genre": "j rock",
-                    "play_count": 48,
-                    "avg_min": 2.052162152777784
-                },
-                {
-                    "genre": "detroit hip hop",
-                    "play_count": 42,
-                    "avg_min": 2.0507670634920667
-                },
-                {
-                    "genre": "smooth soul",
-                    "play_count": 294,
-                    "avg_min": 2.039755782312933
-                },
-                {
-                    "genre": "bebop",
-                    "play_count": 173,
-                    "avg_min": 2.0014112716762997
-                },
-                {
-                    "genre": "blues",
-                    "play_count": 318,
-                    "avg_min": 1.9829175052410835
-                },
-                {
-                    "genre": "hard bop",
-                    "play_count": 179,
-                    "avg_min": 1.9611009310987
-                }
-            ]
-        }
+      ]
     }
+  },
+  "Alexandra": {
+    "2025": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "folk metal",
+          "play_count": 25,
+          "avg_min": 3.7704666666666666
+        },
+        {
+          "genre": "post rock",
+          "play_count": 37,
+          "avg_min": 3.4337400900900836
+        },
+        {
+          "genre": "industrial metal",
+          "play_count": 129,
+          "avg_min": 3.209495090439283
+        },
+        {
+          "genre": "brostep",
+          "play_count": 54,
+          "avg_min": 3.1558345679012327
+        },
+        {
+          "genre": "heavy metal",
+          "play_count": 233,
+          "avg_min": 3.0671070815450667
+        },
+        {
+          "genre": "future bass",
+          "play_count": 30,
+          "avg_min": 3.06285555555555
+        },
+        {
+          "genre": "hardstyle",
+          "play_count": 117,
+          "avg_min": 3.0622150997150994
+        },
+        {
+          "genre": "gothic metal",
+          "play_count": 60,
+          "avg_min": 3.0460197222222165
+        },
+        {
+          "genre": "electro house",
+          "play_count": 45,
+          "avg_min": 3.022850370370367
+        },
+        {
+          "genre": "electronic rock",
+          "play_count": 156,
+          "avg_min": 2.976389423076917
+        },
+        {
+          "genre": "melodic metalcore",
+          "play_count": 70,
+          "avg_min": 2.9541538095238167
+        },
+        {
+          "genre": "hardcore",
+          "play_count": 83,
+          "avg_min": 2.90428353413655
+        },
+        {
+          "genre": "house",
+          "play_count": 27,
+          "avg_min": 2.8487703703703664
+        },
+        {
+          "genre": "symphonic metal",
+          "play_count": 54,
+          "avg_min": 2.8406015432098837
+        },
+        {
+          "genre": "dubstep",
+          "play_count": 303,
+          "avg_min": 2.82911452145215
+        },
+        {
+          "genre": "glam rock",
+          "play_count": 26,
+          "avg_min": 2.81273205128205
+        },
+        {
+          "genre": "progressive metalcore",
+          "play_count": 48,
+          "avg_min": 2.791455902777783
+        },
+        {
+          "genre": "slam",
+          "play_count": 76,
+          "avg_min": 2.7561692982456165
+        },
+        {
+          "genre": "deathcore",
+          "play_count": 715,
+          "avg_min": 2.7531413286713335
+        },
+        {
+          "genre": "horror punk",
+          "play_count": 58,
+          "avg_min": 2.7334580459770166
+        }
+      ]
+    },
+    "alltime": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "folk metal",
+          "play_count": 27,
+          "avg_min": 3.824993209876543
+        },
+        {
+          "genre": "blues",
+          "play_count": 36,
+          "avg_min": 3.747517592592595
+        },
+        {
+          "genre": "melodic hip hop",
+          "play_count": 84,
+          "avg_min": 3.683671825396827
+        },
+        {
+          "genre": "psychedelic hip hop",
+          "play_count": 84,
+          "avg_min": 3.683671825396827
+        },
+        {
+          "genre": "abstract hip hop",
+          "play_count": 87,
+          "avg_min": 3.646222988505748
+        },
+        {
+          "genre": "thrash metal",
+          "play_count": 100,
+          "avg_min": 3.2936175
+        },
+        {
+          "genre": "riddim",
+          "play_count": 71,
+          "avg_min": 3.2755105633802826
+        },
+        {
+          "genre": "melodic metalcore",
+          "play_count": 460,
+          "avg_min": 3.150513297101451
+        },
+        {
+          "genre": "complextro",
+          "play_count": 80,
+          "avg_min": 3.1167931249999996
+        },
+        {
+          "genre": "bass house",
+          "play_count": 30,
+          "avg_min": 3.089569444444445
+        },
+        {
+          "genre": "glitch hop",
+          "play_count": 71,
+          "avg_min": 3.0507462441314517
+        },
+        {
+          "genre": "future funk",
+          "play_count": 71,
+          "avg_min": 3.0507462441314517
+        },
+        {
+          "genre": "electro soul",
+          "play_count": 71,
+          "avg_min": 3.0507462441314512
+        },
+        {
+          "genre": "bluegrass",
+          "play_count": 62,
+          "avg_min": 3.0273752688172015
+        },
+        {
+          "genre": "electronic dance music",
+          "play_count": 63,
+          "avg_min": 2.9928203703703677
+        },
+        {
+          "genre": "nu disco",
+          "play_count": 51,
+          "avg_min": 2.961657843137255
+        },
+        {
+          "genre": "industrial metal",
+          "play_count": 980,
+          "avg_min": 2.933371122448979
+        },
+        {
+          "genre": "death metal",
+          "play_count": 667,
+          "avg_min": 2.9102509245377286
+        },
+        {
+          "genre": "gothic metal",
+          "play_count": 362,
+          "avg_min": 2.906155064456722
+        },
+        {
+          "genre": "rave",
+          "play_count": 25,
+          "avg_min": 2.8920066666666657
+        }
+      ]
+    },
+    "2024": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "blues",
+          "play_count": 29,
+          "avg_min": 3.7643609195402328
+        },
+        {
+          "genre": "post rock",
+          "play_count": 89,
+          "avg_min": 3.4113992509363333
+        },
+        {
+          "genre": "folk",
+          "play_count": 52,
+          "avg_min": 3.16753365384615
+        },
+        {
+          "genre": "melodic dubstep",
+          "play_count": 52,
+          "avg_min": 3.1475717948718
+        },
+        {
+          "genre": "electro house",
+          "play_count": 66,
+          "avg_min": 3.0916959595959668
+        },
+        {
+          "genre": "industrial metal",
+          "play_count": 204,
+          "avg_min": 3.0855582516339832
+        },
+        {
+          "genre": "future bass",
+          "play_count": 62,
+          "avg_min": 2.91852177419355
+        },
+        {
+          "genre": "melodic metalcore",
+          "play_count": 124,
+          "avg_min": 2.88547849462365
+        },
+        {
+          "genre": "soul",
+          "play_count": 75,
+          "avg_min": 2.88096644444445
+        },
+        {
+          "genre": "hardcore",
+          "play_count": 125,
+          "avg_min": 2.8759541333333334
+        },
+        {
+          "genre": "gothic metal",
+          "play_count": 114,
+          "avg_min": 2.8726067251461997
+        },
+        {
+          "genre": "death metal",
+          "play_count": 158,
+          "avg_min": 2.8168407172995833
+        },
+        {
+          "genre": "slam",
+          "play_count": 104,
+          "avg_min": 2.7973591346153834
+        },
+        {
+          "genre": "symphonic metal",
+          "play_count": 99,
+          "avg_min": 2.780217676767683
+        },
+        {
+          "genre": "heavy metal",
+          "play_count": 378,
+          "avg_min": 2.740877954144617
+        },
+        {
+          "genre": "hardstyle",
+          "play_count": 139,
+          "avg_min": 2.7145358513189497
+        },
+        {
+          "genre": "east coast hip hop",
+          "play_count": 26,
+          "avg_min": 2.70461474358975
+        },
+        {
+          "genre": "underground hip hop",
+          "play_count": 25,
+          "avg_min": 2.675946
+        },
+        {
+          "genre": "progressive metalcore",
+          "play_count": 81,
+          "avg_min": 2.671919341563783
+        },
+        {
+          "genre": "progressive metal",
+          "play_count": 173,
+          "avg_min": 2.6434514450867
+        }
+      ]
+    }
+  },
+  "Koren": {
+    "2025": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "detroit techno",
+          "play_count": 36,
+          "avg_min": 6.118313425925934
+        },
+        {
+          "genre": "jazzstep",
+          "play_count": 245,
+          "avg_min": 5.321126802721083
+        },
+        {
+          "genre": "electro",
+          "play_count": 30,
+          "avg_min": 5.300418888888884
+        },
+        {
+          "genre": "dub techno",
+          "play_count": 161,
+          "avg_min": 5.2106112836439
+        },
+        {
+          "genre": "minimal techno",
+          "play_count": 111,
+          "avg_min": 5.09914864864865
+        },
+        {
+          "genre": "techno",
+          "play_count": 273,
+          "avg_min": 5.055424175824183
+        },
+        {
+          "genre": "liquid funk",
+          "play_count": 3847,
+          "avg_min": 5.052412615891167
+        },
+        {
+          "genre": "industrial",
+          "play_count": 47,
+          "avg_min": 4.9283354609928995
+        },
+        {
+          "genre": "drum and bass",
+          "play_count": 5875,
+          "avg_min": 4.830049449645384
+        },
+        {
+          "genre": "jungle",
+          "play_count": 3610,
+          "avg_min": 4.782769662973217
+        },
+        {
+          "genre": "techstep",
+          "play_count": 64,
+          "avg_min": 4.738545572916666
+        },
+        {
+          "genre": "breakbeat hardcore",
+          "play_count": 204,
+          "avg_min": 4.680109313725483
+        },
+        {
+          "genre": "ambient techno",
+          "play_count": 145,
+          "avg_min": 4.666721149425284
+        },
+        {
+          "genre": "dub",
+          "play_count": 148,
+          "avg_min": 4.591152590090083
+        },
+        {
+          "genre": "electronica",
+          "play_count": 49,
+          "avg_min": 4.543666326530616
+        },
+        {
+          "genre": "rave",
+          "play_count": 106,
+          "avg_min": 4.512868553459117
+        },
+        {
+          "genre": "happy hardcore",
+          "play_count": 49,
+          "avg_min": 4.397467687074833
+        },
+        {
+          "genre": "future funk",
+          "play_count": 28,
+          "avg_min": 4.11805654761905
+        },
+        {
+          "genre": "breakbeat",
+          "play_count": 257,
+          "avg_min": 4.041405382619966
+        },
+        {
+          "genre": "ambient",
+          "play_count": 305,
+          "avg_min": 3.8982093989071
+        }
+      ]
+    },
+    "alltime": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "ambient dub",
+          "play_count": 25,
+          "avg_min": 5.984622666666666
+        },
+        {
+          "genre": "darkcore",
+          "play_count": 33,
+          "avg_min": 4.882095959595958
+        },
+        {
+          "genre": "deep techno",
+          "play_count": 40,
+          "avg_min": 4.759420000000006
+        },
+        {
+          "genre": "autonomic",
+          "play_count": 29,
+          "avg_min": 4.629932183908046
+        },
+        {
+          "genre": "dub techno",
+          "play_count": 706,
+          "avg_min": 4.2424472143531675
+        },
+        {
+          "genre": "breakbeat hardcore",
+          "play_count": 369,
+          "avg_min": 4.20129141824751
+        },
+        {
+          "genre": "detroit techno",
+          "play_count": 118,
+          "avg_min": 4.159997316384184
+        },
+        {
+          "genre": "mood music",
+          "play_count": 35,
+          "avg_min": 4.118792857142856
+        },
+        {
+          "genre": "jazzstep",
+          "play_count": 843,
+          "avg_min": 4.032884242783705
+        },
+        {
+          "genre": "deep tech",
+          "play_count": 58,
+          "avg_min": 3.7541494252873537
+        },
+        {
+          "genre": "techstep",
+          "play_count": 276,
+          "avg_min": 3.6570702898550707
+        },
+        {
+          "genre": "rave",
+          "play_count": 276,
+          "avg_min": 3.6540004830917856
+        },
+        {
+          "genre": "electronic punk",
+          "play_count": 34,
+          "avg_min": 3.3988382352941224
+        },
+        {
+          "genre": "liquid funk",
+          "play_count": 14721,
+          "avg_min": 3.266261176776941
+        },
+        {
+          "genre": "chamber jazz",
+          "play_count": 99,
+          "avg_min": 3.248621885521885
+        },
+        {
+          "genre": "drum and bass",
+          "play_count": 21575,
+          "avg_min": 3.2105586612591717
+        },
+        {
+          "genre": "minimal techno",
+          "play_count": 602,
+          "avg_min": 3.2084493909191574
+        },
+        {
+          "genre": "dub",
+          "play_count": 454,
+          "avg_min": 3.178714133627015
+        },
+        {
+          "genre": "jungle",
+          "play_count": 14082,
+          "avg_min": 3.0657457120200724
+        },
+        {
+          "genre": "jazz fusion",
+          "play_count": 3911,
+          "avg_min": 3.010294702974517
+        }
+      ]
+    },
+    "2024": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "electro",
+          "play_count": 40,
+          "avg_min": 5.54459125
+        },
+        {
+          "genre": "trance",
+          "play_count": 58,
+          "avg_min": 5.506869827586201
+        },
+        {
+          "genre": "dub techno",
+          "play_count": 344,
+          "avg_min": 5.36072165697675
+        },
+        {
+          "genre": "detroit techno",
+          "play_count": 41,
+          "avg_min": 4.881500406504067
+        },
+        {
+          "genre": "acid techno",
+          "play_count": 37,
+          "avg_min": 4.692875675675683
+        },
+        {
+          "genre": "minimal techno",
+          "play_count": 210,
+          "avg_min": 4.2496949206349175
+        },
+        {
+          "genre": "ambient techno",
+          "play_count": 252,
+          "avg_min": 4.2426955026455
+        },
+        {
+          "genre": "techno",
+          "play_count": 368,
+          "avg_min": 4.191845335144934
+        },
+        {
+          "genre": "deep house",
+          "play_count": 159,
+          "avg_min": 4.126454507337534
+        },
+        {
+          "genre": "rave",
+          "play_count": 61,
+          "avg_min": 4.116974316939883
+        },
+        {
+          "genre": "tech house",
+          "play_count": 35,
+          "avg_min": 4.103161428571433
+        },
+        {
+          "genre": "uk bass",
+          "play_count": 50,
+          "avg_min": 3.878338
+        },
+        {
+          "genre": "jazzstep",
+          "play_count": 339,
+          "avg_min": 3.4852475909537834
+        },
+        {
+          "genre": "liquid funk",
+          "play_count": 4920,
+          "avg_min": 3.4452137161246665
+        },
+        {
+          "genre": "techstep",
+          "play_count": 124,
+          "avg_min": 3.4315241935483836
+        },
+        {
+          "genre": "drum and bass",
+          "play_count": 7372,
+          "avg_min": 3.298384963374933
+        },
+        {
+          "genre": "progressive house",
+          "play_count": 54,
+          "avg_min": 3.2497280864197493
+        },
+        {
+          "genre": "jungle",
+          "play_count": 4771,
+          "avg_min": 3.2275870222874334
+        },
+        {
+          "genre": "breakbeat hardcore",
+          "play_count": 89,
+          "avg_min": 3.1505074906367
+        },
+        {
+          "genre": "jazz fusion",
+          "play_count": 1481,
+          "avg_min": 3.0474841886113
+        }
+      ]
+    }
+  },
+  "Alan": {
+    "2025": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "rockabilly",
+          "play_count": 44,
+          "avg_min": 2.98794015151515
+        },
+        {
+          "genre": "punk rock",
+          "play_count": 60,
+          "avg_min": 2.95229444444445
+        },
+        {
+          "genre": "grunge",
+          "play_count": 60,
+          "avg_min": 2.95229444444445
+        },
+        {
+          "genre": "dance punk",
+          "play_count": 159,
+          "avg_min": 2.4958158280922498
+        },
+        {
+          "genre": "lo fi hip hop",
+          "play_count": 67,
+          "avg_min": 2.4918114427860667
+        },
+        {
+          "genre": "dark wave",
+          "play_count": 78,
+          "avg_min": 2.4892344017094
+        },
+        {
+          "genre": "liquid funk",
+          "play_count": 127,
+          "avg_min": 2.4513255905511833
+        },
+        {
+          "genre": "digicore",
+          "play_count": 405,
+          "avg_min": 2.41187802469135
+        },
+        {
+          "genre": "electronic rock",
+          "play_count": 253,
+          "avg_min": 2.407631093544133
+        },
+        {
+          "genre": "midwest emo",
+          "play_count": 389,
+          "avg_min": 2.4057764353041997
+        },
+        {
+          "genre": "blues",
+          "play_count": 214,
+          "avg_min": 2.3896194704049836
+        },
+        {
+          "genre": "downtempo",
+          "play_count": 58,
+          "avg_min": 2.362817528735633
+        },
+        {
+          "genre": "new jack swing",
+          "play_count": 74,
+          "avg_min": 2.34467905405405
+        },
+        {
+          "genre": "country pop",
+          "play_count": 78,
+          "avg_min": 2.3293433760683833
+        },
+        {
+          "genre": "pop soul",
+          "play_count": 796,
+          "avg_min": 2.3055873743718664
+        },
+        {
+          "genre": "vocal jazz",
+          "play_count": 159,
+          "avg_min": 2.25937672955975
+        },
+        {
+          "genre": "indietronica",
+          "play_count": 283,
+          "avg_min": 2.2010557126030665
+        },
+        {
+          "genre": "drum and bass",
+          "play_count": 175,
+          "avg_min": 2.198900190476183
+        },
+        {
+          "genre": "gospel",
+          "play_count": 363,
+          "avg_min": 2.15681152433425
+        },
+        {
+          "genre": "stoner rock",
+          "play_count": 286,
+          "avg_min": 2.1567733682983667
+        }
+      ]
+    },
+    "alltime": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "dance rock",
+          "play_count": 26,
+          "avg_min": 2.917882692307692
+        },
+        {
+          "genre": "rockabilly",
+          "play_count": 51,
+          "avg_min": 2.7864957516339857
+        },
+        {
+          "genre": "liquid funk",
+          "play_count": 275,
+          "avg_min": 2.514431575757578
+        },
+        {
+          "genre": "digicore",
+          "play_count": 457,
+          "avg_min": 2.4360377826404016
+        },
+        {
+          "genre": "roots rock",
+          "play_count": 111,
+          "avg_min": 2.413137237237233
+        },
+        {
+          "genre": "midwest emo",
+          "play_count": 448,
+          "avg_min": 2.4016953869047626
+        },
+        {
+          "genre": "dark wave",
+          "play_count": 169,
+          "avg_min": 2.369546252465482
+        },
+        {
+          "genre": "dance punk",
+          "play_count": 183,
+          "avg_min": 2.3544361566484575
+        },
+        {
+          "genre": "country rock",
+          "play_count": 117,
+          "avg_min": 2.3144111111111103
+        },
+        {
+          "genre": "rap rock",
+          "play_count": 119,
+          "avg_min": 2.277145378151265
+        },
+        {
+          "genre": "pop soul",
+          "play_count": 1580,
+          "avg_min": 2.249051613924052
+        },
+        {
+          "genre": "alternative country",
+          "play_count": 25,
+          "avg_min": 2.20167666666667
+        },
+        {
+          "genre": "soft pop",
+          "play_count": 59,
+          "avg_min": 2.1430644067796614
+        },
+        {
+          "genre": "drum and bass",
+          "play_count": 430,
+          "avg_min": 2.108955077519375
+        },
+        {
+          "genre": "chillhop",
+          "play_count": 48,
+          "avg_min": 2.077164236111117
+        },
+        {
+          "genre": "vocal jazz",
+          "play_count": 516,
+          "avg_min": 2.07137332041344
+        },
+        {
+          "genre": "blues",
+          "play_count": 652,
+          "avg_min": 2.068467816973412
+        },
+        {
+          "genre": "chillout",
+          "play_count": 38,
+          "avg_min": 2.024798684210525
+        },
+        {
+          "genre": "electronic rock",
+          "play_count": 558,
+          "avg_min": 2.0184231780167234
+        },
+        {
+          "genre": "new jack swing",
+          "play_count": 500,
+          "avg_min": 1.9863424666666694
+        }
+      ]
+    },
+    "2024": {
+      "top_n": 20,
+      "genres": [
+        {
+          "genre": "pop reggae",
+          "play_count": 26,
+          "avg_min": 3.117458974358967
+        },
+        {
+          "genre": "roots rock",
+          "play_count": 68,
+          "avg_min": 2.7132433823529336
+        },
+        {
+          "genre": "country rock",
+          "play_count": 69,
+          "avg_min": 2.6749809178744
+        },
+        {
+          "genre": "rap rock",
+          "play_count": 101,
+          "avg_min": 2.5688478547854836
+        },
+        {
+          "genre": "afro jazz",
+          "play_count": 25,
+          "avg_min": 2.5068293333333336
+        },
+        {
+          "genre": "new age",
+          "play_count": 62,
+          "avg_min": 2.4442610215053837
+        },
+        {
+          "genre": "pop soul",
+          "play_count": 518,
+          "avg_min": 2.424423037323033
+        },
+        {
+          "genre": "dark wave",
+          "play_count": 29,
+          "avg_min": 2.3243396551724165
+        },
+        {
+          "genre": "j pop",
+          "play_count": 227,
+          "avg_min": 2.1944291483113
+        },
+        {
+          "genre": "nerdcore",
+          "play_count": 35,
+          "avg_min": 2.1710980952381003
+        },
+        {
+          "genre": "chillhop",
+          "play_count": 43,
+          "avg_min": 2.159736821705433
+        },
+        {
+          "genre": "sophisti pop",
+          "play_count": 280,
+          "avg_min": 2.1181392857142836
+        },
+        {
+          "genre": "anime",
+          "play_count": 35,
+          "avg_min": 2.08706
+        },
+        {
+          "genre": "quiet storm",
+          "play_count": 297,
+          "avg_min": 2.0563199775533167
+        },
+        {
+          "genre": "j rock",
+          "play_count": 48,
+          "avg_min": 2.052162152777784
+        },
+        {
+          "genre": "detroit hip hop",
+          "play_count": 42,
+          "avg_min": 2.0507670634920667
+        },
+        {
+          "genre": "smooth soul",
+          "play_count": 294,
+          "avg_min": 2.039755782312933
+        },
+        {
+          "genre": "bebop",
+          "play_count": 173,
+          "avg_min": 2.0014112716762997
+        },
+        {
+          "genre": "blues",
+          "play_count": 318,
+          "avg_min": 1.9829175052410835
+        },
+        {
+          "genre": "hard bop",
+          "play_count": 179,
+          "avg_min": 1.9611009310987
+        }
+      ]
+    }
+  }
 }
