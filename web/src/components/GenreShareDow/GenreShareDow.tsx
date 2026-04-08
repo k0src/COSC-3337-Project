@@ -102,7 +102,7 @@ export default function GenreShareDow({ mainUser }: GenreShareDowProps) {
     <div className={styles.section}>
       <div className={styles.toolbar}>
         <h2 className={styles.toolbarTitle} style={{ color: mainUserColor }}>
-          Genre Share by Day
+          Genre Share by Day of Week
         </h2>
         <TimePeriodSelector value={period} onChange={setPeriod} />
       </div>

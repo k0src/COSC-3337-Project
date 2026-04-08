@@ -11,6 +11,7 @@ import {
   GenreAvgChart,
   GenreShareDow,
   SessionOpeningArtist,
+  ArtistTransitionMatrix,
 } from "@components";
 import { USERNAME_TO_DISPLAY } from "@types";
 import type { Username, DisplayName } from "@types";
@@ -49,6 +50,7 @@ export default function UserDashboard() {
         </div>
         <div className={styles.halfGrid}>
           <SessionOpeningArtist mainUser={displayName} />
+          <ArtistTransitionMatrix mainUser={displayName} />
         </div>
       </div>
     </>

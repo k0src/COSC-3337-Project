@@ -14,3 +14,4 @@ export { default as ArtistDiversityChart } from "./ArtistDiversityChart/ArtistDi
 export { default as GenreAvgChart } from "./GenreAvgChart/GenreAvgChart";
 export { default as GenreShareDow } from "./GenreShareDow/GenreShareDow";
 export { default as SessionOpeningArtist } from "./SessionOpeningArtist/SessionOpeningArtist";
+export { default as ArtistTransitionMatrix } from "./ArtistTransitionMatrix/ArtistTransitionMatrix";
