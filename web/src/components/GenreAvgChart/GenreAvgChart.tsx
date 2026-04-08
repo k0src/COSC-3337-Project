@@ -94,7 +94,9 @@ export default function GenreAvgChart({ mainUser }: GenreAvgChartProps) {
               <YAxis
                 type="category"
                 dataKey="label"
-                width={110}
+                width={
+                  Math.max(...chartData.map((r) => r.label.length)) * 7 + 8
+                }
                 fontSize={11}
                 tick={{ fill: "var(--color-text-muted)" }}
                 axisLine={false}

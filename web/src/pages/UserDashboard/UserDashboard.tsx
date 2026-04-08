@@ -47,7 +47,9 @@ export default function UserDashboard() {
           <GenreShareDow mainUser={displayName} />
           <ListeningClock mainUser={displayName} />
         </div>
-        <SessionOpeningArtist mainUser={displayName} />
+        <div className={styles.halfGrid}>
+          <SessionOpeningArtist mainUser={displayName} />
+        </div>
       </div>
     </>
   );
