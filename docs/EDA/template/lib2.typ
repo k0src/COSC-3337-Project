@@ -3,6 +3,15 @@
 #import "@preview/glossarium:0.5.10": gls, glspl, make-glossary, print-glossary, register-glossary
 #import "@preview/fontawesome:0.6.0": *
 
+// Typsidian - Template for Typst for Obsidian plugin: https://github.com/k0src/Typst-for-Obsidian
+// Required fonts: Fira Sans, Fira Code, Fira Math, Fontawesome Font (for icons)
+// https://fonts.google.com/specimen/Fira+Sans
+// https://fonts.google.com/specimen/Fira+Code
+// https://github.com/firamath/firamath/releases/
+// https://fontawesome.com/download
+//
+// by: https://github.com/k0src
+
 // STATE
 
 #let in-box = state("in-box", false)
@@ -165,7 +174,7 @@
     main: (
       font: "Fira Sans",
       weight: "regular",
-      size: 9pt,
+      size: 9.2pt,
     ),
     mono: (
       font: "Fira Code",
@@ -501,7 +510,7 @@
   )
   set table(
     fill: (_, y) => if calc.odd(y) { colors.box-colors.bg },
-    stroke: 0.5pt + black,
+    stroke: 0.5pt + colors.text-colors.main
   )
 
   // Code blocks
@@ -525,14 +534,14 @@
     paper: "us-letter",
     columns: 1,
     fill: colors.bg,
-    margin: (top: 6.5em, right: 5em, bottom: 6em, left: 5em),
+    margin: (top: 7.5em, right: 5em, bottom: 7em, left: 5em),
     header: context {
       if counter(page).get().first() > 1 {
         let h1s = query(selector(heading.where(level: 1)).before(here()))
         let heading-text = if h1s.len() > 0 and h1s.last().body != none {
           let body-str = h1s.last().body
           if body-str != [] and body-str != "" {
-            [#sym.dash.em #body-str]
+            [-- #body-str]
           } else {
             []
           }
@@ -605,6 +614,89 @@
 
 // MACROS
 
+// Heatmap table
+#let color-lerp(c1, c2, t) = {
+  let a = rgb(c1.to-hex()).components()
+  let b = rgb(c2.to-hex()).components()
+  rgb(
+    a.at(0) + (b.at(0) - a.at(0)) * t,
+    a.at(1) + (b.at(1) - a.at(1)) * t,
+    a.at(2) + (b.at(2) - a.at(2)) * t,
+  )
+}
+
+#let heatmap(
+  data,
+  col-headers: (),
+  row-headers: (),
+  colors: (white, black),
+  scale: none,
+) = {
+  let norm = c => if type(c) == dictionary {
+    (value: float(c.value), display: c.display)
+  } else if type(c) == int {
+    (value: float(c), display: [#c])
+  } else if type(c) == float {
+    (value: c, display: [#c])
+  } else {
+    panic("heatmap cell must be an int, float, or (value: number, display: content) dict. Got: " + repr(type(c)) + " — value: " + repr(c))
+  }
+
+  let has-col-headers = col-headers.len() > 0
+  let has-row-headers = row-headers.len() > 0
+  let x-offset = if has-row-headers { 1 } else { 0 }
+  let y-offset = if has-col-headers { 1 } else { 0 }
+
+  let normed = data.map(row => row.map(norm))
+  let nums = normed.flatten().map(c => c.value)
+  let lo   = if scale != none { float(scale.at(0)) } else { calc.min(..nums) }
+  let hi   = if scale != none { float(scale.at(1)) } else { calc.max(..nums) }
+  let span = hi - lo
+
+  let fill-map = (:)
+  for (i, row) in normed.enumerate() {
+    for (j, cell) in row.enumerate() {
+      let t = if span == 0 { 0.5 } else { (cell.value - lo) / span }
+      let t = calc.clamp(t, 0.0, 1.0) 
+      fill-map.insert(
+        str(j + x-offset) + "," + str(i + y-offset),
+        color-lerp(colors.at(0), colors.at(1), t)
+      )
+    }
+  }
+
+  let cells = ()
+  if has-col-headers {
+    if has-row-headers { cells.push([]) }  
+    for h in col-headers { cells.push(h) }
+  }
+  for (i, row) in normed.enumerate() {
+    if has-row-headers { cells.push(row-headers.at(i)) }
+    for cell in row { cells.push(cell.display) }
+  }
+
+  let ncols = data.at(0).len() + x-offset
+
+  show table.cell: it => {
+    let key = str(it.x) + "," + str(it.y)
+    if key in fill-map {
+      let comps     = rgb(fill-map.at(key).to-hex()).components()
+      let perceived = (comps.at(0) + comps.at(1) + comps.at(2)) / 3
+      set text(fill: if perceived < 50% { white } else { black })
+      it
+    } else {
+      it
+    }
+  }
+
+  table(
+    columns: ncols,
+    align: center + horizon,
+    fill: (x, y) => fill-map.at(str(x) + "," + str(y), default: none),
+    ..cells,
+  )
+}
+
 // Inline code
 #let c(code, lang: "text") = context {
   let colors = _colors.get()
@@ -649,8 +741,8 @@
             stroke: 0.1em + colors.heading-colors.at("1", default: black),
           )
         ]
-        #v(1em)
         #if show-outline [
+          #v(1em)
           #outline(title: none, depth: outline-depth)
         ]
       ],
@@ -678,7 +770,7 @@
           fill: colors.heading-colors.at("1", default: black).lighten(10%),
           size: 1.1em,
           weight: "regular",
-          [COSC 3337 -- Data Science I],
+          [#date],
         ))
         #if show-author [
           #block([#text(

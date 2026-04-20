@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(julia -e ' *)",
+      "Bash(julia --startup-file=no -e ' *)",
+      "Bash(julia --startup-file=no -e \"using Pkg; println.\\(keys\\(Pkg.project\\(\\).dependencies\\)\\)\")",
+      "Bash(npm install *)",
+      "Bash(npx tsx *)",
+      "Bash(pkill -f \"tsx server/index.ts\")",
+      "Bash(pkill -f \"node.*recommender\")",
+      "Bash(netstat -ano)",
+      "Bash(findstr :3001)",
+      "Bash(findstr LISTENING)",
+      "mcp__Desktop_Commander__kill_process"
+    ]
+  }
+}

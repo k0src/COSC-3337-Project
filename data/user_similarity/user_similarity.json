@@ -1,0 +1,159 @@
+{
+    "final_similarity": {
+        "Alan_Alexandra": 0.5112288175936575,
+        "Anthony_Koren": 0.7926197808400794,
+        "Alan_Anthony": 0.8236478780154745,
+        "Alexandra_Koren": 0.5104591057009167,
+        "Alexandra_Anthony": 0.4567130896944007,
+        "Alan_Koren": 0.740548505530212
+    },
+    "most_similar": "Alan — Anthony (0.8236)",
+    "weights": {
+        "session": 0.1,
+        "audio": 0.1,
+        "genre": 0.2,
+        "interaction": 0.1,
+        "artist": 0.25,
+        "distribution": 0.1,
+        "temporal": 0.15
+    },
+    "components": {
+        "artist_soft_cosine": {
+            "Alan_Alexandra": 0.14380894982572004,
+            "Anthony_Koren": 0.7030055131439081,
+            "Alan_Anthony": 0.8253130741906782,
+            "Alexandra_Koren": 0.07135240861444282,
+            "Alexandra_Anthony": 0.05179337118483392,
+            "Alan_Koren": 0.584230438134198
+        },
+        "distribution": {
+            "Alan_Alexandra": 0.9399455871585964,
+            "Anthony_Koren": 0.9321698859600749,
+            "Alan_Anthony": 0.9679605274597748,
+            "Alexandra_Koren": 0.9601848262612531,
+            "Alexandra_Anthony": 0.9719850596988218,
+            "Alan_Koren": 0.9001304134198498
+        },
+        "top_artist_share": {
+            "Alan_Alexandra": 0.9695486388951984,
+            "Anthony_Koren": 0.9382234568635913,
+            "Alan_Anthony": 0.9963862359425933,
+            "Alexandra_Koren": 0.9650610539109862,
+            "Alexandra_Anthony": 0.973162402952605,
+            "Alan_Koren": 0.9346096928061847
+        },
+        "audio": {
+            "Alan_Alexandra": 0.9699336964304698,
+            "Anthony_Koren": 0.8993479449473811,
+            "Alan_Anthony": 0.95042171734916,
+            "Alexandra_Koren": 0.8972789737751906,
+            "Alexandra_Anthony": 0.9104382309180451,
+            "Alan_Koren": 0.9164611012158698
+        },
+        "artist_jaccard_top50": {
+            "Alan_Alexandra": 0.010101010101010102,
+            "Anthony_Koren": 0.19047619047619047,
+            "Alan_Anthony": 0.3157894736842105,
+            "Alexandra_Koren": 0,
+            "Alexandra_Anthony": 0,
+            "Alan_Koren": 0.19047619047619047
+        },
+        "temporal_monthly": {
+            "Alan_Alexandra": 0.9924154592228065,
+            "Anthony_Koren": 0.9368537075186307,
+            "Alan_Anthony": 0.9317508866945635,
+            "Alexandra_Koren": 0.9836680124776854,
+            "Alexandra_Anthony": 0.951126240650858,
+            "Alan_Koren": 0.9779457940515993
+        },
+        "artist_entropy": {
+            "Alan_Alexandra": 0.9103425354219946,
+            "Anthony_Koren": 0.9261163150565586,
+            "Alan_Anthony": 0.9395348189769562,
+            "Alexandra_Koren": 0.9553085986115202,
+            "Alexandra_Anthony": 0.9708077164450384,
+            "Alan_Koren": 0.8656511340335148
+        },
+        "session": {
+            "Alan_Alexandra": 0.3304124787009853,
+            "Anthony_Koren": 0.4572573300045643,
+            "Alan_Anthony": 0.35412449200591734,
+            "Alexandra_Koren": 0.6466363512318798,
+            "Alexandra_Anthony": 0.20233466456681598,
+            "Alan_Koren": 0.19708887388933016
+        },
+        "genre": {
+            "Alan_Alexandra": 0.19595135050994217,
+            "Anthony_Koren": 0.9125344985467589,
+            "Alan_Anthony": 0.9457652370772504,
+            "Alexandra_Koren": 0.1508552818511954,
+            "Alexandra_Anthony": 0.15400654716853449,
+            "Alan_Koren": 0.8612088565812275
+        },
+        "interaction": {
+            "Alan_Alexandra": 0.7792085763600045,
+            "Anthony_Koren": 0.9104661736888665,
+            "Alan_Anthony": 0.9116245833064276,
+            "Alexandra_Koren": 0.7803669859775655,
+            "Alexandra_Anthony": 0.6908331596664321,
+            "Alan_Koren": 0.983604220483946
+        },
+        "artist": {
+            "Alan_Alexandra": 0.11706736188077806,
+            "Anthony_Koren": 0.6004996486103646,
+            "Alan_Anthony": 0.7234083540893848,
+            "Alexandra_Koren": 0.05708192689155426,
+            "Alexandra_Anthony": 0.04143469694786714,
+            "Alan_Koren": 0.5054795886025965
+        },
+        "skip_rate": {
+            "Alan_Alexandra": 0.8574840787886611,
+            "Anthony_Koren": 0.934122412544584,
+            "Alan_Anthony": 0.918885042646091,
+            "Alexandra_Koren": 0.842246708890168,
+            "Alexandra_Anthony": 0.776369121434752,
+            "Alan_Koren": 0.984762630101507
+        },
+        "shuffle_rate": {
+            "Alan_Alexandra": 0.7009330739313481,
+            "Anthony_Koren": 0.8868099348331491,
+            "Alan_Anthony": 0.904364123966764,
+            "Alexandra_Koren": 0.718487263064963,
+            "Alexandra_Anthony": 0.6052971978981121,
+            "Alan_Koren": 0.982445810866385
+        },
+        "plays_per_track": {
+            "Alan_Alexandra": 0.42838666126600494,
+            "Anthony_Koren": 0.7686202135386893,
+            "Alan_Anthony": 0.11420380567533948,
+            "Alexandra_Koren": 0.34684292106493264,
+            "Alexandra_Anthony": 0.2665904800533112,
+            "Alan_Koren": 0.148582880938755
+        },
+        "temporal_hourly": {
+            "Alan_Alexandra": 0.9030749511455615,
+            "Anthony_Koren": 0.9316957007436671,
+            "Alan_Anthony": 0.8813839651541826,
+            "Alexandra_Koren": 0.8727863681615445,
+            "Alexandra_Anthony": 0.8991824455518228,
+            "Alan_Koren": 0.9281292057702438
+        },
+        "session_length": {
+            "Alan_Alexandra": 0.23243829613596562,
+            "Anthony_Koren": 0.14589444647043937,
+            "Alan_Anthony": 0.5940451783364952,
+            "Alexandra_Koren": 0.946429781398827,
+            "Alexandra_Anthony": 0.13807884908032078,
+            "Alan_Koren": 0.24559486683990533
+        },
+        "temporal": {
+            "Alan_Alexandra": 0.9388111543764595,
+            "Anthony_Koren": 0.9337589034536526,
+            "Alan_Anthony": 0.9015307337703349,
+            "Alexandra_Koren": 0.9171390258880008,
+            "Alexandra_Anthony": 0.9199599635914368,
+            "Alan_Koren": 0.948055841082786
+        }
+    },
+    "least_similar": "Alexandra — Anthony (0.4567)"
+}
