@@ -17,3 +17,4 @@ export { default as SessionOpeningArtist } from "./SessionOpeningArtist/SessionO
 export { default as ArtistTransitionMatrix } from "./ArtistTransitionMatrix/ArtistTransitionMatrix";
 export { default as GenreTransitionMatrix } from "./GenreTransitionMatrix/GenreTransitionMatrix";
 export { default as GenreSessionOpening } from "./GenreSessionOpening/GenreSessionOpening";
+export { default as GenreFirstAppearance } from "./GenreFirstAppearance/GenreFirstAppearance";
